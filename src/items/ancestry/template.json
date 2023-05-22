@@ -1,0 +1,9 @@
+{
+  "Item": {   
+      "ancestry": {
+          "templates": ["has_description"],
+          "questions": {},
+          "mark": null
+      }
+  }
+}

@@ -4,6 +4,7 @@
             "templates": ["resistance", "skills", "domains"],
             "class": "",
             "calling": "",
+            "ancestry": "",
             "active_beats": [],
             "equipment": [],
             "resources": [],

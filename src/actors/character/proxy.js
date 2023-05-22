@@ -19,8 +19,8 @@ export default {
                 }
 
                 if (name === 'ancestry') {
-                    const ancestry_ = actor.items.find(x => x.type === 'ancestry');
-                    return ancestry_;
+                    const ancestry = actor.items.find(x => x.type === 'ancestry');
+                    return ancestry;
                 }
 
                 if (name === 'beats') {

@@ -191,7 +191,6 @@ function writeFiles(compiler) {
     function parseAncestries(ancestries) {
         return Object.entries(ancestries).map(([key, data]) => {
             data = data || {};
-            console.log(`Pattttt: ${key}`)
             return {
                 _id: randomID(),
                 name: `ancestry.${key}.group_name`,

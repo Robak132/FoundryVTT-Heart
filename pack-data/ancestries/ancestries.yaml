@@ -1,6 +1,7 @@
 drow:
   name: ancestry.drow.name
   description: ancestry.drow.description
+  group_name: ancestry.drow.group_name
   singular: ancestry.drow.singular
   questions:
     - "ancestry.drow.questions.0"
@@ -8,8 +9,9 @@ drow:
     - "ancestry.drow.questions.2"
 humans:
   name: ancestry.humans.name
-  singular: ancestry.humans.singular
   description: ancestry.humans.description
+  group_name: ancestry.humans.group_name
+  singular: ancestry.humans.singular
   questions:
     - "ancestry.humans.questions.0"
     - "ancestry.humans.questions.1"
@@ -17,6 +19,7 @@ humans:
 aelfir:
   name: ancestry.aelfir.name
   description: ancestry.aelfir.description
+  group_name: ancestry.aelfir.group_name
   singular: ancestry.aelfir.singular
   questions:
     - "ancestry.aelfir.questions.0"

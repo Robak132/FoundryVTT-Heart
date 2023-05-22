@@ -1,0 +1,11 @@
+{
+  "ancestry": {
+      "label-single": "Ancestry",
+      "label-multiple": "Ancestries",
+      "questions": {
+          "prompt": "When you create your character, answer these questions:",
+          "add": "Add Question",
+          "delete": "Delete"
+      }
+  }
+}
