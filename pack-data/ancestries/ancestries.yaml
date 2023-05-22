@@ -1,0 +1,32 @@
+drow:
+  name: ancestry.drow.name
+  description: ancestry.drow.description
+  singular: ancestry.drow.singular
+  questions:
+    - "ancestry.drow.questions.0"
+    - "ancestry.drow.questions.1"
+    - "ancestry.drow.questions.2"
+humans:
+  name: ancestry.humans.name
+  singular: ancestry.humans.singular
+  description: ancestry.humans.description
+  questions:
+    - "ancestry.humans.questions.0"
+    - "ancestry.humans.questions.1"
+    - "ancestry.humans.questions.2"
+aelfir:
+  name: ancestry.aelfir.name
+  description: ancestry.aelfir.description
+  singular: ancestry.aelfir.singular
+  questions:
+    - "ancestry.aelfir.questions.0"
+    - "ancestry.aelfir.questions.1"
+    - "ancestry.aelfir.questions.2"
+# gnolls:
+#   name: ancestry.gnolls.name
+#   description: ancestry.gnolls.description
+#   singular: ancestry.gnolls.singular
+#   questions:
+#     - "ancestry.human.questions.0"
+#     - "ancestry.human.questions.1"
+#     - "ancestry.human.questions.2"

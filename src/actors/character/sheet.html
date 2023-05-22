@@ -69,7 +69,20 @@
                     </div>
                 </div>
                 {{else}}
-                <input name="system.class" value="{{actor.system.class}}"/>
+                <input name="system.ancestry" value="{{actor.system.ancestry}}"/>
+                {{/if}}
+                {{#if ancestryItem}}
+                <div data-item-id="{{ancestryItem.uuid}}" class="flexrow class item">
+                    <div class="name">{{localizeHeart ancestryItem.name}}</div>
+                    <div class="right">
+                        <a data-action="view" title="{{localizeHeart 'base' 'view'}}"><span class="fas fa-eye"></span></a>
+                        {{#if ancestryItem.isOwner}}
+                        <a data-action="delete" title="{{localizeHeart 'base' 'delete'}}"><span class="fas fa-trash"></span></a>
+                        {{/if}}
+                    </div>
+                </div>
+                {{else}}
+                <input name="system.ancestry" value="{{actor.system.ancestry}}"/>
                 {{/if}}
                 <h2>{{localizeHeart "character" "calling"}}</h2>
                 {{#if callingItem}}

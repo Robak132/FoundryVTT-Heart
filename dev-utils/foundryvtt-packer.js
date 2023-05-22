@@ -191,6 +191,7 @@ function writeFiles(compiler) {
     function parseAncestries(ancestries) {
         return Object.entries(ancestries).map(([key, data]) => {
             data = data || {};
+            console.log(`Pattttt: ${key}`)
             return {
                 _id: randomID(),
                 name: `ancestry.${key}.group_name`,
@@ -221,7 +222,7 @@ function writeFiles(compiler) {
     };
 
     return function (compilation) {
-        for (const type of ['callings', 'tags', 'classes', 'fallouts']) {
+        for (const type of ['callings', 'tags', 'classes', 'fallouts', 'ancestries']) {
             const fullpath = path.join(this.packDataPath, type, type + ".yaml")
             const file = fs.readFileSync(fullpath, 'utf8');
             const data = yaml.parse(file);
