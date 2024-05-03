@@ -1,0 +1,22 @@
+{
+  "_id": "hzdnvufp6s6x2w7e",
+  "name": "ancestry.aelfir.group_name",
+  "type": "ancestry",
+  "system": {
+    "description": "ancestry.aelfir.description",
+    "singular": "ancestry.aelfir.singular",
+    "questions": {
+      "0": {
+        "0": "ancestry.aelfir.questions.0"
+      },
+      "1": {
+        "1": "ancestry.aelfir.questions.1"
+      },
+      "2": {
+        "2": "ancestry.aelfir.questions.2"
+      }
+    }
+  },
+  "effects": [],
+  "_key": "!items!hzdnvufp6s6x2w7e"
+}

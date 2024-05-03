@@ -1,0 +1,22 @@
+{
+  "_id": "3nx3gyyb39lwd41p",
+  "name": "ancestry.drow.group_name",
+  "type": "ancestry",
+  "system": {
+    "description": "ancestry.drow.description",
+    "singular": "ancestry.drow.singular",
+    "questions": {
+      "0": {
+        "0": "ancestry.drow.questions.0"
+      },
+      "1": {
+        "1": "ancestry.drow.questions.1"
+      },
+      "2": {
+        "2": "ancestry.drow.questions.2"
+      }
+    }
+  },
+  "effects": [],
+  "_key": "!items!3nx3gyyb39lwd41p"
+}

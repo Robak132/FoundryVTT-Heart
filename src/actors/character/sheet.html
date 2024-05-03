@@ -18,7 +18,7 @@
         {{> (join "/" "heart:items" type "preview.html") item=item dataPath="???" hideInactive=../hideInactive showActivate=../showActivate showDelete=(or (not item.isChild) user.isGM )}}
     {{/each}}
     </div>
-    
+
     {{#if (and showTextboxesBelowItems description_path)}}
     {{editor (lookup actor.system description_path) target=(join "." "system" description_path) button=true editable=editable owner=owner}}
     {{/if}}
@@ -52,11 +52,25 @@
                 <div class="red" data-target='system.resistances.{{name}}.protection'>{{{ordered-checkable resistance.protection 5}}}</div>
             {{/each}}
         </div>
-        
+
         <div class="section info">
             <div class="grid-2 auto-first-col place-center">
                 <h2>{{localizeHeart "name"}}</h2>
                 <input name="name" value="{{actor.name}}"/>
+                <h2>{{localizeHeart "ancestry.single"}}</h2>
+                {{#if ancestryItem}}
+                <div data-item-id="{{ancestryItem.uuid}}" class="flexrow class item">
+                    <div class="name">{{localizeHeart ancestryItem.name}}</div>
+                    <div class="right">
+                        <a data-action="view" title="{{localizeHeart 'base' 'view'}}"><span class="fas fa-eye"></span></a>
+                        {{#if ancestryItem.isOwner}}
+                        <a data-action="delete" title="{{localizeHeart 'base' 'delete'}}"><span class="fas fa-trash"></span></a>
+                        {{/if}}
+                    </div>
+                </div>
+                {{else}}
+                <input name="system.ancestry" value="{{actor.system.ancestry}}"/>
+                {{/if}}
                 <h2>{{localizeHeart "class.single"}}</h2>
                 {{#if classItem}}
                 <div data-item-id="{{classItem.uuid}}" class="flexrow class item">
@@ -117,12 +131,12 @@
                 <input name="system.domains.{{name}}.knack" value="{{domain.knack}}"/>
             {{/each}}
         </div>
-        
+
         <div class="section center wide notes">
             <h3>{{localizeHeart "notes"}}</h3>
             {{editor actor.system.notes target="system.notes" button=true editable=editable owner=owner}}
         </div>
-        
+
         <div class="section center wide inactive-items">
             <h3>{{localizeHeart "inactive-items"}}</h3>
             <div>{{localizeHeart "inactive-items-description"}}</div>

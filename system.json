@@ -26,6 +26,14 @@
             "entity": "Item"
         },
         {
+            "name": "ancestries",
+            "label": "Ancestries",
+            "system": "heart",
+            "path": "./packs/ancestries.db",
+            "type": "Item",
+            "entity": "Item"
+        },
+        {
             "name": "callings",
             "label": "Callings",
             "system": "heart",

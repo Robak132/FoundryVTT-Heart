@@ -214,6 +214,33 @@
       "sneak": "Sneak"
     },
 
+    "ancestry": {
+      "drow": {
+        "name": "Drow",
+        "description": "Monochromatic elves with a strong sensitivity to sunlight. The land surrounding the Heart are predominantly populated by dark elves, including the towering city of Spire.",
+        "group_name": "Drows",
+        "question.0": "You were born in the City Above and served a durange - four years of indentured servitude - under the rule of the cruel aelfir. What were you forced to do?",
+        "question.1": "You were born in the City Beneath. Where does your family live, and who or what do they worship?",
+        "question.2": "You're a traveller from a distant land - the desert of Aliquam, the treacherous foothills of Nujab or the warrenous Home Nations. Where are you from, and why aren't you there anymore?"
+      },
+      "human": {
+        "name": "Human",
+        "description": "In this part of the world, humans have a reputation for digging into the ground to uncover ancient relics, and it’s not entirely inaccurate. They have emerged from their scattered island nations in the Eastern Kingdoms bearing retro-engineered technology, and are eager to sell it to the highest bidder.",
+        "group_name": "Humans",
+        "question.0": "You are from the Eastern Kingdoms. You came to Spire with nothing but the clothes on your back and a dream, looking for excitement and profit. What went wrong?",
+        "question.1": "You were kickedo out of a retro-engineering or magical college thanks to your unorthodox beliefs and practices. What did you do?",
+        "question.2": "You're third-generation Hearthborn, and not at all like the humans on the surface. What incorrect assumption do people most often make about you?"
+      },
+      "aelfir": {
+        "name": "Aelfir",
+        "description": "XXXIn this part of the world, humans have a reputation for digging into the ground to uncover ancient relics, and it’s not entirely inaccurate. They have emerged from their scattered island nations in the Eastern Kingdoms bearing retro-engineered technology, and are eager to sell it to the highest bidder.",
+        "group_name": "Aelfirs",
+        "question.0": "XXXYou are from the Eastern Kingdoms. You came to Spire with nothing but the clothes on your back and a dream, looking for excitement and profit. What went wrong?",
+        "question.1": "XXXYou were kickedo out of a retro-engineering or magical college thanks to your unorthodox beliefs and practices. What did you do?",
+        "question.2": "XXXYou're third-generation Hearthborn, and not at all like the humans on the surface. What incorrect assumption do people most often make about you?"
+      }
+    },
+
     "calling": {
       "multiple": "Callings",
       "single": "Calling",

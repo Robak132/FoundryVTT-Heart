@@ -25,6 +25,12 @@ export default class CharacterSheet extends HeartActorSheet {
                 });
             }
 
+            if(itemData.type === 'ancestry') {
+                this.actor.itemTypes.ancestry.forEach(item => {
+                    item.delete();
+                });
+            }
+
             itemData.system.active = true;
         }
 
@@ -45,9 +51,11 @@ export default class CharacterSheet extends HeartActorSheet {
         const data = super.getData();
         const callingItem = this.actor.proxy.calling;
         const classItem = this.actor.proxy.class;
+        const ancestryItem = this.actor.proxy.ancestry;
         data.user = game.user;
         data.callingItem = callingItem;
         data.classItem = classItem;
+        data.ancestryItem = ancestryItem;
         data.showTextboxesBelowItems = game.settings.get('heart', 'showTextboxesBelowItems');
         data.showTotalStress = game.settings.get('heart', 'showTotalStress');
         data.showStressInputBox = game.settings.get('heart', 'showStressInputBox');

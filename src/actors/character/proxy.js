@@ -18,6 +18,11 @@ export default {
                     return class_;
                 }
 
+                if (name === 'ancestry') {
+                    const ancestry = actor.items.find(x => x.type === 'ancestry');
+                    return ancestry;
+                }
+
                 if (name === 'beats') {
                     function isActiveBeat(beat) {
                         return beat.type === "beat" && beat.system.active && !beat.system.complete
