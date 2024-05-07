@@ -1187,24 +1187,24 @@
                 "name": "Vermisiański Rycerz",
                 "equipment": {
                     "pneumatic_hammer": "Młot pneumatyczny",
-                    "scrapsword": "Scrapsword",
+                    "scrapsword": "Miecz ze złomu",
                     "magelight_rig": "Magelight rig",
                     "steel_door_shield": "Tarcza ze stalowych drzwi"
                 },
                 "resource": {
-                    "spare_capacitors_and_wires": "Spare capacitors and wires"
+                    "spare_capacitors_and_wires": "Zapasowe kondensatory i przewody"
                 },
                 "ability": {
                     "core": {
-                        "vermissian_plate.name": "Vermissian Plate",
+                        "vermissian_plate.name": "Vermisiańska Płyta",
                         "vermissian_plate.description": "Your armour is made up of scavenged, barely-understood technology from the alternate realities inside the Vermissian network. Once per session, when you consume a resource with the Technology or Occult domains by augmenting or repairing your armour, roll the resource's dice and choose one of the following: <ul> <li>Remove stress marked against Blood, Mind or Echo equal to the amount rolled.</li> <li>Inflict stress on a delve or adversary equal to the amount rolled.</li> <li>(D8 resource or higher) Gain access to a skill or domain for the rest of the session.</li> <li>(D8 resource or higher) Increase your Blood protection by 1 for the rest of the situation.</li> </ul>"
                     },
                     "minor": {
                         "arcane_rebreather.name": "Arcane Rebreather",
                         "arcane_rebreather.description": "You possess a gas mask that filters out airborne infectants from the Heart. +2 Echo Protection.",
-                        "armour_plating.name": "Armour Plating",
+                        "armour_plating.name": "Opancerzenie",
                         "armour_plating.description": "Retro-engineered from train carriages, this trademark chest armour still bears the symbols of the rail networks that built the Vermissian. +2 Blood Protection.",
-                        "black_knight.name": "Black Knight",
+                        "black_knight.name": "Czarny Rycerz",
                         "black_knight.description": "You have spent time studying the forbidden arts with the sages of your order. Gain the Occult domain. Once per session, when you enter a landmark, you can intuit the location of an occult sect who are hiding information that will aid you in your quest.",
                         "knight_protector.name": "Knight Protector",
                         "knight_protector.description": "You are willing to kill and die to ensure that the Vermissian is safe. Gain the Kill skill. Once per situation, when an ally within arm's reach would mark stress to Blood, you mark an equivalent amount to Blood instead.",
@@ -1227,7 +1227,7 @@
                         "well_travelled.name": "Well Travelled",
                         "well_travelled.description": "Gain access to one of the following domains: Cursed, Desolate, Haven, Occult, Technology, Wild, Warren. You can take this advance more than once.",
                         "helixican_burst.name": "Helixican Burst",
-                        "helixican_burst.description": "When you activate AETHERIC FIELD, deal damage equal to your Echo protection to all adversaries standing nearby.",
+                        "helixican_burst.description": "Kiedy aktywujesz POLE ETERYCZNE, zadajesz obrażenia równe ochronie Echo wszystkim przeciwnikom stojącym w pobliżu.",
                         "recharge.name": "Recharge",
                         "recharge.description": "Once you've used AETHERIC FIELD, you can use it again by consuming a D6 or higher value resource with the Occult or Cursed tags.",
                         "anathema.name": "Anathema",
@@ -1258,8 +1258,8 @@
                         "keep_your_heads_down.description": "Whilst on a delve, any ally who can see or hear you while you give orders gains +1 Fortune protection."
                     },
                     "major": {
-                        "aetheric_field.name": "Aetheric Field",
-                        "aetheric_field.description": "Your armour buzzes with static that makes your hair stand on end; this discharge can keep you safe from the body-warping effects of the Vermissian. Once per session, activate this power. You gain +3 Echo protection until the end of the current situation.",
+                        "aetheric_field.name": "Pole Eteryczne",
+                        "aetheric_field.description": "Twój pancerz brzęczy od wyładowań elektrostatycznych, które sprawiają, że włosy stają dęba. Wyładowania może uchronić cię przed wypaczającymi efektami tuneli Vermis. Raz na sesję możesz zostać +3 ochrony Echa do końca sytuacji.",
                         "dragon_killer.name": "Dragon-killer",
                         "dragon_killer.description": "You have been entrusted with a greatblade from the order's vaults - an ancient weapon designed to slay the fiercest abominations within the Vermissian network. A greatblade has two profiles: one when used against human-sized targets (Kill D6, Tiring), and one when used against targets significantly larger than yourself (Kill D10, Tiring).",
                         "get_behind_me.name": "Get Behind Me",
