@@ -196,8 +196,8 @@
     },
 
     "skill": {
-      "skill.multiple": "Competencias",
-      "skill.single": "Competencia",
+      "multiple": "Competencias",
+      "single": "Competencia",
       "compel": "Convencer",
       "delve": "Explorar",
       "discern": "Discernir",

@@ -50,15 +50,12 @@
     "service.single": "Usługa",
     "special-rule.multiple": "Zasady specjalne",
     "special-rule.single": "Zasada specjalna",
-    "tag.multiple": "Tagi",
-    "tag.single": "Tag",
     "upgradeTrack.single": "Znacznik rozwoju",
     "zenith-ability.multiple": "Zdolności Zenitu",
     "zenith-ability.single": "Zdolność Zenitu",
     "zenith-beat.multiple": "Takty Zenitu",
     "zenith-beat.single": "Takt Zenitu",
-
-    "startup.title": "Heart - The City Beneath (v{VERSION})",
+    "startup.title": "Heart — The City Beneath (v{VERSION})",
     "startup.description": "<h1>Witamy w Heart v{VERSION}</h1><h2>Szybkie wprowadzenie</h2><p><b>Gracz</b>: Możesz wykonywać rzuty za pomocą prośby na czacie lub bezpośrednio z karty. Poproś swojego MG o klasę i powołanie, które będziesz mógł przeciągnąć do karty.</p><p><b>Mistrz Gry:</b> Za pomocą makra 'Przygotuj prośbę o rzut' możesz uławtić graczom rzut. Będziesz musiał ręcznie utworzyć klasy i powołania dla swoich graczy, ale powinno to być mniej lub bardziej intuicyjne.</p>",
     "clear-stress.title": "Wyczyść stres",
     "clear-stress.description": "Wybierz odporność, której chcesz ustawić 0 stresu",
@@ -72,7 +69,6 @@
     "prepare-stress-roll.description": "Wybierz Bohatera, wynik rzutu prowadzący do stresu, rozmiar kości i odporność, by dokonać rzutu na stres.",
     "take-stress.title": "Weź stres",
     "take-stress.description": "Wybierz odporność, dla której chcesz wziąć stres.",
-
     "total-stress": "Całkowity stres",
     "activate": "Aktywuj",
     "add": "Dodaj",
@@ -124,7 +120,6 @@
     "upgrade": "Ulepsz",
     "valid-helpers": "Bohaterowie, którzy mogą pomóc",
     "view": "Otwórz kartę",
-
     "stress": {
       "any": "Stresu",
       "blood": "Stresu Krwi",
@@ -133,25 +128,21 @@
       "fortune": "Stresu Szczęścia",
       "supplies": "Stresu Zapasów"
     },
-
     "beat-level": {
       "minor": "Pomniejsza",
       "major": "Poważna",
       "zenith": "Zenit"
     },
-
     "fallout-level": {
       "minor": "Pomniejsza",
       "major": "Poważna",
       "critical": "Krytyczna"
     },
-
     "fallout-result": {
       "major-fallout": "Poważna konsekwencja",
       "minor-fallout": "Pomniejsza konsekwencja",
       "no-fallout": "Brak konsekwencji"
     },
-
     "roll-result": {
       "none": "Brak",
       "critical_success": "Krytyczny sukces",
@@ -160,7 +151,6 @@
       "failure": "Porażka",
       "critical_failure": "Krytyczna porażka"
     },
-
     "equipment-type": {
       "multiple": "Typy",
       "single": "Typ",
@@ -169,16 +159,14 @@
       "mend": "Leczenie/naprawa",
       "miscellaneous": "Różne"
     },
-
     "difficulty": {
       "multiple": "Trudności",
       "single": "Trudność",
-      "dangerous": "Niebezpieczny",
-      "impossible": "Niemożliwy",
+      "standard": "Standardowy",
       "risky": "Ryzykowny",
-      "standard": "Standardowy"
+      "dangerous": "Niebezpieczny",
+      "impossible": "Niemożliwy"
     },
-
     "domain": {
       "multiple": "Domeny",
       "single": "Domena",
@@ -191,7 +179,6 @@
       "warren": "Norowisko",
       "wild": "Dzicz"
     },
-
     "resistance": {
       "multiple": "Odporności",
       "single": "Odporność",
@@ -201,7 +188,6 @@
       "fortune": "Szczęście",
       "supplies": "Zapasy"
     },
-
     "skill": {
       "multiple": "Umiejętności",
       "single": "Umiejętność",
@@ -215,16 +201,15 @@
       "mend": "Łączenie",
       "sneak": "Skradanie"
     },
-
     "calling": {
       "multiple": "Powołania",
       "single": "Powołanie",
       "adventure": {
-        "name": "Adventure",
-        "description": "The City Above holds no more excitement for you. In the City Beneath, on the knife-edge between real and unreal, you can be who you really are.",
-        "what-drove-you-out": "What drove you out of the City Above?",
-        "what-are-you-escaped-from": "You and another player character barely escaped from a dangerous situation recently. Who was it and what happened?",
-        "what-item-you-kept": "Recently, you and another character returned from a delve with an item for a wealthy patron. They wouldn't give it up - why, and what was it?",
+        "name": "Przygoda",
+        "description": "Miasto Powyżej nie wzbudza już w tobie emocji. Tylko tu, w Mieście Poniżej, pomiędzy rzeczywistością realną, możesz być tym, kim naprawdę jesteś.",
+        "what-drove-you-out": "Co zmusiło cię do wyjazdu z Miasta Powyżej?",
+        "what-are-you-escaped-from": "Ostatnio, ty i inny Bohater ledwo uciekliście z niebezpiecznej sytuacji. Kto to był i co się stało?",
+        "what-item-you-kept": "Ostatnio, ty i inny Bohater wróciliście z wyprawy z przedmiotem dla bogatego patrona. Postanowiliście go mu nie oddawać. Dlaczego? Co to był za przedmiot?",
         "what-beast-you-heard-of": "What's the most dangerous beast or individual you've heard tell of, and why haven't you defeated them yet?",
         "beat": {
           "minor": {
@@ -232,8 +217,8 @@
             "engage-in-reckless-abandon": "Engage in reckless abandon with drink, drugs or sex.",
             "slay-a-beast-d10": "Slay a beast that drops resources of D10 or higher.",
             "access-haven-tier-2": "Access a haven in tier 2 of the Heart.",
-            "take-major-blood-fallout": "Take Major Blood fallout.",
-            "take-major-fortune-fallout": "Take Major Fortune fallout.",
+            "take-major-blood-fallout": "Ponieś Poważną Konsekwencję Krwi.",
+            "take-major-fortune-fallout": "Ponieś Poważną Konsekwencję Szczęścia.",
             "defeat-foe-one-on-one": "Defeat a powerful foe one-on-one.",
             "help-important-figure": "Help an important or influential figure in a haven.",
             "refuse-to-back-down": "Refuse to back down when it would be beneficial to do so.",
@@ -269,11 +254,11 @@
         },
         "ability.core": {
           "legendary.description": "You strive to live up to the stories that they'll tell of your exploits. When you gain a minor advance, refresh D6. When you gain a major advance, refresh D8.",
-          "legendary.name": "Legendary"
+          "legendary.name": "Legenda"
         }
       },
       "enlightenment": {
-        "name": "Enlightenment",
+        "name": "Oświecenie",
         "description": "Everyone said that what you intended to do was impossible, but you've never let \"possibility\" slow you down. You're looking for secrets hidden deep within the earth. You know that the Heart holds the answers to all your questions; no matter what it takes, you'll get them.",
         "what-are-you-attempting-to-achieve": "What \"impossible\" thing are you attempting to achieve in the City Beneath?",
         "what-is-the-first-step": "What's the first step on your journey?",
@@ -285,16 +270,16 @@
             "put-knowledge-above-preserving-allies": "Put the acquisition of knowledge above preserving the lives of your allies.",
             "gain-access-to-concealed-knowledge": "Gain access to knowledge that someone tried to conceal.",
             "gain-favour-with-faction": "Gain favour with a faction that can help you learn more about your goal.",
-            "take-minor-mind-fallout": "Take Minor Mind fallout.",
+            "take-minor-mind-fallout": "Ponieś Pomniejszą Konsekwencję Umysłu.",
             "destroy-evidence-or-rhetoric": "Destroy evidence or rhetoric that proves your task to be impossible.",
             "sell-d8-resource-to-secure-secret": "Sell or sacrifice a D8 or higher resource to secure a secret.",
             "reach-landmark-on-tier-3": "Reach a landmark on tier 3 of the Heart.",
-            "find-helpful-text": "Find a helpful text.",
+            "find-helpful-text": "Znajdź przydatny tekst.",
             "succeed-at-task-that-someone-failed": "Succeed at a task that someone else has recently failed to achieve.",
             "mark-d8-stress-to-NPC-bond": "Mark D8 stress to an NPC bond and describe what happens.",
             "acquire-bond-who-has-information": "Acquire an NPC bond who has access to useful information.",
-            "establish-a-connection": "Establish a connection on a delve.",
-            "take-minor-supplies-fallout": "Take Minor Supplies fallout.",
+            "establish-a-connection": "Utwórz połączenie podczas wyprawy.",
+            "take-minor-supplies-fallout": "Ponieś Pomniejszą Konsekwencję Zapasów.",
             "flee-from-combat": "Flee from combat or a similarly dangerous situation, or hide until it all blows over.",
             "release-your-findings-in-journal": "Release your shocking findings in a journal published in the City Above.",
             "meet-someone-from-your-old-life": "Meet someone from your old life who's trying to get you to give up on your quest.",
@@ -302,13 +287,13 @@
             "buy-experimental-equipment": "Buy some cutting-edge, experimental or finely-made equipment and use it on a delve."
           },
           "major": {
-            "take-major-mind-fallout": "Take Major Mind fallout.",
+            "take-major-mind-fallout": "Ponieś Poważną Konsekwencję Umysłu.",
             "kill-someone-trying-to-stop-you": "Kill someone who is trying to stop you from claiming knowledge.",
             "sell-a-d12-resource": "Sell or sacrifice a D12 resource to secure a secret.",
             "destroy-haunt-to-learn-about-task": "Destroy a haunt to learn more about your task.",
             "gain-authority-within-a-faction": "Gain authority within a faction that you can use to learn more about your goal.",
             "find-knowledge-on-tier-3": "Find a source of knowledge on Tier 3 of the Heart.",
-            "take-major-supplies-fallout": "Take Major Supplies fallout.",
+            "take-major-supplies-fallout": "Ponieś Poważną Konsekwencję Krwi.",
             "acquire-renowned-equipment": "Acquire a renowned piece of equipment.",
             "attract-a-protege": "Attract a protégé who's read your work and is determined to learn more.",
             "explore-a-mysterious-tower": "Explore a mysterious tower whilst on a delve (this increases the difficulty of the delve by D12)."
@@ -319,17 +304,17 @@
           }
         },
         "ability.core": {
-          "unorthodox_methods.name": "Unorthodox Methods",
+          "unorthodox_methods.name": "Nietypowe Metody",
           "unorthodox_methods.description": "You blend together method and madness in pursuit of your goals. Gain the Discern skill. Once per session, before you roll dice to resolve an action, instead state that your result is a 6. You succeed but take stress."
         }
       },
       "forced": {
-        "name": "Forced",
+        "name": "Przymuszony",
         "description": "You don't want to be down here, but you don't have any choice. You're a prisoner, an initiate to a cult or someone's blackmailing you.",
         "who-are-your-masters": "Who, or what, are your masters?",
-        "what-do-your-masters-want": "What do your masters want?",
-        "how-are-they-maintaining-power": "How are your masters maintaining power over you?",
-        "how-do-your-masters-contact": "How do your masters contact you?",
+        "what-do-your-masters-want": "Czego chcą twoi władcy?",
+        "how-are-they-maintaining-power": "Jak twoi władcy cię kontrolują?",
+        "how-do-your-masters-contact": "W jaki sposób twoi władcy się z Tobą kontaktują?",
         "what-is-other-relationship": "Choose another player character. They have history with your masters too. What's their relationship?",
         "beat": {
           "minor": {
@@ -338,7 +323,7 @@
             "rebel-against-your-orders": "Rebel against your orders, even though this puts you at risk.",
             "forge-friendship-with-NPC": "Forge a friendship or romantic relationship with an NPC. - Get into trouble as someone discovers your chequered past.",
             "betray-someone": "Betray someone because of your true nature.",
-            "take-minor-fortune-fallout": "Take Minor Fortune fallout.",
+            "take-minor-fortune-fallout": "Ponieś Pomniejszą Konsekwencję Szczęścia.",
             "do-something-dangerous": "Do something dangerous to conceal your past.",
             "invoke-your-masters-name": "Invoke your masters' name to get what you want.",
             "PC-suffers-fallout": "As a result of using the COLLATERAL ability, an NPC is taken out of action or a PC suffers fallout.",
@@ -358,7 +343,7 @@
             "learn-something-lessens-control": "Learn or possess something that lessens the control your masters have over you.",
             "perform-reprehensible-act": "Perform a truly reprehensible act on behalf of your masters.",
             "suffer-the-consequences": "Suffer the consequences of refusing to perform an important act on behalf of your masters.",
-            "take-major-fortune-fallout": "Take Major Fortune fallout.",
+            "take-major-fortune-fallout": "Ponieś Poważną Konsekwencję Szczęścia.",
             "important-beloved-NPC-dies": "An important or beloved NPC dies after you bring them into your master's schemes.",
             "pitch-haven-into-chaos": "Thanks to your actions, a haven is pitched into deadly chaos.",
             "coerce-NPC-into-task": "Coerce an important or beloved NPC into undertaking a task they don't want to do.",
@@ -372,11 +357,11 @@
         },
         "ability.core": {
           "collateral.description": "You have a knack for getting behind someone else when things kick off. Once per session, allocate stress to the nearest friendly target (PC or NPC) instead of marking it yourself.",
-          "collateral.name": "Collateral"
+          "collateral.name": "Żywa Tarcza"
         }
       },
       "heartsong": {
-        "name": "Heartsong",
+        "name": "Pieśń Serca",
         "description": "When you sleep, you dream of the Heart. You're half-mad with glimpses of knowledge; mad enough to go ever deeper into the undercity, looking for revelations.",
         "which-images-do-you-see": "Which three images, symbols, people or creatures do you repeatedly see when you dream?",
         "what-signs-do-you-look-for": "What signs do you look for to recognise where the Heart is strongest?",
@@ -385,7 +370,7 @@
         "beat": {
           "minor": {
             "name-the-heart": "Following a long ritual, name The Heart. Only refer to it by this name from now on.",
-            "take-minor-echo-fallout": "Take Minor Echo fallout.",
+            "take-minor-echo-fallout": "Ponieś Pomniejszą Konsekwencję Echo.",
             "see-something-from-your-dreams": "See something from your dreams in the real world.",
             "consume-something-of-heart": "Consume something of the Heart (eat the flesh of a heartsblood beast, etc).",
             "be-rendered-helpless-in-heart": "Be rendered helpless in the Heart for an hour or more.",
@@ -409,7 +394,7 @@
             "convince-party-to-collect-cursed-resources": "Convince the party to collect Cursed resources on a delve, adding D6 to the delve's resistance."
           },
           "major": {
-            "take-major-echo-fallout": "Take Major Echo fallout.",
+            "take-major-echo-fallout": "Ponieś Poważną Konsekwencję Echo.",
             "perform-rite-at-place-of-power-tier-3": "Perform a rite at a place of power (Tier 3 or deeper).",
             "sacrifice-someone-important": "Sacrifice someone important to the Heart.",
             "establish-bond-with-hearts-blood-beast": "Establish a bond with a hearts-blood beast (Tier 2 or deeper).",
@@ -427,11 +412,11 @@
         },
         "ability.core": {
           "in_the_blood.description": "You move through the Heart as if blessed. +1 Echo Protection. Once per situation, when you take stress to any resistance other than Echo, allocate it to Echo.",
-          "in_the_blood.name": "In The Blood"
+          "in_the_blood.name": "We Krwi"
         }
       },
       "penitent": {
-        "name": "Penitent",
+        "name": "Pokutnik",
         "description": "You betrayed the trust of your order. Due to negligence, cowardice or malice, you caused them great harm. Now, wracked with guilt, you have sworn to make amends by venturing deep into the Heart and performing acts in service of your order.",
         "what-marks-your-order-out": "What marks your order out from others like it?",
         "what-evidence-of-your-failings-is-visible": "What evidence of your failings is visible in the City Beneath?",
@@ -439,7 +424,7 @@
         "what-inspired-this": "Pick one of the other player characters; you look up to them as an example of how to live one's life. What inspired this?",
         "beat": {
           "minor": {
-            "take-minor-blood-fallout": "Take Minor Blood fallout.",
+            "take-minor-blood-fallout": "Ponieś Pomniejszą Konsekwencję Krwi.",
             "Perform-act-in-service-to-order": "Perform an act in service to your order.",
             "bring-bodily-harm": "Bring bodily harm to those who stand against your order.",
             "deescalate-situation": "De-escalate a situation that would have led to bloodshed.",
@@ -462,7 +447,7 @@
             "witness-extent-of-your-failings": "Witness first-hand the tragic extent of your failings."
           },
           "major": {
-            "take-major-blood-fallout": "Take Major Blood fallout.",
+            "take-major-blood-fallout": "Ponieś Poważną Konsekwencję Krwi.",
             "convert-important-NPC": "Convert an important NPC to your order's cause.",
             "establish-continual-connections": "Establish continual connections between two landmarks on different tiers that are important to your order.",
             "perform-an-act-undo-penance": "Perform an act that, if your order discovered it, would undo your penance.",
@@ -480,20 +465,19 @@
         },
         "ability.core": {
           "not_yet.description": "Your willpower, fuelled with guilt, is legendary. Once per session, activate this ability to avoid suffering negative effects from Blood or Mind fallout for the remainder of the situation.",
-          "not_yet.name": "Not Yet"
+          "not_yet.name": "Jeszcze Nie"
         }
       }
     },
-
     "class": {
       "multiple": "Klasy",
       "single": "Klasa",
       "cleaver": {
         "description": "The Heart is a wild place, and it calls to wild people - those on the edge of society who find that the yoke of civilisation chafes against their skin. The wildest of all are known as Cleavers. They step out into the shifting nightmare of the City Beneath and make a home there. They are the first people to set foot in each new chamber of the place, forging ahead through a dark and strange frontier. Their bodies change. Some welcome and seek out transformation, being unsatisfied with their physical forms - they modify their bodies with surgeries that are impossible in the City Above, or hunt and consume beasts of the Heart to gain their power. Some struggle with the change, but it is inevitable. Just as they scar the Heart into new patterns with each footstep forward, the Heart scars them in return and remakes them in a more suitable form: twisting horns, night-black eyes, curious senses unknown to the surface world and so on. Cleavers are a common sight amongst parties of delvers, especially those in need of a guide - no-one knows the Heart like they do. No amount of research, no technological device and no arcane scrying ritual can tell you as much as burying yourself waist-deep in the red wet heaven and eating the bounty it generously offers up.",
-        "name": "Cleaver",
+        "name": "Tasak",
         "equipment": {
-          "hunting_knife": "Hunting Knife",
-          "cleaver": "Cleaver",
+          "hunting_knife": "Nóż myśliwski",
+          "cleaver": "Tasak",
           "bone_charms": "Bone charms and animal-gut sutures",
           "heavy_draw_bow": "Heavy-draw bow"
         },
@@ -504,7 +488,7 @@
           "core": {
             "heartsblood.name": "Heartsblood",
             "heartsblood.description": "You have a bone-deep connection to the Heart Itself; the closer you get, the more powerful you become. Your minimum protection value for all resistances is equal to the tier of the Heart you are currently on. This value doesn't add to other sources of protection, but your base protection can't be lower than your current tier unless you specifically lose access to it due to fallout.",
-            "the_red_feast.name": "The Red Feast",
+            "the_red_feast.name": "Czerwona Uczta",
             "the_red_feast.description": "Your crucible guts pluck memories from the meat. When you eat a resource, you gain any domains associated with that resource until the end of the situation. If you already have access to the domain, gain an appropriate knack. There's no limit to what you can eat, but tough or noxious materials might require an Endure+Cursed check to avoid causing yourself harm. Consuming resources requires your attention and leaves you exposed, so doing it successfully in stressful situations (such as combat) could require a Sneak or Evade roll."
           },
           "minor": {
@@ -522,7 +506,7 @@
             "fractured_form.name": "Fractured Form",
             "gut_instinct.description": "Gain access to one of the following skills: Compel, Delve, Discern, Endure, Evade, Hunt, Kill, Mend. You can take this advance more than once.",
             "gut_instinct.name": "Gut Instinct",
-            "inhuman.description": "Gain +1 protection in the Blood, Echo, Fortune or Supplies resistance. You can take this advance more than once.",
+            "inhuman.description": "Zdobywasz +1 Ochrony we Krwi, Echo, Szczęściu lub Zapasach. Możesz wybrać tę zdolność więcej niż raz.",
             "inhuman.name": "Inhuman",
             "pitchskin.description": "Your skin bubbles and shifts into night-black tones as tar seeps through the pores. Gain the Sneak skill. The secretions from your skin are flammable and adhesive, acting as a sort of volatile glue you can exude at will.",
             "pitchskin.name": "Pitchskin",
@@ -589,22 +573,22 @@
       },
       "deadwalker": {
         "description": "You were always obsessed with death; maybe you were a nihilistic cultist, a moneyed arcanist, a radical theologist or a sanctified killer. But your initial fascination was nothing compared to what happened after you died for the first time. Nothing's been the same ever since. You didn't die properly; somehow, through willpower, luck or trickery, you stayed alive. Your tattered soul gives you a near-unique ability to step between the lands of the living and the dead with relative ease. Your constant companion - a spectral manifestation of the death that didn't take - guards you jealously and whispers secrets from beyond the veil into your ear while you slumber.",
-        "name": "Deadwalker",
+        "name": "Wędrowca Umarłych",
         "equipment": {
-          "hunting_rifle": "Hunting rifle",
-          "greatsword": "Greatsword",
-          "bootleg_ambrosia": "Bootleg ambrosia",
-          "ritual_blade": "Ritual blade"
+          "hunting_rifle": "Karabin myśliwski",
+          "greatsword": "Miecz dwuręczny",
+          "bootleg_ambrosia": "Ambrozja domowej roboty",
+          "ritual_blade": "Rytualne ostrze"
         },
         "resource": {
-          "bag_of_interesting_teeth": "Bag of interesting teeth"
+          "bag_of_interesting_teeth": "Torba z interesującymi zębami"
         },
         "ability": {
           "core": {
             "death_follows_close.description": "You never knew anyone could love you as much as your own death. You are followed around by a manifestation of your death that is invisible and intangible to everyone but you - although when you are on the verge of dying, or in places that resonate heavily with death and sorrow, it might be visible to others. The exact appearance of it is up to you. The first time each session you suffer Major Blood, Mind or Fortune fallout, your death manifests to protect you and inflicts D8 stress on whatever caused the fallout.",
-            "death_follows_close.name": "Death Follows Close",
+            "death_follows_close.name": "Śmierć Kroczy Blisko",
             "enter_the_grey.description": "You know the trick of stepping sideways into the Grey: the space between the worlds of the living and the worlds of the dead. Roll Delve+Religion to enact this ritual. It takes around ten minutes of preparation, e.g. donning ritual garb, inhaling sacred smoke, communing with your death and so on. On a success, the smoke clears, and you (and anyone you bring with you) are in the Grey. Within the Grey, the world is a shadowy echo of its living counterpart. Some souls linger here, awaiting their eternal reward, but for the most part it is grim, empty and monochrome. (For more information on travelling and surviving the Grey, see p. 169. ) Exiting the Grey is a simple enough task for a Deadwalker and those they ferry across; it's a Delve+Religion roll for anyone else.",
-            "enter_the_grey.name": "Enter The Grey"
+            "enter_the_grey.name": "Prosto w Szarość"
           },
           "minor": {
             "adept.description": "Gain access to one of the following skills: Compel, Delve, Discern, Endure, Evade, Hunt, Kill, Sneak. You can take this advance more than once.",
@@ -626,8 +610,8 @@
             "marked_for_death.description": "Your death tells you stories of dark spectres that swarm the land in search of doomed souls. Gain the Hunt skill. In addition, you can mark prey. When you mark prey, you spend ten minutes or so observing your target from hiding and whispering words of death over your weapon. When you hunt prey you have marked, roll with mastery. Your mark endures until your target dies or you mark another creature.",
             "marked_for_death.name": "Marked For Death",
             "shadow.description": "Your body, unmoored from the lands of the living, can become shadowy and indistinct. Gain the Sneak skill. By blowing out a lit candle and focusing, you can extinguish all light sources nearby. Sources that cannot be easily extinguished (magelights, glowworms, etc) are temporarily muted instead.",
-            "shadow.name": "Shadow",
-            "survivor.description": "Gain +1 Protection in the Blood, Echo, Fortune or Supplies resistance. You can take this advance more than once.",
+            "shadow.name": "Cień",
+            "survivor.description": "Zdobywasz +1 Ochrony we Krwi, Echo, Szczęściu lub Zapasach. Możesz wybrać tę zdolność więcej niż raz.",
             "survivor.name": "Survivor",
             "tattered_soul.description": "Your eternal spirit has been warped and torn by your experiences, leaving you with an affinity with the notquite-real. Gain the Cursed domain and +1 Echo protection.",
             "tattered_soul.name": "Tattered Soul",
@@ -726,7 +710,7 @@
             "thrice_warded.description": "Yo ur bees are marked with auspicious glyphs and you are able to brave the worst of the Heart unscathed. Gain the Cursed domain. Each session, the first time you would take Minor Fortune fallout, avoid the fallout and do not remove stress from Fortune.",
             "uncanny_biology.description": "Aside from the Queen nestled inside your heart, every part of your body is replaceable by the swarm. Gain +2 Blood Protection.",
             "uncanny_biology.name": "Uncanny Biology",
-            "waxen_sigils.description": "Gain +1 Protection in the Blood, Echo, Fortune or Supplies resistance. You can take this advance more than once.",
+            "waxen_sigils.description": "Zdobywasz +1 Ochrony we Krwi, Echo, Szczęściu lub Zapasach. Możesz wybrać tę zdolność więcej niż raz.",
             "waxen_sigils.name": "Waxen Sigils",
             "whispers_of_the_hive.description": "Gain access to one of the following domains: Cursed, Desolate, Occult, Religion, Technology, Warren, Wild. You can take this advance more than once.",
             "whispers_of_the_hive.name": "Whispers Of The Hive",
@@ -787,21 +771,21 @@
       },
       "heretic": {
         "description": "<p>The Church of the Moon were driven out of the City Above two hundred years ago. Their faith had been outlawed by invading forces, their temples burned, their idols smashed to pieces, their priests slain in the street - but still they believed in Damnou, goddess of the moon tripartite, bringer of light and life to the drow. They fled into the undercity, seeking solace; what they found was a communion with their goddess greater than anything they could dream of in Spire. They found secrets hidden deep within the earth. They found the Moon Beneath. </p> <p>You are an adherent to the faith of the Moon Beneath. Your great-grandparents might have been among the original refugees driven down to the Heart, or you might be a recent convert to the religion. Either way, you draw power from your faith and unearth the hidden wisdom of your queens who dwell deep in the earth. You proudly bear the symbols of your church - jewellery adorned with eyes, sacred chains that symbolise the restraints on the Moon Beneath, moonsilver piercings, and reams of sacred text - that would have you shot in the street in the City Above.</p>",
-        "name": "Heretic",
+        "name": "Heretyk",
         "equipment": {
           "spireblack_brazier_lit": "Spireblack brazier (lit)",
           "spireblack_brazier_unlit": "Spireblack brazier (unlit)",
-          "breech_loading_pistol": "Breech-loading pistol",
+          "breech_loading_pistol": "Pistolet skałkowy",
           "seekers_blade": "Seeker's blade",
           "scripture_etched_bandages": "Scripture-etched bandages and blessed oils",
-          "staff": "Staff"
+          "staff": "Kostur"
         },
         "resource": {
           "single_devotional_candle": "A single devotional candle that burns with a silver flame"
         },
         "ability": {
           "core": {
-            "ministrations.name": "Ministrations",
+            "ministrations.name": "Posługa",
             "ministrations.description": "You offer solace and calm in a world of chaos. Once per session, lead your allies in a service of praise to the Moon Beneath (how you practice your faith is up to you). All player characters who took part can remove one Minor Blood or Mind fallout, or downgrade one Major Blood or Mind fallout to Minor, at the end of the service. If you perform this service whilst on a delve, add +D4 to the delve's resistance."
           },
           "minor": {
@@ -886,20 +870,20 @@
       },
       "hound": {
         "description": "In the past: the 33rd Regiment were sent down to pacify the Heart by a mad warrior-poet from the City Above. Of the nine hundred or so enlisted soldiers who set off, three hundred survived. Surrounded by forces beyond their understanding and on the verge of total destruction, the surviving officers did what they could to save their troops. They did something terrible. Now: there are three hundred badges, each marked with the name of the original hero who carried it. When you steal one, or have it bestowed upon you, you join the Hounds: the new name of the 33rd, protectors of the fragile populace of the Heart. You carry the weight of their deeds on your shoulders. You hear that some of the original three hundred are still out there, still wearing their badges. You've heard of Hounds holding back the darkness alone, withstanding tremendous amounts of punishment, defending havens for days on end without sleep or food. The Hounds draw on one another and the people of the Heart for strength. So long as someone draws breath in the City Beneath, they cannot be destroyed; this is their gift, and their curse. ",
-        "name": "Hound",
+        "name": "Ogar",
         "equipment": {
           "standard_issue_legrande_rifle": "Standard-issue Legrande rifle",
-          "repeater_sidearm": "Repeater Sidearm",
-          "knife": "Knife",
-          "well_stocked_haversack": "Well-stocked Haversack",
-          "cudgel": "Cudgel"
+          "repeater_sidearm": "Pistolet samopowtarzalny",
+          "knife": "Nóż",
+          "well_stocked_haversack": "Dobrze wyposażony wojskowy chlebak",
+          "cudgel": "Pałka"
         },
         "resource": {
           "bottle_of_rotgut_liquor": "Bottle of rotgut liquor"
         },
         "ability": {
           "core": {
-            "in_the_thick_of_it.name": "In The Thick Of It",
+            "in_the_thick_of_it.name": "W Samym Centrum",
             "in_the_thick_of_it.description": "You have a knack for getting yourself in just enough trouble to find the truth. Once per situation, when you would mark stress to any other resistance than Fortune, mark it to Fortune. When you suffer Fortune fallout, roll with mastery for the remainder of the situation."
           },
           "minor": {
@@ -1014,7 +998,7 @@
             "creative_book_keeping.description": "A flexible grasp on reality means you have something for every occasion on hand. Gain +2 Supplies Protection.",
             "eyes_in_the_back_of_your_head.name": "Eyes In The Back Of Your Head",
             "eyes_in_the_back_of_your_head.description": "You've set up enough crooked deals to know when you're about to be suckered into one. Gain the Discern skill. When you stand still and concentrate, you can quite literally see behind you as though you had eyes in the back of your head. Doing this for too long causes headaches and nausea.",
-            "jack_of_all_trades.name": "Jack Of All Trades",
+            "jack_of_all_trades.name": "Wszechstronnie Uzdolniony",
             "jack_of_all_trades.description": "Gain access to one of the following skills: Compel, Discern, Endure, Hunt, Kill, Mend, Sneak. You can take this advance more than once.",
             "lost_it_all.name": "Lost It All",
             "lost_it_all.description": "You understand - truly - the wretched sensation of having less than nothing. Gain the Desolate domain. Once per session ask the GM where the nearest source of wealth is and they will tell you.",
@@ -1093,21 +1077,21 @@
       },
       "junk_mage": {
         "description": "<p>You were a magician, but you always knew there was something more. In the City Above, magic is a pale imitation of what it can be in the Heart. Down here, there is true power to be channeled (i.e. stolen) from beings of tremendous power. You see that the rites of the spell-slinging occultists and the miracle-summoning priests of Spire are nothing but two sides of the same coin - tricks that redirect ambient energy into desired effects.</p>  <p>You've tasted the dreams of the ancients. You know that vastly powerful things slumber in the City Beneath, and you know the secrets that plumb your brain directly into their vast, alien consciousnesses. Your spells are cobbled together from snatches of dreams, shards of true-names and the ravings of madmen. You are on the bleeding edge of magic.</p><p>The power is undeniable; addictive, in fact. To channel - to steal - the power of godlike beings is intoxicating. You relish the touch of madness, of accursed insight, into the vast and terrible truths that hide beneath reality. Sanity, safety, reputation; all these are secondary to the pursuit of arcane majesty.</p>",
-        "name": "Junk Mage",
+        "name": "Narkomag",
         "equipment": {
-          "two_old_fashioned_pistols": "Two old fashioned pistols",
-          "hungry_knife": "Hungry knife",
-          "blunderbuss": "Blunderbuss",
-          "overstuffed_coat": "Overstuffed coat"
+          "two_old_fashioned_pistols": "Dwa starodawne pistolety",
+          "hungry_knife": "Głodny nóż",
+          "blunderbuss": "Garłacz",
+          "overstuffed_coat": "Wypchany płaszcz"
         },
         "resource": {
-          "vial_of_cursed_ink": "Vial of cursed ink"
+          "vial_of_cursed_ink": "Fiolka z przeklętym tuszem"
         },
         "ability": {
           "core": {
-            "ravening_knowledge.name": "Ravening Knowledge",
+            "ravening_knowledge.name": "Żarłoczna Wiedza",
             "ravening_knowledge.description": "You crave the touch of what others call \"madness\". The glimpses of truth that ravage your frail, mortal mind give you unimaginable power. When your Mind stress is 4 or higher, roll with mastery when you attempt to cast a spell.",
-            "sacrifice.name": "Sacrifice",
+            "sacrifice.name": "Ofiara",
             "sacrifice.description": "You are willing to sacrifice anything for another hit. Before you cast a spell from this class, you can opt to destroy a resource with the Occult domain. Roll the resource's dice; the amount rolled is added to your Protection value against any stress incurred as a result of casting the spell."
           },
           "minor": {
@@ -1119,7 +1103,7 @@
             "by_any_means.description": "Gain access to one of the following skills: Compel, Delve, Discern, Evade, Hunt, Kill, Sneak, Mend. You can take this advance more than once.",
             "frontier_etiquette.name": "Frontier Etiquette",
             "frontier_etiquette.description": "Your time in the City Above wasn't for naught; you learned how to hold a conversation, smile and nod in all the right places and read a room to avoid offence. Gain the Haven domain. The first time each session that you use a haunt, your spent resource counts as one dice size higher.",
-            "litanies_of_false_power.name": "Litanies Of False Power",
+            "litanies_of_false_power.name": "Litanie Fałszywych Potęg",
             "litanies_of_false_power.description": "You know that the gods of the world are distant, dead or disinterested; but you pay attention, for they may reveal useful secrets. Gain the Religion domain. When you use the SACRIFICE ability above, you may also consume resources with the Religion domain.",
             "mark_of_hunger.name": "Mark Of Hunger",
             "mark_of_hunger.description": "You can taste the power slumbering in the City Beneath, and you want it more than anything. Gain the Delve skill. You can smell sources of magical power - the more potent and active, the more pungent the smell. Different types of magic have different scents: relics of the Moon Beneath have the aroma of wine and butter, necromancy smells like nujabian kafee and the occult technology of the Vermissian resembles malt and rich tannins.",
@@ -1131,10 +1115,10 @@
             "mark_of_the_weaver.description": "Your hands are covered in spiderweb ink; you have the capacity to stitch, fix and bind with a thought. Gain the Mend skill. Once per session, you can fix someone or something in a matter of seconds, even if it would usually take hours of careful work.",
             "rust_and_iron.name": "Rust And Iron",
             "rust_and_iron.description": "You know of pathways that are clockwork and galvanic, shifting and malevolent, and were built by no mortal hand. Gain the Technology domain. Learn the following spell: roll Mend+Technology to improve a piece of equipment that has moving parts using a ritual that takes around half an hour. On a success, increase the equipment's quality by 1 step (standard becomes good, good becomes excellent) and give it the Dangerous and Unreliable tags. Once you have improved a piece of equipment with this spell, you can't improve it again.",
-            "siphon_of_fortune.name": "Siphon Of Fortune",
-            "siphon_of_fortune.description": "There are places where you can wager more than cash on a game of cards; your stake of choice is good luck. +2 Fortune Protection.",
+            "siphon_of_fortune.name": "Szczęśliwiec",
+            "siphon_of_fortune.description": "Istnieją miejsca, w których możesz obstawić coś więcej niż tylko gotówkę przy grze w karty. Twoją stawką jest szczęście. +2 Ochrony Szczęścia.",
             "warding_spells.name": "Warding Spells",
-            "warding_spells.description": "Gain +1 Protection in the Blood, Supplies, Echo or Fortune resistance. You can take this advance more than once.",
+            "warding_spells.description": "Zdobywasz +1 Ochrony we Krwi, Echo, Szczęściu lub Zapasach. Możesz wybrać tę zdolność więcej niż raz.",
             "wretched_and_glorious.name": "Wretched And Glorious",
             "wretched_and_glorious.description": "Your body is a prison, and when it blurs or breaks, you feel closer to your patrons. Gain the Cursed domain. When you use the SACRIFICE ability above, you may also consume resources with the Cursed domain.",
             "ecstasy.name": "Ecstasy",
@@ -1200,12 +1184,12 @@
       },
       "vermissian_knight": {
         "description": "<p>The Vermissian is a cursed, centuries-old mass transport network that the people from the City Above built to get from place to place quicker. To power it, they tapped into the wellspring of potential that is the Heart, and damned every single tunnel and station to eternal weirdness. The Vermissian never officially opened. Now, desperate people, fringe historians and heretic cults hide in the infrastructure, using the strange unreality within to further their own ends.</p> <p>Using barely-understood technology and living in the space between worlds, the Vermissian Knights do their level best to understand the parasite reality and protect others they find there. They are in high demand as companions on delves: they have an understanding of the Heart, a good sword arm and a suit of powered armour built from scavenged train materials that helps keep them (and their allies) alive.</p> <p>Knights will inscribe the names of landmarks that they have discovered, or found stable routes to, on their armour - it is as much a research project and an advertisement of their prowess as it is a means of protection. Each knight's suit is utterly unique, using technology taken from a dozen different places: different gauges of steels, different weights and levels of protection and flexibility and controls that are often inscrutable to anyone but the creator themselves</p>",
-        "name": "Vermissian Knight",
+        "name": "Rycerz Trakcji",
         "equipment": {
-          "pneumatic_hammer": "Pneumatic hammer",
+          "pneumatic_hammer": "Młot pneumatyczny",
           "scrapsword": "Scrapsword",
           "magelight_rig": "Magelight rig",
-          "steel_door_shield": "Steel door shield"
+          "steel_door_shield": "Tarcza ze stalowych drzwi"
         },
         "resource": {
           "spare_capacitors_and_wires": "Spare capacitors and wires"
@@ -1233,7 +1217,7 @@
             "sanguinary_array.name": "Sanguinary Array",
             "sanguinary_array.description": "Your inefficient mortal heart is supplemented by a rig that extracts, filters and nourishes your vital fluids. One side effect of this is that your blood acts as an antenna for the scattershot electrical impulses of the Heart. Gain the Discern skill. If one of your senses becomes damaged or unusable, you can replace it with the weird echoes that shudder through your exposed blood - it's not perfect, but it'll do.",
             "stalwart.name": "Stalwart",
-            "stalwart.description": "Gain +1 Protection in the Blood, Echo, Supplies or Fortune resistance. You can take this advance more than once.",
+            "stalwart.description": "Zdobywasz +1 Ochrony we Krwi, Echo, Szczęściu lub Zapasach. Możesz wybrać tę zdolność więcej niż raz.",
             "steelbones.name": "Steelbones",
             "steelbones.description": "Your armour bolts onto special implants that absorb harmful energy and distribute it through your body. Gain the Endure skill. You can fall distances of up to 3 storeys without taking damage.",
             "student_of_the_sages.name": "Student Of The Sages",
@@ -1297,20 +1281,20 @@
       },
       "witch": {
         "description": "There is a disease, deep in the City Beneath, that worms its way inside the blood and binds the victim to the place; they become a part of something far greater than themselves. Those who have made such a bond are called witches, and are viewed with a mixture of suspicion and awe by the other inhabitants of the Heart. Each strain of the disease has a lineage and history associated with it, and witches are careful not to infect those who they think would squander the gift. This long tradition, combined with the way that some witches can kill the average person simply by glancing at them, means that the sect is treated as nobility or emissaries of the Heart Itself. They are almost fae-like, existing in their own world of strange practices and esoteric arts whispered from teacher to student over several centuries. The witches' base of power is Hallow, a ramshackle town built within a burned-out cathedral inside the Heart. Almost every witch has passed through there, is going to pass through there or is trying to avoid it at all costs.  Core Traits",
-        "name": "Witch",
+        "name": "Wiedźma",
         "equipment": {
           "goats_leg_carbine": "Goat's Leg Carbine",
           "physikers_bag": "Physiker's bag",
-          "sacred_blade": "Sacred Blade"
+          "sacred_blade": "Święte Ostrze"
         },
         "resource": {
           "tattered_finery": "Tattered finery (a silk scarf, worn jewellery, etc)"
         },
         "ability": {
           "core": {
-            "crucible.name": "Crucible",
+            "crucible.name": "Tygiel",
             "crucible.description": "You bring the energy of the Heart inside yourself and transmute it into crimson power. At any time, roll a D6. If it's equal to or under your current Echo stress, clear that much stress from Echo and roll with mastery on your next action. If it's over your current Echo stress, add that much stress to Echo.",
-            "true_form.name": "True Form",
+            "true_form.name": "Prawdziwa Natura",
             "true_form.description": "Your skin skitters with barely-contained force: the heartsblood within you is waiting to remake you as a flickering, hungry zoetrope horror. Whenever you want to, or when you suffer Major fallout, you enter your true form -describe it. When in your true form, you roll with mastery on Hunt and Kill checks, but all other checks become Risky. At the end of the current situation, you revert to your humanoid form."
           },
           "minor": {
@@ -1321,7 +1305,7 @@
             "books_of_lore.name": "Books Of Lore",
             "books_of_lore.description": "Gain access to one of the following domains: Cursed, Desolate, Occult, Religion, Warren, Wild. You can take this advance more than once.",
             "charms_and_wards.name": "Charms And Wards",
-            "charms_and_wards.description": "Gain +1 Protection in the Blood, Mind, Supplies or Fortune resistance. You can take this advance more than once.",
+            "charms_and_wards.description": "Zdobywasz +1 Ochrony we Krwi, Umyśle, Szczęściu lub Zapasach. Możesz wybrać tę zdolność więcej niż raz.",
             "distinguished_lineage.name": "Distinguished Lineage",
             "distinguished_lineage.description": "Your blood-mothers have operated in the City Beneath for centuries; you carry the weight of their actions (and their promises) on your back. Gain the Haven domain. Once per session, when you mark stress to a bond, do not roll for fallout.",
             "divinity.name": "Divinity",
@@ -1402,7 +1386,6 @@
         }
       }
     },
-
     "fallout": {
       "multiple": "Konsekwencje",
       "single": "Konsekwencja",
@@ -1665,82 +1648,80 @@
         }
       }
     },
-
     "tag": {
-      "multiple": "Tags",
+      "multiple": "Tagi",
       "single": "Tag",
-      "awkward.name": "Awkward",
+      "awkward.name": "Nieporęczna",
       "awkward.description": "The resource is heavy or hard to carry",
-      "beacon.name": "Beacon",
+      "beacon.name": "Latarnia",
       "beacon.description": "the resource attracts something dangerous towards its position.",
-      "block.name": "Block",
-      "block.description": "+1 Blood protection.",
-      "bloodbound.name": "Bloodbound",
+      "block.name": "Tarcza",
+      "block.description": "+1 Ochrona Krwi.",
+      "bloodbound.name": "Więź Krwi",
       "bloodbound.description": "Mark D4 stress to Blood to roll with mastery when using this equipment for the rest of the situation.",
-      "brutal.name": "Brutal",
+      "brutal.name": "Brutalna",
       "brutal.description": "When you roll for stress against an adversary when using this item, roll two dice and pick the highest. Multiple instances of this tag stack: if you managed to get it three times, you???d roll four dice and pick the highest when calculating stress.",
-      "conduit.name": "Conduit",
+      "conduit.name": "Magiczny Fokus",
       "conduit.description": "Mark D4 stress to Mind to roll with mastery when using this equipment for the rest of the situation.",
-      "dangerous.name": "Dangerous",
+      "dangerous.name": "Niebezpieczna",
       "dangerous.description": "When you inflict stress with this item and roll the maximum amount, mark D6 stress to Blood.",
-      "debilitating.name": "Debilitating",
+      "debilitating.name": "Osłabiająca",
       "debilitating.description": "Once per situation, when you inflict stress with this item to one or more targets, the next attack made against them is rolled with mastery.",
-      "degenerating.name": "Degenerating",
+      "degenerating.name": "Wypaczająca",
       "degenerating.description": "If you take damage from a weapon with this tag, roll Endure+[Domain] at the end of the situation.On a failure, mark D6 stress; on a partial success, mark D4 stress; on a success, mark none.",
-      "deteriorating.name": "Deteriorating",
+      "deteriorating.name": "Psująca się",
       "deteriorating.description": "The resource is breaking down, rotting or rusting and you'll need to get it to a new owner quickly.",
-      "distressing.name": "Distressing",
+      "distressing.name": "Niepokojąca",
       "distressing.description": "When you inflict stress with this item and roll the maximum amount, mark D6 stress to Mind.",
-      "double_barreled.name": "Double-Barreled",
+      "double_barreled.name": "Dwururka",
       "double_barreled.description": "As Reload, but you can use the item twice before reloading.",
-      "expensive.name": "Expensive",
+      "expensive.name": "Kosztowna",
       "expensive.description": "When you inflict stress with this item and roll the maximum amount, mark D6 stress to Supplies.",
       "extreme_range.name": "Extreme Range",
       "extreme_range.description": "This item can be used at extreme range.",
-      "fragile.name": "Fragile",
+      "fragile.name": "Krucha",
       "fragile.description": "The resource will be destroyed if dropped or damaged",
-      "harmful.name": "Harmful",
+      "harmful.name": "Szkodliwa",
       "harmful.description": "The resource has the capacity to harm those who carry it via black magic, illness or strange energies.",
       "limited(X).name": "Limited ${X}",
       "limited(X).description": "You can use this ${X} times before it gives out.",
-      "loud.name": "Loud",
+      "loud.name": "Głośny",
       "loud.description": "When you inflict stress with this item and roll the maximum amount, mark D6 stress to Fortune.",
-      "mobile.name": "Mobile",
+      "mobile.name": "Mobilna",
       "mobile.description": "If left unattended, the resource will leave of its own accord.",
-      "niche.name": "Niche",
+      "niche.name": "Niszowa",
       "niche.description": "The resource is only valuable to a very select group of people.",
       "obscuring.name": "Obscuring",
       "obscuring.description": "The bearer and any nearby allies reduce the damage of incoming and outgoing ranged weapons by 1 step.",
-      "one_shot.name": "One-Shot",
+      "one_shot.name": "Jednorazowa",
       "one_shot.description": "This equipment takes a very long time to prepare, so you can only use it once per situation.",
-      "piercing.name": "Piercing",
+      "piercing.name": "Przebijająca",
       "piercing.description": "You cannot reduce stress inflicted by this equipment by using Blood Protection, and adversaries do not benefit from their protection value.",
-      "point_blank.name": "Point-Blank",
+      "point_blank.name": "Bezpośrednia",
       "point_blank.description": "As Ranged, but at very close range it increases its stress dice by one step. If the shot travels far enough to spread out and dissipate, it lowers its stress dice by one step.",
-      "potent.name": "Potent",
+      "potent.name": "Silna",
       "potent.description": "When you roll for stress removed from yourself or an ally with this item, roll two dice and pick the highest. Multiple instances of this tag stack as per the Brutal tag.",
-      "ranged.name": "Ranged",
-      "ranged.description": "This equipment can be used at range.",
-      "reload.name": "Reload",
+      "ranged.name": "Zasięgowa",
+      "ranged.description": "Ekwipunek może być używany na odległość.",
+      "reload.name": "Przeładowanie",
       "reload.description": "This equipment must be reloaded between uses, giving enemies a chance to close in or flee.",
-      "smoke.name": "Smoke",
+      "smoke.name": "Dymna",
       "smoke.description": "As Obscuring, but only when the item is used,and only around the area it was used.",
-      "spread.name": "Spread",
+      "spread.name": "Rozrzut",
       "spread.description": "Anyone standing near the target on a successful use must roll Evade+Domain (or another applicable skill) to avoid marking stress as well. On a partial success, downgrade the stress dice by one size. NPCs caught in a blast simply take the stress.",
-      "taboo.name": "Taboo",
+      "taboo.name": "Tabu",
       "taboo.description": "The resource isn't accepted for barter in most haunts (e.g. organs from heartsblooded people,gold teeth or certain narcotics).",
-      "tiring.name": "Tiring",
+      "tiring.name": "Ciężka",
       "tiring.description": "When you fail an action using this equipment, the size of its stress dice decreases by 1 for the remainder of the situation.",
-      "trusty.name": "Trusty",
+      "trusty.name": "Sprawdzona",
       "trusty.description": "When you roll for stress marked against a delve while using this item, roll two dice and pick the highest.Multiple instances of this tag stack as per the Brutal tag.",
-      "unreliable.name": "Unreliable",
+      "unreliable.name": "Zawodna",
       "unreliable.description": "When you fail an action using this equipment, it cannot be used for the remainder of the situation if in a landmark or for the remainder of the journey if on a delve.",
-      "volatile.name": "Volatile",
+      "volatile.name": "Wybuchowa",
       "volatile.description": "The resource may explode if mistreated.",
-      "wyrd.name": "Wyrd",
+      "wyrd.name": "Dziwna",
       "wyrd.description": "When you inflict stress with this item and roll the maximum amount, mark D6 stress to Echo"
     },
-
     "versions": {
       "0_5_0": {
         "changes": [
