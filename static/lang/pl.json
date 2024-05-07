@@ -228,12 +228,12 @@
                         "make-dramatic-entrance": "Zrób dramatyczne wejście, które będzie akcją Ryzykowną.",
                         "claim-a-d10-resource": "Zdobądź zasób o wartości co najmniej D10 z niebezpiecznego miejsca.",
                         "defend-a-haven": "Obroń schronienie przed atakiem.",
-                        "have-3-havens-know-your-name": "Have at least three havens know your name, for good or ill.",
+                        "have-3-havens-know-your-name": "Spraw, by co najmniej trzy schronienia znały twoje imię, pozytywnie lub negatywnie.",
                         "rush-into-danger": "Popędź ku niebezpieczeństwu jako pierwszy.",
-                        "have-cocktail-move-or-beast-named": "Have a cocktail, fighting move or legendary beast named after you.",
+                        "have-cocktail-move-or-beast-named": "Posiadaj koktajl, ruch bojowy lub legendarną bestię nazwaną twoim imieniem.",
                         "go-somewhere-no-one-stepped": "Udaj się w miejsce, w którym nikt inny nie postawił stopy od co najmniej stu lat.",
                         "win-unarmed-brawl": "Wygraj bijatykę w schronieniu.",
-                        "kick-someone-off": "Kick someone off a tall structure (they really deserved it)."
+                        "kick-someone-off": "Zrzuć kogoś z wysokiej konstrukcji (naprawdę na to zasłużył)."
                     },
                     "major": {
                         "acquire-rare-item": "Zdobądź rzadki lub potężny (wartość D12) przedmiot, najlepiej magiczny.",
@@ -241,11 +241,11 @@
                         "have-named-landmark": "Have a landmark or connection named after you.",
                         "upgrade-a-haunt": "Upgrade a haunt to D12.",
                         "save-haven": "Uratuj schronienie przed zniszczeniem lub zagładą.",
-                        "connect-three-havens": "Connect three havens to one another with permanent paths.",
+                        "connect-three-havens": "Połącz ze sobą trzy schronienia za pomocą stałych ścieżek.",
                         "save-the-day": "Pomyślnie wykonaj Niebezpieczną akcję, która uratuje sytuację.",
                         "catalogue-your-exploits": "Opisuj swoje wyczyny przez dłuższy czas; zrób to sam lub zatrudnij barda.",
-                        "lead-a-group-organisation": "Lead a group or organisation (other than your delving party).",
-                        "lead-delve-to-tier-3": "Successfully lead, and take full credit for, a delve that takes you to Tier 3 or deeper."
+                        "lead-a-group-organisation": "Pokieruj grupą lub organizacją (inną niż twoja główna drużyna).",
+                        "lead-delve-to-tier-3": "Pomyślnie poprowadź wyprawę na poziom 3 lub głębszy i weź za to wszystkie zasługi."
                     },
                     "zenith": {
                         "lead-haven-to-prosperity": "Poprowadź schronienie do dobrobytu.",
@@ -271,7 +271,7 @@
                         "gain-access-to-concealed-knowledge": "Uzyskaj dostęp do wiedzy, którą ktoś próbował ukryć.",
                         "gain-favour-with-faction": "Zdobądź przychylność frakcji, która pomoże ci dowiedzieć się więcej o twoim celu.",
                         "take-minor-mind-fallout": "Ponieś Pomniejszą Konsekwencję Umysłu.",
-                        "destroy-evidence-or-rhetoric": "Destroy evidence or rhetoric that proves your task to be impossible.",
+                        "destroy-evidence-or-rhetoric": "Zniszcz dowody lub argumentację, które dowodzą, że twoje zadanie jest niemożliwe.",
                         "sell-d8-resource-to-secure-secret": "Sprzedaj lub poświęć zasób o wartości D8 lub wyższej, aby zabezpieczyć sekret.",
                         "reach-landmark-on-tier-3": "Dotrzyj do miejsca na 3 poziomie Serca.",
                         "find-helpful-text": "Znajdź przydatny tekst.",
@@ -364,9 +364,9 @@
                 "name": "Pieśń Serca",
                 "description": "Kiedy śpisz, śnisz o Sercu. Jesteś na wpół obłąkany przebłyskami wiedzy, wystarczająco obłąkany, by zagłębiać się w podziemia, szukając objawień.",
                 "which-images-do-you-see": "Jakie trzy powtarzające się obrazy, symbole, osoby lub stworzenia widzisz w snach?",
-                "what-signs-do-you-look-for": "What signs do you look for to recognise where the Heart is strongest?",
-                "what-unearthly-sight-you-witnessed": "You recently witnessed an unearthly sight with another player character. Who was it, what happened and how did they react?",
-                "how-heart-touched-you": "Your connection to the Heart has touched you in some way. How does that manifest?",
+                "what-signs-do-you-look-for": "Jakich znaków szukasz, by rozpoznać, gdzie wpływ Serca jest najsilniejszy?",
+                "what-unearthly-sight-you-witnessed": "Niedawno byłeś świadkiem nieziemskiego widoku z innym bohaterem Gracza. Kto to był, co się stało i jak zareagował?",
+                "how-heart-touched-you": "Twoje połączenie z Sercem dotknęło Cię w jakiś sposób. Jak to się objawia?",
                 "beat": {
                     "minor": {
                         "name-the-heart": "Nazwij Serce, przeprowadzając długi rytuał. Od tej pory używaj tylko tej nazwy.",
@@ -377,33 +377,33 @@
                         "perform-rite-at-place-of-power-tier-2": "Przeprowadź rytuał w miejscu mocy (2 poziom Serce lub głębszy).",
                         "damage-or-sabotage-haven": "Uszkodź lub sabotuj schronienie, wpuszczając do środka wpływy Serca.",
                         "sacrifice-something-you-love": "Poświęć Sercu coś, co kochasz.",
-                        "allow-something-dangerous-of-heart-to-live": "Allow something dangerous of the Heart to live when you could have killed it.",
-                        "let-curiosity-lead-into-danger": "Let your curiosity lead you into danger.",
-                        "undergo-trance-like-vision": "Undergo a trance-like vision that lasts for hours.",
+                        "allow-something-dangerous-of-heart-to-live": "Pozwól żyć czemuś niebezpiecznemu pochodzącego z Serca, gdy mogłeś to zabić.",
+                        "let-curiosity-lead-into-danger": "Pozwól, żeby twoja ciekawość zaprowadziła cię do niebezpieczeństwa.",
+                        "undergo-trance-like-vision": "Poddaj się wizji/transowi, trwającemu kilka godzin.",
                         "communicate-with-something-of-heart": "Communicate with something of the Heart.",
-                        "witness-emissary-of-Heart": "Witness an emissary of the Heart Itself.",
+                        "witness-emissary-of-Heart": "Spotkaj wysłannika samego Serca.",
                         "experience-a-pulse": "Experience a pulse - the changing of the Heart from one state to another - first-hand.",
-                        "receive-insight-from-witch": "Receive insight from a witch, a heartsblooded person or something stranger still.",
-                        "gain-information-why-you have-been-chosen": "Gain information on why you have been chosen by the Heart.",
-                        "receive-strange-surgical-implant": "Receive a strange surgical implant or heartsblood transfusion.",
-                        "build-shrine": "Build a shrine to the Heart somewhere important.",
-                        "terrify-NPC-with-your-obsession": "Terrify or intrigue an NPC with your obsession.",
+                        "receive-insight-from-witch": "Otrzymaj radę od wiedźmy, kogoś sercokrwistego lub czegoś jeszcze dziwniejszego.",
+                        "gain-information-why-you have-been-chosen": "Dowiedz się, dlaczego zostałeś wybrany przez Serce.",
+                        "receive-strange-surgical-implant": "Otrzymaj dziwny chirurgiczny implant lub transfuzję sercokrwi.",
+                        "build-shrine": "Zbuduj kapliczkę Serca w ważnym miejscu.",
+                        "terrify-NPC-with-your-obsession": "Przeraź lub zaintryguj bohatera niezależnego swoją obsesją.",
                         "perform-service-to-NPC-witch": "Perform an act of service to an NPC witch.",
-                        "shelter-someone-touched-by-the-Heart": "Shelter someone touched by the Heart from persecution.",
+                        "shelter-someone-touched-by-the-Heart": "Uchroń kogoś dotkniętego Sercem przed prześladowaniem.",
                         "find-heart-touched-sapling": "Find a heart-touched sapling on a delve and bring it back to a haven for planting.",
-                        "convince-party-to-collect-cursed-resources": "Convince the party to collect Cursed resources on a delve, adding D6 to the delve's resistance."
+                        "convince-party-to-collect-cursed-resources": "Przekonaj drużynę do zbierania Przeklętych zasobów na wyprawie, dodając D6 do odporności wyprawy."
                     },
                     "major": {
                         "take-major-echo-fallout": "Ponieś Poważną Konsekwencję Echo.",
-                        "perform-rite-at-place-of-power-tier-3": "Perform a rite at a place of power (Tier 3 or deeper).",
-                        "sacrifice-someone-important": "Sacrifice someone important to the Heart.",
+                        "perform-rite-at-place-of-power-tier-3": "Przeprowadź rytuał w miejscu mocy (3 poziom Serca lub głębiej).",
+                        "sacrifice-someone-important": "Poświęć kogoś ważnego dla ciebie Sercu.",
                         "establish-bond-with-hearts-blood-beast": "Establish a bond with a hearts-blood beast (Tier 2 or deeper).",
                         "show-the-heart-majesty-to-outsider": "Show the truth of the Heart's majesty to an outsider (Tier 2 or deeper).",
                         "meet-emissary-of-heart": "Meet and learn from an emissary of the Heart.",
-                        "destroy-haven": "Destroy a haven, returning the land to the Heart.",
+                        "destroy-haven": "Zniszcz schronienie, zwracając ziemię Sercu.",
                         "one-bond-takes-critical-fallout": "One of your bonds takes Critical fallout thanks to your actions.",
                         "deliver-crucial-message": "Deliver a crucial message on behalf of the Heart.",
-                        "visit-3-vermissian-stations": "Visit three Vermissian Stations."
+                        "visit-3-vermissian-stations": "Odwiedź trzy stacje kolei Vermis."
                     },
                     "zenith": {
                         "become-one-with-the-heart": "Become one with the Heart, and bind your essence to it.",
@@ -417,29 +417,29 @@
             },
             "penitent": {
                 "name": "Pokutnik",
-                "description": "You betrayed the trust of your order. Due to negligence, cowardice or malice, you caused them great harm. Now, wracked with guilt, you have sworn to make amends by venturing deep into the Heart and performing acts in service of your order.",
-                "what-marks-your-order-out": "What marks your order out from others like it?",
+                "description": "Zdradziłeś zaufanie swojego zakonu. Z powodu zaniedbania, tchórzostwa lub złośliwości wyrządziłeś im wielką krzywdę. Teraz, dręczony poczuciem winy, poprzysiągłeś zadośćuczynić, zagłębiając się w Serce i wykonując czyny w służbie swojego zakonu.",
+                "what-marks-your-order-out": "Co wyróżnia Twój zakon spośród innych podobnych?",
                 "what-evidence-of-your-failings-is-visible": "What evidence of your failings is visible in the City Beneath?",
-                "how-others-were-involved-at-betrayal": "Pick one of the other player characters; they were present at your betrayal. How were they involved?",
-                "what-inspired-this": "Pick one of the other player characters; you look up to them as an example of how to live one's life. What inspired this?",
+                "how-others-were-involved-at-betrayal": "Wybierz jednego bohatera innego Gracza, który był obecny przy twojej zdradzie. W jaki sposób był w to zamieszany?",
+                "what-inspired-this": "Wybierz jednego bohatera innego Gracza, którego stawiasz jako wzór dobrego życia. Co było tego inspiracją?",
                 "beat": {
                     "minor": {
                         "take-minor-blood-fallout": "Ponieś Pomniejszą Konsekwencję Krwi.",
-                        "Perform-act-in-service-to-order": "Perform an act in service to your order.",
+                        "Perform-act-in-service-to-order": "Wykonaj czynność w służbie zakonu.",
                         "bring-bodily-harm": "Bring bodily harm to those who stand against your order.",
-                        "deescalate-situation": "De-escalate a situation that would have led to bloodshed.",
+                        "deescalate-situation": "Deeskaluj sytuację, która mogła doprowadzić do rozlewu krwi.",
                         "do-something-order-would-frown-upon": "Zrób coś, na co nie zgodziłby się twój zakon.",
                         "donate-needed-supplies": "Przekaż potrzebne zapasy do swojego zakonu.",
                         "establish-connection-important-to-order": "Establish a connection to a landmark that's important to your order.",
-                        "help-someone-vulnerable": "Help someone vulnerable with no expectation of repayment.",
+                        "help-someone-vulnerable": "Pomóż komuś bezbronnemu, nie oczekując zapłaty.",
                         "make-penance-at-important-site": "Pokutuj w miejscu, które jest ważne dla twojego zakonu.",
-                        "make-reparations-to-an-NPC": "Make reparations to an NPC that you have personally wronged.",
-                        "meet-NPC-who-hates-you": "Meet an NPC who hates you for what you've done.",
-                        "openly-attack-enemies-of-order": "Openly attack the enemies of your order.",
+                        "make-reparations-to-an-NPC": "Dokonaj zadośćuczynienia na rzecz bohatera niezależnego, którego osobiście skrzywdziłeś.",
+                        "meet-NPC-who-hates-you": "Spotkaj bohatera niezależnego, który nienawidzi cię za to, co zrobiłeś.",
+                        "openly-attack-enemies-of-order": "Otwarcie zaatakuj wrogów swojego zakonu.",
                         "punish-an-NPC": "Punish an NPC for wrongdoing.",
                         "put-yourself-in-great-danger": "Put yourself in great danger to protect your companions.",
                         "refuse-desirable-offer": "Refuse a desirable offer due to the restrictions of your penance.",
-                        "repair-something-physical": "Repair something physical - a bridge, a door, a wall, etc. - that someone needs.",
+                        "repair-something-physical": "Napraw coś fizycznego (most, drzwi, ścianę itp.), którego ktoś potrzebuje.",
                         "rescue-NPC-belonging-to-order": "Uratuj lub pomóż BN należącemu do twojego zakonu.",
                         "sabotage-the-assets": "Sabotage the assets of those who stand against your order.",
                         "spare-someone-life": "Ocal czyjeś życie.",
@@ -450,7 +450,7 @@
                         "take-major-blood-fallout": "Ponieś Poważną Konsekwencję Krwi.",
                         "convert-important-NPC": "Convert an important NPC to your order's cause.",
                         "establish-continual-connections": "Establish continual connections between two landmarks on different tiers that are important to your order.",
-                        "perform-an-act-undo-penance": "Perform an act that, if your order discovered it, would undo your penance.",
+                        "perform-an-act-undo-penance": "Dokonaj czynu, który cofnąłby twoją pokutę, gdyby twój zakon się o nim dowiedział.",
                         "betray-someone": "Zdradź kogoś, kto naprawdę ci ufa.",
                         "save-landmark": "Save a landmark dedicated to your order.",
                         "attack-the-enemies-of-order": "Attack the enemies of your order when the odds are massively stacked against you.",
@@ -459,8 +459,8 @@
                         "perform-an-undesirable-task": "A member of your order begs you to perform an undesirable task; to refuse would be disgraceful."
                     },
                     "zenith": {
-                        "be-truly-absolved-of-your-sins": "Be truly absolved of your sins by a higher power.",
-                        "betray-your-order": "Betray your order - intentionally, this time."
+                        "be-truly-absolved-of-your-sins": "Uzyskaj prawdziwe rozgrzeszenie poprzez siłę wyższą.",
+                        "betray-your-order": "Zdradzić swój zakon, tym razem celowo."
                     }
                 },
                 "ability.core": {
@@ -494,17 +494,17 @@
                     "minor": {
                         "call_of_the_wild.description": "With an almighty howl or a resounding blast on your horn, you pitch the area around you into disarray. Gain the Wild domain. Once per session, you can summon a chaotic horde of beasts (or just one big one) that throws the area around you into bestial chaos to conceal an escape, make communication nigh-impossible or create a distraction.",
                         "call_of_the_wild.name": "Zew Natury",
-                        "darkling_eyes.description": "Years of exploring the City Beneath have rid you of the need for creature comforts such as warmth, light and shelter. Gain the Delve skill. Your jet-black eyes allow you to see in pitch blackness as though it were full day light.",
+                        "darkling_eyes.description": "Lata podróży poprzez Miasto Poniżej pozbawiły cię potrzeby korzystania z wygód, takich jak ciepło, światło i schronienie. Zdobywasz umiejętność „Wyprawa”. Twoje kruczoczarne oczy pozwalają ci widzieć w ciemności jak za dnia.",
                         "darkling_eyes.name": "Darkling Eyes",
-                        "desperate_measures.description": "You've eaten people. Sometimes to survive; other times to prosper. Gain the Desolate domain. You can consume the flesh of something or someone that you have recently killed and gain a skill associated with them for the remainder of the situation.",
-                        "desperate_measures.name": "Desperate Measures",
-                        "dominion.description": "Gain access to one of the following domains: Cursed, Desolate, Occult, Religion, Wild, Warren. You can take this advance more than once.",
+                        "desperate_measures.description": "Jadłeś ludzi. Czasami po to, by przetrwać, innym razem dla smaku. Utrzymujesz domenę „Odludzie”. Gdy zjesz mięso czegoś lub kogoś, kogo niedawno zabiłeś, zyskujesz umiejętność związaną z nim na resztę sytuacji.",
+                        "desperate_measures.name": "Desperackie Środki",
+                        "dominion.description": "Zyskujesz dostęp do jednej z następujących domen: Klątwa, Odludzie, Okultyzm, Religia, Dzicz, Norowisko. Możesz wybrać tę zdolność więcej niż raz.",
                         "dominion.name": "Dominum",
                         "fell_metabolism.description": "Food is just fuel to stoke the fire undying within you. Gain the Endure skill. When you use THE RED FEAST ability, you may choose to have your attacks gain the Brutal tag for a number of actions equal to the amount rolled on the resource dice instead of gaining a domain.",
                         "fell_metabolism.name": "Fell Metabolism",
                         "fractured_form.description": "Your flesh glistens with mirror shards that twitch and glitter to blur your silhouette. Gain the Evade skill. Small animals and insects are drawn to you and will perform your bidding to their best of their limited ability. Once per delve, you may use your adoring swarm as a piece of equipment (Delve D8).",
                         "fractured_form.name": "Fractured Form",
-                        "gut_instinct.description": "Gain access to one of the following skills: Compel, Delve, Discern, Endure, Evade, Hunt, Kill, Mend. You can take this advance more than once.",
+                        "gut_instinct.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Odporność, Unik, Polowanie, Zabijanie, Łączenie. Możesz wybrać tę zdolność więcej niż raz.",
                         "gut_instinct.name": "Gut Instinct",
                         "inhuman.description": "Zdobywasz +1 Ochrony we Krwi, Echo, Szczęściu lub Zapasach. Możesz wybrać tę zdolność więcej niż raz.",
                         "inhuman.name": "Nieczłowiek",
@@ -591,7 +591,7 @@
                         "enter_the_grey.name": "Prosto w Szarość"
                     },
                     "minor": {
-                        "adept.description": "Gain access to one of the following skills: Compel, Delve, Discern, Endure, Evade, Hunt, Kill, Sneak. You can take this advance more than once.",
+                        "adept.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Odporność, Unik, Polowanie, Zabijanie, Skradanie. Możesz wybrać tę zdolność więcej niż raz.",
                         "adept.name": "Adept",
                         "deathless.description": "You've already died once; you can suffer through this. Gain the Endure skill. Roll Endure+Religion to ignore the effects of ongoing Minor Blood or Echo fallout until the end of the situation.",
                         "deathless.name": "Deathless",
@@ -714,7 +714,7 @@
                         "waxen_sigils.name": "Waxen Sigils",
                         "whispers_of_the_hive.description": "Gain access to one of the following domains: Cursed, Desolate, Occult, Religion, Technology, Warren, Wild. You can take this advance more than once.",
                         "whispers_of_the_hive.name": "Whispers Of The Hive",
-                        "wisdom_flows_so_sweet.description": "Gain access to one of the following skills: Compel, Delve, Discern, Endure, Hunt, Kill, Mend, Sneak. You can take this advance more than once.",
+                        "wisdom_flows_so_sweet.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Odporność, Polowanie, Zabijanie, Łączenie, Skradanie. Możesz wybrać tę zdolność więcej niż raz.",
                         "wisdom_flows_so_sweet.name": "Wisdom Flows So Sweet",
                         "blossom_within_the_skull.description": "ANNIHILATION gains the Ranged tag.",
                         "blossom_within_the_skull.name": "Blossom Within The Skull",
@@ -794,7 +794,7 @@
                         "grave_duty.name": "Grobowa Służba",
                         "grave_duty.description": "You spent time amongst the dead in the sepulchres, and time amongst the living at the funerals. Gain the Warren domain. Once per session, when you console or bolster an ally in times of fear and uncertainty, they gain +1 Mind protection until the end of the session.",
                         "the_goddess_gifts.name": "The Goddess' Gifts",
-                        "the_goddess_gifts.description": "Gain access to one of the following skills: Compel, Discern, Endure, Evade, Hunt, Kill, Mend. You can take this advance more than once.",
+                        "the_goddess_gifts.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Obserwacja, Odporność, Unik, Polowanie, Zabijanie, Łączenie, Skradanie. Możesz wybrać tę zdolność więcej niż raz.",
                         "the_left_hand_of_the_goddess.name": "Lewa Ręka Bogini",
                         "the_left_hand_of_the_goddess.description": "Wierni są obfitym ogrodem, a twoim zadaniem jest wyplenienie chorób i zepsucia u podstaw. Zdobywasz umiejętność „Zabijanie” i +1 Ochrony Krwi.",
                         "liars_burden.name": "Liar's Burden",
@@ -888,7 +888,7 @@
                     },
                     "minor": {
                         "advanced_training.name": "Advanced Training",
-                        "advanced_training.description": "Gain access to one of the following skills: Compel, Delve, Discern, Endure, Evade, Hunt, Kill, Mend, Sneak. You can take this advance more than once.",
+                        "advanced_training.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Odporność, Unik, Polowanie, Zabijanie, Łączenie, Skradanie. Możesz wybrać tę zdolność więcej niż raz.",
                         "the_better_part_of_valour.name": "The Better Part Of Valour",
                         "the_better_part_of_valour.description": "You'll get everyone out alive, if not intact. Gain the Evade skill. If you succeed on an Evade roll, all nearby allies roll with mastery when trying to evade until you next act.",
                         "close_quarters.name": "Close Quarters",
@@ -999,7 +999,7 @@
                         "eyes_in_the_back_of_your_head.name": "Eyes In The Back Of Your Head",
                         "eyes_in_the_back_of_your_head.description": "You've set up enough crooked deals to know when you're about to be suckered into one. Gain the Discern skill. When you stand still and concentrate, you can quite literally see behind you as though you had eyes in the back of your head. Doing this for too long causes headaches and nausea.",
                         "jack_of_all_trades.name": "Wszechstronnie Uzdolniony",
-                        "jack_of_all_trades.description": "Gain access to one of the following skills: Compel, Discern, Endure, Hunt, Kill, Mend, Sneak. You can take this advance more than once.",
+                        "jack_of_all_trades.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Obserwacja, Odporność, Polowanie, Zabijanie, Łączenie, Skradanie. Możesz wybrać tę zdolność więcej niż raz.",
                         "lost_it_all.name": "Lost It All",
                         "lost_it_all.description": "You understand - truly - the wretched sensation of having less than nothing. Gain the Desolate domain. Once per session ask the GM where the nearest source of wealth is and they will tell you.",
                         "make_do.name": "Make Do",
@@ -1100,7 +1100,7 @@
                         "been_everywhere.name": "Been Everywhere",
                         "been_everywhere.description": "Gain access to one of the following domains: Cursed, Desolate, Haven, Occult, Religion, Technology, Warren. You can take this advance more than once.",
                         "by_any_means.name": "By Any Means",
-                        "by_any_means.description": "Gain access to one of the following skills: Compel, Delve, Discern, Evade, Hunt, Kill, Sneak, Mend. You can take this advance more than once.",
+                        "by_any_means.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Unik, Polowanie, Zabijanie, Łączenie, Skradanie. Możesz wybrać tę zdolność więcej niż raz.",
                         "frontier_etiquette.name": "Frontier Etiquette",
                         "frontier_etiquette.description": "Your time in the City Above wasn't for naught; you learned how to hold a conversation, smile and nod in all the right places and read a room to avoid offence. Gain the Haven domain. The first time each session that you use a haunt, your spent resource counts as one dice size higher.",
                         "litanies_of_false_power.name": "Litanie Fałszywych Potęg",
@@ -1221,7 +1221,7 @@
                         "steelbones.name": "Steelbones",
                         "steelbones.description": "Your armour bolts onto special implants that absorb harmful energy and distribute it through your body. Gain the Endure skill. You can fall distances of up to 3 storeys without taking damage.",
                         "student_of_the_sages.name": "Student Of The Sages",
-                        "student_of_the_sages.description": "Gain access to one of the following skills: Compel, Delve, Discern, Endure, Hunt, Kill, Mend. You can take this advance more than once.",
+                        "student_of_the_sages.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Odporność, Polowanie, Zabijanie, Łączenie. Możesz wybrać tę zdolność więcej niż raz.",
                         "tunnel_rat.name": "Tunnel Rat",
                         "tunnel_rat.description": "You have performed the Rite of Suffocation, and know ways of slowing your breathing to survive longer. Gain the Warren domain. You can hold your breath for a very long time, allowing you to stay underwater or in toxic areas for extended periods.",
                         "well_travelled.name": "Well Travelled",
@@ -1311,7 +1311,7 @@
                         "divinity.name": "Divinity",
                         "divinity.description": "You were inducted into a coven who believe that witches are blessed by the gods; you recognise a second heartbeat, unknowable and sacred, inside you. Gain the Religion domain. Roll Discern+Religion to follow the secret  signs in an inhabited landmark that lead to the hidden places of worship where you are revered as a messenger of the Heart Itself.",
                         "heart_wise.name": "Heart-Wise",
-                        "heart_wise.description": "Gain access to one of the following skills: Compel, Delve, Discern, Endure, Hunt, Kill, Mend. You can take this advance more than once.",
+                        "heart_wise.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Odporność, Polowanie, Zabijanie, Łączenie. Możesz wybrać tę zdolność więcej niż raz.",
                         "implacable.name": "Implacable",
                         "implacable.description": "You have withstood worse torments, and you will go onto do so again; through your blood you are stable, eternal, unwavering. Gain the Endure skill. Once per session, add 1 to a resistance of your choice. Remove the +1 at the end of the session.",
                         "the_old_blood.name": "The Old Blood",
@@ -1502,7 +1502,7 @@
                     "blinded.name": "Blinded",
                     "blinded.description": "You can't see, or can see so little that you might as well be blind. It might be permanent. Any task involving vision (so, most of them) becomes Dangerous. [Ongoing]",
                     "broken_arm.name": "Broken Arm",
-                    "broken_arm.description": "Your arm breaks under the strain, and splintered bone juts up through your skin. You can't use the arm until it heals, which will make some tasks Risky or Dangerous,and others impossible. This fallout can be downgraded to or upgraded from BATTERED. [Ongoing]",
+                    "broken_arm.description": "Twoja ręka łamię się pod wpływem wysiłku, a odłamki kości przebijają się przez skórę. Nie możesz używać ręki, dopóki się nie zagoi, co sprawi, że niektóre akcje będą Ryzykowne lub Niebezpieczne, a inne Niemożliwe. Ta konsekwencja może zostać obniżona lub podwyższona z BATTERED. [Trwająca]",
                     "broken_leg.name": "Broken Leg",
                     "broken_leg.description": "Your leg bones splinter and crack. Any action involving the leg (climbing, moving above a crawl) automatically fails. This fallout can be downgraded to or upgraded from LIMPING. [Ongoing]",
                     "critical_injury.name": "Critical Injury",
@@ -1773,10 +1773,10 @@
             },
             "0_8_1": {
                 "changes": [
-                    "Added italian translations"
+                    "Dodano tłumaczenia na język włoski."
                 ],
                 "notes": [
-                    "Thanks to Arcadio21 for providing the italian translations."
+                    "Podziękowania dla Arcadio21 za dostarczenie włoskich tłumaczeń."
                 ],
                 "version": "v0.8.1"
             },
@@ -1791,24 +1791,24 @@
             },
             "0_8_3": {
                 "bug_fixes": [
-                    "Fix warnings about using deprecated \"name\" instead of \"id\"",
-                    "Fix problem with loading compendium entries that have been translated",
+                    "Naprawiono ostrzeżenia o używaniu przestarzałego \"name\" zamiast \"id\".",
+                    "Naprawiono problem z ładowaniem wpisów kompendium, które zostały przetłumaczone.",
                     "Fix dragged compendium items not being having their names translated"
                 ],
                 "changes": [
-                    "Dragging compendium items will now result in an immediately translated name"
+                    "Przeciąganie elementów kompendium będzie teraz skutkować natychmiastowym przetłumaczeniem nazwy."
                 ],
                 "version": "v0.8.3"
             },
             "0_8_4": {
                 "bug_fixes": [
-                    "Dragging compendium items will no longer accidentally create a duplicate"
+                    "Przeciąganie elementów kompendium nie spowoduje już przypadkowego utworzenia duplikatu."
                 ],
                 "version": "v0.8.4"
             },
             "0_8_5": {
                 "bug_fixes": [
-                    "It is once again possible to open items directly from the compendium"
+                    "Ponownie możliwe jest otwieranie przedmiotów bezpośrednio z kompendium."
                 ],
                 "version": "v0.8.5"
             },
@@ -1820,8 +1820,8 @@
             },
             "0_8_7": {
                 "changes": [
-                    "Added an option to ignore protection on stress rolls.",
-                    "Users can now click tags and view tag description from preview on character sheet.",
+                    "Dodano opcję ignorowania ochrony przy rzutach na stres.",
+                    "Użytkownicy mogą teraz klikać tagi i wyświetlać ich opisy z podglądu na karcie postaci.",
                     "Buttons on top of sheet size more consistently so you don't end up with one long button."
                 ],
                 "version": "v0.8.7"
