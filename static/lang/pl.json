@@ -776,12 +776,12 @@
                     "spireblack_brazier_lit": "Spireblack brazier (lit)",
                     "spireblack_brazier_unlit": "Spireblack brazier (unlit)",
                     "breech_loading_pistol": "Pistolet skałkowy",
-                    "seekers_blade": "Seeker's blade",
+                    "seekers_blade": "Ostrze Poszukiwacza",
                     "scripture_etched_bandages": "Scripture-etched bandages and blessed oils",
                     "staff": "Kostur"
                 },
                 "resource": {
-                    "single_devotional_candle": "A single devotional candle that burns with a silver flame"
+                    "single_devotional_candle": "Pojedyncza świeca ofiarna, płonąca srebrnym płomieniem"
                 },
                 "ability": {
                     "core": {
@@ -791,12 +791,12 @@
                     "minor": {
                         "blessed_deprivation.name": "Blessed Deprivation",
                         "blessed_deprivation.description": "In your darkest hour, She will bless you with her immaculate grace. Gain the Desolate domain. When you are suffering from ongoing Supplies fallout, gain the Trusty tag when you roll to inflict stress on delves.",
-                        "grave_duty.name": "Grave Duty",
+                        "grave_duty.name": "Grobowa Służba",
                         "grave_duty.description": "You spent time amongst the dead in the sepulchres, and time amongst the living at the funerals. Gain the Warren domain. Once per session, when you console or bolster an ally in times of fear and uncertainty, they gain +1 Mind protection until the end of the session.",
                         "the_goddess_gifts.name": "The Goddess' Gifts",
                         "the_goddess_gifts.description": "Gain access to one of the following skills: Compel, Discern, Endure, Evade, Hunt, Kill, Mend. You can take this advance more than once.",
-                        "the_left_hand_of_the_goddess.name": "The Left Hand Of The Goddess",
-                        "the_left_hand_of_the_goddess.description": "The faithful are a bountiful garden, and it is your task to excise disease and corruption at the root. Gain the Kill skill and +1 Blood Protection.",
+                        "the_left_hand_of_the_goddess.name": "Lewa Ręka Bogini",
+                        "the_left_hand_of_the_goddess.description": "Wierni są obfitym ogrodem, a twoim zadaniem jest wyplenienie chorób i zepsucia u podstaw. Zdobywasz umiejętność „Zabijanie” i +1 Ochrony Krwi.",
                         "liars_burden.name": "Liar's Burden",
                         "liars_burden.description": "The moon beneath does not tolerate the wicked words of sinners. Gain the Discern skill. If you suspect an NPC is lying to you, roll Discern+Religion. On a success, if they were lying, they mark D4 stress; their mouth streams with blood as though they had attempted to chew on broken glass.",
                         "incandescent_communion.name": "Incandescent Communion",
@@ -827,11 +827,11 @@
                         "avatar_of_moonlight.description": "When you use OATH OF FURY, you can choose to replace the benefits granted with +2 Echo protection.In addition, when you use the Mend skill on an ally, instead of removing stress you may remove Minor Blood or Mind fallout on a successful roll. At the end of the session, if you have not removed both Blood and Mind fallout from your allies, mark D6 stress to Mind.",
                         "avatar_of_shadows.name": "Avatar of Shadows",
                         "avatar_of_shadows.description": "When you use OATH OF FURY, you can choose to replace the benefits granted with +2 Fortune protection and your attacks (even melee) gaining the Extreme Range tag. At the end of the session, if you have not taken the life of a worthy creature, mark D6 stress to Mind.",
-                        "fragment_of_lekole.name": "Fragment Of Lekolé",
-                        "fragment_of_lekole.description": "The weapon gains the Brutal tag.",
-                        "fragment_of_lombre.name": "Fragment Of Lombré",
+                        "fragment_of_lekole.name": "Fragment Lekolé",
+                        "fragment_of_lekole.description": "Broń otrzymuje tag Brutalny.",
+                        "fragment_of_lombre.name": "Fragment Lombré",
                         "fragment_of_lombre.description": "The weapon gains the Smoke tag (it manifests like ink dropped in water) and no longer creates noise - in fact, it dampens all nearby noise",
-                        "fragment_of_limye.name": "Fragment Of Limyé",
+                        "fragment_of_limye.name": "Fragment Limyé",
                         "fragment_of_limye.description": "When you use OATH OF SAGACITY, you and all nearby allies remove D4 stress from Blood",
                         "implacable_faith.name": "Implacable Faith",
                         "implacable_faith.description": "When you take stress due to attempting a Risky or Dangerous action, the stress dice is reduced by 1 step",
@@ -851,7 +851,7 @@
                         "oath_of_community.description": "You are scarred and battered from defending the defenceless, and you bear a sacred shield adorned with the wisdom of the Goddesses. Gain +1 Blood protection. When a nearby ally is attacked and you're ready to defend them, their Blood Protection increases by 1.",
                         "oath_of_fury.name": "Oath of Fury",
                         "oath_of_fury.description": "You are but a vessel for the goddesses three to enact their will on the world through your hand. Roll Endure+Religion to beseech Damnou to lend you Her fury as you adorn yourself with sacred silver symbols. On a success, until the end of the session, you gain the Kill skill and your attacks gain the Brutal tag.If you already possess the Kill skill, gain a knack relevant to an intended target. At the end of the session, if you have not taken the life of a worthy creature, mark D6 stress to Mind. The minor advances below grant access to alternate versions of OATH OF FURY. When you cast it, you can choose any version you can access. If you cast OATH OF FURY an additional time without meeting the requirements listed at the end of the spell, you mark D6 stress to Mind immediately.",
-                        "oath_of_sagacity.name": "Oath Of Sagacity",
+                        "oath_of_sagacity.name": "Przysięga Zuchwałości",
                         "oath_of_sagacity.description": "You have learned one of the secret names of Three-Fold Damnou, and when you speak it aloud your enemies are struck senseless by its power. The name of the Goddess functions as the following weapon: (Kill D6, Spread, Debilitating, Maddening, One-Shot).",
                         "oath_of_tenacity.name": "Oath Of Tenacity",
                         "oath_of_tenacity.description": "She laid a kss of stars and secrets upon your forehead, and you are infused with her tremendous determination. When you succeed at a Risky action, increase the size of the stress dice you inflict by 1 step. When you succeed at a Dangerous action, increase the size of the stress dice you inflict by 2 steps. You can choose to make an action Risky or Dangerous, even if it's Standard, to gain access to this benefit.",
@@ -1184,7 +1184,7 @@
             },
             "vermissian_knight": {
                 "description": "<p>The Vermissian is a cursed, centuries-old mass transport network that the people from the City Above built to get from place to place quicker. To power it, they tapped into the wellspring of potential that is the Heart, and damned every single tunnel and station to eternal weirdness. The Vermissian never officially opened. Now, desperate people, fringe historians and heretic cults hide in the infrastructure, using the strange unreality within to further their own ends.</p> <p>Using barely-understood technology and living in the space between worlds, the Vermissian Knights do their level best to understand the parasite reality and protect others they find there. They are in high demand as companions on delves: they have an understanding of the Heart, a good sword arm and a suit of powered armour built from scavenged train materials that helps keep them (and their allies) alive.</p> <p>Knights will inscribe the names of landmarks that they have discovered, or found stable routes to, on their armour - it is as much a research project and an advertisement of their prowess as it is a means of protection. Each knight's suit is utterly unique, using technology taken from a dozen different places: different gauges of steels, different weights and levels of protection and flexibility and controls that are often inscrutable to anyone but the creator themselves</p>",
-                "name": "Rycerz Trakcji",
+                "name": "Vermisiański Rycerz",
                 "equipment": {
                     "pneumatic_hammer": "Młot pneumatyczny",
                     "scrapsword": "Scrapsword",
