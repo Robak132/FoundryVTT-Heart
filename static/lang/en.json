@@ -834,7 +834,7 @@
                         "fragment_of_limye.name": "Fragment Of Limyé",
                         "fragment_of_limye.description": "When you use OATH OF SAGACITY, you and all nearby allies remove D4 stress from Blood",
                         "implacable_faith.name": "Implacable Faith",
-                        "implacable_faith.description": "When you take stress due to attempting a Risky or Dangerous action, the stress dice is reduced by 1 step",
+                        "implacable_faith.description": "When you take stress due to attempting a Risky or Dangerous action, the stress dice is reduced by 1 step.",
                         "glorious_resurgence.name": "Glorious Resurgence",
                         "glorious_resurgence.description": "Once per session, when you succeed at a Risky or Dangerous action, clear all stress marked against your resistances",
                         "abide_with_me.name": "Abide With Me",
