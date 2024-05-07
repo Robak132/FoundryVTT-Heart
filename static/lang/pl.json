@@ -214,36 +214,36 @@
                 "beat": {
                     "minor": {
                         "charm-someone": "Oczaruj kogoś opowieściami o twoich wyczynach.",
-                        "engage-in-reckless-abandon": "Engage in reckless abandon with drink, drugs or sex.",
-                        "slay-a-beast-d10": "Slay a beast that drops resources of D10 or higher.",
+                        "engage-in-reckless-abandon": "Oddaj się lekkomyślnym uciechom poprzez alkohol, narkotyki lub seks.",
+                        "slay-a-beast-d10": "Zabij bestię, z której pochodzą zasoby o wartości D10 lub wyższej.",
                         "access-haven-tier-2": "Dotrzyj do schronienia na 2 poziomie Serca.",
                         "take-major-blood-fallout": "Ponieś Poważną Konsekwencję Krwi.",
                         "take-major-fortune-fallout": "Ponieś Poważną Konsekwencję Szczęścia.",
                         "defeat-foe-one-on-one": "Pokonaj potężnego wroga sam na sam.",
                         "help-important-figure": "Pomóż ważnej lub wpływowej postaci w schronieniu.",
-                        "refuse-to-back-down": "Refuse to back down when it would be beneficial to do so.",
+                        "refuse-to-back-down": "Odmów wycofania się, gdy byłoby to dla ciebie korzystne.",
                         "establish-connection": "Utwórz połączenie.",
                         "get-in-trouble-with-hounds": "Wplącz się w kłopoty z Ogarami.",
                         "rescue-someone": "Uratuj kogoś od niebezpieczeństwa.",
                         "make-dramatic-entrance": "Zrób dramatyczne wejście, które będzie ryzykowną akcją.",
-                        "claim-a-d10-resource": "Claim a resource of at least D10 from a dangerous location.",
+                        "claim-a-d10-resource": "Zdobądź zasób o wartości co najmniej D10 z niebezpiecznego miejsca.",
                         "defend-a-haven": "Obroń schronienie przed atakiem.",
                         "have-3-havens-know-your-name": "Have at least three havens know your name, for good or ill.",
-                        "rush-into-danger": "Rush into danger before anyone else.",
+                        "rush-into-danger": "Popędź ku niebezpieczeństwu jako pierwszy.",
                         "have-cocktail-move-or-beast-named": "Have a cocktail, fighting move or legendary beast named after you.",
-                        "go-somewhere-no-one-stepped": "Go somewhere where no-one else has stepped foot for at least a century.",
+                        "go-somewhere-no-one-stepped": "Udaj się w miejsce, w którym nikt inny nie postawił stopy od co najmniej stu lat.",
                         "win-unarmed-brawl": "Wygraj bijatykę w schronieniu.",
                         "kick-someone-off": "Kick someone off a tall structure (they really deserved it)."
                     },
                     "major": {
-                        "acquire-rare-item": "Acquire a rare or powerful (D12 value) item, preferably magic.",
+                        "acquire-rare-item": "Zdobądź rzadki lub potężny (wartość D12) przedmiot, najlepiej magiczny.",
                         "slay-large-beast": "Zabij bestię, która jest co najmniej pięć razy większa od ciebie.",
                         "have-named-landmark": "Have a landmark or connection named after you.",
                         "upgrade-a-haunt": "Upgrade a haunt to D12.",
                         "save-haven": "Uratuj schronienie przed zniszczeniem lub zagładą.",
                         "connect-three-havens": "Connect three havens to one another with permanent paths.",
                         "save-the-day": "Pomyślnie wykonaj niebezpieczną akcję, która uratuje dzień.",
-                        "catalogue-your-exploits": "Catalogue your exploits for an extended period; either do it yourself or hire a bard.",
+                        "catalogue-your-exploits": "Opisuj swoje wyczyny przez dłuższy czas; zrób to sam lub zatrudnij barda.",
                         "lead-a-group-organisation": "Lead a group or organisation (other than your delving party).",
                         "lead-delve-to-tier-3": "Successfully lead, and take full credit for, a delve that takes you to Tier 3 or deeper."
                     },
@@ -259,11 +259,11 @@
             },
             "enlightenment": {
                 "name": "Oświecenie",
-                "description": "Everyone said that what you intended to do was impossible, but you've never let \"possibility\" slow you down. You're looking for secrets hidden deep within the earth. You know that the Heart holds the answers to all your questions; no matter what it takes, you'll get them.",
+                "description": "Wszyscy mówili ci, że to, co zamierzasz zrobić, jest niemożliwe, ale ty nigdy nie pozwoliłeś, by „niemożliwość” cię ograniczała. Szukasz tajemnic ukrytych głęboko w ziemi. Wiesz, że Serce zawiera odpowiedzi na wszystkie twoje pytania. Bez względu na to, co będziesz musiał zrobić, dostaniesz je.",
                 "what-are-you-attempting-to-achieve": "Jaką „niemożliwą” rzecz próbujesz osiągnąć w Mieście Poniżej?",
                 "what-is-the-first-step": "Jaki jest pierwszy krok w Twojej podróży?",
-                "what-have-you-learned-from-other": "Choose another player character. They've been invaluable in your journey so far. What have you learned from them?",
-                "why-do-you-suspect-other": "Choose another player character. You know they're hiding secrets from you - why do you suspect they're doing this?",
+                "what-have-you-learned-from-other": "Wybierz inną postać Gracza. Był on nieoceniony w twojej dotychczasowej podróży. Czego się od niego nauczyłeś?",
+                "why-do-you-suspect-other": "Wybierz inną postać Gracza. Wiesz, że ukrywa przed tobą tajemnice. Dlaczego podejrzewasz, że to robi?",
                 "beat": {
                     "minor": {
                         "allude-to-the-events": "Nawiąż do wydarzeń, które doprowadziły cię do poszukiwania zakazanej wiedzy w celu wykonania niemożliwego zadania.",
@@ -273,15 +273,15 @@
                         "take-minor-mind-fallout": "Ponieś Pomniejszą Konsekwencję Umysłu.",
                         "destroy-evidence-or-rhetoric": "Destroy evidence or rhetoric that proves your task to be impossible.",
                         "sell-d8-resource-to-secure-secret": "Sprzedaj lub poświęć zasób o wartości D8 lub wyższej, aby zabezpieczyć sekret.",
-                        "reach-landmark-on-tier-3": "Reach a landmark on tier 3 of the Heart.",
+                        "reach-landmark-on-tier-3": "Dotrzyj do miejsca na 3 poziomie Serca.",
                         "find-helpful-text": "Znajdź przydatny tekst.",
                         "succeed-at-task-that-someone-failed": "Odnieś sukces w zadaniu, którego ktoś inny niedawno nie zdołał wykonać.",
                         "mark-d8-stress-to-NPC-bond": "Mark D8 stress to an NPC bond and describe what happens.",
                         "acquire-bond-who-has-information": "Zdobądź więź z postacią niezależną, która ma dostęp do przydatnych informacji.",
                         "establish-a-connection": "Utwórz połączenie podczas wyprawy.",
                         "take-minor-supplies-fallout": "Ponieś Pomniejszą Konsekwencję Zapasów.",
-                        "flee-from-combat": "Flee from combat or a similarly dangerous situation, or hide until it all blows over.",
-                        "release-your-findings-in-journal": "Release your shocking findings in a journal published in the City Above.",
+                        "flee-from-combat": "Ucieknij przed walką lub podobną niebezpieczną sytuacją albo ukryj się, aż ucichnie.",
+                        "release-your-findings-in-journal": "Ujawnij swoje szokujące odkrycia w gazecie opublikowanej w Mieście Powyżej.",
                         "meet-someone-from-your-old-life": "Meet someone from your old life who's trying to get you to give up on your quest.",
                         "dissect-something-interrogate-someone": "Dissect something or interrogate someone that can shed light on your task.",
                         "buy-experimental-equipment": "Kup najnowocześniejszy, eksperymentalny lub precyzyjnie wykonany sprzęt i użyj go na wyprawie."
@@ -289,18 +289,18 @@
                     "major": {
                         "take-major-mind-fallout": "Ponieś Poważną Konsekwencję Umysłu.",
                         "kill-someone-trying-to-stop-you": "Zabij kogoś, kto próbuje powstrzymać cię przed zdobyciem wiedzy.",
-                        "sell-a-d12-resource": "Sell or sacrifice a D12 resource to secure a secret.",
+                        "sell-a-d12-resource": "Sprzedaj lub poświęć zasób o wartości D12, by zabezpieczyć sekret.",
                         "destroy-haunt-to-learn-about-task": "Destroy a haunt to learn more about your task.",
                         "gain-authority-within-a-faction": "Gain authority within a faction that you can use to learn more about your goal.",
-                        "find-knowledge-on-tier-3": "Find a source of knowledge on Tier 3 of the Heart.",
+                        "find-knowledge-on-tier-3": "Znajdź źródło wiedzy na 3 poziomie Serca.",
                         "take-major-supplies-fallout": "Ponieś Poważną Konsekwencję Zapasów.",
                         "acquire-renowned-equipment": "Zdobądź renomowany sprzęt.",
                         "attract-a-protege": "Attract a protégé who's read your work and is determined to learn more.",
-                        "explore-a-mysterious-tower": "Explore a mysterious tower whilst on a delve (this increases the difficulty of the delve by D12)."
+                        "explore-a-mysterious-tower": "Zbadaj tajemniczą wieżę podczas wyprawy (zwiększy to poziom trudności wyprawy o D12)."
                     },
                     "zenith": {
-                        "find-final-secret-solve-impossible-task": "Find the final secret you have so desperately sought and use it to solve your impossible task.",
-                        "find-final-secret-destroy-it": "Find the final secret you have so desperately sought and destroy it so noone else can know of it."
+                        "find-final-secret-solve-impossible-task": "Znajdź sekret, którego tak desperacko szukałeś, i wykorzystaj go do rozwiązania niemożliwego zadania.",
+                        "find-final-secret-destroy-it": "Znajdź sekret, którego tak desperacko szukałeś i zniszcz go, aby nikt inny nie mógł się o nim dowiedzieć."
                     }
                 },
                 "ability.core": {
@@ -320,15 +320,15 @@
                     "minor": {
                         "receive-orders": "Otrzymaj rozkazy od swoich władców.",
                         "follow-orders-from-your-masters": "Follow orders from your masters, even though they put you at risk.",
-                        "rebel-against-your-orders": "Rebel against your orders, even though this puts you at risk.",
+                        "rebel-against-your-orders": "Zbuntuj się przeciwko rozkazom, nawet jeśli narazi cię to na ryzyko.",
                         "forge-friendship-with-NPC": "Forge a friendship or romantic relationship with an NPC. - Get into trouble as someone discovers your chequered past.",
-                        "betray-someone": "Betray someone because of your true nature.",
+                        "betray-someone": "Zdradź kogoś z powodu twojej prawdziwej natury.",
                         "take-minor-fortune-fallout": "Ponieś Pomniejszą Konsekwencję Szczęścia.",
-                        "do-something-dangerous": "Do something dangerous to conceal your past.",
+                        "do-something-dangerous": "Zrób coś niebezpiecznego, aby ukryć swoją przeszłość.",
                         "invoke-your-masters-name": "Invoke your masters' name to get what you want.",
-                        "PC-suffers-fallout": "As a result of using the COLLATERAL ability, an NPC is taken out of action or a PC suffers fallout.",
+                        "PC-suffers-fallout": "Spraw, by w wyniku użycia zdolności ŻYWA TARCZA, bohater Gracza poniósł konsekwencje lub BN został wyłączony z akcji.",
                         "find-a-sanctuary": "Find a sanctuary where your masters cannot reach you.",
-                        "rescue-NPC-from-trouble": "Rescue an NPC from trouble that you caused.",
+                        "rescue-NPC-from-trouble": "Uratuj postać niezależną z kłopotów, które sam spowodowałeś.",
                         "receive-time-critical-mission": "Receive a time-critical mission that leads you away from your other objectives.",
                         "receive-aid-from-someone-reprehensible": "Receive aid from someone reprehensible who's in the employ of your master.",
                         "send-requested-resource": "Send a requested resource (D8 or higher) back to your master rather than using it yourself.",
@@ -336,7 +336,7 @@
                         "cover-up-a-crime": "Cover up a crime that someone else committed on behalf of your masters.",
                         "claim-doing-something-on-behalf": "Claim you're doing something on behalf of your masters when in fact it's for your own ends.",
                         "involve-NPC-in-masters-schemes": "Involve an NPC in your master's schemes.",
-                        "do-favor-for-someone": "Do a favour for someone to gain leverage over them."
+                        "do-favor-for-someone": "Wyświadcz komuś przysługę, by zyskać nad nim przewagę."
                     },
                     "major": {
                         "destroy-something-important": "Destroy something important to your masters.",
@@ -362,21 +362,21 @@
             },
             "heartsong": {
                 "name": "Pieśń Serca",
-                "description": "When you sleep, you dream of the Heart. You're half-mad with glimpses of knowledge; mad enough to go ever deeper into the undercity, looking for revelations.",
-                "which-images-do-you-see": "Which three images, symbols, people or creatures do you repeatedly see when you dream?",
+                "description": "Kiedy śpisz, śnisz o Sercu. Jesteś na wpół obłąkany przebłyskami wiedzy, wystarczająco obłąkany, by zagłębiać się w podziemia, szukając objawień.",
+                "which-images-do-you-see": "Jakie trzy powtarzające się obrazy, symbole, osoby lub stworzenia widzisz w snach?",
                 "what-signs-do-you-look-for": "What signs do you look for to recognise where the Heart is strongest?",
                 "what-unearthly-sight-you-witnessed": "You recently witnessed an unearthly sight with another player character. Who was it, what happened and how did they react?",
                 "how-heart-touched-you": "Your connection to the Heart has touched you in some way. How does that manifest?",
                 "beat": {
                     "minor": {
-                        "name-the-heart": "Following a long ritual, name The Heart. Only refer to it by this name from now on.",
+                        "name-the-heart": "Nazwij Serce, przeprowadzając długi rytuał. Od tej pory używaj tylko tej nazwy.",
                         "take-minor-echo-fallout": "Ponieś Pomniejszą Konsekwencję Echo.",
-                        "see-something-from-your-dreams": "See something from your dreams in the real world.",
-                        "consume-something-of-heart": "Consume something of the Heart (eat the flesh of a heartsblood beast, etc).",
+                        "see-something-from-your-dreams": "Zobacz coś ze swoich snów w prawdziwym świecie.",
+                        "consume-something-of-heart": "Zjedź coś pochodzącego z Serca (np. mięso sercokrwistej bestii).",
                         "be-rendered-helpless-in-heart": "Be rendered helpless in the Heart for an hour or more.",
-                        "perform-rite-at-place-of-power-tier-2": "Perform a rite at a place of power (Tier 2 or deeper).",
-                        "damage-or-sabotage-haven": "Damage or sabotage a haven, letting the Heart in.",
-                        "sacrifice-something-you-love": "Sacrifice something you love to the Heart.",
+                        "perform-rite-at-place-of-power-tier-2": "Przeprowadź rytuał w miejscu mocy (2 poziom Serce lub głębszy).",
+                        "damage-or-sabotage-haven": "Uszkodź lub sabotuj schronienie, wpuszczając do środka wpływy Serca.",
+                        "sacrifice-something-you-love": "Poświęć Sercu coś, co kochasz.",
                         "allow-something-dangerous-of-heart-to-live": "Allow something dangerous of the Heart to live when you could have killed it.",
                         "let-curiosity-lead-into-danger": "Let your curiosity lead you into danger.",
                         "undergo-trance-like-vision": "Undergo a trance-like vision that lasts for hours.",
@@ -411,7 +411,7 @@
                     }
                 },
                 "ability.core": {
-                    "in_the_blood.description": "Poruszasz się przez Serce, tak jakbyś był przez nie błogosławiony. Otrzymujesz +1 ochronę Echa. Raz na sytuację, gdy otrzymujesz dowolny stres inny niż Echo, możesz ponieść go zamiast tego w Echo.",
+                    "in_the_blood.description": "Poruszasz się przez Serce, tak jakbyś był przez nie błogosławiony. Otrzymujesz +1 ochronę Echa. Raz na sytuację, gdy otrzymujesz dowolny stres inny niż Echo, możesz, zamiast tego, ponieść go w Echo.",
                     "in_the_blood.name": "We Krwi"
                 }
             },
