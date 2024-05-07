@@ -225,31 +225,31 @@
                         "establish-connection": "Utwórz połączenie.",
                         "get-in-trouble-with-hounds": "Wplącz się w kłopoty z Ogarami.",
                         "rescue-someone": "Uratuj kogoś od niebezpieczeństwa.",
-                        "make-dramatic-entrance": "Make a dramatic entrance that's a Risky action.",
+                        "make-dramatic-entrance": "Zrób dramatyczne wejście, które będzie ryzykowną akcją.",
                         "claim-a-d10-resource": "Claim a resource of at least D10 from a dangerous location.",
                         "defend-a-haven": "Obroń schronienie przed atakiem.",
                         "have-3-havens-know-your-name": "Have at least three havens know your name, for good or ill.",
                         "rush-into-danger": "Rush into danger before anyone else.",
                         "have-cocktail-move-or-beast-named": "Have a cocktail, fighting move or legendary beast named after you.",
                         "go-somewhere-no-one-stepped": "Go somewhere where no-one else has stepped foot for at least a century.",
-                        "win-unarmed-brawl": "Win an unarmed brawl in a haven.",
+                        "win-unarmed-brawl": "Wygraj bijatykę w schronieniu.",
                         "kick-someone-off": "Kick someone off a tall structure (they really deserved it)."
                     },
                     "major": {
                         "acquire-rare-item": "Acquire a rare or powerful (D12 value) item, preferably magic.",
-                        "slay-large-beast": "Slay a beast that's at least five times your size.",
+                        "slay-large-beast": "Zabij bestię, która jest co najmniej pięć razy większa od ciebie.",
                         "have-named-landmark": "Have a landmark or connection named after you.",
                         "upgrade-a-haunt": "Upgrade a haunt to D12.",
-                        "save-haven": "Save a haven from destruction or doom.",
+                        "save-haven": "Uratuj schronienie przed zniszczeniem lub zagładą.",
                         "connect-three-havens": "Connect three havens to one another with permanent paths.",
-                        "save-the-day": "Successfully perform a Dangerous action that saves the day.",
+                        "save-the-day": "Pomyślnie wykonaj niebezpieczną akcję, która uratuje dzień.",
                         "catalogue-your-exploits": "Catalogue your exploits for an extended period; either do it yourself or hire a bard.",
                         "lead-a-group-organisation": "Lead a group or organisation (other than your delving party).",
                         "lead-delve-to-tier-3": "Successfully lead, and take full credit for, a delve that takes you to Tier 3 or deeper."
                     },
                     "zenith": {
-                        "lead-haven-to-prosperity": "Lead a haven to prosperity.",
-                        "reach-tier-4": "Reach Tier 4 of the Heart."
+                        "lead-haven-to-prosperity": "Poprowadź schronienie do dobrobytu.",
+                        "reach-tier-4": "Dotrzyj do 4 poziomu Serca."
                     }
                 },
                 "ability.core": {
@@ -260,41 +260,41 @@
             "enlightenment": {
                 "name": "Oświecenie",
                 "description": "Everyone said that what you intended to do was impossible, but you've never let \"possibility\" slow you down. You're looking for secrets hidden deep within the earth. You know that the Heart holds the answers to all your questions; no matter what it takes, you'll get them.",
-                "what-are-you-attempting-to-achieve": "What \"impossible\" thing are you attempting to achieve in the City Beneath?",
-                "what-is-the-first-step": "What's the first step on your journey?",
+                "what-are-you-attempting-to-achieve": "Jaką „niemożliwą” rzecz próbujesz osiągnąć w Mieście Poniżej?",
+                "what-is-the-first-step": "Jaki jest pierwszy krok w Twojej podróży?",
                 "what-have-you-learned-from-other": "Choose another player character. They've been invaluable in your journey so far. What have you learned from them?",
                 "why-do-you-suspect-other": "Choose another player character. You know they're hiding secrets from you - why do you suspect they're doing this?",
                 "beat": {
                     "minor": {
-                        "allude-to-the-events": "Allude to the events that led you to seek forbidden knowledge to achieve an impossible task.",
-                        "put-knowledge-above-preserving-allies": "Put the acquisition of knowledge above preserving the lives of your allies.",
-                        "gain-access-to-concealed-knowledge": "Gain access to knowledge that someone tried to conceal.",
-                        "gain-favour-with-faction": "Gain favour with a faction that can help you learn more about your goal.",
+                        "allude-to-the-events": "Nawiąż do wydarzeń, które doprowadziły cię do poszukiwania zakazanej wiedzy w celu wykonania niemożliwego zadania.",
+                        "put-knowledge-above-preserving-allies": "Przełóż zdobywanie wiedzy nad ochronę życia sojuszników.",
+                        "gain-access-to-concealed-knowledge": "Uzyskaj dostęp do wiedzy, którą ktoś próbował ukryć.",
+                        "gain-favour-with-faction": "Zdobądź przychylność frakcji, która pomoże ci dowiedzieć się więcej o twoim celu.",
                         "take-minor-mind-fallout": "Ponieś Pomniejszą Konsekwencję Umysłu.",
                         "destroy-evidence-or-rhetoric": "Destroy evidence or rhetoric that proves your task to be impossible.",
-                        "sell-d8-resource-to-secure-secret": "Sell or sacrifice a D8 or higher resource to secure a secret.",
+                        "sell-d8-resource-to-secure-secret": "Sprzedaj lub poświęć zasób o wartości D8 lub wyższej, aby zabezpieczyć sekret.",
                         "reach-landmark-on-tier-3": "Reach a landmark on tier 3 of the Heart.",
                         "find-helpful-text": "Znajdź przydatny tekst.",
-                        "succeed-at-task-that-someone-failed": "Succeed at a task that someone else has recently failed to achieve.",
+                        "succeed-at-task-that-someone-failed": "Odnieś sukces w zadaniu, którego ktoś inny niedawno nie zdołał wykonać.",
                         "mark-d8-stress-to-NPC-bond": "Mark D8 stress to an NPC bond and describe what happens.",
-                        "acquire-bond-who-has-information": "Acquire an NPC bond who has access to useful information.",
+                        "acquire-bond-who-has-information": "Zdobądź więź z postacią niezależną, która ma dostęp do przydatnych informacji.",
                         "establish-a-connection": "Utwórz połączenie podczas wyprawy.",
                         "take-minor-supplies-fallout": "Ponieś Pomniejszą Konsekwencję Zapasów.",
                         "flee-from-combat": "Flee from combat or a similarly dangerous situation, or hide until it all blows over.",
                         "release-your-findings-in-journal": "Release your shocking findings in a journal published in the City Above.",
                         "meet-someone-from-your-old-life": "Meet someone from your old life who's trying to get you to give up on your quest.",
                         "dissect-something-interrogate-someone": "Dissect something or interrogate someone that can shed light on your task.",
-                        "buy-experimental-equipment": "Buy some cutting-edge, experimental or finely-made equipment and use it on a delve."
+                        "buy-experimental-equipment": "Kup najnowocześniejszy, eksperymentalny lub precyzyjnie wykonany sprzęt i użyj go na wyprawie."
                     },
                     "major": {
                         "take-major-mind-fallout": "Ponieś Poważną Konsekwencję Umysłu.",
-                        "kill-someone-trying-to-stop-you": "Kill someone who is trying to stop you from claiming knowledge.",
+                        "kill-someone-trying-to-stop-you": "Zabij kogoś, kto próbuje powstrzymać cię przed zdobyciem wiedzy.",
                         "sell-a-d12-resource": "Sell or sacrifice a D12 resource to secure a secret.",
                         "destroy-haunt-to-learn-about-task": "Destroy a haunt to learn more about your task.",
                         "gain-authority-within-a-faction": "Gain authority within a faction that you can use to learn more about your goal.",
                         "find-knowledge-on-tier-3": "Find a source of knowledge on Tier 3 of the Heart.",
                         "take-major-supplies-fallout": "Ponieś Poważną Konsekwencję Zapasów.",
-                        "acquire-renowned-equipment": "Acquire a renowned piece of equipment.",
+                        "acquire-renowned-equipment": "Zdobądź renomowany sprzęt.",
                         "attract-a-protege": "Attract a protégé who's read your work and is determined to learn more.",
                         "explore-a-mysterious-tower": "Explore a mysterious tower whilst on a delve (this increases the difficulty of the delve by D12)."
                     },
@@ -305,12 +305,12 @@
                 },
                 "ability.core": {
                     "unorthodox_methods.name": "Nietypowe Metody",
-                    "unorthodox_methods.description": "You blend together method and madness in pursuit of your goals. Gain the Discern skill. Once per session, before you roll dice to resolve an action, instead state that your result is a 6. You succeed but take stress."
+                    "unorthodox_methods.description": "Dążąc do celu, łączysz metody z szaleństwem. Zyskujesz umiejętność „Obserwacja”. Raz na sesję, możesz ustalić wynik testu na 6, zamiast rzucać kośćmi. Odniesiesz w ten sposób Kosztowny Sukces."
                 }
             },
             "forced": {
                 "name": "Przymuszony",
-                "description": "You don't want to be down here, but you don't have any choice. You're a prisoner, an initiate to a cult or someone's blackmailing you.",
+                "description": "Nie chcesz tu być, ale nie masz wyboru. Jesteś więźniem, wtajemniczonym w kulcie lub ktoś ma na ciebie haka.",
                 "who-are-your-masters": "Kim lub czym są twoi władcy?",
                 "what-do-your-masters-want": "Czego chcą twoi władcy?",
                 "how-are-they-maintaining-power": "Jak twoi władcy cię kontrolują?",
@@ -318,7 +318,7 @@
                 "what-is-other-relationship": "Wybierz Bohatera innego gracza. Jego przeszłość jest również powiązana z twoimi mistrzami. Jaka jest ich relacja?",
                 "beat": {
                     "minor": {
-                        "receive-orders": "Receive orders from your masters.",
+                        "receive-orders": "Otrzymaj rozkazy od swoich władców.",
                         "follow-orders-from-your-masters": "Follow orders from your masters, even though they put you at risk.",
                         "rebel-against-your-orders": "Rebel against your orders, even though this puts you at risk.",
                         "forge-friendship-with-NPC": "Forge a friendship or romantic relationship with an NPC. - Get into trouble as someone discovers your chequered past.",
@@ -411,7 +411,7 @@
                     }
                 },
                 "ability.core": {
-                    "in_the_blood.description": "You move through the Heart as if blessed. +1 Echo Protection. Once per situation, when you take stress to any resistance other than Echo, allocate it to Echo.",
+                    "in_the_blood.description": "Poruszasz się przez Serce, tak jakbyś był przez nie błogosławiony. Otrzymujesz +1 ochronę Echa. Raz na sytuację, gdy otrzymujesz dowolny stres inny niż Echo, możesz ponieść go zamiast tego w Echo.",
                     "in_the_blood.name": "We Krwi"
                 }
             },
@@ -486,7 +486,7 @@
                 },
                 "ability": {
                     "core": {
-                        "heartsblood.name": "Heartsblood",
+                        "heartsblood.name": "Sercokrwisty",
                         "heartsblood.description": "You have a bone-deep connection to the Heart Itself; the closer you get, the more powerful you become. Your minimum protection value for all resistances is equal to the tier of the Heart you are currently on. This value doesn't add to other sources of protection, but your base protection can't be lower than your current tier unless you specifically lose access to it due to fallout.",
                         "the_red_feast.name": "Czerwona Uczta",
                         "the_red_feast.description": "Your crucible guts pluck memories from the meat. When you eat a resource, you gain any domains associated with that resource until the end of the situation. If you already have access to the domain, gain an appropriate knack. There's no limit to what you can eat, but tough or noxious materials might require an Endure+Cursed check to avoid causing yourself harm. Consuming resources requires your attention and leaves you exposed, so doing it successfully in stressful situations (such as combat) could require a Sneak or Evade roll."
@@ -1288,7 +1288,7 @@
                     "sacred_blade": "Święte Ostrze"
                 },
                 "resource": {
-                    "tattered_finery": "Tattered finery (a silk scarf, worn jewellery, etc)"
+                    "tattered_finery": "Podniszczona galanteria (jedwabny szal, przetarta biżuteria itp.)"
                 },
                 "ability": {
                     "core": {
@@ -1322,8 +1322,8 @@
                         "red_dominion.description": "You don't bleed unless you want to; when you're angry, your veins pulse visibly beneath your skin. Gain +2 Blood protection.",
                         "wild_witch.name": "Wild-Witch",
                         "wild_witch.description": "You know the secrets of the wild things of the world, and are skilled at distilling their essences. Gain the Wild domain. When you're in a landmark and have time to prepare, you can turn a resource with the Wild domain into a healing draught. When drunk, this draught removes Blood or Mind stress equal to its dice size minus one step - choose whether it's Blood or Mind when you create it.",
-                        "witch_spit.name": "Witch-Spit",
-                        "witch_spit.description": "They say that the spittle of witches can cure minor ailments, repair broken trinkets and soothe an aching heart. Yours closes up exit wounds. Gain the Mend skill. When you want it to be, your spit becomes adhesive and can harden into a tarry, sticky substance.",
+                        "witch_spit.name": "Wiedźmia Ślina",
+                        "witch_spit.description": "Mówią, że ślina Wiedźmy może wyleczyć drobne dolegliwości, naprawić drobiazgi lub ukoić zbolałe serce. Twoja zasklepia rany wylotowe. Zdobywasz umiejętność „Składanie”. Możesz sprawić, że ślina stanie się kleista lub stwardnieje w smolistą substancję.",
                         "bypass.name": "Bypass",
                         "bypass.description": "The first time you cast this spell on a delve, it functions as a D6 Boon.",
                         "blood_calls_for_blood.name": "Blood Calls For Blood",
@@ -1351,7 +1351,7 @@
                         "enthrall.name": "Enthrall",
                         "enthrall.description": "When you enter your true form, you may mark D4 stress to Echo; all who see you transform are stunned into inaction, and you have enough time to make a single action entirely unopposed.",
                         "sacred_object.name": "Święty Obiekt",
-                        "sacred_object.description": "Raz na sesję, gdy przybierasz swoją prawdziwą postać, zmniejsz o jeden stopień jedną konsekwencję Krwi, na który cierpisz.",
+                        "sacred_object.description": "Raz na sesję, gdy przybierasz swoją prawdziwą postać, zmniejsz o jeden stopień jedną konsekwencję Krwi, na którą cierpisz.",
                         "union.name": "Zjednoczenie",
                         "union.description": "Raz na sytuację, gdy jesteś w swojej prawdziwej formie i akcja, którą wykonujesz, byłaby uznana za ryzykowną, potraktuj ją jako standardową trudność.",
                         "calm.name": "Calm",
