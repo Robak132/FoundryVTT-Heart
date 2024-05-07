@@ -900,7 +900,7 @@
                         "hard_as_nails.name": "Hard As Nails",
                         "hard_as_nails.description": "Gain access to +1 Blood, Mind, Echo or Supplies Protection. You can take this advance more than once.",
                         "kill_count.name": "Kill Count",
-                        "kill_count.description": "Your weapons are cross-hatched with kill-marks; a testament to what you've done to protect others. Gain the Kill skill. Whenever you kill a person or creature, remove 1 stress from any resistance. ",
+                        "kill_count.description": "Your weapons are cross-hatched with kill-marks; a testament to what you've done to protect others. Gain the Kill skill. Whenever you kill a person or creature, remove 1 stress from any resistance.",
                         "liquid_courage.name": "Liquid Courage",
                         "liquid_courage.description": "You have developed a drinking habit to stay sane, because the booze isn't going to be what kills you. +1 Mind Protection. When you go drinking to remove Mind stress or fallout, treat the resource you spend as one dice size higher.",
                         "marshal.name": "Marshal",
@@ -1652,7 +1652,7 @@
             "multiple": "Marcas",
             "single": "Marca",
             "awkward.name": "Awkward",
-            "awkward.description": "The resource is heavy or hard to carry",
+            "awkward.description": "The resource is heavy or hard to carry.",
             "beacon.name": "Beacon",
             "beacon.description": "the resource attracts something dangerous towards its position.",
             "block.name": "Block",
@@ -1680,7 +1680,7 @@
             "extreme_range.name": "Extreme Range",
             "extreme_range.description": "This item can be used at extreme range.",
             "fragile.name": "Fragile",
-            "fragile.description": "The resource will be destroyed if dropped or damaged",
+            "fragile.description": "The resource will be destroyed if dropped or damaged.",
             "harmful.name": "Harmful",
             "harmful.description": "The resource has the capacity to harm those who carry it via black magic, illness or strange energies.",
             "limited(X).name": "Limited ${X}",
@@ -1720,7 +1720,7 @@
             "volatile.name": "Volatile",
             "volatile.description": "The resource may explode if mistreated.",
             "wyrd.name": "Wyrd",
-            "wyrd.description": "When you inflict stress with this item and roll the maximum amount, mark D6 stress to Echo"
+            "wyrd.description": "When you inflict stress with this item and roll the maximum amount, mark D6 stress to Echo."
         },
         "versions": {
             "0_5_0": {
