@@ -311,11 +311,11 @@
             "forced": {
                 "name": "Przymuszony",
                 "description": "You don't want to be down here, but you don't have any choice. You're a prisoner, an initiate to a cult or someone's blackmailing you.",
-                "who-are-your-masters": "Who, or what, are your masters?",
+                "who-are-your-masters": "Kim lub czym są twoi władcy?",
                 "what-do-your-masters-want": "Czego chcą twoi władcy?",
                 "how-are-they-maintaining-power": "Jak twoi władcy cię kontrolują?",
                 "how-do-your-masters-contact": "W jaki sposób twoi władcy się z Tobą kontaktują?",
-                "what-is-other-relationship": "Choose another player character. They have history with your masters too. What's their relationship?",
+                "what-is-other-relationship": "Wybierz Bohatera innego gracza. Jego przeszłość jest również powiązana z twoimi mistrzami. Jaka jest ich relacja?",
                 "beat": {
                     "minor": {
                         "receive-orders": "Receive orders from your masters.",
@@ -672,12 +672,12 @@
             },
             "deep_apiarist": {
                 "description": "<p>They called to you: a distant buzzing hivehum reverberating through the City, a message of control and hope, a secret means of scraping meaning and reason from the unfathomable and ever-changing Heart. They are the Hive, they say - a megaconsciousness, a defence network, grown from within the Spire. They are here to help you push back the tide of unreality.</p><p>Desperate, you accepted them into you. Ten dozen glyph-marked bees crawled into your sinuses and built waxen bulwarks against the disorder within. You are better now. You see the world in different patterns, and can sift through the chaff and noise that only confused you before. You have a crystal clear, perfect vision of what Should Be.</p><p>You are a Deep Apiarist - one of a small sect of occultists who use the power of the Hive to work magic that manipulates order and chaos. The sigil-covered bees crawling through their bodies can unleash deadly attacks on those who would stand in their way.</p>",
-                "name": "Deep Apiarist",
+                "name": "Pszczelarz Głębin",
                 "equipment": {
-                    "hive_tool": "Hive tool",
-                    "dimensional_barometer": "Dimensional barometer",
-                    "hunting_rifle": "Hunting rifle",
-                    "smoker.name": "Smoker"
+                    "hive_tool": "Dłuto pasieczne",
+                    "dimensional_barometer": "Barometr międzywymiarowy",
+                    "hunting_rifle": "Karabin myśliwski",
+                    "smoker.name": "Podkurzacz"
                 },
                 "resource": {
                     "heartsbloom_rose_in_glass_jar": "Heartsbloom rose in a glass jar"
@@ -907,13 +907,13 @@
                         "marshal.description": "You find out what's wrong and do your level best to fix it; if you can get paid in the process, so much the better. Gain the Compel skill. Once per session, when you enter a landmark, you learn of an injustice, threat or danger that's worrying the people there. Some folks might be able to pay you if you help them.",
                         "our_glorious_lady.name": "Our Glorious Lady",
                         "our_glorious_lady.description": "You found the goddess at the bottom of a bottle; she turned your life around. Gain the Religion domain. Once per session, clear D4 Blood stress from an ally as you beseech the goddess for their protection.",
-                        "quartermaster_training.name": "Quartermaster Training",
+                        "quartermaster_training.name": "Szkolenie Kwatermistrza",
                         "quartermaster_training.description": "You have studied under the Quartermasters of the Hounds, learning the valuable skill of creative acquisition. +1 Supplies Protection. You don't like to be unarmed - you steal, build and improvise what you need. Your \"unarmed\" attacks become (D6, Brutal, Unreliable); on a failure, it breaks and your unarmed attacks are D4 as standard.",
                         "round_the_next_corner.name": "Round The Next Corner",
                         "round_the_next_corner.description": "You can find a place to shelter, smoke a roll-up and let things blow over. Gain the Delve skill. Once per delve, you find an out-of-the-way location where you can catch your breath and recuperate without fear of being discovered by your enemies. You can take your time and heal here without incurring a bane.",
                         "sergeant.name": "Sergeant",
                         "sergeant.description": "You wear the trademark heavy long-coat of a Sergeant of the Hounds, designed to mark you out as a protector of the people. +1 Blood Protection. Once per situation, when an adversary or NPC directs their attention towards an ally, declare that they pay attention to you instead.",
-                        "judge.name": "Judge",
+                        "judge.name": "Sędzia",
                         "judge.description": "When you track a condemned target as part of a delve, increase your stress dice size by 1 step.",
                         "jury.name": "Jury",
                         "jury.description": "You no longer need evidence to condemn a target, but you do need a name, a picture or a first-hand description.",
@@ -968,11 +968,11 @@
             },
             "incarnadine": {
                 "description": "It's easy to fall into debt; it's not easy to fall into the catastrophic levels of debt that you managed to achieve. You had to be good at borrowing money - and time, and the faith of others, anything you could get your hands on - to attract the attention of Incarne, the Crimson God of Debt. One day you woke up and found parts of your life missing as though it had been rummaged through by celestial bailiffs: property, possessions, memories, family members, emotions and desires were divided up between your creditors by an unseen force. Maybe your husband didn't recognise you anymore; maybe you were never married in the first place. Maybe you came home to find the rooms barren and filthy as though it hadn't been lived in for decades. Incarne made their mark on you: a brand across your heart which brought an end to your life as you knew it. Some people seek out the mark; there's power and freedom associated with burning your old life to ashes, and Incarne rewards those they claim with uncanny abilities that can bring them (and others) even deeper into debt. You stepped into the Heart to find meaning, fortune or oblivion. You rarely speak of the mark or talk about how far you have fallen to be trading stories, hours and lives down in the dark of the City Beneath. But the mark itches. Your greed itches. You carry a heavier weight than can be seen and push anger, sadness and loss out into the darkness, far beyond the light of the haven. ",
-                "name": "Incarnadine",
+                "name": "Inkarnadyn",
                 "equipment": {
-                    "hooked_blade": "Hooked blade",
-                    "filigreed_revolver": "Filigreed Revolver",
-                    "bailiffs_iron_cudgel": "Bailiff's Iron Cudgel",
+                    "hooked_blade": "Zakrzywione ostrze",
+                    "filigreed_revolver": "Rewolwer z ornamentowaną rękojeścią",
+                    "bailiffs_iron_cudgel": "Żelazna Pałka Komornika",
                     "homemade_spireblack_pipe_bombs": "Home-made Spireblack Pipe Bombs"
                 },
                 "resource": {
@@ -1677,7 +1677,7 @@
             "double_barreled.description": "As Reload, but you can use the item twice before reloading.",
             "expensive.name": "Kosztowna",
             "expensive.description": "When you inflict stress with this item and roll the maximum amount, mark D6 stress to Supplies.",
-            "extreme_range.name": "Extreme Range",
+            "extreme_range.name": "Ekstremalny zasięg",
             "extreme_range.description": "This item can be used at extreme range.",
             "fragile.name": "Krucha",
             "fragile.description": "The resource will be destroyed if dropped or damaged",
@@ -1691,7 +1691,7 @@
             "mobile.description": "If left unattended, the resource will leave of its own accord.",
             "niche.name": "Niszowa",
             "niche.description": "The resource is only valuable to a very select group of people.",
-            "obscuring.name": "Obscuring",
+            "obscuring.name": "Zasłaniający",
             "obscuring.description": "The bearer and any nearby allies reduce the damage of incoming and outgoing ranged weapons by 1 step.",
             "one_shot.name": "Jednorazowa",
             "one_shot.description": "This equipment takes a very long time to prepare, so you can only use it once per situation.",
