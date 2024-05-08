@@ -87,7 +87,7 @@
         "delete": "Usuń",
         "delete-equipment-group": "Usuń grupę",
         "description": "Opis",
-        "descriptors": "Opis",
+        "descriptors": "Opisy",
         "die-size": "D{N}",
         "dont-show-again": "Nie pokazuj tego ponownie",
         "downgrade": "Obniż",
@@ -332,7 +332,7 @@
                         "rescue-NPC-from-trouble": "Uratuj BN z kłopotów, które sam spowodowałeś.",
                         "receive-time-critical-mission": "Receive a time-critical mission that leads you away from your other objectives.",
                         "receive-aid-from-someone-reprehensible": "Receive aid from someone reprehensible who's in the employ of your master.",
-                        "send-requested-resource": "Send a requested resource (D8 or higher) back to your master rather than using it yourself.",
+                        "send-requested-resource": "Wyślij pożądany zasób (D8 lub lepszy) z powrotem do twoich panów, zamiast zachować go dla siebie.",
                         "perform-seemingly-unconnected-action": "Wykonaj pozornie niepowiązaną czynność dla swoich panów, która przyniesie ponure konsekwencje.",
                         "cover-up-a-crime": "Zatuszowuj przestępstwo, które popełnił ktoś inny w imieniu twoich panów.",
                         "claim-doing-something-on-behalf": "Claim you're doing something on behalf of your masters when in fact it's for your own ends.",
@@ -374,7 +374,7 @@
                         "take-minor-echo-fallout": "Ponieś Pomniejszą Konsekwencję Echo.",
                         "see-something-from-your-dreams": "Zobacz coś ze swoich snów w prawdziwym świecie.",
                         "consume-something-of-heart": "Zjedź coś pochodzącego z Serca (np. mięso sercokrwistej bestii).",
-                        "be-rendered-helpless-in-heart": "Be rendered helpless in the Heart for an hour or more.",
+                        "be-rendered-helpless-in-heart": "Bądź bezbronny w sercu przez godzinę lub dłużej.",
                         "perform-rite-at-place-of-power-tier-2": "Przeprowadź rytuał w miejscu mocy (2 poziom Serce lub głębszy).",
                         "damage-or-sabotage-haven": "Uszkodź lub sabotuj schronienie, wpuszczając do środka wpływy Serca.",
                         "sacrifice-something-you-love": "Poświęć Sercu coś, co kochasz.",
@@ -1146,8 +1146,8 @@
                         "gorge.description": "Once per situation, when you eat (destroy) a resource with the Haven domain, remove stress from Blood, Mind or Echo equal to half the amount rolled on the resource's dice.",
                         "a_king_demands.name": "A King Demands",
                         "a_king_demands.description": "Once per session, you can demand that a target holding any item gives you that item, and they must obey.",
-                        "slumbering_eternal.name": "Slumbering Eternal",
-                        "slumbering_eternal.description": "You no longer need to breathe air; no matter the situation, you will not asphyxiate. Once per session, you can also locate a useful source of water - a stream, a pipe, a drain, a reservoir, a waterfall, etc.",
+                        "slumbering_eternal.name": "Wieczny Śniący",
+                        "slumbering_eternal.description": "Nie musisz już oddychać powietrzem, niezależnie od sytuacji, nie udusisz się. Raz na sesję możesz także zlokalizować użyteczne źródło wody: strumień, rurę, odpływ, zbiornik, wodospad itp.",
                         "body_of_water.name": "Body Of Water",
                         "body_of_water.description": "You may no longer remove Blood fallout or stress by using haunts. However, once per session, choose one of the following when you spend at least an hour submerged in water: remove all stress from Blood, remove all Minor Blood fallout or downgrade one Major Blood fallout to Minor.",
                         "grace.name": "Grace",
@@ -1792,24 +1792,24 @@
             },
             "0_8_3": {
                 "bug_fixes": [
-                    "Naprawiono ostrzeżenia o użyciu przestarzałego „name” zamiast „id”.",
-                    "Naprawiono problem z ładowaniem wpisów kompendium, które zostały przetłumaczone.",
+                    "Naprawiono ostrzeżenia o użyciu przestarzałego „name” zamiast „id”",
+                    "Naprawiono problem z ładowaniem wpisów kompendium, które zostały przetłumaczone",
                     "Fix dragged compendium items not being having their names translated"
                 ],
                 "changes": [
-                    "Przeciąganie elementów kompendium będzie teraz skutkować natychmiastowym przetłumaczeniem nazwy."
+                    "Przeciąganie elementów kompendium będzie teraz skutkować natychmiastowym przetłumaczeniem nazwy"
                 ],
                 "version": "v0.8.3"
             },
             "0_8_4": {
                 "bug_fixes": [
-                    "Przeciąganie elementów kompendium nie spowoduje już przypadkowego utworzenia duplikatu."
+                    "Przeciąganie elementów kompendium nie spowoduje już przypadkowego utworzenia duplikatu"
                 ],
                 "version": "v0.8.4"
             },
             "0_8_5": {
                 "bug_fixes": [
-                    "Ponownie możliwe jest otwieranie przedmiotów bezpośrednio z kompendium."
+                    "Ponownie możliwe jest otwieranie przedmiotów bezpośrednio z kompendium"
                 ],
                 "version": "v0.8.5"
             },
