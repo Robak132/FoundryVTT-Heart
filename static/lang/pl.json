@@ -277,7 +277,7 @@
                         "find-helpful-text": "Znajdź przydatny tekst.",
                         "succeed-at-task-that-someone-failed": "Odnieś sukces w zadaniu, którego ktoś inny niedawno nie zdołał wykonać.",
                         "mark-d8-stress-to-NPC-bond": "Mark D8 stress to an NPC bond and describe what happens.",
-                        "acquire-bond-who-has-information": "Zdobądź więź z postacią niezależną, która ma dostęp do przydatnych informacji.",
+                        "acquire-bond-who-has-information": "Nawiąż więź z BN, który ma dostęp do przydatnych informacji.",
                         "establish-a-connection": "Utwórz połączenie podczas wyprawy.",
                         "take-minor-supplies-fallout": "Ponieś Pomniejszą Konsekwencję Zapasów.",
                         "flee-from-combat": "Ucieknij przed walką lub podobną niebezpieczną sytuacją albo ukryj się, aż ucichnie.",
@@ -321,15 +321,15 @@
                         "receive-orders": "Otrzymaj rozkazy od swoich panów.",
                         "follow-orders-from-your-masters": "Wykonaj rozkazy swoich panów, nawet jeśli wystawią cię na ryzyko.",
                         "rebel-against-your-orders": "Zbuntuj się przeciwko rozkazom, nawet jeśli narazi cię to na ryzyko.",
-                        "forge-friendship-with-NPC": "Forge a friendship or romantic relationship with an NPC.",
-                        "get-into-trouble": "Get into trouble as someone discovers your chequered past.",
+                        "forge-friendship-with-NPC": "Nawiąż przyjaźń lub romans z BN.",
+                        "get-into-trouble": "Wpadnij w tarapaty, gdy ktoś odkryje twoją burzliwą przeszłość.",
                         "betray-someone": "Zdradź kogoś z powodu twojej prawdziwej natury.",
                         "take-minor-fortune-fallout": "Ponieś Pomniejszą Konsekwencję Szczęścia.",
                         "do-something-dangerous": "Zrób coś niebezpiecznego, aby ukryć swoją przeszłość.",
                         "invoke-your-masters-name": "Powołaj się na swoich panów, aby uzyskać to, czego chcesz.",
-                        "PC-suffers-fallout": "Spraw, by w wyniku użycia zdolności ŻYWA TARCZA, bohater Gracza poniósł konsekwencje lub BN został wyłączony z akcji.",
+                        "PC-suffers-fallout": "Spraw, by w wyniku użycia zdolności ŻYWA TARCZA, BG poniósł konsekwencje lub BN został wyłączony z akcji.",
                         "find-a-sanctuary": "Znajdź azyl, w którym twoi panowie cię nie dosięgną.",
-                        "rescue-NPC-from-trouble": "Uratuj postać niezależną z kłopotów, które sam spowodowałeś.",
+                        "rescue-NPC-from-trouble": "Uratuj BN z kłopotów, które sam spowodowałeś.",
                         "receive-time-critical-mission": "Receive a time-critical mission that leads you away from your other objectives.",
                         "receive-aid-from-someone-reprehensible": "Receive aid from someone reprehensible who's in the employ of your master.",
                         "send-requested-resource": "Send a requested resource (D8 or higher) back to your master rather than using it yourself.",
@@ -345,15 +345,15 @@
                         "perform-reprehensible-act": "Perform a truly reprehensible act on behalf of your masters.",
                         "suffer-the-consequences": "Ponieś konsekwencje odmowy wykonania ważnego zadania dla swoich panów.",
                         "take-major-fortune-fallout": "Ponieś Poważną Konsekwencję Szczęścia.",
-                        "important-beloved-NPC-dies": "An important or beloved NPC dies after you bring them into your master's schemes.",
-                        "pitch-haven-into-chaos": "Thanks to your actions, a haven is pitched into deadly chaos.",
-                        "coerce-NPC-into-task": "Coerce an important or beloved NPC into undertaking a task they don't want to do.",
-                        "aid-another-person": "Aid another person, who you know and hate, that is also in the employ of your masters.",
-                        "complete-major-objective": "Complete a major objective for your master - something taking at least two sessions to achieve."
+                        "important-beloved-NPC-dies": "Wprowadź ważnego lub ukochanego BN w plany swojego mistrza, co doprowadzi do jego śmierci.",
+                        "pitch-haven-into-chaos": "Spraw, by dzięki twoim działaniom schronienie pogrążyło się w śmiertelnym chaosie.",
+                        "coerce-NPC-into-task": "Zmuś ważnego lub ukochanego BN do wykonania zadania, którego nie chce wykonać.",
+                        "aid-another-person": "Pomóż innej osobie, którą znasz i nienawidzisz, a która też jest na usługach twoich panów.",
+                        "complete-major-objective": "Ukończ ważne zadanie dla swoich panów, coś, czego osiągnięcie zajmie co najmniej dwie sesje."
                     },
                     "zenith": {
                         "end-the-masters-control": "Zakończ kontrolę, jaką mają nad tobą twoi panowie.",
-                        "take-bloody-revenge": "Take bloody revenge on your master."
+                        "take-bloody-revenge": "Dokonaj krwawej zemsty na twoich panach."
                     }
                 },
                 "ability.core": {
@@ -388,17 +388,17 @@
                         "gain-information-why-you have-been-chosen": "Dowiedz się, dlaczego zostałeś wybrany przez Serce.",
                         "receive-strange-surgical-implant": "Otrzymaj dziwny chirurgiczny implant lub transfuzję sercokrwi.",
                         "build-shrine": "Zbuduj kapliczkę Serca w ważnym miejscu.",
-                        "terrify-NPC-with-your-obsession": "Przeraź lub zaintryguj bohatera niezależnego swoją obsesją.",
+                        "terrify-NPC-with-your-obsession": "Przeraź lub zaintryguj BN swoją obsesją.",
                         "perform-service-to-NPC-witch": "Perform an act of service to an NPC witch.",
                         "shelter-someone-touched-by-the-Heart": "Uchroń kogoś dotkniętego Sercem przed prześladowaniem.",
-                        "find-heart-touched-sapling": "Find a heart-touched sapling on a delve and bring it back to a haven for planting.",
+                        "find-heart-touched-sapling": "Znajdź podczas wyprawy sadzonkę dotkniętą przez Serce i przynieś ją do schronienia w celu zasadzenia.",
                         "convince-party-to-collect-cursed-resources": "Przekonaj drużynę do zbierania Przeklętych zasobów na wyprawie, dodając D6 do odporności wyprawy."
                     },
                     "major": {
                         "take-major-echo-fallout": "Ponieś Poważną Konsekwencję Echo.",
                         "perform-rite-at-place-of-power-tier-3": "Przeprowadź rytuał w miejscu mocy (3 poziom Serca lub głębiej).",
                         "sacrifice-someone-important": "Poświęć kogoś ważnego dla ciebie Sercu.",
-                        "establish-bond-with-hearts-blood-beast": "Establish a bond with a hearts-blood beast (Tier 2 or deeper).",
+                        "establish-bond-with-hearts-blood-beast": "Nawiąż więź z sercokrwistą bestią (poziom 2 lub głębszy).",
                         "show-the-heart-majesty-to-outsider": "Show the truth of the Heart's majesty to an outsider (Tier 2 or deeper).",
                         "meet-emissary-of-heart": "Meet and learn from an emissary of the Heart.",
                         "destroy-haven": "Zniszcz schronienie, zwracając ziemię Sercu.",
@@ -407,8 +407,8 @@
                         "visit-3-vermissian-stations": "Odwiedź trzy stacje kolei Vermis."
                     },
                     "zenith": {
-                        "become-one-with-the-heart": "Become one with the Heart, and bind your essence to it.",
-                        "break-the-hearts-hold": "Break the hold that the Heart has over you, ripping it from your body and spirit."
+                        "become-one-with-the-heart": "Stań się jednością z Sercem i zwiąż z nim swoją esencję.",
+                        "break-the-hearts-hold": "Przerwij kontrolę, jaką Serce ma nad tobą, wyrywając je z twojego ciała i ducha."
                     }
                 },
                 "ability.core": {
@@ -420,7 +420,7 @@
                 "name": "Pokutnik",
                 "description": "Zdradziłeś zaufanie swojego zakonu. Z powodu zaniedbania, tchórzostwa lub złośliwości wyrządziłeś im wielką krzywdę. Teraz, dręczony poczuciem winy, poprzysiągłeś zadośćuczynić, zagłębiając się w Serce i wykonując czyny w służbie swojego zakonu.",
                 "what-marks-your-order-out": "Co wyróżnia Twój zakon spośród innych podobnych?",
-                "what-evidence-of-your-failings-is-visible": "What evidence of your failings is visible in the City Beneath?",
+                "what-evidence-of-your-failings-is-visible": "Jakie dowody twojego upadku są widoczne w Mieście Poniżej?",
                 "how-others-were-involved-at-betrayal": "Wybierz jednego bohatera innego Gracza, który był obecny przy twojej zdradzie. W jaki sposób był w to zamieszany?",
                 "what-inspired-this": "Wybierz jednego bohatera innego Gracza, którego stawiasz jako wzór dobrego życia. Co było tego inspiracją?",
                 "beat": {
@@ -434,11 +434,11 @@
                         "establish-connection-important-to-order": "Establish a connection to a landmark that's important to your order.",
                         "help-someone-vulnerable": "Pomóż komuś bezbronnemu, nie oczekując zapłaty.",
                         "make-penance-at-important-site": "Pokutuj w miejscu, które jest ważne dla twojego zakonu.",
-                        "make-reparations-to-an-NPC": "Dokonaj zadośćuczynienia na rzecz bohatera niezależnego, którego osobiście skrzywdziłeś.",
-                        "meet-NPC-who-hates-you": "Spotkaj bohatera niezależnego, który nienawidzi cię za to, co zrobiłeś.",
+                        "make-reparations-to-an-NPC": "Dokonaj zadośćuczynienia na rzecz BN, którego osobiście skrzywdziłeś.",
+                        "meet-NPC-who-hates-you": "Spotkaj BN, który nienawidzi cię za to, co zrobiłeś.",
                         "openly-attack-enemies-of-order": "Otwarcie zaatakuj wrogów swojego zakonu.",
-                        "punish-an-NPC": "Punish an NPC for wrongdoing.",
-                        "put-yourself-in-great-danger": "Put yourself in great danger to protect your companions.",
+                        "punish-an-NPC": "Ukaraj BN za jakieś wykroczenie.",
+                        "put-yourself-in-great-danger": "Naraź się na wielkie niebezpieczeństwo, by chronić swoich towarzyszy.",
                         "refuse-desirable-offer": "Refuse a desirable offer due to the restrictions of your penance.",
                         "repair-something-physical": "Napraw coś fizycznego (most, drzwi, ścianę itp.), którego ktoś potrzebuje.",
                         "rescue-NPC-belonging-to-order": "Uratuj lub pomóż BN należącemu do twojego zakonu.",
@@ -454,7 +454,7 @@
                         "perform-an-act-undo-penance": "Dokonaj czynu, który cofnąłby twoją pokutę, gdyby twój zakon się o nim dowiedział.",
                         "betray-someone": "Zdradź kogoś, kto naprawdę ci ufa.",
                         "save-landmark": "Save a landmark dedicated to your order.",
-                        "attack-the-enemies-of-order": "Attack the enemies of your order when the odds are massively stacked against you.",
+                        "attack-the-enemies-of-order": "Zaatakuj wrogów swojego zakonu, mimo przytłaczającej przewagi wrogów.",
                         "eliminate-enemy-faction": "Eliminate or completely undermine a faction that is opposed to your order.",
                         "your-order-suffers-devastating-setback": "Your order suffers a devastating setback, and you believe that it's your fault.",
                         "perform-an-undesirable-task": "A member of your order begs you to perform an undesirable task; to refuse would be disgraceful."
@@ -1485,7 +1485,7 @@
                     "darkness.name": "Darkness",
                     "darkness.description": "Your supplies of spireblack oil run low. All Delve or Discern checks you make become Risky. Another party member can remove this fallout by marking D6 stress to Supplies. [Ongoing]",
                     "debtor.name": "Debtor",
-                    "debtor.description": "During the next session or later in this one, an NPC who lent you money will call in a favour. [Immediate]",
+                    "debtor.description": "Podczas tej lub następnej sesji, bohater niezależny, który pożyczył ci pieniądze, wezwie cię, byś je spłacił. [Natychmiastowa]",
                     "empty.name": "Empty",
                     "empty.description": "You're down to your last scraps of food, your last scraping of spireblack. You cannot use Supplies protection. [Ongoing]",
                     "half_rations.name": "Half Rations",
@@ -1792,7 +1792,7 @@
             },
             "0_8_3": {
                 "bug_fixes": [
-                    "Naprawiono ostrzeżenia o używaniu przestarzałego \"name\" zamiast \"id\".",
+                    "Naprawiono ostrzeżenia o użyciu przestarzałego „name” zamiast „id”.",
                     "Naprawiono problem z ładowaniem wpisów kompendium, które zostały przetłumaczone.",
                     "Fix dragged compendium items not being having their names translated"
                 ],
