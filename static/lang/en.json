@@ -837,7 +837,7 @@
                         "implacable_faith.name": "Implacable Faith",
                         "implacable_faith.description": "When you take stress due to attempting a Risky or Dangerous action, the stress dice is reduced by 1 step.",
                         "glorious_resurgence.name": "Glorious Resurgence",
-                        "glorious_resurgence.description": "Once per session, when you succeed at a Risky or Dangerous action, clear all stress marked against your resistances",
+                        "glorious_resurgence.description": "Once per session, when you succeed at a Risky or Dangerous action, clear all stress marked against your resistances.",
                         "abide_with_me.name": "Abide With Me",
                         "abide_with_me.description": "Once per situation, you may grant the benefits of OATH OF TENACITY to a nearby ally",
                         "hunter.name": "Hunter",
@@ -1774,7 +1774,7 @@
             },
             "0_8_1": {
                 "changes": [
-                    "Added italian translations"
+                    "Added italian translations."
                 ],
                 "notes": [
                     "Thanks to Arcadio21 for providing the italian translations."
