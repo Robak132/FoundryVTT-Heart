@@ -1,0 +1,572 @@
+{
+  "name": "class.heretic.name",
+  "type": "class",
+  "system": {
+    "description": "class.heretic.description",
+    "children": {
+      "jx96u9qwn985x2kf": {
+        "_id": "jx96u9qwn985x2kf",
+        "type": "resource",
+        "name": "class.heretic.resource.single_devotional_candle",
+        "system": {
+          "active": true,
+          "die_size": "d6",
+          "domain": "religion",
+          "children": {}
+        }
+      },
+      "xkxachhlk7rjyuw7": {
+        "_id": "xkxachhlk7rjyuw7",
+        "name": "class.heretic.ability.core.ministrations.name",
+        "type": "ability",
+        "system": {
+          "active": true,
+          "description": "class.heretic.ability.core.ministrations.description",
+          "type": "core",
+          "children": {}
+        }
+      },
+      "h0y0z9uagmitfas1": {
+        "_id": "h0y0z9uagmitfas1",
+        "name": "class.heretic.ability.minor.grave_duty.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.grave_duty.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "065yy0lvdjk9x7eq": {
+        "_id": "065yy0lvdjk9x7eq",
+        "name": "class.heretic.ability.minor.the_goddess_gifts.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.the_goddess_gifts.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "fzws5b1mqjgbmdri": {
+        "_id": "fzws5b1mqjgbmdri",
+        "name": "class.heretic.ability.minor.the_left_hand_of_the_goddess.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.the_left_hand_of_the_goddess.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "i31jz5gz9cqu553l": {
+        "_id": "i31jz5gz9cqu553l",
+        "name": "class.heretic.ability.minor.liars_burden.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.liars_burden.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "p54vfujbquimxiet": {
+        "_id": "p54vfujbquimxiet",
+        "name": "class.heretic.ability.minor.incandescent_communion.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.incandescent_communion.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "w4wggu0ev9miq9zd": {
+        "_id": "w4wggu0ev9miq9zd",
+        "name": "class.heretic.ability.minor.righteous_rhetoric.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.righteous_rhetoric.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "ptnya9zl4t7ch0sj": {
+        "_id": "ptnya9zl4t7ch0sj",
+        "name": "class.heretic.ability.minor.rite_of_placidity.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.rite_of_placidity.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "jns7zsqahsfo06l2": {
+        "_id": "jns7zsqahsfo06l2",
+        "name": "class.heretic.ability.minor.sacred_tattoo.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.sacred_tattoo.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "zgh8onagkknbcl56": {
+        "_id": "zgh8onagkknbcl56",
+        "name": "class.heretic.ability.minor.shard_of_the_temple_door.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.shard_of_the_temple_door.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "jfqklbxvo47dg9xy": {
+        "_id": "jfqklbxvo47dg9xy",
+        "name": "class.heretic.ability.minor.tomes_of_knowledge.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.tomes_of_knowledge.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "obbfkkl2a9pux1eh": {
+        "_id": "obbfkkl2a9pux1eh",
+        "name": "class.heretic.ability.minor.unwavering_faith.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.unwavering_faith.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "nrqbzhz2s3dx08tz": {
+        "_id": "nrqbzhz2s3dx08tz",
+        "name": "class.heretic.ability.minor.words_of_grace.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.minor.words_of_grace.description",
+          "type": "minor",
+          "children": {}
+        }
+      },
+      "7bi4kjfg1e2f81bx": {
+        "_id": "7bi4kjfg1e2f81bx",
+        "name": "class.heretic.ability.major.oath_of_community.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.major.oath_of_community.description",
+          "type": "major",
+          "children": {
+            "wsf0l5t894arut3i": {
+              "_id": "wsf0l5t894arut3i",
+              "name": "class.heretic.ability.minor.martyrs_blood.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.martyrs_blood.description",
+                "type": "minor",
+                "children": {}
+              }
+            },
+            "5telsygpf7lm1uk6": {
+              "_id": "5telsygpf7lm1uk6",
+              "name": "class.heretic.ability.minor.miraculous_intervention.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.miraculous_intervention.description",
+                "type": "minor",
+                "children": {}
+              }
+            },
+            "1sxfupoeg4lfzwnd": {
+              "_id": "1sxfupoeg4lfzwnd",
+              "name": "class.heretic.ability.minor.cast_asunder.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.cast_asunder.description",
+                "type": "minor",
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "3zgpami4bohm0tlv": {
+        "_id": "3zgpami4bohm0tlv",
+        "name": "class.heretic.ability.major.oath_of_fury.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.major.oath_of_fury.description",
+          "type": "major",
+          "children": {
+            "jrori58m7y9qb1h9": {
+              "_id": "jrori58m7y9qb1h9",
+              "name": "class.heretic.ability.minor.avatar_of_flame.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.avatar_of_flame.description",
+                "type": "minor",
+                "children": {}
+              }
+            },
+            "9zrb5nwdwwu9ntbj": {
+              "_id": "9zrb5nwdwwu9ntbj",
+              "name": "class.heretic.ability.minor.avatar_of_moonlight.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.avatar_of_moonlight.description",
+                "type": "minor",
+                "children": {}
+              }
+            },
+            "zab4fw4xx8bf89aj": {
+              "_id": "zab4fw4xx8bf89aj",
+              "name": "class.heretic.ability.minor.avatar_of_shadows.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.avatar_of_shadows.description",
+                "type": "minor",
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "tpcdl1rjeknvfvzs": {
+        "_id": "tpcdl1rjeknvfvzs",
+        "name": "class.heretic.ability.major.oath_of_sagacity.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.major.oath_of_sagacity.description",
+          "type": "major",
+          "children": {
+            "9rut6am40pfloe74": {
+              "_id": "9rut6am40pfloe74",
+              "name": "class.heretic.ability.minor.fragment_of_lekole.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.fragment_of_lekole.description",
+                "type": "minor",
+                "children": {}
+              }
+            },
+            "vcwvd5iti46iurkr": {
+              "_id": "vcwvd5iti46iurkr",
+              "name": "class.heretic.ability.minor.fragment_of_lombre.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.fragment_of_lombre.description",
+                "type": "minor",
+                "children": {}
+              }
+            },
+            "r8qvf8ni5fesj7p4": {
+              "_id": "r8qvf8ni5fesj7p4",
+              "name": "class.heretic.ability.minor.fragment_of_limye.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.fragment_of_limye.description",
+                "type": "minor",
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "j638trextoaomx1h": {
+        "_id": "j638trextoaomx1h",
+        "name": "class.heretic.ability.major.oath_of_tenacity.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.major.oath_of_tenacity.description",
+          "type": "major",
+          "children": {
+            "shgwrjwsdk0mxif8": {
+              "_id": "shgwrjwsdk0mxif8",
+              "name": "class.heretic.ability.minor.implacable_faith.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.implacable_faith.description",
+                "type": "minor",
+                "children": {}
+              }
+            },
+            "vw50pb26jbap481z": {
+              "_id": "vw50pb26jbap481z",
+              "name": "class.heretic.ability.minor.glorious_resurgence.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.glorious_resurgence.description",
+                "type": "minor",
+                "children": {}
+              }
+            },
+            "q0a56650j4t1lpmc": {
+              "_id": "q0a56650j4t1lpmc",
+              "name": "class.heretic.ability.minor.abide_with_me.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.abide_with_me.description",
+                "type": "minor",
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "kaqfrh0nbd33x8b7": {
+        "_id": "kaqfrh0nbd33x8b7",
+        "name": "class.heretic.ability.major.rite_of_vigilance.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.major.rite_of_vigilance.description",
+          "type": "major",
+          "children": {
+            "cn09vei0mxpulr2k": {
+              "_id": "cn09vei0mxpulr2k",
+              "name": "class.heretic.ability.minor.hunter.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.hunter.description",
+                "type": "minor",
+                "children": {}
+              }
+            },
+            "6g83dvbejgkig2ar": {
+              "_id": "6g83dvbejgkig2ar",
+              "name": "class.heretic.ability.minor.hearts_sight.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.hearts_sight.description",
+                "type": "minor",
+                "children": {}
+              }
+            },
+            "ycdewttf8ok8lnt3": {
+              "_id": "ycdewttf8ok8lnt3",
+              "name": "class.heretic.ability.minor.blessing.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.heretic.ability.minor.blessing.description",
+                "type": "minor",
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "7a1v1ljwokcc06qt": {
+        "_id": "7a1v1ljwokcc06qt",
+        "name": "class.heretic.ability.zenith.ascension.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.zenith.ascension.description",
+          "type": "zenith",
+          "children": {}
+        }
+      },
+      "c2o67mb7ogvc24gf": {
+        "_id": "c2o67mb7ogvc24gf",
+        "name": "class.heretic.ability.zenith.glory.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.zenith.glory.description",
+          "type": "zenith",
+          "children": {}
+        }
+      },
+      "1j58teb033awcmep": {
+        "_id": "1j58teb033awcmep",
+        "name": "class.heretic.ability.zenith.testament_of_faith.name",
+        "type": "ability",
+        "system": {
+          "active": false,
+          "description": "class.heretic.ability.zenith.testament_of_faith.description",
+          "type": "zenith",
+          "children": {}
+        }
+      },
+      "9jimnzbhx4ghbg8e": {
+        "_id": "9jimnzbhx4ghbg8e",
+        "name": "class.heretic.equipment.spireblack_brazier_unlit",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d6",
+          "group": "group_1",
+          "children": {}
+        }
+      },
+      "84l93kw935macms7": {
+        "_id": "84l93kw935macms7",
+        "name": "class.heretic.equipment.spireblack_brazier_lit",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d8",
+          "group": "group_1",
+          "children": {
+            "pz9sxs4aoxzxenkv": {
+              "_id": "pz9sxs4aoxzxenkv",
+              "name": "tag.obscuring.name",
+              "type": "tag",
+              "system": {
+                "description": "tag.obscuring.description"
+              },
+              "_key": "!items!z2df6zaqrmiv35l9"
+            },
+            "jotc1xyrzfi8g2ja": {
+              "_id": "jotc1xyrzfi8g2ja",
+              "name": "tag.dangerous.name",
+              "type": "tag",
+              "system": {
+                "description": "tag.dangerous.description"
+              },
+              "_key": "!items!sicu6eda7qrbx077"
+            }
+          }
+        }
+      },
+      "kit6nuvryhln44sw": {
+        "_id": "kit6nuvryhln44sw",
+        "name": "class.heretic.equipment.breech_loading_pistol",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d6",
+          "group": "group_2",
+          "children": {
+            "g6995nccjxinqacp": {
+              "_id": "g6995nccjxinqacp",
+              "name": "tag.ranged.name",
+              "type": "tag",
+              "system": {
+                "description": "tag.ranged.description"
+              },
+              "_key": "!items!8t6wdqu6ch9v05j9"
+            },
+            "14kxioain5bbemym": {
+              "_id": "14kxioain5bbemym",
+              "name": "tag.reload.name",
+              "type": "tag",
+              "system": {
+                "description": "tag.reload.description"
+              },
+              "_key": "!items!453oy3lu2tyz55bc"
+            }
+          }
+        }
+      },
+      "lqjrmklbzaqe71td": {
+        "_id": "lqjrmklbzaqe71td",
+        "name": "class.heretic.equipment.seekers_blade",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d6",
+          "group": "group_2",
+          "children": {
+            "f0sd574fhw672khh": {
+              "_id": "f0sd574fhw672khh",
+              "name": "tag.brutal.name",
+              "type": "tag",
+              "system": {
+                "description": "tag.brutal.description"
+              },
+              "_key": "!items!cpu88j1zvh93j65x"
+            }
+          }
+        }
+      },
+      "pvvu4xvrgnaltqhc": {
+        "_id": "pvvu4xvrgnaltqhc",
+        "name": "class.heretic.equipment.scripture_etched_bandages",
+        "type": "equipment",
+        "system": {
+          "type": "mend",
+          "die_size": "d6",
+          "group": "group_3",
+          "resistances": [
+            "blood",
+            "mind"
+          ],
+          "children": {}
+        }
+      },
+      "7lubhzc2ugyr3ali": {
+        "_id": "7lubhzc2ugyr3ali",
+        "name": "class.heretic.equipment.staff",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d6",
+          "group": "group_3",
+          "children": {}
+        }
+      }
+    },
+    "type": "core",
+    "core_skill": "mend",
+    "core_domain": "religion",
+    "equipment_groups": [
+      "group_1",
+      "group_2",
+      "group_3"
+    ],
+    "active_equipment_group": "",
+    "active_equipment_groups": [
+      "core"
+    ]
+  },
+  "effects": [],
+  "img": "icons/svg/item-bag.svg",
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "heart",
+    "systemVersion": "<<AUTOGENERATED>>",
+    "coreVersion": "11.315",
+    "createdTime": 1715092410884,
+    "modifiedTime": 1715092483600,
+    "lastModifiedBy": "BmAk0i1zUjlVGZLo"
+  },
+  "_id": "JLT7G0TxgPaL5q49",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "BmAk0i1zUjlVGZLo": 3
+  },
+  "_key": "!items!JLT7G0TxgPaL5q49"
+}
