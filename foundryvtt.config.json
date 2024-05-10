@@ -1,4 +1,5 @@
 {
     "githubRepo": "hitcherland/foundryvtt-heart",
-    "githubBranch": "release"
+    "githubBranch": "release",
+    "foundryvttPath": "C:\\Users\\kubar\\Documents\\FoundryVTT\\Data"
 }
