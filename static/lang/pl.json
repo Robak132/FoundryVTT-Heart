@@ -20,8 +20,8 @@
         "dice-size.single": "Rozmiar kości",
         "equipment.multiple": "Wyposażenie",
         "equipment.single": "Wyposażenie",
-        "haunt.multiple": "Miejsca",
-        "haunt.single": "Miejsce",
+        "haunt.multiple": "Miejsca odpoczynku",
+        "haunt.single": "Miejsce odpoczynku",
         "helper.multiple": "Pomocnicy",
         "helper.single": "Pomocnik",
         "knack.multiple": "Talenty",
@@ -244,7 +244,7 @@
                         "acquire-rare-item": "Zdobądź rzadki lub potężny (wartość D12) przedmiot, najlepiej magiczny.",
                         "slay-large-beast": "Zabij bestię, która jest co najmniej pięć razy większa od ciebie.",
                         "have-named-landmark": "Miej miejsce lub połączenie nazwane swoim imieniem.",
-                        "upgrade-a-haunt": "Ulepsz miejsce do poziomu D12.",
+                        "upgrade-a-haunt": "Ulepsz miejsce odpoczynku do poziomu D12.",
                         "save-haven": "Uratuj schronienie przed zniszczeniem lub zagładą.",
                         "connect-three-havens": "Połącz ze sobą trzy schronienia za pomocą stałych ścieżek.",
                         "save-the-day": "Pomyślnie wykonaj Niebezpieczną akcję, która uratuje sytuację.",
@@ -295,7 +295,7 @@
                         "take-major-mind-fallout": "Ponieś Poważną Konsekwencję Umysłu.",
                         "kill-someone-trying-to-stop-you": "Zabij kogoś, kto próbuje powstrzymać cię przed zdobyciem wiedzy.",
                         "sell-a-d12-resource": "Sprzedaj lub poświęć zasób o wartości D12, by zabezpieczyć sekret.",
-                        "destroy-haunt-to-learn-about-task": "Destroy a haunt to learn more about your task.",
+                        "destroy-haunt-to-learn-about-task": "Zniszcz miejsce odpoczynku, by dowiedzieć się więcej o swoim zadaniu.",
                         "gain-authority-within-a-faction": "Zdobądź autorytet we frakcji, którą możesz wykorzystać, aby dowiedzieć się więcej o swoim celu.",
                         "find-knowledge-on-tier-3": "Znajdź źródło wiedzy na 3 poziomie Serca.",
                         "take-major-supplies-fallout": "Ponieś Poważną Konsekwencję Zapasów.",
@@ -405,9 +405,9 @@
                         "sacrifice-someone-important": "Poświęć kogoś ważnego dla ciebie Sercu.",
                         "establish-bond-with-hearts-blood-beast": "Nawiąż więź z sercokrwistą bestią (poziom 2 lub głębszy).",
                         "show-the-heart-majesty-to-outsider": "Pokaż prawdę o potędze Serca osobie z zewnątrz (2 poziom Serca lub głębszy).",
-                        "meet-emissary-of-heart": "Meet and learn from an emissary of the Heart.",
+                        "meet-emissary-of-heart": "Spotkaj i naucz się czegoś od wysłannika Serca.",
                         "destroy-haven": "Zniszcz schronienie, zwracając ziemię Sercu.",
-                        "one-bond-takes-critical-fallout": "One of your bonds takes Critical fallout thanks to your actions.",
+                        "one-bond-takes-critical-fallout": "Spraw, by dzięki twoim działaniom jedna z twoich więzi odniosła Krytyczną konsekwencję.",
                         "deliver-crucial-message": "Dostarcz kluczową wiadomość w imieniu Serca.",
                         "visit-3-vermissian-stations": "Odwiedź trzy stacje kolei Vermis."
                     },
@@ -792,13 +792,13 @@
                 "ability": {
                     "core": {
                         "ministrations.name": "Posługa",
-                        "ministrations.description": "You offer solace and calm in a world of chaos. Once per session, lead your allies in a service of praise to the Moon Beneath (how you practice your faith is up to you). All player characters who took part can remove one Minor Blood or Mind fallout, or downgrade one Major Blood or Mind fallout to Minor, at the end of the service. If you perform this service whilst on a delve, add +D4 to the delve's resistance."
+                        "ministrations.description": "Oferujesz ukojenie i spokój w świecie chaosu. Raz na sesję, możesz odprawić dla sojuszników nabożeństwo ku czci Księżyca Poniżej (sposób praktykowania wiary zależy od ciebie). Wszyscy bohaterowie Graczy, którzy wzięli w nim udział, mogą na jego zakończenie usunąć jedną Pomniejszą Konsekwencję Krwi albo Umysłu, lub zmniejszyć jedną Poważną Konsekwencję Krwi albo Umysłu do Pomniejszej. Jeśli zrobisz to podczas wyprawy, dodaj +D4 do odporności wyprawy."
                     },
                     "minor": {
                         "blessed_deprivation.name": "Blessed Deprivation",
                         "blessed_deprivation.description": "In your darkest hour, She will bless you with her immaculate grace. Gain the Desolate domain. When you are suffering from ongoing Supplies fallout, gain the Trusty tag when you roll to inflict stress on delves.",
                         "grave_duty.name": "Grobowa Służba",
-                        "grave_duty.description": "You spent time amongst the dead in the sepulchres, and time amongst the living at the funerals. Gain the Warren domain. Once per session, when you console or bolster an ally in times of fear and uncertainty, they gain +1 Mind protection until the end of the session.",
+                        "grave_duty.description": "Spędziłeś dużo czasu wśród zmarłych w grobowcach i żywych na pogrzebach. Zyskujesz domenę „Norowisko”. Raz na sesję, gdy pocieszasz lub podnosisz sojusznika na duchu w czasach strachu i niepewności, zyskuje on +1 do ochrony Umysłu do końca sesji.",
                         "the_goddess_gifts.name": "The Goddess' Gifts",
                         "the_goddess_gifts.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Obserwacja, Odporność, Unik, Polowanie, Zabijanie, Łączenie, Skradanie. Możesz wybrać tę zdolność więcej niż raz.",
                         "the_left_hand_of_the_goddess.name": "Lewa Ręka Bogini",
@@ -836,9 +836,9 @@
                         "fragment_of_lekole.name": "Fragment Lekolé",
                         "fragment_of_lekole.description": "Broń otrzymuje tag Brutalny.",
                         "fragment_of_lombre.name": "Fragment Lombré",
-                        "fragment_of_lombre.description": "The weapon gains the Smoke tag (it manifests like ink dropped in water) and no longer creates noise - in fact, it dampens all nearby noise",
+                        "fragment_of_lombre.description": "Broń zyskuje tag Dymny (wygląda to jak kropla atramentu wrzucona do wody) i nie generuje już hałasu. W istocie tłumi wszystkie pobliskie dźwięki.",
                         "fragment_of_limye.name": "Fragment Limyé",
-                        "fragment_of_limye.description": "When you use OATH OF SAGACITY, you and all nearby allies remove D4 stress from Blood",
+                        "fragment_of_limye.description": "Kiedy używasz PRZYSIĘGI ZUCHWAŁOŚCI, ty i wszyscy pobliscy sojusznicy usuwacie D4 stresu Krwi.",
                         "implacable_faith.name": "Niewzruszona Wiara",
                         "implacable_faith.description": "Kiedy otrzymujesz stres podczas wykonywania Ryzykownej lub Niebezpiecznej akcji, możesz zmniejszyć poziom kostki stresu o 1.",
                         "glorious_resurgence.name": "Glorious Resurgence",
@@ -1154,7 +1154,7 @@
                         "slumbering_eternal.name": "Wieczny Śniący",
                         "slumbering_eternal.description": "Nie musisz już oddychać powietrzem, niezależnie od sytuacji, nie udusisz się. Raz na sesję możesz także zlokalizować użyteczne źródło wody: strumień, rurę, odpływ, zbiornik, wodospad itp.",
                         "body_of_water.name": "Wodne Ciało",
-                        "body_of_water.description": "You may no longer remove Blood fallout or stress by using haunts. However, once per session, choose one of the following when you spend at least an hour submerged in water: remove all stress from Blood, remove all Minor Blood fallout or downgrade one Major Blood fallout to Minor.",
+                        "body_of_water.description": "Nie możesz już usuwać konsekwencji ani stresu Krwi za pomocą miejsc odpoczynku. Jednak raz na sesję, gdy spędzisz co najmniej godzinę zanurzony w wodzie, możesz wybrać jedną z poniższych opcji: <ul><li>Usuń cały stres Krwi.</li><li>Usuń wszystkie Pomniejsze Konsekwencje Krwi</li><li>Zmniejsz jedną Poważną Konsekwencję Krwi do Pomniejszej.</li></ul>",
                         "grace.name": "Wdzięk",
                         "grace.description": "Możesz chodzić po wodzie, jakby była to ziemia.",
                         "benevolent.name": "Benevolent",
@@ -1666,7 +1666,7 @@
             "bloodbound.name": "Więź Krwi",
             "bloodbound.description": "Ponieś D4 stresu Krwi, by rzucać z mistrzostwem podczas korzystania z tego przedmiotu przez resztę sytuacji.",
             "brutal.name": "Brutalny",
-            "brutal.description": "When you roll for stress against an adversary when using this item, roll two dice and pick the highest. Multiple instances of this tag stack: if you managed to get it three times, you???d roll four dice and pick the highest when calculating stress.",
+            "brutal.description": "Kiedy zadajesz stress przeciwnikowi podczas używania tego przedmiotu, rzuć dwiema kośćmi i wybierz najwyższą. Tagi kumulują się: jeśli uda Ci się go zdobyć trzy razy, rzucisz czterema kośćmi i wybierzesz najwyższą z nich podczas obliczania stresu.",
             "conduit.name": "Magiczny Fokus",
             "conduit.description": "Ponieś D4 stresu Umysłu, by rzucać z mistrzostwem podczas korzystania z tego przedmiotu przez resztę sytuacji.",
             "dangerous.name": "Niebezpieczny",
@@ -1706,7 +1706,7 @@
             "point_blank.name": "Bezpośredni",
             "point_blank.description": "As Ranged, but at very close range it increases its stress dice by one step. If the shot travels far enough to spread out and dissipate, it lowers its stress dice by one step.",
             "potent.name": "Silny",
-            "potent.description": "Kiedy rzucasz, by usunąć stres z siebie lub sojusznika za pomocą tego przedmiotu, rzuć dwiema kośćmi i wybierz wyższą. Tag kumuluje się wraz z liczbą posiadanych tagów.",
+            "potent.description": "Kiedy usuwasz stres z siebie lub sojusznika za pomocą tego przedmiotu, rzuć dwiema kośćmi i wybierz wyższą. Tagi kumulują się, jeśli uda Ci się go zdobyć trzy razy, rzucisz czterema kośćmi i wybierzesz najwyższą z nich podczas obliczania stresu.",
             "ranged.name": "Zasięgowy",
             "ranged.description": "Przedmiot może być używany na odległość.",
             "reload.name": "Przeładowanie",
@@ -1720,7 +1720,7 @@
             "tiring.name": "Ciężki",
             "tiring.description": "When you fail an action using this equipment, the size of its stress dice decreases by 1 for the remainder of the situation.",
             "trusty.name": "Sprawdzony",
-            "trusty.description": "When you roll for stress marked against a delve while using this item, roll two dice and pick the highest.Multiple instances of this tag stack as per the Brutal tag.",
+            "trusty.description": "Podczas zadawania stresu wyprawie podczas korzystania z tego przedmiotu, rzuć dwiema kośćmi i wybierz najwyższą. Tagi kumulują się: jeśli uda Ci się go zdobyć trzy razy, rzucisz czterema kośćmi i wybierzesz najwyższą z nich podczas obliczania stresu.",
             "unreliable.name": "Zawodny",
             "unreliable.description": "When you fail an action using this equipment, it cannot be used for the remainder of the situation if in a landmark or for the remainder of the journey if on a delve.",
             "volatile.name": "Wybuchowy",
@@ -1773,7 +1773,7 @@
                     "Show beat level on character sheet",
                     "Allow editing beat level on beat sheet",
                     "Add button to clear stress after suffering fallout",
-                    "Ability to edit Fallout Level and Resistance from Fallout item"
+                    "Możliwość edycji poziomu i odporności obiektów konsekwencji"
                 ],
                 "version": "v0.8.0"
             },
@@ -1788,10 +1788,10 @@
             },
             "0_8_2": {
                 "bug_fixes": [
-                    "Italian transaction fixes, typo correction, translation for objects attributes"
+                    "Poprawki włoskich tłumaczeń, korekta literówek, tłumaczenie atrybutów obiektów"
                 ],
                 "notes": [
-                    "Thanks to Arcadio21 again."
+                    "Ponowne podziękowania dla Arcadio21."
                 ],
                 "version": "v0.8.2"
             },
@@ -1799,7 +1799,7 @@
                 "bug_fixes": [
                     "Naprawiono ostrzeżenia o użyciu przestarzałego „name” zamiast „id”",
                     "Naprawiono problem z ładowaniem wpisów kompendium, które zostały przetłumaczone",
-                    "Fix dragged compendium items not being having their names translated"
+                    "Naprawiono nieprzetłumaczone nazwy przeciąganych elementów kompendium"
                 ],
                 "changes": [
                     "Przeciąganie elementów kompendium będzie teraz skutkować natychmiastowym przetłumaczeniem nazwy"
