@@ -1095,10 +1095,10 @@
                 },
                 "ability": {
                     "core": {
-                        "ravening_knowledge.name": "Żarłoczna Wiedza",
-                        "ravening_knowledge.description": "You crave the touch of what others call \"madness\". The glimpses of truth that ravage your frail, mortal mind give you unimaginable power. When your Mind stress is 4 or higher, roll with mastery when you attempt to cast a spell.",
+                        "ravening_knowledge.name": "Głód Wiedzy",
+                        "ravening_knowledge.description": "Pragniesz tego, co inni nazywają „szaleństwem”. Przebłyski prawdy, które pustoszą twój słaby, śmiertelny umysł, dają ci niewyobrażalną moc. Gdy poziom stresu Umysłu wynosi 4 lub więcej, możesz rzucać z mistrzostwem podczas rzucania zaklęć.",
                         "sacrifice.name": "Ofiara",
-                        "sacrifice.description": "You are willing to sacrifice anything for another hit. Before you cast a spell from this class, you can opt to destroy a resource with the Occult domain. Roll the resource's dice; the amount rolled is added to your Protection value against any stress incurred as a result of casting the spell."
+                        "sacrifice.description": "Jesteś gotów poświęcić wszystko dla kolejnego trafienia. Przed rzuceniem zaklęcia możesz zdecydować się na zniszczenie zasobu z domeny „Okultyzm”. Rzuć kośćmi zasobu, wyrzucona wartość zostanie dodana do twojej ochrony przed stresem poniesionym w wyniku rzucenia zaklęcia."
                     },
                     "minor": {
                         "back_pocket_arcana.name": "Back Pocket Arcana",
@@ -1110,7 +1110,7 @@
                         "frontier_etiquette.name": "Frontier Etiquette",
                         "frontier_etiquette.description": "Your time in the City Above wasn't for naught; you learned how to hold a conversation, smile and nod in all the right places and read a room to avoid offence. Gain the Haven domain. The first time each session that you use a haunt, your spent resource counts as one dice size higher.",
                         "litanies_of_false_power.name": "Litanie Fałszywych Potęg",
-                        "litanies_of_false_power.description": "You know that the gods of the world are distant, dead or disinterested; but you pay attention, for they may reveal useful secrets. Gain the Religion domain. When you use the SACRIFICE ability above, you may also consume resources with the Religion domain.",
+                        "litanies_of_false_power.description": "Doskonale wiesz, że bogowie tego świata są odlegli, martwi lub niezainteresowani, ale jeśli jesteś uważny, mogą ujawnić przydatne sekrety. Zdobywasz domenę „Religia”. Kiedy korzystasz ze zdolności OFIARA, możesz również zużywać zasoby z domeny „Religia”.",
                         "mark_of_hunger.name": "Mark Of Hunger",
                         "mark_of_hunger.description": "You can taste the power slumbering in the City Beneath, and you want it more than anything. Gain the Delve skill. You can smell sources of magical power - the more potent and active, the more pungent the smell. Different types of magic have different scents: relics of the Moon Beneath have the aroma of wine and butter, necromancy smells like nujabian kafee and the occult technology of the Vermissian resembles malt and rich tannins.",
                         "mark_of_the_phantom.name": "Mark Of The Phantom",
@@ -1153,10 +1153,10 @@
                         "a_king_demands.description": "Once per session, you can demand that a target holding any item gives you that item, and they must obey.",
                         "slumbering_eternal.name": "Wieczny Śniący",
                         "slumbering_eternal.description": "Nie musisz już oddychać powietrzem, niezależnie od sytuacji, nie udusisz się. Raz na sesję możesz także zlokalizować użyteczne źródło wody: strumień, rurę, odpływ, zbiornik, wodospad itp.",
-                        "body_of_water.name": "Body Of Water",
+                        "body_of_water.name": "Wodne Ciało",
                         "body_of_water.description": "You may no longer remove Blood fallout or stress by using haunts. However, once per session, choose one of the following when you spend at least an hour submerged in water: remove all stress from Blood, remove all Minor Blood fallout or downgrade one Major Blood fallout to Minor.",
-                        "grace.name": "Grace",
-                        "grace.description": "You may walk on water as though it were solid ground.",
+                        "grace.name": "Wdzięk",
+                        "grace.description": "Możesz chodzić po wodzie, jakby była to ziemia.",
                         "benevolent.name": "Benevolent",
                         "benevolent.description": "Instead of removing D6 stress from Echo, you or any allies may remove D6 stress from Supplies or Fortune instead.",
                         "omnipresent.name": "Omnipresent",
@@ -1174,7 +1174,7 @@
                         "greed_of_the_red_king.name": "Greed Of The Red King",
                         "greed_of_the_red_king.description": "The Red King's one desire is wealth; he was so devoted to the pursuit of gold that he dreamed himself a reality of infinite splendour. Roll Discern+Occult to cast the spell. On a success, you determine what a target you can see wants most of all right now. In addition, you can smell money, or anything of particular value.",
                         "kiss_of_the_drowned_queen.name": "Pocałunek Królowej Topielców",
-                        "kiss_of_the_drowned_queen.description": "Ujrzałeś zatopiony Dwór Królowej Utopców, gdzie śpi i oczekuje na odrodzenie swojego rodu. Jednym dotknięciem możesz wyczarować słoną wodę w płucach tych, którzy Ci się sprzeciwiają. To zaklęcie działa jako broń: (Broń D6, Przebijająca). Jeśli cel znajduje się co najmniej po pas w wodzie, zadajesz D8 obrażeń.",
+                        "kiss_of_the_drowned_queen.description": "Ujrzałeś zatopiony Dwór Królowej Topielców, gdzie śpi i oczekuje na odrodzenie swojego rodu. Jednym dotknięciem możesz wyczarować słoną wodę w płucach tych, którzy Ci się sprzeciwiają. To zaklęcie działa jako broń: (Broń D6, Przebijająca). Jeśli cel znajduje się co najmniej po pas w wodzie, zadajesz D8 obrażeń.",
                         "sanctum_of_the_stone_chorus.name": "Sanctum Of The Stone Chorus",
                         "sanctum_of_the_stone_chorus.description": "They claim, in a hundred voices like the scraping of tectonic plates, that they are the Old Gods, imprisoned in the Heart by upstart deities. Roll Discern+Religion to cast this spell. On a success, you find (or spontaneously create) a path to one of the parasitic temples of the Old Gods, which sucks existence from the world like ticks. When you meditate here, remove D6 stress from Echo; your allies may use the temple in the same way. You may not open more than one path to a temple at any one time. After an hour or so, the path will seal shut - but not without warning, so you'll have time to leave."
                     },
