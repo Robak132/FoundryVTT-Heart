@@ -128,9 +128,14 @@
             "fortune": "Stresu Szczęścia",
             "supplies": "Stresu Zapasów"
         },
-        "beat-level": {
+        "ability-level": {
             "minor": "Pomniejsza",
             "major": "Poważna",
+            "zenith": "Zenit"
+        },
+        "beat-level": {
+            "minor": "Pomniejszy",
+            "major": "Poważny",
             "zenith": "Zenit"
         },
         "fallout-level": {

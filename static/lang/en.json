@@ -128,6 +128,11 @@
             "fortune": "Fortune Stress",
             "supplies": "Supplies Stress"
         },
+        "ability-level": {
+            "minor": "Minor",
+            "major": "Major",
+            "zenith": "Zenith"
+        },
         "beat-level": {
             "minor": "Minor",
             "major": "Major",

@@ -128,6 +128,11 @@
             "supplies": "Supplies Stress",
             "blood": "Blood Stress"
         },
+        "ability-level": {
+            "minor": "Menor",
+            "major": "Importante",
+            "zenith": "Cenit"
+        },
         "beat-level": {
             "minor": "Menor",
             "major": "Importante",
