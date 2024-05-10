@@ -79,15 +79,6 @@ function registerSettings() {
 }
 
 function initialise() {
-    const _compendium_opts = Compendium.defaultOptions;
-    _compendium_opts.template = 'heart:' + _compendium_opts.template;
-
-    Object.defineProperty(Compendium, 'defaultOptions', {
-        'get': function () {
-            return _compendium_opts;
-        }
-    });
-
     activateTemplates();
 
     game.heart = {
@@ -236,7 +227,11 @@ Hooks.once('ready', function () {
     });
 });
 
-
+Hooks.on("renderCompendium", async (app, html) => {
+    html.find('.document-name > a').each((_, item) => {
+        item.innerHTML = localizeHeart(item.innerHTML);
+    })
+});
 
 Hooks.on('preCreateItem', function(document, data, options, userId) {
     document.updateSource({
