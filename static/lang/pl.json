@@ -1294,7 +1294,7 @@
                 "ability": {
                     "core": {
                         "crucible.name": "Tygiel",
-                        "crucible.description": "You bring the energy of the Heart inside yourself and transmute it into crimson power. At any time, roll a D6. If it's equal to or under your current Echo stress, clear that much stress from Echo and roll with mastery on your next action. If it's over your current Echo stress, add that much stress to Echo.",
+                        "crucible.description": "Kumulujesz energię Serca w sobie i przekształcasz ją w szkarłatną moc. W dowolnym momencie możesz rzucić D6, jeśli wynik jest równy lub niższy od aktualnego stresu Echo, usuń tyle stresu z Echo i wykonaj następną akcję z mistrzostwem. Jeśli wynik jest wyższy, ponieś tyle stresu Echo.",
                         "true_form.name": "Prawdziwa Natura",
                         "true_form.description": "Your skin skitters with barely-contained force: the heartsblood within you is waiting to remake you as a flickering, hungry zoetrope horror. Whenever you want to, or when you suffer Major fallout, you enter your true form -describe it. When in your true form, you roll with mastery on Hunt and Kill checks, but all other checks become Risky. At the end of the current situation, you revert to your humanoid form."
                     },
@@ -1701,7 +1701,7 @@
             "point_blank.name": "Bezpośredni",
             "point_blank.description": "As Ranged, but at very close range it increases its stress dice by one step. If the shot travels far enough to spread out and dissipate, it lowers its stress dice by one step.",
             "potent.name": "Silny",
-            "potent.description": "When you roll for stress removed from yourself or an ally with this item, roll two dice and pick the highest. Multiple instances of this tag stack as per the Brutal tag.",
+            "potent.description": "Kiedy rzucasz, by usunąć stres z siebie lub sojusznika za pomocą tego przedmiotu, rzuć dwiema kośćmi i wybierz wyższą. Tag kumuluje się wraz z liczbą posiadanych tagów.",
             "ranged.name": "Zasięgowy",
             "ranged.description": "Przedmiot może być używany na odległość.",
             "reload.name": "Przeładowanie",
