@@ -1,9 +1,9 @@
 {
-  "Item": {   
-      "ancestry": {
-          "templates": ["has_description"],
-          "questions": {},
-          "mark": null
-      }
-  }
+    "Item": {
+        "ancestry": {
+            "templates": ["has_description", "has_children"],
+            "questions": {},
+            "mark": null
+        }
+    }
 }

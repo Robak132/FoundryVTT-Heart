@@ -11,6 +11,10 @@ function activateTemplates() {
         Handlebars.registerPartial(template.path, compiled);
         _templateCache[template.path] = compiled;
     });
+
+    // Pre-load templates for faster use
+    const templatesPath = templates.map(t => t.default.path.replace("heart:", "systems/heart/src/"))
+    loadTemplates(templatesPath);
 }
 
 function registerSettings() {

@@ -6,7 +6,6 @@
   "scope": "global",
   "command": "const msg = (await game.heart.rolls.StressRoll.build()); msg.toMessage({speaker: {actor: msg.options.character}});",
   "folder": null,
-  "sort": 0,
   "permission": {
     "default": 0,
     "yVBR839ynJiV8vzd": 3

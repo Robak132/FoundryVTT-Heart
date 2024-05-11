@@ -1,19 +1,18 @@
 {
   "_id": "hzdnvufp6s6x2w7e",
-  "name": "ancestry.aelfir.group_name",
+  "name": "ancestry.aelfir.name",
   "type": "ancestry",
   "system": {
     "description": "ancestry.aelfir.description",
-    "singular": "ancestry.aelfir.singular",
     "questions": {
       "0": {
-        "0": "ancestry.aelfir.questions.0"
+        "0": "ancestry.aelfir.question.0"
       },
       "1": {
-        "1": "ancestry.aelfir.questions.1"
+        "1": "ancestry.aelfir.question.1"
       },
       "2": {
-        "2": "ancestry.aelfir.questions.2"
+        "2": "ancestry.aelfir.question.2"
       }
     }
   },

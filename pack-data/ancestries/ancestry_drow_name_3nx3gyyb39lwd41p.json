@@ -1,19 +1,18 @@
 {
   "_id": "3nx3gyyb39lwd41p",
-  "name": "ancestry.drow.group_name",
+  "name": "ancestry.drow.name",
   "type": "ancestry",
   "system": {
     "description": "ancestry.drow.description",
-    "singular": "ancestry.drow.singular",
     "questions": {
       "0": {
-        "0": "ancestry.drow.questions.0"
+        "0": "ancestry.drow.question.0"
       },
       "1": {
-        "1": "ancestry.drow.questions.1"
+        "1": "ancestry.drow.question.1"
       },
       "2": {
-        "2": "ancestry.drow.questions.2"
+        "2": "ancestry.drow.question.2"
       }
     }
   },

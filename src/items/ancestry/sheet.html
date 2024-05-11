@@ -21,7 +21,7 @@
         {{/if}}
     </h4>
     <ul>
-    {{#each system.questions as |question id|}}
+        {{#each system.questions as |question id|}}
         <li data-id="{{id}}">
             <div class="flexrow">
                 {{#if ../item.isOwned}}
@@ -34,19 +34,19 @@
                     {{/if}}
                 </div>
                 {{else}}
-                    {{#if ../editable}}
-                    <div class="question">
-                        {{editor (localizeHeart question.question) target=(join "." "system.questions" id "question") button=true editable=../editable owner=owner}}
-                    </div>
-                    {{else}}
-                    <div>{{{localizeHeart question.question}}}</div>
-                    {{/if}}
+                {{#if ../editable}}
+                <div class="question">
+                    {{editor (localizeHeart question.question) target=(join "." "system.questions" id "question") button=true editable=../editable owner=owner}}
+                </div>
+                {{else}}
+                <div>{{{localizeHeart question.question}}}</div>
+                {{/if}}
                 {{/if}}
                 {{#if user.isGM }}
-                <a class="action" data-action="delete-question"><span class="fas fa-trash"></span> {{localizeHeart "ancestry" "questions" "delete"}}</a>
+                <a class="action" data-action="delete-question"><span class="fas fa-trash"></span> {{localizeHeart "delete"}}</a>
                 {{/if}}
-            </div>    
+            </div>
         </li>
-    {{/each}}
+        {{/each}}
     </ul>
 </form>

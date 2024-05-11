@@ -1,0 +1,21 @@
+{
+  "_id": "83pxkj7algsp7uk4",
+  "name": "ancestry.human.name",
+  "type": "ancestry",
+  "system": {
+    "description": "ancestry.human.description",
+    "questions": {
+      "whded8sodv24k1kt": {
+        "question": "ancestry.human.question.0"
+      },
+      "q7im146o5j9i77te": {
+        "question": "ancestry.human.question.1"
+      },
+      "9xue63cwjai9ns82": {
+        "question": "ancestry.human.question.2"
+      }
+    }
+  },
+  "effects": [],
+  "_key": "!items!83pxkj7algsp7uk4"
+}
