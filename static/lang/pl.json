@@ -479,7 +479,7 @@
             "multiple": "Klasy",
             "single": "Klasa",
             "cleaver": {
-                "description": "<p>The Heart is a wild place, and it calls to wild people – those on the edge of society who find that the yoke of civilisation chafes against their skin. The wildest of all are known as Cleavers. They step out into the shifting nightmare of the City Beneath and make a home there. They are the first people to set foot in each new chamber of the place, forging ahead through a dark and strange frontier.</p><p>Their bodies change. Some welcome and seek out transformation, being unsatisfied with their physical forms – they modify their bodies with surgeries that are impossible in the City Above, or hunt and consume beasts of the Heart to gain their power. Some struggle with the change, but it is inevitable. Just as they scar the Heart into new patterns with each footstep forward, the Heart scars them in return and remakes them in a more suitable form: twisting horns, night-black eyes, curious senses unknown to the surface world and so on.</p><p>Cleavers are a common sight amongst parties of delvers, especially those in need of a guide – no-one knows the Heart like they do. No amount of research, no technological device and no arcane scrying ritual can tell you as much as burying yourself waist-deep in the red wet heaven and eating the bounty it generously offers up.</p>",
+                "description": "<p>Serce to dzikie miejsce, wzywające dzikich ludzi, wszystkich tych, którzy żyją na obrzeżach społeczeństwa, uważając, że jarzmo cywilizacji zanadto ociera się o ich skórę. Najdziksi ze nich znani są jako Tasaki. Schodzą oni w mieniące się koszmary Miasta Poniżej i zadomawiają się tam. To pionierzy, pierwsi stawiający stopę w nowych ciemnych i dziwnych miejscach.</p><p> Ich ciała się zmieniają. Niektórzy z zadowoleniem przyjmują zmiany i sami ich szukają – niezadowoleni ze swojego ciała modyfikują swoje ciała za pomocą operacji, niemożliwych do wykonania w Mieście Powyżej lub polują na sercokrwiste bestie, by jedząc je, zyskać ich moc. Inni walczą ze zmianami, choć są ona nieuniknione. Jednocześnie w miarę, jak oni przedzierają się przez Serce, tak Serce pozostawia blizny na nich, przekształcając ich w „bardziej odpowiednią” formę: wykręcone rogi, oczy czarne jak noc, zmysły nieznane na powierzchni i tym podobne.</p><p>Tasaki są częstym widokiem wśród grup poszukiwaczy, zwłaszcza w roli przewodników – nikt nie zna Serca tak jak oni. Żadne badania, żadna technologia i żaden tajemny rytuał nie powie ci tyle, co zanurzenie się po pas w mokrym czerwonym niebie i zjedzenie hojnie oferowanej przez nie zdobyczy.</p>",
                 "name": "Tasak",
                 "equipment": {
                     "hunting_knife": "Nóż myśliwski",
@@ -506,8 +506,8 @@
                         "desperate_measures.name": "Desperackie Środki",
                         "dominion.description": "Zyskujesz dostęp do jednej z następujących domen: Klątwa, Odludzie, Okultyzm, Religia, Dzicz, Norowisko. Możesz wybrać tę zdolność więcej niż raz.",
                         "dominion.name": "Dominum",
-                        "fell_metabolism.description": "Jedzenie to tylko paliwo, które podsyca w tobie nieśmiertelny ogień. Otrzymujesz umiejętność „Odporność”. Kiedy używasz zdolności CZERWONA UCZTA, możesz sprawić, że twoje ataki zyskają tag Brutalny na liczbę akcji równą liczbie wyrzuconej na kościach zasobów, zamiast zyskać domenę.",
-                        "fell_metabolism.name": "Fell Metabolism",
+                        "fell_metabolism.description": "<p><i>Jedzenie to tylko paliwo, które podsyca w tobie nieśmiertelny ogień.</i></p><p>Otrzymujesz umiejętność „Odporność”. Kiedy używasz zdolności CZERWONA UCZTA, możesz sprawić, że twoje ataki zyskają tag Brutalny na liczbę akcji równą liczbie wyrzuconej na kościach zasobów, zamiast zyskać domenę.</p>",
+                        "fell_metabolism.name": "Upadły Metabolizm",
                         "fractured_form.description": "Your flesh glistens with mirror shards that twitch and glitter to blur your silhouette. Gain the Evade skill. Small animals and insects are drawn to you and will perform your bidding to their best of their limited ability. Once per delve, you may use your adoring swarm as a piece of equipment (Delve D8).",
                         "fractured_form.name": "Fractured Form",
                         "gut_instinct.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Odporność, Unik, Polowanie, Zabijanie, Łączenie. Możesz wybrać tę zdolność więcej niż raz.",
@@ -563,9 +563,9 @@
                         "extinction_bow.description": "You carry a huge bow capable of launching specially- made arrows at your prey - the mark of a true heartsblooded hunter. When you take this ability, you gain access to (or build) an enormous ranged weapon with the following profile: (Kill D10, Tiring, Ranged, Expensive. )",
                         "extinction_bow.name": "Extinction Bow",
                         "monstrous_appetite.description": "When you eat, you unhinge your jaw and wolf down anything within reach until your belly is distended and you are resplendent with power. When you use THE RED FEAST to consume a resource that has a domain you can access, remove stress from Blood or Echo equal to the amount rolled on the dice instead.",
-                        "monstrous_appetite.name": "Monstrous Appetite",
+                        "monstrous_appetite.name": "Potworny Apetyt",
                         "the_wild_hunt.description": "The Heart sings of flesh and plenty; you echo that sickeningsong. You may lead a group in communion with the Heart. This requires you to pass an Endure+ Cursed roll, and the check is Risky if you're in an area with the Haven tag. (If you fail the check, you can try again later this session. ) Those who commune gain the Hunt skill if they don't already have it, and increase the stress they inflict on delves by 1 step until the end of the current delve.",
-                        "the_wild_hunt.name": "The Wild Hunt"
+                        "the_wild_hunt.name": "Dziki Gon"
                     },
                     "zenith": {
                         "angelic.description": "You undergo the ultimate heartsblood transformation - you become an agent of the Heart Itself, a red and mighty angel, and your approach is ruin incarnate. Following a transformation process that is either distressingly sudden or agonisingly slow, your flesh and bones burst and reform into those of a towering Angel (p. 176. You are as powerful and ruinous as any other Angel, but you retain your will -for the remainder of the current situation, at least. After that, you are absorbed back into the flesh of the Heart, and become another agent of unreality that will beset delvers in centuries to come.",
@@ -658,13 +658,13 @@
                         "descent.description": "You push through purgatory into the storied lands of the dead. When you are in the Grey (see above), you may undertake a delve to one of the eight heavens listed in the landmark section. Choose which one you have access to when you take this advance. The delve will be Risky unless you and your companions dress in ritual garb and make suitable preparations to enter the heaven in question. Returning to the Grey requires another delve, which can be harder or easier than the initial one depending on whether the heaven wants to keep you there.",
                         "descent.name": "Descent",
                         "echoes.description": "You can glimpse the remnants of what has come before. Roll Discern + Domain to witness ghostly recreations of the past in your current location. This will generally show the most interesting or dramatic thing that occured within recent memory.",
-                        "echoes.name": "Echoes",
+                        "echoes.name": "Echa",
                         "invidious_spectre.description": "Your death has got your back - right up until it can claim you for itself. Your death manifests as poltergeist activity and other supernatural phenomena that distresses and confuses your enemies. Any weapon you carry is considered to have the Conduit tag, and as such, you can mark D4 stress to Mind to roll with mastery when you attack for the remainder of the current situation.",
                         "invidious_spectre.name": "Invidious Spectre",
                         "reapers_strike.description": "You forsake defence for a single, decisive blow. When you attack an adversary, you can choose to lose your Blood protection for the attack before you roll. If you do so and succeed or partially succeed, add your Blood protection value to the stress inflicted.",
                         "reapers_strike.name": "Reaper's Strike",
                         "sudden_death.description": "Your soul is so poorly attached to your body that you can dive headlong into the Grey without warning. ENTER THE GREY no longer takes ten minutes to cast - it is instantaneous. Bringing others along with you when you cast it in this manner makes the action Risky.",
-                        "sudden_death.name": "Sudden Death"
+                        "sudden_death.name": "Nagła Śmierć"
                     },
                     "zenith": {
                         "extinguish.description": "Your death tells you soft and sweet: you can kill anything you want to. Using your powers over life and death and binding your own energy to the spell, you can draw any person, entity, landmark or concept (aside from the Heart Itself) into a physical vessel. You can then kill the vessel, destroying the concept and yourself in a final strike. The entity has stats as determined by the GM; you don't have to fight it alone, and it's certainly possible (and encouraged) to tip the odds in your favour beforehand. When and if it dies, you die as well. If you kill a landmark, that landmark is destroyed. If you kill a concept, it will wither and die in the minds of the people of the Heart, and they will no longer think of it. There are limits to what you can achieve with this ability. If you kill the concept of breathable air, for example, folk will still breathe in and out but they won't understand what they're doing or why it's important.",
@@ -757,11 +757,11 @@
                         "annihilation.description": "Your body is unHeart; it burns through the parasitic world of meat and bone. Against heartsblooded people or creatures, your touch functions as a (Kill D8) weapon. As you use it, your flesh roils and cracks, but the swarm repairs it as quickly as it is unmade; your opponent doesn't have that luxury. Against any other target, it functions as a (Kill D6) weapon.",
                         "annihilation.name": "Annihilation",
                         "blessed_toxin.description": "The swarm within you offers up its members as sacrifices to your cause, just like you offer yourself up to the Hive. Some of the bees inside you develop a sting that soothes the mind when injected (as well as being an addictive narcotic). Your body functions as a (Mend, Mind D6) item; you can mark D4 stress to Blood to have it function as a (Mend, Mind D8) item on your next action.",
-                        "blessed_toxin.name": "Blessed Toxin",
+                        "blessed_toxin.name": "Błogosławione Toksyny",
                         "delirium_spike.description": "The sacred majesty of the Hive fills you with fizzing, unstable power. The stress inflicted by your RELEASE THE SWARM ability increases to D6. The first time you inflict stress using RELEASE THE SWARM in a situation, add your Mind stress to the stress inflicted on the target. After the action is resolved, reduce your Mind stress to 0. This supersedes the normal limitations on removing Mind stress outlined in THE HIVE (p. 37).",
                         "delirium_spike.name": "Delirium Spike",
                         "sacred_geometry.description": "Multiple futures swim about your head, and you pick that which is most advantageous; to an outside observer, you move unopposed and uncanny. When you are rolling to inflict stress on a delve or adversary, or remove stress from yourself or an ally, and you roll a 6 (a number sacred to Apiarists), roll an additional D6 and add it to your total.",
-                        "sacred_geometry.name": "Sacred Geometry",
+                        "sacred_geometry.name": "Święta Geometria",
                         "unchaos.description": "The Heart is a chaotic place, and you seek to undo that with ancient magic. Roll Mend+Occult to cast this spell. On a success, for the remainder of the situation, you or one nearby ally treats Risky actions as Standard actions (keep the highest rolled dice) as probability coalesces around you and crystallizes at your feet.",
                         "unchaos.name": "Nie-chaos"
                     },
@@ -853,15 +853,15 @@
                         "blessing.description": "When this ability is active, you can touch an ally and confer the benefits of soul-sight to them as well"
                     },
                     "major": {
-                        "oath_of_community.name": "Oath of Community",
+                        "oath_of_community.name": "Przysięga Wspólnoty",
                         "oath_of_community.description": "You are scarred and battered from defending the defenceless, and you bear a sacred shield adorned with the wisdom of the Goddesses. Gain +1 Blood protection. When a nearby ally is attacked and you're ready to defend them, their Blood Protection increases by 1.",
-                        "oath_of_fury.name": "Oath of Fury",
+                        "oath_of_fury.name": "Przysięga Furii",
                         "oath_of_fury.description": "You are but a vessel for the goddesses three to enact their will on the world through your hand. Roll Endure+Religion to beseech Damnou to lend you Her fury as you adorn yourself with sacred silver symbols. On a success, until the end of the session, you gain the Kill skill and your attacks gain the Brutal tag.If you already possess the Kill skill, gain a knack relevant to an intended target. At the end of the session, if you have not taken the life of a worthy creature, mark D6 stress to Mind. The minor advances below grant access to alternate versions of OATH OF FURY. When you cast it, you can choose any version you can access. If you cast OATH OF FURY an additional time without meeting the requirements listed at the end of the spell, you mark D6 stress to Mind immediately.",
                         "oath_of_sagacity.name": "Przysięga Zuchwałości",
                         "oath_of_sagacity.description": "Nauczyłeś się jednego z sekretnych imion Potrójnej Damy. Gdy wypowiesz je na głos, twoi wrogowie zostaną porażeni jego mocą. Imię Bogini działa jak następująca broń: (Broń D6, Obszarowy, Osłabiający, Jednostrzałowy).",
-                        "oath_of_tenacity.name": "Oath Of Tenacity",
+                        "oath_of_tenacity.name": "Przysięga Wytrwałości",
                         "oath_of_tenacity.description": "She laid a kss of stars and secrets upon your forehead, and you are infused with her tremendous determination. When you succeed at a Risky action, increase the size of the stress dice you inflict by 1 step. When you succeed at a Dangerous action, increase the size of the stress dice you inflict by 2 steps. You can choose to make an action Risky or Dangerous, even if it's Standard, to gain access to this benefit.",
-                        "rite_of_vigilance.name": "Rite Of Vigilance",
+                        "rite_of_vigilance.name": "Rytuał Czujności",
                         "rite_of_vigilance.description": "You look upon the world through the six sacred eyes of the Goddess and see beyond the realm of flesh and stone. When you attune your mind to the glory of the Moon Beneath, roll Discern+Religion. On a success, when you close your eyes, you can see the souls of creatures around you in your immediate area.These are visible regardless of physical obstructions."
                     },
                     "zenith": {
@@ -957,9 +957,9 @@
                         "forewarned_and_forearmed.description": "Never get into a fight you can't win. Once per session, when you have an hour or two to spare in a landmark, you can make preparations for the coming challenges. Pick one of the benefits from the list below. You and all other characters who choose to take part in preparations gain this benefit until they next enter a landmark. • Whetstone and Weapon Drill. One piece of Kill equipment gains the Brutal tag. • Checked and Triple-Checked. One piece of Delve equipment gains the Trusty tag. • Toughen Up. Gain +1 Blood protection. • One for the Road. Gain +1 Mind protection. • Creative Acquisitions. Gain +1 Supplies protection.",
                         "stare_down.name": "Gromiący Wzrok",
                         "stare_down.description": "Masz reputację przerażającego egzekutora. Wystarczy, że spojrzysz na niektórych ludzi, by rzucili broń. Twoje spojrzenie działa jak broń (Broń D6, Zasięgowy). Działa to tylko wtedy, gdy twój cel cię widzi i jeśli jest w stanie się ciebie przestraszyć (np. przestępcy, ale nie sercokwiste bestie). „Broni” tej możesz użyć w schronieniu lub innym miejscu bez wywoływania wielkiego zamieszania. Twoje spojrzenie nie zabija ludzi — jest zniechęcające, a jeśli zmniejszysz nim odporność przeciwnika do 0, podda się, spróbuje negocjować lub potknie się podczas ucieczki.",
-                        "trench_fighter.name": "Trench-Fighter",
+                        "trench_fighter.name": "Wojownik Okopowy",
                         "trench_fighter.description": "Your mind is scarred with mud, gore and screams from a century before your birth. When you attack at close range, your attacks gain the Piercing tag, even if you're unarmed.",
-                        "unstoppable.name": "Unstoppable",
+                        "unstoppable.name": "Niepowstrzymany",
                         "unstoppable.description": "You are filled with the spirits of those Hounds who have come before you. When you are suffering from ongoing Blood fallout, increase your Kill stress dice size by one step."
                     },
                     "zenith": {
@@ -1058,11 +1058,11 @@
                         "money_talks.description": "Whilst at a shrine to Incarne, you can communicate with bonds or haunts in any haven that's part of your trade network."
                     },
                     "major": {
-                        "backstab.name": "Backstab",
+                        "backstab.name": "Dźgnięcie w Plecy",
                         "backstab.description": "They were fools to have trusted you. When you attack a target who is unaware of your position with a one-handed melee weapon, your attacks gain the Piercing tag.",
                         "broker.name": "Pośrednik",
                         "broker.description": "You beseech Incarne for aid. Roll Mend+Haven to cast this spell. On a success, remove D6 stress from any resistance (other than Supplies) for one nearby character other than yourself. ",
-                        "crave.name": "Crave",
+                        "crave.name": "Pragnienie",
                         "crave.description": "Debt is just quantified want; you cut out the middleman. Roll Compel+Haven to cast this spell on an NPC you're speaking to; on a success, you can instill a great desire for something in them. If the thing they want is unusual for them, casting this spell is Risky. On a success, they now fiercely want whatever it is you've specified until the end of the current situation.",
                         "debtors_reds.name": "Debtor's Reds",
                         "debtors_reds.description": "Incarne's presence thrums through you; you are resplendent, terrible, and hard to look at directly. When you wear the sacred robes of Incarne and a myriad of holy symbols, ledgers and freshly-minted coins, you may automatically cause 1 stress to an adversary who can see you each time you act.",
@@ -1165,9 +1165,9 @@
                         "bountiful.description": "Once per session, when you access the temple, you can locate a non- unique item of D8 value or lower."
                     },
                     "major": {
-                        "curse_of_the_sky_court.name": "Curse Of The Sky Court",
+                        "curse_of_the_sky_court.name": "Klątwa Podniebnego Dworu",
                         "curse_of_the_sky_court.description": "These fae spirits of air, long-banished from their birth realm, are in a zealous and perpetual quest for pleasure. Roll Compel+Occult to cast this spell by drinking strong liquor or taking narcotics and intoning an ancient contract. On a success, all those nearby are compelled to seek immediate pleasure: drink, drugs, dance, wild creation of art, music, general hedonism and miscellaneous frivolity. The alien creatures of the Heart may have an unusual definition of \"pleasure\" that defies mortal minds.",
-                        "fire_of_the_red_king.name": "Fire Of The Red King",
+                        "fire_of_the_red_king.name": "Ogień Czerwonego Króla",
                         "fire_of_the_red_king.description": "You have tasted the dreams of the Red king: his breath as fire, his blood as molten gold. This spell causes your unarmed attacks to gain the Ranged tag as you conjure flames on the clothing and bodies of those nearby. Each successive unarmed attack you inflict on the same target increases the size of your stress dice against that target by one step until the end of the situation.",
                         "frenzy_of_the_sky_court.name": "Frenzy Of The Sky Court",
                         "frenzy_of_the_sky_court.description": "The Court had their memories stripped away and their brains filled with nothing but air; though all of genius-level intelligence, they exist purely in a single, frantic moment. Roll Evade+Occult to cast this spell. On a success, you are filled with the mercurial energy of the Sky Court, and you gain +1 Protection to all resistances for the remainder of the situation. However, until the spell ends (and you can't end it early), any actions that require more than a couple of seconds' attention become Risky.",
@@ -1266,13 +1266,13 @@
                     "major": {
                         "aetheric_field.name": "Pole Eteryczne",
                         "aetheric_field.description": "Twój pancerz brzęczy od wyładowań elektrostatycznych, które sprawiają, że włosy stają dęba. Wyładowania może uchronić cię przed wypaczającymi efektami tuneli Vermis. Raz na sesję możesz zostać +3 ochrony Echa do końca sytuacji.",
-                        "dragon_killer.name": "Dragon-killer",
+                        "dragon_killer.name": "Zabójca Smoków",
                         "dragon_killer.description": "You have been entrusted with a greatblade from the order's vaults - an ancient weapon designed to slay the fiercest abominations within the Vermissian network. A greatblade has two profiles: one when used against human-sized targets (Kill D6, Tiring), and one when used against targets significantly larger than yourself (Kill D10, Tiring).",
-                        "get_behind_me.name": "Get Behind Me",
+                        "get_behind_me.name": "Schowaj się za mną",
                         "get_behind_me.description": "You know that you can't explore the world alone, so you've learned to keep your team alive. Any ally within arm's reach of you gains +1 Blood protection thanks to your interventions. Once per situation, you can bellow an order and remove D4 Blood or Mind stress from a nearby ally.",
-                        "overclock.name": "Overclock",
+                        "overclock.name": "Podkręcenie",
                         "overclock.description": "You push your Vermissian Plate up to, and honestly beyond, its limits. You may activate this ability at any time. When you do, make an immediate melee attack; your weapon gains the Brutal tag. After using the ability, mark D4 stress to Fortune as you push your luck and strain your engines.",
-                        "trailblazer.name": "Trailblazer",
+                        "trailblazer.name": "Pionier",
                         "trailblazer.description": "Leading teams of explorers to lost sites and distant stations have taught you how best to move throughtheCity Beneath - even at a cost to your own health. When you lead a party on a delve, you may activate this ability. When active, increase the stress dice inflicted on the delve (and that the delve inflicts on you) by one step."
                     },
                     "zenith": {
@@ -1286,11 +1286,11 @@
                 }
             },
             "witch": {
-                "description": "<p>Głęboko w Mieście Poniżej istnieje choroba, która przedostaje się do krwi i wiąże ofiarę z tym miejscem, włączając ją do czegoś większego niż ona sama. Ci, którzy nawiązali taką więź, nazywani są wiedźmami oraz czarownikami i są postrzegani przez innych mieszkańców Serca z mieszaniną podejrzliwości i podziwu.</p><p>Każda odmiana choroby ma swój rodowód i historię z nią związaną, a wiedźmy uważają, by nie zarazić tych, którzy ich zdaniem mogliby zmarnować ten dar. Ta długa tradycja, w połączeniu ze sposobem, w jaki niektóre czarownice mogą zabić przeciętną osobę, po prostu na nią spoglądając, powoduje, że grupa ta jest traktowana jak szlachta lub wysłannicy samego Serca. Są niemal jak fae, istniejąc w swoim własnym świecie dziwnych i ezoterycznych praktyk, przekazywanych ustnie przez kilka stuleci.</p><p>Główną siedzibą wiedźm jest Hallow, zdezelowane miasteczko zbudowane w spalonej katedrze wewnątrz Serca. Niemal każda czarownica przeszła przez to miejsce, zmierza tam lub unika go za wszelką cenę.</p>",
+                "description": "<p>Głęboko w Mieście Poniżej istnieje choroba, która przedostaje się do krwi i wiąże ofiarę z tym miejscem, włączając ją do czegoś większego niż ona sama. Ci, którzy nawiązali taką więź, nazywani są wiedźmami oraz czarownikami i są postrzegani przez innych mieszkańców Serca z mieszaniną podejrzliwości i podziwu.</p><p>Każda odmiana choroby ma swój rodowód i historię z nią związaną, a wiedźmy uważają, by nie zarazić tych, którzy ich zdaniem mogliby zmarnować ten dar. Ta długa tradycja, w połączeniu ze sposobem, w jaki niektóre czarownice mogą zabić przeciętną osobę, po prostu na nią spoglądając, powoduje, że grupa ta jest traktowana jak szlachta lub wysłannicy samego Serca. Są niemal jak nimfy, istnieją w swoim własnym świecie dziwnych i ezoterycznych praktyk, przekazywanych ustnie przez kilka stuleci.</p><p>Główną siedzibą wiedźm jest Hallow, zdezelowane miasteczko zbudowane w spalonej katedrze wewnątrz Serca. Niemal każda czarownica przeszła przez to miejsce, zmierza tam lub unika go za wszelką cenę.</p>",
                 "name": "Wiedźma",
                 "equipment": {
-                    "goats_leg_carbine": "Goat's Leg Carbine",
-                    "physikers_bag": "Physiker's bag",
+                    "goats_leg_carbine": "Karabin „Kozia Noga”",
+                    "physikers_bag": "Torba medyka",
                     "sacred_blade": "Święte Ostrze"
                 },
                 "resource": {
@@ -1299,28 +1299,28 @@
                 "ability": {
                     "core": {
                         "crucible.name": "Tygiel",
-                        "crucible.description": "Kumulujesz energię Serca w sobie i przekształcasz ją w szkarłatną moc. W dowolnym momencie możesz rzucić D6, jeśli wynik jest równy lub niższy od aktualnego stresu Echo, usuń tyle stresu z Echo i wykonaj następną akcję z mistrzostwem. Jeśli wynik jest wyższy, ponieś tyle stresu Echo.",
+                        "crucible.description": "<p><i>Kumulujesz energię Serca w sobie i przekształcasz ją w szkarłatną moc.</i></p><p>W dowolnym momencie możesz rzucić D6, jeśli wynik jest równy lub niższy od aktualnego stresu Echo, usuń tyle stresu z Echo i wykonaj następną akcję z mistrzostwem. Jeśli wynik jest wyższy, ponieś tyle stresu Echo.</p>",
                         "true_form.name": "Prawdziwa Natura",
-                        "true_form.description": "Twoja skóra drży z trudną do opanowania siłą. Twoja sercokrew gotuje się, tylko czekając, by przemienić cię w migoczącego, stroboskopowego potwora. Kiedy doznasz Poważnej Konsekwencji lub gdy sam tego chcesz, możesz przemienić się w swoją prawdziwą formę. Jej dokładny wygląd zależy od ciebie. Kiedy jesteś w swojej prawdziwej formie, rzucasz z mistrzostwem na testy Polowania i Zabijania, ale wszystkie inne testy stają się Ryzykowne. Po zakończeniu bieżącej sytuacji powracasz do swojej humanoidalnej postaci."
+                        "true_form.description": "<p><i>Twoja skóra drży z trudną do opanowania siłą. Twoja sercokrew gotuje się, tylko czekając, by przemienić cię w migoczącego, stroboskopowego potwora.</i></p><p>Kiedy doznasz Poważnej Konsekwencji lub gdy sam tego chcesz, możesz przemienić się w swoją prawdziwą formę. Jej dokładny wygląd zależy od ciebie. Kiedy jesteś w swojej prawdziwej formie, rzucasz z mistrzostwem na testy Polowania i Zabijania, ale wszystkie inne testy stają się Ryzykowne. Po zakończeniu bieżącej sytuacji powracasz do swojej humanoidalnej postaci.</p>"
                     },
                     "minor": {
-                        "a_mind_of_many_doorways.name": "A Mind Of Many Doorways",
-                        "a_mind_of_many_doorways.description": "Mortal concerns fade in comparison to the majesty of the blood-song that resonates within you. Gain +2 Mind Protection.",
+                        "a_mind_of_many_doorways.name": "Umysł Wielu Drzwi",
+                        "a_mind_of_many_doorways.description": "<p><i>Śmiertelne troski bledną w porównaniu z potęgą rozbrzmiewającej w tobie pieśni krwi.</i></p><p>Zyskujesz +2 ochrony Umysłu.</p>",
                         "blood_quiet.name": "Krwawa Cisza",
                         "blood_quiet.description": "The darkness of the City Beneath beats black within your veins. Gain the Sneak skill. When you enter your TRUE FORM, Sneak and Evade rolls are no longer considered Risky.",
-                        "books_of_lore.name": "Books Of Lore",
+                        "books_of_lore.name": "Księgi Wiedzy",
                         "books_of_lore.description": "Zyskujesz dostęp do jednej z następujących domen: Klątwa, Odludzie, Okultyzm, Religia, Norowisko, Dzicz. Możesz wybrać tę zdolność więcej niż raz.",
-                        "charms_and_wards.name": "Charms And Wards",
+                        "charms_and_wards.name": "Talizmany i Zaklęcia Ochronne",
                         "charms_and_wards.description": "Zdobywasz +1 Ochrony we Krwi, Umyśle, Szczęściu lub Zapasach. Możesz wybrać tę zdolność więcej niż raz.",
                         "distinguished_lineage.name": "Wybitny Ród",
                         "distinguished_lineage.description": "Your blood-mothers have operated in the City Beneath for centuries; you carry the weight of their actions (and their promises) on your back. Gain the Haven domain. Once per session, when you mark stress to a bond, do not roll for fallout.",
                         "divinity.name": "Boskość",
                         "divinity.description": "You were inducted into a coven who believe that witches are blessed by the gods; you recognise a second heartbeat, unknowable and sacred, inside you. Gain the Religion domain. Roll Discern+Religion to follow the secret  signs in an inhabited landmark that lead to the hidden places of worship where you are revered as a messenger of the Heart Itself.",
-                        "heart_wise.name": "Heart-Wise",
+                        "heart_wise.name": "Sercomądra",
                         "heart_wise.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Odporność, Polowanie, Zabijanie, Łączenie. Możesz wybrać tę zdolność więcej niż raz.",
-                        "implacable.name": "Nieustępliwy",
+                        "implacable.name": "Nieustępliwa",
                         "implacable.description": "You have withstood worse torments, and you will go onto do so again; through your blood you are stable, eternal, unwavering. Gain the Endure skill. Once per session, add 1 to a resistance of your choice. Remove the +1 at the end of the session.",
-                        "the_old_blood.name": "The Old Blood",
+                        "the_old_blood.name": "Stara Krew",
                         "the_old_blood.description": "You inherited the disease from an ancient bloodline; you are strange, and powerful, and can see echoes of things that others can't. Gain the Discern skill. When you observe someone for a few seconds, you can read their aura and discern their surface-level emotions - whether they're angry, happy, frustrated and soon.",
                         "ramblewyrd.name": "Ramblewyrd",
                         "ramblewyrd.description": "You are well-versed in exploring and surviving the places most connected to the Heart Itself; sometimes you do it for pleasure. Gain the Cursed domain. Once per session, when you are in an area with the Cursed domain, remove D6 stress from resistances of your choice.",
@@ -1370,15 +1370,15 @@
                     "major": {
                         "ascendancy.name": "Ascendencja",
                         "ascendancy.description": "You know the secret of singing the City Beneath into different shapes. Roll Compel+Occult to cast this spell and draw the Heart Itself into the area around you. The area you're in gains the Occult domain, and reacts appropriately: magic circles blossom on the floor and thrum with dark power, mist floods the air and so on. This lasts until the end of your current situation.",
-                        "crimson_mirror.name": "Crimson Mirror",
+                        "crimson_mirror.name": "Szkarłatne Lustro",
                         "crimson_mirror.description": "You bleed onto an upturned mirror, and omens swim within the crimson. Roll Discern+Occult to cast this spell before you embark on a delve. On a success, you see three omens; describe them. You don't have to be too specific - in fact, the more vague you are, the better. These are fated to come up on the delve. The first time you interact with whatever you find that relates to each omen, you roll with mastery.",
                         "exsanguinate.name": "Wykrwawienie",
                         "exsanguinate.description": "You pluck a target's blood out of its mouth and nose, choking it on its own viscera. This spell functions as a weapon with the following tags: (Kill D6, ranged). You can mark stress accrued as a result of using this spell to Echo.",
-                        "familiar.name": "Familiar",
+                        "familiar.name": "Chowaniec",
                         "familiar.description": "You have developed a special relationship with a creature; you feed it your blood, and in return it accepts the monstrous changes of your magic. You are accompanied by a small creature - no bigger than a dog - that is cowardly and strange to look at. Describe it. When you take stress from magical sources (including your own), you may assign that stress to your familiar instead of your own resistances. When you mark 4 total stress to your familiar, it is unavailable until the start of the next session. It returns changed; describe what aspect of it has been transformed by the magical energy coursing through it. At the start of each session, remove all stress marked against your familiar.",
                         "great_and_terrible.name": "Wielki i Straszny",
                         "great_and_terrible.description": "Odblokowujesz pełną potęgę swojej prawdziwej formy, budzącej podziw połączenia magii i ciała. Nie musisz przyjmować swojej prawdziwej formy, gdy ponosisz Poważną Konsekwencję. Gdy przemieniasz się w swoją prawdziwą formę, wszyscy przeciwnicy, którzy cię widzą, otrzymują D4 stresu.",
-                        "lair.name": "Lair",
+                        "lair.name": "Legowisko",
                         "lair.description": "You adopt or create a predatory building and claim it as your own; it still eats people, but it doesn't eat you. The building in question is no larger than a small shop or study. Inside, the shadows crawl and scurry, the walls creak and whisper and a maddening heartbeat thuds at the back of your consciousness - perfect for you, but unsettling for anyone else. Any non-witch who enters your lair must roll Resist+Occult and mark D6 stress to Echo on a failure or D4 stress to Echo on a partial success. When you are in a landmark, roll Mend+Occult to summon your lair. On a success, it's always been here, as far as anyone knows. Your lair acts as a bond (p. 98) - if it suffers fallout, it's either eaten someone who'll be missed or been damaged by suspicious locals."
                     },
                     "zenith": {
@@ -1638,13 +1638,13 @@
                     "heavy_hangs_the_head.name": "Heavy Hangs The Head",
                     "heavy_hangs_the_head.description": "Despite your best efforts, you are elected leader of a haven; maybe you defend it from an attack and the people think you've got what it takes to run the place. You don't. You have the capacity to do one useful thing with the haven's resources before you're assassinated by your rivals, the haven is overrun or the fact you were a patsy all along is revealed and you're hung out to dry. [Immediate]",
                     "a_slow_and_insidious_killer.name": "A Slow And Insidious Killer",
-                    "a_slow_and_insidious_killer.description": "You act with unearned confidence and your hubris is rewarded with an ironic death. [Immediate]",
+                    "a_slow_and_insidious_killer.description": "Działasz z pewnością siebie, ale twoja pycha kończy się ironiczną śmiercią. [Natychmiastowa]",
                     "wrong_place.name": "W złym miejscu i czasie",
                     "wrong_place.description": "Przypadkowo otrzymujesz śmiertelny cios przeznaczony dla kogoś innego. Ta osoba pozostaje nietknięta, ale ty giniesz. [Natychmiastowy]"
                 },
                 "supplies": {
                     "defenceless.name": "Bezbronny",
-                    "defenceless.description": "Your shield shatters; your sword breaks when struck by an enemy; or your armour straps rip and come apart. Unable to hold your foes off for any longer, you are run through or mauled and left for dead. [Immediate]",
+                    "defenceless.description": "Twoja tarcza pęka, miecz łamie się, albo paski od zbroi drą się i rozpadają. Nie jesteś w stanie dłużej powstrzymywać wrogów, zostajesz przebity lub zmasakrowany i pozostawiony na pewną śmierć. [Natychmiastowa]",
                     "pitch_black.name": "Pitch Black",
                     "pitch_black.description": "Unable to see, you are dragged away by darkling creatures, never to return. [Immediate]",
                     "plummet.name": "Upadek",
@@ -1731,21 +1731,21 @@
         "versions": {
             "0_5_0": {
                 "changes": [
-                    "Update to work with foundry v10 (thanks to whitespine)"
+                    "Aktualizacja do foundry v10 (dzięki whitespine)"
                 ],
                 "version": "v0.5.0"
             },
             "0_6_0": {
                 "bug_fixes": [
-                    "Wigginns - Heretic staff now named staff as intended."
+                    "Wigginns – Wyposażenie heretyka jest teraz poprawnie nazwanie."
                 ],
                 "changes": [
                     "Added Resistance types to Mend and Kill Equipment. Now you can mark which stress type a weapon deals or can mend.",
                     "You can now shift-click an equipment to increase the die by one step when rolling with a critical success or other modifier.",
-                    "Option to display Total Stress on character sheet.",
+                    "Dodano wyświetlanie całkowitego stresu na karcie postaci.",
                     "Option to display an editable field beside each Resistance that can be edited if you don't like ticking boxes.",
                     "Added a Tag icon to help distinguish Equipment and Resource tags.",
-                    "Updated the default icon for Landmarks."
+                    "Zaktualizowano domyślną ikonę dla znanych miejsc."
                 ],
                 "notes": [
                     "Existing equipment will not have any Resistances associated with them."
@@ -1769,10 +1769,10 @@
                     "Use await for delete, confirm item group deletions"
                 ],
                 "changes": [
-                    "Strikethrough completed beats on calling sheet.",
-                    "Show beat level on character sheet",
-                    "Allow editing beat level on beat sheet",
-                    "Add button to clear stress after suffering fallout",
+                    "Dodano przekreślenia na wypełnionych taktach na arkuszu powołania.",
+                    "Dodano wyświetlanie poziomu taktu na karcie postaci",
+                    "Dodano edycję poziomu taktu na karcie taktu",
+                    "Dodano przycisk, który usuwa stres po poniesieniu konsekwencji",
                     "Możliwość edycji poziomu i odporności obiektów konsekwencji"
                 ],
                 "version": "v0.8.0"
@@ -1820,7 +1820,7 @@
             },
             "0_8_6": {
                 "bug_fixes": [
-                    "Fixed updates to children of items not triggering a remote re-render"
+                    "Naprawiono aktualizacje elementów, które nie uruchamiały ponownego renderowania"
                 ],
                 "version": "v0.8.6"
             },
@@ -1828,7 +1828,7 @@
                 "changes": [
                     "Dodano opcję ignorowania ochrony przy rzutach na stres.",
                     "Użytkownicy mogą teraz klikać tagi i wyświetlać ich opisy z podglądu na karcie postaci.",
-                    "Buttons on top of sheet size more consistently so you don't end up with one long button."
+                    "Przyciski na górze arkusza mają bardziej spójny rozmiar, dzięki czemu nie zamieniają się w jeden długi."
                 ],
                 "version": "v0.8.7"
             }
