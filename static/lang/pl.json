@@ -1638,13 +1638,13 @@
                     "heavy_hangs_the_head.name": "Heavy Hangs The Head",
                     "heavy_hangs_the_head.description": "Despite your best efforts, you are elected leader of a haven; maybe you defend it from an attack and the people think you've got what it takes to run the place. You don't. You have the capacity to do one useful thing with the haven's resources before you're assassinated by your rivals, the haven is overrun or the fact you were a patsy all along is revealed and you're hung out to dry. [Immediate]",
                     "a_slow_and_insidious_killer.name": "A Slow And Insidious Killer",
-                    "a_slow_and_insidious_killer.description": "You act with unearned confidence and your hubris is rewarded with an ironic death. [Immediate]",
+                    "a_slow_and_insidious_killer.description": "Działasz z pewnością siebie, ale twoja pycha kończy się ironiczną śmiercią. [Natychmiastowa]",
                     "wrong_place.name": "W złym miejscu i czasie",
                     "wrong_place.description": "Przypadkowo otrzymujesz śmiertelny cios przeznaczony dla kogoś innego. Ta osoba pozostaje nietknięta, ale ty giniesz. [Natychmiastowy]"
                 },
                 "supplies": {
                     "defenceless.name": "Bezbronny",
-                    "defenceless.description": "Your shield shatters; your sword breaks when struck by an enemy; or your armour straps rip and come apart. Unable to hold your foes off for any longer, you are run through or mauled and left for dead. [Immediate]",
+                    "defenceless.description": "Twoja tarcza pęka, miecz łamie się, albo paski od zbroi drą się i rozpadają. Nie jesteś w stanie dłużej powstrzymywać wrogów, zostajesz przebity lub zmasakrowany i pozostawiony na pewną śmierć. [Natychmiastowa]",
                     "pitch_black.name": "Pitch Black",
                     "pitch_black.description": "Unable to see, you are dragged away by darkling creatures, never to return. [Immediate]",
                     "plummet.name": "Upadek",
@@ -1731,21 +1731,21 @@
         "versions": {
             "0_5_0": {
                 "changes": [
-                    "Update to work with foundry v10 (thanks to whitespine)"
+                    "Aktualizacja do foundry v10 (dzięki whitespine)"
                 ],
                 "version": "v0.5.0"
             },
             "0_6_0": {
                 "bug_fixes": [
-                    "Wigginns - Heretic staff now named staff as intended."
+                    "Wigginns – Wyposażenie heretyka jest teraz poprawnie nazwanie."
                 ],
                 "changes": [
                     "Added Resistance types to Mend and Kill Equipment. Now you can mark which stress type a weapon deals or can mend.",
                     "You can now shift-click an equipment to increase the die by one step when rolling with a critical success or other modifier.",
-                    "Option to display Total Stress on character sheet.",
+                    "Dodano wyświetlanie całkowitego stresu na karcie postaci.",
                     "Option to display an editable field beside each Resistance that can be edited if you don't like ticking boxes.",
                     "Added a Tag icon to help distinguish Equipment and Resource tags.",
-                    "Updated the default icon for Landmarks."
+                    "Zaktualizowano domyślną ikonę dla znanych miejsc."
                 ],
                 "notes": [
                     "Existing equipment will not have any Resistances associated with them."
@@ -1769,10 +1769,10 @@
                     "Use await for delete, confirm item group deletions"
                 ],
                 "changes": [
-                    "Strikethrough completed beats on calling sheet.",
-                    "Show beat level on character sheet",
-                    "Allow editing beat level on beat sheet",
-                    "Add button to clear stress after suffering fallout",
+                    "Dodano przekreślenia na wypełnionych taktach na arkuszu powołania.",
+                    "Dodano wyświetlanie poziomu taktu na karcie postaci",
+                    "Dodano edycję poziomu taktu na karcie taktu",
+                    "Dodano przycisk, który usuwa stres po poniesieniu konsekwencji",
                     "Możliwość edycji poziomu i odporności obiektów konsekwencji"
                 ],
                 "version": "v0.8.0"
@@ -1820,7 +1820,7 @@
             },
             "0_8_6": {
                 "bug_fixes": [
-                    "Fixed updates to children of items not triggering a remote re-render"
+                    "Naprawiono aktualizacje elementów, które nie uruchamiały ponownego renderowania"
                 ],
                 "version": "v0.8.6"
             },
@@ -1828,7 +1828,7 @@
                 "changes": [
                     "Dodano opcję ignorowania ochrony przy rzutach na stres.",
                     "Użytkownicy mogą teraz klikać tagi i wyświetlać ich opisy z podglądu na karcie postaci.",
-                    "Buttons on top of sheet size more consistently so you don't end up with one long button."
+                    "Przyciski na górze arkusza mają bardziej spójny rozmiar, dzięki czemu nie zamieniają się w jeden długi."
                 ],
                 "version": "v0.8.7"
             }

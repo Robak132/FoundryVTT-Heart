@@ -1299,13 +1299,13 @@
                 "ability": {
                     "core": {
                         "crucible.name": "Crucible",
-                        "crucible.description": "You bring the energy of the Heart inside yourself and transmute it into crimson power. At any time, roll a D6. If it's equal to or under your current Echo stress, clear that much stress from Echo and roll with mastery on your next action. If it's over your current Echo stress, add that much stress to Echo.",
+                        "crucible.description": "<p><i>You bring the energy of the Heart inside yourself and transmute it into crimson power.</i></p><p>At any time, roll a D6. If it's equal to or under your current Echo stress, clear that much stress from Echo and roll with mastery on your next action. If it's over your current Echo stress, add that much stress to Echo.</p>",
                         "true_form.name": "True Form",
-                        "true_form.description": "Your skin skitters with barely-contained force: the heartsblood within you is waiting to remake you as a flickering, hungry zoetrope horror. Whenever you want to, or when you suffer Major fallout, you enter your true form -describe it. When in your true form, you roll with mastery on Hunt and Kill checks, but all other checks become Risky. At the end of the current situation, you revert to your humanoid form."
+                        "true_form.description": "<p><i>Your skin skitters with barely-contained force: the heartsblood within you is waiting to remake you as a flickering, hungry zoetrope horror.</i></p>Whenever you want to, or when you suffer Major fallout, you enter your true form -describe it. When in your true form, you roll with mastery on Hunt and Kill checks, but all other checks become Risky. At the end of the current situation, you revert to your humanoid form.</p>"
                     },
                     "minor": {
                         "a_mind_of_many_doorways.name": "A Mind Of Many Doorways",
-                        "a_mind_of_many_doorways.description": "Mortal concerns fade in comparison to the majesty of the blood-song that resonates within you. Gain +2 Mind Protection.",
+                        "a_mind_of_many_doorways.description": "<p><i>Mortal concerns fade in comparison to the majesty of the blood-song that resonates within you.</i></p><p>Gain +2 Mind Protection.<p>",
                         "blood_quiet.name": "Blood-Quiet",
                         "blood_quiet.description": "The darkness of the City Beneath beats black within your veins. Gain the Sneak skill. When you enter your TRUE FORM, Sneak and Evade rolls are no longer considered Risky.",
                         "books_of_lore.name": "Books Of Lore",
