@@ -506,7 +506,7 @@
                         "desperate_measures.name": "Desperate Measures",
                         "dominion.description": "Gain access to one of the following domains: Cursed, Desolate, Occult, Religion, Wild, Warren. You can take this advance more than once.",
                         "dominion.name": "Dominion",
-                        "fell_metabolism.description": "Food is just fuel to stoke the fire undying within you. Gain the Endure skill. When you use THE RED FEAST ability, you may choose to have your attacks gain the Brutal tag for a number of actions equal to the amount rolled on the resource dice instead of gaining a domain.",
+                        "fell_metabolism.description": "<p><i>Food is just fuel to stoke the fire undying within you.</i></p>Gain the Endure skill. When you use THE RED FEAST ability, you may choose to have your attacks gain the Brutal tag for a number of actions equal to the amount rolled on the resource dice instead of gaining a domain.</p>",
                         "fell_metabolism.name": "Fell Metabolism",
                         "fractured_form.description": "Your flesh glistens with mirror shards that twitch and glitter to blur your silhouette. Gain the Evade skill. Small animals and insects are drawn to you and will perform your bidding to their best of their limited ability. Once per delve, you may use your adoring swarm as a piece of equipment (Delve D8).",
                         "fractured_form.name": "Fractured Form",
