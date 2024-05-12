@@ -1286,11 +1286,11 @@
                 }
             },
             "witch": {
-                "description": "<p>Głęboko w Mieście Poniżej istnieje choroba, która przedostaje się do krwi i wiąże ofiarę z tym miejscem, włączając ją do czegoś większego niż ona sama. Ci, którzy nawiązali taką więź, nazywani są wiedźmami oraz czarownikami i są postrzegani przez innych mieszkańców Serca z mieszaniną podejrzliwości i podziwu.</p><p>Każda odmiana choroby ma swój rodowód i historię z nią związaną, a wiedźmy uważają, by nie zarazić tych, którzy ich zdaniem mogliby zmarnować ten dar. Ta długa tradycja, w połączeniu ze sposobem, w jaki niektóre czarownice mogą zabić przeciętną osobę, po prostu na nią spoglądając, powoduje, że grupa ta jest traktowana jak szlachta lub wysłannicy samego Serca. Są niemal jak fae, istniejąc w swoim własnym świecie dziwnych i ezoterycznych praktyk, przekazywanych ustnie przez kilka stuleci.</p><p>Główną siedzibą wiedźm jest Hallow, zdezelowane miasteczko zbudowane w spalonej katedrze wewnątrz Serca. Niemal każda czarownica przeszła przez to miejsce, zmierza tam lub unika go za wszelką cenę.</p>",
+                "description": "<p>Głęboko w Mieście Poniżej istnieje choroba, która przedostaje się do krwi i wiąże ofiarę z tym miejscem, włączając ją do czegoś większego niż ona sama. Ci, którzy nawiązali taką więź, nazywani są wiedźmami oraz czarownikami i są postrzegani przez innych mieszkańców Serca z mieszaniną podejrzliwości i podziwu.</p><p>Każda odmiana choroby ma swój rodowód i historię z nią związaną, a wiedźmy uważają, by nie zarazić tych, którzy ich zdaniem mogliby zmarnować ten dar. Ta długa tradycja, w połączeniu ze sposobem, w jaki niektóre czarownice mogą zabić przeciętną osobę, po prostu na nią spoglądając, powoduje, że grupa ta jest traktowana jak szlachta lub wysłannicy samego Serca. Są niemal jak nimfy, istnieją w swoim własnym świecie dziwnych i ezoterycznych praktyk, przekazywanych ustnie przez kilka stuleci.</p><p>Główną siedzibą wiedźm jest Hallow, zdezelowane miasteczko zbudowane w spalonej katedrze wewnątrz Serca. Niemal każda czarownica przeszła przez to miejsce, zmierza tam lub unika go za wszelką cenę.</p>",
                 "name": "Wiedźma",
                 "equipment": {
-                    "goats_leg_carbine": "Goat's Leg Carbine",
-                    "physikers_bag": "Physiker's bag",
+                    "goats_leg_carbine": "Karabin „Kozia Noga”",
+                    "physikers_bag": "Torba medyka",
                     "sacred_blade": "Święte Ostrze"
                 },
                 "resource": {
@@ -1299,28 +1299,28 @@
                 "ability": {
                     "core": {
                         "crucible.name": "Tygiel",
-                        "crucible.description": "Kumulujesz energię Serca w sobie i przekształcasz ją w szkarłatną moc. W dowolnym momencie możesz rzucić D6, jeśli wynik jest równy lub niższy od aktualnego stresu Echo, usuń tyle stresu z Echo i wykonaj następną akcję z mistrzostwem. Jeśli wynik jest wyższy, ponieś tyle stresu Echo.",
+                        "crucible.description": "<p><i>Kumulujesz energię Serca w sobie i przekształcasz ją w szkarłatną moc.</i></p><p>W dowolnym momencie możesz rzucić D6, jeśli wynik jest równy lub niższy od aktualnego stresu Echo, usuń tyle stresu z Echo i wykonaj następną akcję z mistrzostwem. Jeśli wynik jest wyższy, ponieś tyle stresu Echo.</p>",
                         "true_form.name": "Prawdziwa Natura",
-                        "true_form.description": "Twoja skóra drży z trudną do opanowania siłą. Twoja sercokrew gotuje się, tylko czekając, by przemienić cię w migoczącego, stroboskopowego potwora. Kiedy doznasz Poważnej Konsekwencji lub gdy sam tego chcesz, możesz przemienić się w swoją prawdziwą formę. Jej dokładny wygląd zależy od ciebie. Kiedy jesteś w swojej prawdziwej formie, rzucasz z mistrzostwem na testy Polowania i Zabijania, ale wszystkie inne testy stają się Ryzykowne. Po zakończeniu bieżącej sytuacji powracasz do swojej humanoidalnej postaci."
+                        "true_form.description": "<p><i>Twoja skóra drży z trudną do opanowania siłą. Twoja sercokrew gotuje się, tylko czekając, by przemienić cię w migoczącego, stroboskopowego potwora.</i></p><p>Kiedy doznasz Poważnej Konsekwencji lub gdy sam tego chcesz, możesz przemienić się w swoją prawdziwą formę. Jej dokładny wygląd zależy od ciebie. Kiedy jesteś w swojej prawdziwej formie, rzucasz z mistrzostwem na testy Polowania i Zabijania, ale wszystkie inne testy stają się Ryzykowne. Po zakończeniu bieżącej sytuacji powracasz do swojej humanoidalnej postaci.</p>"
                     },
                     "minor": {
-                        "a_mind_of_many_doorways.name": "A Mind Of Many Doorways",
-                        "a_mind_of_many_doorways.description": "Mortal concerns fade in comparison to the majesty of the blood-song that resonates within you. Gain +2 Mind Protection.",
+                        "a_mind_of_many_doorways.name": "Umysł Wielu Drzwi",
+                        "a_mind_of_many_doorways.description": "<p><i>Śmiertelne troski bledną w porównaniu z potęgą rozbrzmiewającej w tobie pieśni krwi.</i></p><p>Zyskujesz +2 ochrony Umysłu.</p>",
                         "blood_quiet.name": "Krwawa Cisza",
                         "blood_quiet.description": "The darkness of the City Beneath beats black within your veins. Gain the Sneak skill. When you enter your TRUE FORM, Sneak and Evade rolls are no longer considered Risky.",
-                        "books_of_lore.name": "Books Of Lore",
+                        "books_of_lore.name": "Księgi Wiedzy",
                         "books_of_lore.description": "Zyskujesz dostęp do jednej z następujących domen: Klątwa, Odludzie, Okultyzm, Religia, Norowisko, Dzicz. Możesz wybrać tę zdolność więcej niż raz.",
-                        "charms_and_wards.name": "Charms And Wards",
+                        "charms_and_wards.name": "Talizmany i Zaklęcia Ochronne",
                         "charms_and_wards.description": "Zdobywasz +1 Ochrony we Krwi, Umyśle, Szczęściu lub Zapasach. Możesz wybrać tę zdolność więcej niż raz.",
                         "distinguished_lineage.name": "Wybitny Ród",
                         "distinguished_lineage.description": "Your blood-mothers have operated in the City Beneath for centuries; you carry the weight of their actions (and their promises) on your back. Gain the Haven domain. Once per session, when you mark stress to a bond, do not roll for fallout.",
                         "divinity.name": "Boskość",
                         "divinity.description": "You were inducted into a coven who believe that witches are blessed by the gods; you recognise a second heartbeat, unknowable and sacred, inside you. Gain the Religion domain. Roll Discern+Religion to follow the secret  signs in an inhabited landmark that lead to the hidden places of worship where you are revered as a messenger of the Heart Itself.",
-                        "heart_wise.name": "Heart-Wise",
+                        "heart_wise.name": "Sercomądra",
                         "heart_wise.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Odporność, Polowanie, Zabijanie, Łączenie. Możesz wybrać tę zdolność więcej niż raz.",
-                        "implacable.name": "Nieustępliwy",
+                        "implacable.name": "Nieustępliwa",
                         "implacable.description": "You have withstood worse torments, and you will go onto do so again; through your blood you are stable, eternal, unwavering. Gain the Endure skill. Once per session, add 1 to a resistance of your choice. Remove the +1 at the end of the session.",
-                        "the_old_blood.name": "The Old Blood",
+                        "the_old_blood.name": "Stara Krew",
                         "the_old_blood.description": "You inherited the disease from an ancient bloodline; you are strange, and powerful, and can see echoes of things that others can't. Gain the Discern skill. When you observe someone for a few seconds, you can read their aura and discern their surface-level emotions - whether they're angry, happy, frustrated and soon.",
                         "ramblewyrd.name": "Ramblewyrd",
                         "ramblewyrd.description": "You are well-versed in exploring and surviving the places most connected to the Heart Itself; sometimes you do it for pleasure. Gain the Cursed domain. Once per session, when you are in an area with the Cursed domain, remove D6 stress from resistances of your choice.",
