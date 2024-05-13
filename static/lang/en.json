@@ -907,7 +907,7 @@
                 }
             },
             "hound": {
-                "description": "In the past: the 33rd Regiment were sent down to pacify the Heart by a mad warrior-poet from the City Above. Of the nine hundred or so enlisted soldiers who set off, three hundred survived. Surrounded by forces beyond their understanding and on the verge of total destruction, the surviving officers did what they could to save their troops. They did something terrible. Now: there are three hundred badges, each marked with the name of the original hero who carried it. When you steal one, or have it bestowed upon you, you join the Hounds: the new name of the 33rd, protectors of the fragile populace of the Heart. You carry the weight of their deeds on your shoulders. You hear that some of the original three hundred are still out there, still wearing their badges. You've heard of Hounds holding back the darkness alone, withstanding tremendous amounts of punishment, defending havens for days on end without sleep or food. The Hounds draw on one another and the people of the Heart for strength. So long as someone draws breath in the City Beneath, they cannot be destroyed; this is their gift, and their curse. ",
+                "description": "<p>In the past: the 33rd Regiment were sent down to pacify the Heart by a mad warrior-poet from the City Above. Of the nine hundred or so enlisted soldiers who set off, three hundred survived. Surrounded by forces beyond their understanding and on the verge of total destruction, the surviving officers did what they could to save their troops. They did something terrible.</p><p>Now: there are three hundred badges, each marked with the name of the original hero who carried it. When you steal one, or have it bestowed upon you, you join the Hounds: the new name of the 33rd, protectors of the fragile populace of the Heart. You carry the weight of their deeds on your shoulders.</p><p>You hear that some of the original three hundred are still out there, still wearing their badges. You've heard of Hounds holding back the darkness alone, withstanding tremendous amounts of punishment, defending havens for days on end without sleep or food.</p><p>The Hounds draw on one another and the people of the Heart for strength. So long as someone draws breath in the City Beneath, they cannot be destroyed; this is their gift, and their curse.</p>",
                 "name": "Hound",
                 "equipment": {
                     "standard_issue_legrande_rifle": "Standard-issue Legrande rifle",
@@ -980,7 +980,7 @@
                         "scars_like_medals.name": "Scars Like Medals",
                         "scars_like_medals.description": "Gain +1 Blood protection for each ongoing fallout you have.",
                         "on_your_feet.name": "On Your Feet",
-                        "on_your_feet.description": "Once per session, downgrade a Major Blood fallout you have to a Minor Blood fallout. "
+                        "on_your_feet.description": "Once per session, downgrade a Major Blood fallout you have to a Minor Blood fallout."
                     },
                     "major": {
                         "condemn.name": "Condemn",
@@ -1371,7 +1371,7 @@
                         "shared_visions.name": "Shared Visions",
                         "shared_visions.description": "Your allies can also roll with mastery when they interact with the portentous items.",
                         "scarlet_insight.name": "Scarlet Insight",
-                        "scarlet_insight.description": "Once per session, when you cast this spell, clear D8 stress from Mind or Fortune. ",
+                        "scarlet_insight.description": "Once per session, when you cast this spell, clear D8 stress from Mind or Fortune.",
                         "dire_portents.name": "Dire Portents",
                         "dire_portents.description": "Once per session, re-roll any dice that you or anyone else rolled; the original roll is a vision you received, and you shout a warning (or act differently this time around).",
                         "retch.name": "Retch",
