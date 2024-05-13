@@ -948,7 +948,7 @@
                         "scars_like_medals.name": "Scars Like Medals",
                         "scars_like_medals.description": "Gain +1 Blood protection for each ongoing fallout you have.",
                         "on_your_feet.name": "On Your Feet",
-                        "on_your_feet.description": "Once per session, downgrade a Major Blood fallout you have to a Minor Blood fallout. "
+                        "on_your_feet.description": "Once per session, downgrade a Major Blood fallout you have to a Minor Blood fallout."
                     },
                     "major": {
                         "condemn.name": "Condemn",
