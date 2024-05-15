@@ -732,7 +732,7 @@
                         "fearless.name": "Fearless",
                         "painless.description": "<p><i>Your body functions as a (Mend Blood D6) item.</i></p><p>You can mark D4 stress to Blood to have it function as a (Mend Blood D8) item on your next action.</p>",
                         "painless.name": "Painless",
-                        "bloodless.description": "<p><i>Gain +1 Blood protection.</i></p><p>You are immune to mundane poisons.</p>",
+                        "bloodless.description": "Gain +1 Blood protection. You are immune to mundane poisons.",
                         "bloodless.name": "Bloodless",
                         "imperfect_balance.description": "When you mark stress to Blood, halve the amount of Blood stress inflicted (rounding up) if it is lower than your current Mind stress.",
                         "imperfect_balance.name": "Imperfect Balance",
