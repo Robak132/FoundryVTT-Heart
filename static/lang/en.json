@@ -538,7 +538,7 @@
                         "bezerk.name": "Bezerk",
                         "harpoon.description": "Once per situation, when you inflict stress to an adversary with the EXTINCTION BOW, you attach yourself to them with a rope or chain. They can't flee while attached - and neither can you.",
                         "harpoon.name": "Harpoon",
-                        "hunters_eye.description": "<p><i>Once per situation, when you and your allies are in danger, point out a tactically useful element of the landscape.</i></p><p>The first time an ally interacts with the element, they roll with mastery on their subsequent action.</p>",
+                        "hunters_eye.description": "Once per situation, when you and your allies are in danger, point out a tactically useful element of the landscape. The first time an ally interacts with the element, they roll with mastery on their subsequent action.",
                         "hunters_eye.name": "Hunter's Eye",
                         "nightmare_arrow.description": "Gain access to the following weapon: (Kill D8, Spread, Ranged, One-Shot).",
                         "nightmare_arrow.name": "Nightmare Arrow",
@@ -550,7 +550,7 @@
                         "horrendous_bite.name": "Horrendous Bite",
                         "echoes_of_the_city_beneath.description": "When you use THE WILD HUNT, instead of the Hunt skill, you may grant the Delve skill to participants. Pick which skill you grant each time you use the ability.",
                         "echoes_of_the_city_beneath.name": "Echoes Of The City Beneath",
-                        "storyteller.description": "<p><i>Once per session, when you're tracking a beast, you can declare it to be a renowned beast - you've heard tell of it before.</i></p><p>Tell the party what's so dangerous about it, or repeat a legend of its exploits. This increases the beast's protection by 1, its damage by 1 step and any resources gathered from it by 2 steps.</p>",
+                        "storyteller.description": "Once per session, when you're tracking a beast, you can declare it to be a renowned beast - you've heard tell of it before. Tell the party what's so dangerous about it, or repeat a legend of its exploits. This increases the beast's protection by 1, its damage by 1 step and any resources gathered from it by 2 steps.",
                         "storyteller.name": "Storyteller",
                         "bounty_shared.description": "When you complete a delve or hunt and kill a renowned beast (see above), everyone who took part in THE WILD HUNT may remove D6 stress from Fortune or Supplies.",
                         "bounty_shared.name": "Bounty Shared"
