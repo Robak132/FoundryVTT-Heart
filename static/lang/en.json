@@ -609,7 +609,7 @@
                         "grail_armour.name": "Grail Armour",
                         "grim_reaper.description": "<p><i>Your death has long whispered to you about the proper methods of execution; on occasion, it helps directly.</i></p><p>Gain the Kill skill. Your death's attentions now function as the following weapon: (Kill D8, Ranged, One-Shot).</p>",
                         "grim_reaper.name": "Grim Reaper",
-                        "the_harvest.description": "<p><i>The people of the Eastern Domain call Death the Harvestan untamed god-beast of endings that you pray to for a quick demise.</i></p><p>Gain the Wild domain. Wild animals are scared of you and will not attack you if other targets are available.</p>",
+                        "the_harvest.description": "<p><i>The people of the Eastern Domain call Death the Harvest an untamed god-beast of endings that you pray to for a quick demise.</i></p><p>Gain the Wild domain. Wild animals are scared of you and will not attack you if other targets are available.</p>",
                         "the_harvest.name": "The Harvest",
                         "last_rites.description": "<p><i>You know enough about death rituals to be sworn in as a priest in three major faiths.</i></p><p>Gain the Religion domain. When you touch the brow of a recently dead person, you can ask their spirit a single question before it fades away.</p>",
                         "last_rites.name": "Last Rites",
@@ -1436,7 +1436,7 @@
                     "vulnerable.name": "Vulnerable",
                     "vulnerable.description": "You feel small, shaken and scared. You cannot use Mind protection. [Ongoing]",
                     "weird.name": "Weird",
-                    "weird.description": "You do something unsettling that bothers normal people - obsessive behaviour, singing to yourself,fulfilling a strange compulsion at inappropriate times. At the earliest opportunity, the GM can declare that your weirdness puts a useful NPC off you (and probably your allies, too).[Immediate,Ongoing]"
+                    "weird.description": "You do something unsettling that bothers normal people - obsessive behaviour, singing to yourself,fulfilling a strange compulsion at inappropriate times. At the earliest opportunity, the GM can declare that your weirdness puts a useful NPC off you (and probably your allies, too). [Immediate,Ongoing]"
                 },
                 "echo": {
                     "buboes.name": "Buboes",
@@ -1468,7 +1468,7 @@
                     "collateral.name": "Collateral",
                     "collateral.description": "The next time you mark stress, a nearby ally marks the same amount; you then remove this fallout. [Immediate]",
                     "foreboding.name": "Foreboding",
-                    "foreboding.description": "Something bad is about to happen. GM, hint at an ominous future event - smoke in the distance, the tremors before a pulse, the frantic music of the Carnival. This fallout can be upgraded to CRISIS (see below). [Ongoing]",
+                    "foreboding.description": "Something bad is about to happen. GM, hint at an ominous future event - smoke in the distance, the tremors before a pulse, the frantic music of the Carnival. This fallout can be upgraded to CRISIS. [Ongoing]",
                     "the_hard_way.name": "The Hard Way",
                     "the_hard_way.description": "You lead the party into danger. The next obstacle the group attempts to overcome is Dangerous; they can reduce it to Risky, or even Standard, with a decent plan. [Immediate]",
                     "in_trouble.name": "In Trouble",
