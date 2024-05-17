@@ -619,7 +619,7 @@
                         "shadow.name": "Cień",
                         "survivor.description": "Zdobywasz +1 ochrony Krwi, Echo, Szczęścia lub Zapasów. Możesz wybrać tę zdolność więcej niż raz.",
                         "survivor.name": "Ocalały",
-                        "tattered_soul.description": "<p><i>Your eternal spirit has been warped and torn by your experiences, leaving you with an affinity with the not quite-real.</i></p><p>Gain the Cursed domain and +1 Echo protection.</p>",
+                        "tattered_soul.description": "<p><i>Twoja nieśmiertelna dusza została wypaczona i rozdarta twoimi doświadczeniami, dając ci zrozumienie tego, co nie całkiem realne.</i></p><p>Zyskujesz domenę \"Klątwa\" i +1 ochrony Echa.</p>",
                         "tattered_soul.name": "Poszarpana Dusza",
                         "walking_reliquary.description": "<p><i>Twój plecak brzęczy i dzwoni tuzinem niewielkich totemów umarłych. Skromna moc, która w razie potrzeby może uratować ci życie.</i></p><p>Zyskujesz +2 ochrony Zapasów.</p>",
                         "walking_reliquary.name": "Chodzący Relikwiarz",
@@ -692,7 +692,7 @@
                     "core": {
                         "the_hive.description": "<p><i>The sweetlings nest within your body.</i></p><p>Some of your organs are replaced with complex copies made from wax by industrious bees. They live within you - a few at first, but as you grow in power, great swarms. Their curious buzzing aligns your mind with the Hive. At the beginning of each situation, clear all Mind stress as incipient madness flows through you and into the Hive. You can never benefit from Mind protection or remove stress from Mind, aside from using this ability.</p>",
                         "the_hive.name": "Ul",
-                        "release_the_swarm.description": "<p><i>You send out a swarm of bees, eager to defend you.</i></p><p>Gain access to the following weapon: (Kill D4, Spread, Ranged).</p>",
+                        "release_the_swarm.description": "<p><i>Wysyłasz rój pszczół, które będą cie bronić.</i></p><p>Zyskujesz dostęp do następującej broni: (Broń D4, Obszarowa, Zasięgowa).</p>",
                         "release_the_swarm.name": "Wypuścić Rój"
                     },
                     "minor": {
@@ -710,7 +710,7 @@
                         "intrusion.name": "Wtargnięcie",
                         "many_eyes.description": "<p><i>Each of your companions is avessel for your sight.</i></p><p>Gain the Discern skill. When you stand still and close your eyes, you can see through the eyes of any of your bees, allowing you to spy around corners or look into closed spaces. You can't control the bees directly, but you have enough at your disposal to cover the area around you.</p>",
                         "many_eyes.name": "Wiele Oczu",
-                        "perfect_structure.description": "<p><i>Your body eschews treacherous meat in favour of a sturdy waxen comb.</i></p><p>Gain +2 Echo Protection.</p>",
+                        "perfect_structure.description": "<p><i>Twoje ciało odrzuca zdradzieckie mięso na rzecz wytrzymałego woskowego plastra.</i></p><p>Zyskujesz +2 ochrony Echa.</p>",
                         "perfect_structure.name": "Idealna Struktura",
                         "thrice_warded.name": "Po Trzykroć Chroniony",
                         "thrice_warded.description": "<p><i>Yo ur bees are marked with auspicious glyphs and you are able to brave the worst of the Heart unscathed.</i></p><p>Gain the Cursed domain. Each session, the first time you would take Minor Fortune fallout, avoid the fallout and do not remove stress from Fortune.</p>",
@@ -746,7 +746,7 @@
                         "pristine.name": "Nieskazitelny",
                         "regal.description": "Raz na sytuację, po poniesieniu stresu w odporności, zyskujesz +2 ochrony tej odporności do końca sytuacji.",
                         "regal.name": "Królewski",
-                        "stabilisation.description": "UNCHAOS may now affect all allies within arm's reach rather than a single nearby ally. If they leave your side, they lose access to the effect.",
+                        "stabilisation.description": "NIECHAOS może teraz wpływać na wszystkich sojuszników w zasięgu rąk, a nie tylko na jednego sojusznika w pobliżu. Jeśli sojusznicy oddalą się, stracą dostęp do efektu.",
                         "stabilisation.name": "Stabilizacja",
                         "perfection.description": "Raz na sytuację cel będący pod wpływem NIECHAOSU może potraktować akcję Niebezpieczną jako akcję Standardową.",
                         "perfection.name": "Perfekcja",
@@ -824,7 +824,7 @@
                         "martyrs_blood.name": "Krew Męczennika",
                         "martyrs_blood.description": "Raz na sesję, gdy pobliski sojusznik otrzyma Poważną Konsekwencję Krwi, obaj otrzymacie zamiast tego Pomniejszą Konsekwencję Krwi.",
                         "miraculous_intervention.name": "Cudowna Interwencja",
-                        "miraculous_intervention.description": "Once per situation, when you would mark stress to Blood but before the GM rolls to determine how much, activate this power. The attack only inflicts D4 stress.",
+                        "miraculous_intervention.description": "Raz na sytuację, gdy otrzymałbyś stres Krwi, możesz aktywować tą zdolność, by otrzymać tylko D4 stresu. Musisz zdecydować się na to zanim poznasz ilość stresu.",
                         "cast_asunder.name": "Rozgromienie",
                         "cast_asunder.description": "Raz na sytuację, gdy otrzymasz konsekwencję Krwi na skutek działań przeciwnika, zmniejsz jego kości stresu o 1 stopień.",
                         "avatar_of_flame.name": "Awatar Płomienia",
@@ -922,7 +922,7 @@
                         "judge.name": "Sędzia",
                         "judge.description": "Kiedy tropisz potępiony cel w ramach wyprawy, zwiększ swój rozmiar kości stresu o 1 poziom.",
                         "jury.name": "Przysięgły",
-                        "jury.description": "You no longer need evidence to condemn a target, but you do need a name, a picture or a first-hand description.",
+                        "jury.description": "Nie potrzebujesz już dowodów, by potępić cel. Natomiast wciąż potrzebujesz nazwiska, zdjęcia lub opisu z \"pierwszej ręki\".",
                         "executioner.name": "Egzekutor",
                         "executioner.description": "Kiedy atakujesz potępiony cel, zwiększ rozmiar kości stresu o 1 poziom.",
                         "double_duty.name": "Podwójny Obowiązek",
@@ -1039,13 +1039,13 @@
                         "conditioning.name": "Uwarunkowanie",
                         "conditioning.description": "<p><i>When you cast CRAVE, mark D6 stress to Mind to scar the target with the desire.</i></p><p>From now on, the first time they see you each session, treat them as though you had just cast CRAVE on them with the same subject of desire.</p>",
                         "buy_off.name": "Przekupstwo",
-                        "buy_off.description": "Once per situation, if you are wearing your Debtor's Reds and incur stress, you can mark stress to Supplies instead of another resistance.",
+                        "buy_off.description": "Raz na sytuację, jeśli masz na sobie Czerwień Dłużników i otrzymasz stres, możesz otrzymać stres Zapasów zamiast innej odporności.",
                         "cycle_of_debt.name": "Cykl Zadłużenia",
                         "cycle_of_debt.description": "Roll Kill+Religion to cast this spell. Target an adversary who has been harmed by DEBTOR'S REDS. They mark stress equal to your current Supplies stress.",
                         "assume_debt.name": "Przejęcie Długu",
                         "assume_debt.description": "<p><i>Whilst wearing your Debtor's Reds, any time you mark Supplies stress you may choose to ignore your Supplies protection.</i></p><p>If you do so, you may immediately cause someone within arms reach to mark the same amount of stress that you have just taken.</p>",
                         "connection.name": "Połączenie",
-                        "connection.description": "When you cast KARMIC LEDGER, you can see who the debt is owed to via an ephemeral red string connecting the two parties. It's easy enough to follow it.",
+                        "connection.description": "Po rzuceniu DZIENNIKA KARMY można zobaczyć, kto jest dłużnikiem. Manifestuje się to jako efemeryczny czerwony sznurkek łączący dłużnika z pożyczającym. Jest wystarczająco widoczny, żeby łatwo go śledzić.",
                         "harvest.name": "Żniwa",
                         "harvest.description": "<p><i>When you cast KARMIC LEDGER, you can beseech Incarne (ask the GM) to rate the value of their debt on a scale from D4 (low) to D12 (extremely high).</i></p><p>When you murder the target and give their debt to Incarne, remove stress equal to the dice size of their debt.</p>",
                         "candidate.name": "Kandydat",
@@ -1055,7 +1055,7 @@
                         "pathways.name": "Ścieżki",
                         "pathways.description": "Kiedy razem z sojusznikami próbujecie ustanowić połączenie między znanymi miejscami i przynajmniej jedno z nich jest częścią twojej sieci handlowej, możecie rzucać z mistrzostwem.",
                         "money_talks.name": "Siła Pieniądza",
-                        "money_talks.description": "Whilst at a shrine to Incarne, you can communicate with bonds or haunts in any haven that's part of your trade network."
+                        "money_talks.description": "Będąc w kapliczce Incarne, możesz komunikować się z powiązanymi osobami  lub miejscami odpoczynku w schronieniach, które są częścią twojej sieci handlowej."
                     },
                     "major": {
                         "backstab.name": "Dźgnięcie w Plecy",
@@ -1131,7 +1131,7 @@
                         "ecstasy.description": "Kiedy rzucasz KLĄTWĘ PODNIEBNEGO DWORU, możesz skupić ją na jednym celu, a nie na wszystkich w pobliżu. Ta osoba zostanie przepełniona radością oraz energią i będzie zdeterminowany, by szukać jej więcej, trudno będzie się jej skupić nawet na bezpośrednich zagrożeniach. Tak długo, jak koncentrujesz się nim, trudność jego akcji pozostaje Standardowa.",
                         "a_moment_eternal.name": "Wieczna Chwila",
                         "a_moment_eternal.description": "<p><i>Roll Evade+Occult to cast this spell.</i></p><p>On a success, your immediate area is time-shifted. For each hour outside of the area, those in the area experience 4 hours of time passing. While intended to stretch out a perfect moment, this can make time-sensitive tasks easier to attempt. The barrier that surrounds the area is blurry and indistinct, and if anyone from outside the area intrudes, the spell is broken and time resumes to normal speed.</p>",
-                        "steal_the_night_away.name": "Steal The Night Away",
+                        "steal_the_night_away.name": "Skradnij Noc ze Mną",
                         "steal_the_night_away.description": "Raz na sesję, kiedy angażujesz się w lekkomyślny hedonizm, odśwież D6 stresu. Jeśli spędzasz czas z kimś, kto cię fascynuje, odśwież D8. Odświeżenie te można wydać na usunięcie konsekwencji, tak jakbyś korzystał z miejsca odpoczynku.",
                         "words_of_flame.name": "Słowa Płomienia",
                         "words_of_flame.description": "Twoje ataki bez broni zadają D6 stresu zamiast D4.",
@@ -1241,7 +1241,7 @@
                         "hunted.name": "Polowanie",
                         "hunted.description": "<p><i>Name the creature that is coming after you.</i></p><p>Once per session, you can declare that it replaces the opposition in a dangerous scene as it eats them, chases them off or causes a big distraction - the GM decides. You'll have to fight or evade it yourself now, of course. If you kill it, gain a minor advance and remove this ability.</p>",
                         "endurance_training.name": "Trening Wytrzymałościowy",
-                        "endurance_training.description": "Your greatblade no longer has the Tiring tag, and inflicts D8 stress against human-sized targets.",
+                        "endurance_training.description": "Twoje wielkie ostrze traci etykietę Ciężki i zadaje D8 stresu celom wielkości człowieka.",
                         "applied_research.name": "Badania Stosowane",
                         "applied_research.description": "<p><i>Once per situation, when you inflict stress on an adversary, you can identify its weak spots.</i></p><p>For the remainder of the situation, you treat that adversary's difficulty as one step lower (to a minimum of Standard) when acting against it.</p>",
                         "last_minute_intervention.name": "Pomoc w Ostatniej Chwili",
@@ -1261,7 +1261,7 @@
                         "pathfinder.name": "Przepatrywacz Ścieżek",
                         "pathfinder.description": "Kiedy próbujesz utworzyć połączenie podczas wyprawy, rzucasz z mistrzostwem.",
                         "keep_your_heads_down.name": "Głowy Nisko",
-                        "keep_your_heads_down.description": "Whilst on a delve, any ally who can see or hear you while you give orders gains +1 Fortune protection."
+                        "keep_your_heads_down.description": "Podczas wyprawy każdy sojusznik, który cię widzi lub słyszy, gdy wydajesz rozkazy, zyskuje +1 ochrony Szczęścia."
                     },
                     "major": {
                         "aetheric_field.name": "Pole Eteryczne",
@@ -1307,7 +1307,7 @@
                         "a_mind_of_many_doorways.name": "Umysł Wielu Drzwi",
                         "a_mind_of_many_doorways.description": "<p><i>Śmiertelne troski bledną w porównaniu z potęgą rozbrzmiewającej w tobie pieśni krwi.</i></p><p>Zyskujesz +2 ochrony Umysłu.</p>",
                         "blood_quiet.name": "Krwawa Cisza",
-                        "blood_quiet.description": "<p><i>The darkness of the City Beneath beats black within your veins.</i></p><p>Gain the Sneak skill. When you enter your TRUE FORM, Sneak and Evade rolls are no longer considered Risky.</p>",
+                        "blood_quiet.description": "<p><i>Mrok Miasta Poniżej bije czernią w twoich żyłach.</i></p><p>Zdobywasz umiejętność \"Skradanie\". Gdy przyjmujesz w PRAWDZIWĄ FORMĘ, akcje Skradania i Uników nie są już uważane za Ryzykowne.</p>",
                         "books_of_lore.name": "Księgi Wiedzy",
                         "books_of_lore.description": "Zyskujesz dostęp do jednej z następujących domen: Klątwa, Odludzie, Okultyzm, Religia, Norowisko, Dzicz. Możesz wybrać tę zdolność więcej niż raz.",
                         "charms_and_wards.name": "Talizmany i Zaklęcia Ochronne",
@@ -1325,7 +1325,7 @@
                         "ramblewyrd.name": "Dziwny Wędrowiec",
                         "ramblewyrd.description": "<p><i>You are well-versed in exploring and surviving the places most connected to the Heart Itself; sometimes you do it for pleasure.</i></p><p>Gain the Cursed domain. Once per session, when you are in an area with the Cursed domain, remove D6 stress from resistances of your choice.</p>",
                         "red_dominion.name": "Czerwone Dominium",
-                        "red_dominion.description": "<p><i>You don't bleed unless you want to; when you're angry, your veins pulse visibly beneath your skin.</i></p><p>Gain +2 Blood protection.</p>",
+                        "red_dominion.description": "<p><i>Krwawisz tylko jeśli tego zapragniesz. Kiedy jesteś wściekły, twoje żyły wyraźnie pulsują pod skórą.</i></p><p>Zyskujesz +2 ochrony Krwi.</p>",
                         "wild_witch.name": "Dzika Wiedźma",
                         "wild_witch.description": "<p><i>You know the secrets of the wild things of the world, and are skilled at distilling their essences.</i></p><p>Gain the Wild domain. When you're in a landmark and have time to prepare, you can turn a resource with the Wild domain into a healing draught. When drunk, this draught removes Blood or Mind stress equal to its dice size minus one step - choose whether it's Blood or Mind when you create it.</p>",
                         "witch_spit.name": "Wiedźmia Ślina",
@@ -1349,7 +1349,7 @@
                         "as_above_so_below.name": "Jako w Niebie, tak i na Ziemi",
                         "as_above_so_below.description": "<p><i>You do not need line of sight to use EXSANGUINATE as long as you have a sympathetic token connected to your target (their hair, a figurine in their shape, a favoured item of theirs, etc.</i></p><p>), but you are still limited to making an attack within the usual distance of the Range tag.</p>",
                         "resilient.name": "Odporny",
-                        "resilient.description": "You can mark 6 total stress, instead of 4, before you lose access to your familiar for the remainder of the session.",
+                        "resilient.description": "Możesz ponieść łącznie 6 stresu, zamiast 4, zanim stracisz dostęp do swojego chowańca na resztę sesji.",
                         "hungry.name": "Głód",
                         "hungry.description": "Twój chowaniec działa jak przedmiot (Broń D8, Zasięgowy, Zawodny).",
                         "curious.name": "Ciekawski",
@@ -1442,9 +1442,9 @@
                     "buboes.name": "Bąble",
                     "buboes.description": "Na twojej skórze pojawiają się pęcherze i bąble. Kiedy otrzymasz stres Krwi, dodaj D4, ponieważ bąble pękają i wylewają z siebie ropę. [Trwająca]",
                     "conduit.name": "Magiczny Fokus",
-                    "conduit.description": "Your best efforts to keep the unreal energies of the Heart at bay are futile: your body is a crucible for strangeness. You cannot use Echo protection. [Ongoing]",
+                    "conduit.description": "Mimo twoich wysiłków, by utrzymać nierealną energię Serca na dystans, twoje ciało jest tyglem pelnym dziwności. Nie możesz korzystać z ochrony Echa. [Trwająca]",
                     "dejavu.name": "Déjà vu",
-                    "dejavu.description": "You notice minor elements of your past life appearing in the Heart as though it is reading your mind and adapting itself to your expectations; the GM tells you what happens. [Immediate, Ongoing]",
+                    "dejavu.description": "Zauważasz małe fragmenty twojej przeszłości pojawiające się ponownie w Sercu, tak jakby czytało ci w myślach i dostosowywało się do twoich oczekiwań. MG ustala co dokładnie się dzieje. [Natychmiastowa, Trwająca]",
                     "aetheric_scourge.name": "Eteryczna Zmora",
                     "aetheric_scourge.description": "Przed rzuceniem tego zaklęcia ponieś D6 stresu. Wyczarowujesz wiązkę magicznej energii, która wnika w przeciwnika, paląc jego skórę i włosy i zadając D6 stresu.",
                     "exodus.name": "Eksodus",
@@ -1470,7 +1470,7 @@
                     "foreboding.name": "Złe Przeczucia",
                     "foreboding.description": "Something bad is about to happen. GM, hint at an ominous future event - smoke in the distance, the tremors before a pulse, the frantic music of the Carnival. This fallout can be upgraded to CRISIS (see below). [Ongoing]",
                     "the_hard_way.name": "Wyzwanie",
-                    "the_hard_way.description": "You lead the party into danger. The next obstacle the group attempts to overcome is Dangerous; they can reduce it to Risky, or even Standard, with a decent plan. [Immediate]",
+                    "the_hard_way.description": "Prowadzisz drużynę prosto w pułapkę. Następna przeszkoda, którą grupa próbuje pokonać będzie Niebezpieczna. Mając dobry plan możecie zredukować trudność do Ryzykownej, albo nawet Standardowej. [Natychmiastowa]",
                     "in_trouble.name": "W Tarapatach",
                     "in_trouble.description": "Zdenerwowałeś ważną postać w tym lub pobliskim schronieniu. [Natychmiastowa, Trwająca]",
                     "long_way_round.name": "Okrężna droga",
@@ -1596,7 +1596,7 @@
                     "spoiled.name": "Zepsute zapasy",
                     "spoiled.description": "Posiadany zasób ulega zniszczeniu: staje się bezużyteczny, okazuje się fałszywy, pęka w plecaku lub rozsypuje się po ziemi. Natychmiast usuń go ze swojego ekwipunku. [Natychmiastowa]",
                     "incarnadine_severed.name": "Zniszczona Kapliczka",
-                    "incarnadine_severed.description": "Thanks to your neglect or pure misfortune, one of your shrines to Incarne has fallen into disrepair, and the haven it's inside is no longer part of your trade network."
+                    "incarnadine_severed.description": "Z powodu twojego zaniedbania lub czystego pecha, jedna z twoich kapliczek Incarne rozpada się, usuwając schronienie, w którym się znajduje z twojej sieci handlowej."
                 }
             },
             "critical": {
@@ -1766,7 +1766,7 @@
             },
             "0_8_0": {
                 "bug_fixes": [
-                    "Use await for delete, confirm item group deletions"
+                    "Użyto konstrukcji async-await przy usuwaniu i potwierdzaniu usuwaniu grupy elementów"
                 ],
                 "changes": [
                     "Dodano przekreślenia na wypełnionych taktach na arkuszu powołania.",
