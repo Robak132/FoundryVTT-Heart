@@ -649,7 +649,7 @@
                         "scything_blow.name": "Scything Blow",
                         "liminal.description": "<p><i>Gain +2 Blood protection after entering the Grey.</i> You can see and interact with people who are in the living world - they appear as indistinct blurs at a distance, but become clearer when nearby. You manifest as a weird, semi-ethereal phantom when you use this ability.</p>",
                         "liminal.name": "Liminal",
-                        "entropy.description": "<p><i>Your hands become (Kill D8,  Dangerous).</i> When you touch a machine, construction or mechanism and focus, you can cause rust and decay where you touched it. Doing this quickly or under stress (e.g. destroying a bridge before your enemies can cross it all the way) requires a Kill+Technology check.</p>",
+                        "entropy.description": "<p><i>Your hands become (Kill D8, Dangerous).</i> When you touch a machine, construction or mechanism and focus, you can cause rust and decay where you touched it. Doing this quickly or under stress (e.g. destroying a bridge before your enemies can cross it all the way) requires a Kill+Technology check.</p>",
                         "entropy.name": "Entropy",
                         "blood_sacrifice.description": "Once per situation, when you inflict stress on an adversary that's roughly the same size as you in melee combat, you can transport both you and them to the Grey.",
                         "blood_sacrifice.name": "Blood Sacrifice"
@@ -713,7 +713,7 @@
                         "perfect_structure.description": "<p><i>Your body eschews treacherous meat in favour of a sturdy waxen comb.</i> Gain +2 Echo Protection.</p>",
                         "perfect_structure.name": "Perfect Structure",
                         "thrice_warded.name": "Thrice-warded",
-                        "thrice_warded.description": "<p><i>Yo ur bees are marked with auspicious glyphs and you are able to brave the worst of the Heart unscathed.</i> Gain the Cursed domain. Each session, the first time you would take Minor Fortune fallout, avoid the fallout and do not remove stress from Fortune.</p>",
+                        "thrice_warded.description": "<p><i>Your bees are marked with auspicious glyphs and you are able to brave the worst of the Heart unscathed.</i> Gain the Cursed domain. Each session, the first time you would take Minor Fortune fallout, avoid the fallout and do not remove stress from Fortune.</p>",
                         "uncanny_biology.description": "<p><i>Aside from the Queen nestled inside your heart, every part of your body is replaceable by the swarm.</i> Gain +2 Blood Protection.</p>",
                         "uncanny_biology.name": "Uncanny Biology",
                         "waxen_sigils.description": "Gain +1 Protection in the Blood, Echo, Fortune or Supplies resistance. You can take this advance more than once.",
@@ -850,7 +850,7 @@
                         "hearts_sight.name": "Heart's Sight",
                         "hearts_sight.description": "When an ally acts on the information you give them as a result of this power and attempts to socialise with the people you've seen, they roll with mastery on their first action.",
                         "blessing.name": "Blessing",
-                        "blessing.description": "When this ability is active, you can touch an ally and confer the benefits of soul-sight to them as well"
+                        "blessing.description": "When this ability is active, you can touch an ally and confer the benefits of soul-sight to them as well."
                     },
                     "major": {
                         "oath_of_community.name": "Oath of Community",
@@ -954,7 +954,7 @@
                         "condemn.name": "Condemn",
                         "condemn.description": "<p><i>You have the authority to declare someone as a wanted criminal.</i> Once per session, when you find evidence of someone's (or something's) crimes, you can publicly condemn them. When you or another Hound tracks down a condemned target, roll with mastery.</p>",
                         "forewarned_and_forearmed.name": "Forewarned And Forearmed",
-                        "forewarned_and_forearmed.description": "<p><i>Never get into a fight you can't win.</i> Once per session, when you have an hour or two to spare in a landmark, you can make preparations for the coming challenges. Pick one of the benefits from the list below. You and all other characters who choose to take part in preparations gain this benefit until they next enter a landmark. • Whetstone and Weapon Drill. One piece of Kill equipment gains the Brutal tag. • Checked and Triple-Checked. One piece of Delve equipment gains the Trusty tag. • Toughen Up. Gain +1 Blood protection. • One for the Road. Gain +1 Mind protection. • Creative Acquisitions. Gain +1 Supplies protection.</p>",
+                        "forewarned_and_forearmed.description": "<p><i>Never get into a fight you can't win.</i> Once per session, when you have an hour or two to spare in a landmark, you can make preparations for the coming challenges. Pick one of the benefits from the list below. You and all other characters who choose to take part in preparations gain this benefit until they next enter a landmark:<ul><li>Whetstone and Weapon Drill. One piece of Kill equipment gains the Brutal tag.</li><li>Checked and Triple-Checked. One piece of Delve equipment gains the Trusty tag.</li><li>Toughen Up. Gain +1 Blood protection.</li><li>One for the Road. Gain +1 Mind protection.</li><li>Creative Acquisitions. Gain +1 Supplies protection.</li></ul></p>",
                         "stare_down.name": "Stare Down",
                         "stare_down.description": "<p><i>You have a reputation as a terrifying enforcer; just looking at some folk is enough to get them to throw down their weapons.</i> Your gaze functions as a weapon (Kill D6, ranged).It only works when your target can see you and if they have the capacity to be scared of you - so criminals are fair game, but heartsblood predators aren't. You can use this \"weapon\" in a haven or other landmark without causing a huge ruckus. Your gaze won't kill people - it's disheartening, and if you reduce an opponent's resistance to 0 with it they surrender, try to bargain their way out or trip and incapacitate themselves whilst fleeing.</p>",
                         "trench_fighter.name": "Trench-Fighter",
@@ -1454,7 +1454,7 @@
                     "glitch.name": "Glitch",
                     "glitch.description": "You disappear, only reappearing after every other player has acted at least once. [Immediate]",
                     "hex-eye.name": "Hex-Eye",
-                    "hex-eye.description": "Your vision swims as you start to perceive worlds other than your own layered on top of one another.Any action you take that requires accurate judging of distance (jumping, shooting,running down a corridor) becomes Risky. Once per session, you see something useful - ask the GM what it is.[Ongoing]",
+                    "hex-eye.description": "Your vision swims as you start to perceive worlds other than your own layered on top of one another. Any action you take that requires accurate judging of distance (jumping, shooting, running down a corridor) becomes Risky. Once per session, you see something useful - ask the GM what it is. [Ongoing]",
                     "the_ravening_call.name": "The Ravening Call",
                     "the_ravening_call.description": "This fallout has no effect, but it stays on your character, and occasionally manifests as a broken, staccato howl in the back of their mind. Should this fallout by upgraded, see THE RAVENING BEAST below. [Ongoing]",
                     "strange_appetite.name": "Strange Appetite",
