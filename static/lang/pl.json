@@ -1239,7 +1239,7 @@
                         "anathema.name": "Klątwa",
                         "anathema.description": "Kiedy POLE ETERYCZNE jest aktywne, twoje ataki wręcz wymierzone w sercokrwiste stworzenia lub ludzi zyskują etykietę „Brutalny”.",
                         "hunted.name": "Polowanie",
-                        "hunted.description": "<p><i>Name the creature that is coming after you.</i> Once per session, you can declare that it replaces the opposition in a dangerous scene as it eats them, chases them off or causes a big distraction - the GM decides. You'll have to fight or evade it yourself now, of course. If you kill it, gain a minor advance and remove this ability.</p>",
+                        "hunted.description": "Nazwij stworzenie, które cię ściga. Raz na sesję możesz zadeklarować, że zastępuje on przeciwników w niebezpiecznej scenie, gdy ich pożera, przegania lub powoduje duże zamieszanie (decyduje GM). Oczywiście wciąż będziesz musiał z nią walczyć albo uciec. Jeśli ją zabijasz, tracisz tę zdolność i możesz wybrać kolejną pomniejszą zdolność.",
                         "endurance_training.name": "Trening Wytrzymałościowy",
                         "endurance_training.description": "Twoje wielkie ostrze traci etykietę Ciężki i zadaje D8 stresu celom wielkości człowieka.",
                         "applied_research.name": "Badania Stosowane",
@@ -1465,7 +1465,7 @@
                 "fortune": {
                     "broken.name": "Zepsuty przedmiot",
                     "broken.description": "Uszkodziłeś ważny przedmiot, nie możesz z niego korzystać, dopóki nie poświęcisz czasu i zasobów na jego naprawę. [Trwająca]",
-                    "collateral.name": "Przypadek",
+                    "collateral.name": "Żywa Tarcza",
                     "collateral.description": "Następnym razem, gdy otrzymasz stres, pobliski sojusznik otrzyma taką samą ilość, następnie usuń tę konsekwencję. [Natychmiastowa]",
                     "foreboding.name": "Złe Przeczucia",
                     "foreboding.description": "Coś złego może się wydarzyć. MG sugeruje złowieszczy omen, zapowiadający przyszłe wydarzenie: dym w oddali, wstrząsy przed pulsem, szalona muzyka Karnawału. Ta konsekwencja może zostać ulepszona do KRYZYSU. [Trwająca]",
