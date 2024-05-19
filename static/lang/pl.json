@@ -556,7 +556,7 @@
                         "bounty_shared.name": "Wspólna Nagroda"
                     },
                     "major": {
-                        "bloodbound_beast.description": "<p><i>You are accompanied by a ragged cryptid that follows your commands - an ancient stone-browed stag, a razor toothed heartsblood hound or something stranger.</i> You feed it your blood, and it fights for you. You gain the Bloodbound tag on all weapons as you and your companion work in concert.</p>",
+                        "bloodbound_beast.description": "<p><i>Towarzyszy ci obdarta kryptyda, która wykonuje twoje polecenia: pradawny jeleń o kamiennych brwiach, sercokrwisty ogar o zębach jak brzytwy lub coś jeszcze dziwniejszego.</i> Karmisz go swoją krwią, a on pomaga ci w walce. Zyskujesz etykietę Więź Krwi na wszystkich broniach, jeśli współpracujesz z twoim towarzyszem.</p>",
                         "bloodbound_beast.name": "Bestia Krwi",
                         "chimeric_strain.description": "<p><i>Z odgłosem pękających mięśni i skręcających się ścięgien, zmieniasz się w coś przerażającego.</i> Gdy aktywujesz tę zdolność, ponieś D4 stresu Echa. Przez resztę obecnej sytuacji wszystkie wykonywane przez ciebie ataki wręcz zyskują etykiety Brutalny i Dziwny.</p>",
                         "chimeric_strain.name": "Chimeryczna Odmiana",
@@ -832,7 +832,7 @@
                         "avatar_of_moonlight.name": "Awatar Światła Księżyca",
                         "avatar_of_moonlight.description": "<p><i>When you use OATH OF FURY, you can choose to replace the benefits granted with +2 Echo protection.</i> In addition, when you use the Mend skill on an ally, instead of removing stress you may remove Minor Blood or Mind fallout on a successful roll. At the end of the session, if you have not removed both Blood and Mind fallout from your allies, mark D6 stress to Mind.</p>",
                         "avatar_of_shadows.name": "Awatar Cienia",
-                        "avatar_of_shadows.description": "<p><i>When you use OATH OF FURY, you can choose to replace the benefits granted with +2 Fortune protection and your attacks (even melee) gaining the Extreme Range tag.</i> At the end of the session, if you have not taken the life of a worthy creature, mark D6 stress to Mind.</p>",
+                        "avatar_of_shadows.description": "Kiedy używasz PRZYSIĘGI FURII, możesz zdecydować się na zastąpienie normalnych efektów na +2 ochrony Szczęścia. Dodatkowo twoje ataki (nawet wręcz) zyskują wtedy etykietę Ekstremalny zasięg. Na koniec sesji, jeśli nie odebrałeś życia godnej istocie, otrzymasz D6 stresu Umysłu.",
                         "fragment_of_lekole.name": "Fragment Lekolé",
                         "fragment_of_lekole.description": "Broń otrzymuje etykietę „Brutalny”.",
                         "fragment_of_lombre.name": "Fragment Lombré",
@@ -1047,7 +1047,7 @@
                         "connection.name": "Połączenie",
                         "connection.description": "Po rzuceniu DZIENNIKA KARMY można zobaczyć, kto jest dłużnikiem. Manifestuje się to jako efemeryczny czerwony sznurek łączący dłużnika z pożyczającym. Jest wystarczająco widoczny, żeby łatwo go śledzić.",
                         "harvest.name": "Żniwa",
-                        "harvest.description": "<p><i>When you cast KARMIC LEDGER, you can beseech Incarne (ask the GM) to rate the value of their debt on a scale from D4 (low) to D12 (extremely high).</i> When you murder the target and give their debt to Incarne, remove stress equal to the dice size of their debt.</p>",
+                        "harvest.description": "Kiedy rzucasz DZIENNIK KARMY, możesz poprosić Incarne (zapytaj MG), by ocenił dług celu w skali od D4 (niski) do D12 (ekstremalnie wysoki). Kiedy zamordujesz cel i oddasz jego dług Incarne, usuń stres równy wielkości jego długu.",
                         "candidate.name": "Kandydat",
                         "candidate.description": "Raz na sesję, gdy spędzisz kilka minut na kontakcie z Incarne, pokaże ci on wizję osoby z niespłaconym długiem karmy w twojej okolicy.",
                         "proliferation.name": "Rozrost",
@@ -1269,7 +1269,7 @@
                         "dragon_killer.name": "Zabójca Smoków",
                         "dragon_killer.description": "<p><i>You have been entrusted with a greatblade from the order's vaults - an ancient weapon designed to slay the fiercest abominations within the Vermissian network.</i> A greatblade has two profiles: one when used against human-sized targets (Kill D6, Tiring), and one when used against targets significantly larger than yourself (Kill D10, Tiring).</p>",
                         "get_behind_me.name": "Schowaj się za mną",
-                        "get_behind_me.description": "<p><i>You know that you can't explore the world alone, so you've learned to keep your team alive.</i> Any ally within arm's reach of you gains +1 Blood protection thanks to your interventions. Once per situation, you can bellow an order and remove D4 Blood or Mind stress from a nearby ally.</p>",
+                        "get_behind_me.description": "<p><i>Nauczyłeś się utrzymywać swoją drużynę przy życiu, gdyż doskonale wiesz, że nie dasz rady przemierzać świata w pojedynkę.</i> Dzięki twojej pomocy, każdy sojusznik w zasięgu twoich rąk zyskuje +1 ochrony Krwi. Raz na sytuację możesz wydać rozkazy i usunąć D4 stresu Krwi lub Umysłu z pobliskiego sojusznika.</p>",
                         "overclock.name": "Przetaktowanie",
                         "overclock.description": "<p><i>You push your Vermissian Plate up to, and honestly beyond, its limits.</i> You may activate this ability at any time. When you do, make an immediate melee attack; your weapon gains the Brutal tag. After using the ability, mark D4 stress to Fortune as you push your luck and strain your engines.</p>",
                         "trailblazer.name": "Pionier",
@@ -1562,7 +1562,7 @@
                     "crisis.name": "Kryzys",
                     "crisis.description": "Something bad is about to happen. GM, hint at an ominous future event – smoke in the distance, the tremors before a pulse, the frantic music of the Carnival. The danger is real and will occur after some time. [Immediate]",
                     "destroyed.name": "Zniszczony",
-                    "destroyed.description": "If you're currently on a delve that has a connection established, remove the connection and describe what happened. If you're inside a landmark, you destroy something of value and remove one of the landmark's haunts (if it has any). Tell us how you did it (on purpose or accidentally). [Immediate]",
+                    "destroyed.description": "Jeśli jesteś obecnie na wyprawie, która ma ustanowione połączenie, usuń to połączenie i opisz, co się stało. Jeśli znajdujesz się wewnątrz znanego miejsca, niszczysz coś wartościowego. Usuń jedno z miejsc odpoczynku (jeśli miejsce takowe posiada). Opowiedz, jak to zrobiłeś (celowo lub przypadkowo). [Natychmiastowa]",
                     "exiled.name": "Wygnany",
                     "exiled.description": "Zostajesz wygnany ze schronienia, w którym obecnie przebywasz lub które znajduje się w pobliżu. Opowiedz, co się stało. Twoi sojusznicy nie podlegają tym samym ograniczeniom, ale będą traktowani podejrzliwie. [Natychmiastowa, Trwająca]",
                     "grievance.name": "Uraza",
@@ -1576,7 +1576,7 @@
                     "no_way_out.name": "Bez wyjścia",
                     "no_way_out.description": "Prowadziłeś drużynę w ślepy zaułek, pułapkę lub zasadzkę. Usuń tę konsekwencję, jeśli wyjdziesz z niej żywy. [Natychmiastowa]",
                     "reputation.name": "Reputacja",
-                    "reputation.description": "Another delver has gotten wind of your successes (or your weaknesses) and they are coming for you. You are ambushed by a hunter seeking to claim your head and relieve you of your hard earned supplies. Remove this fallout once the fight is over. [Immediate]",
+                    "reputation.description": "Inny poszukiwacz dowiedział się o twoich sukcesach (lub słabościach) i idzie po ciebie. Wpadłeś w zasadzkę łowcy, który chce pozbawić cię twojej słowy i ciężko zarobionych zapasów. Usuń tę konsekwencję po zakończeniu walki. [Natychmiastowa]",
                     "the_road_less_travelled.name": "Mniej Uczęszczana Droga",
                     "the_road_less_travelled.description": "Wybrałeś złą ścieżkę. Kolejne znane miejsce, do którego dotrzesz, nie jest tym, którego się spodziewasz. Jest to zupełnie inne miejsce, prawdopodobnie takie, którego próbowałeś uniknąć. [Natychmiastowa]",
                     "unwilling_leader.name": "Niechętny Lider",
@@ -1630,7 +1630,7 @@
                     "break.name": "Załamanie",
                     "break.description": "You completely lose it. Anyone standing nearby who you care about marks D8 stress to Mind; anyone standing nearby who you've never really liked marks D8 stress to Blood as you attack them. After this, you die (either self-inflicted or at the hands of your allies) or your mind is so shattered that you retire as a player character. [Immediate]",
                     "obsessed.name": "Obsesja",
-                    "obsessed.description": "Your purpose has become twisted and cruel; you will stop at nothing to achieve it. Your character is retired from play and becomes an antagonist that acts against the surviving player characters in an effort to achieve their wicked desires.[Immediate,Ongoing]"
+                    "obsessed.description": "Your purpose has become twisted and cruel; you will stop at nothing to achieve it. Your character is retired from play and becomes an antagonist that acts against the surviving player characters in an effort to achieve their wicked desires. [Immediate, Ongoing]"
                 },
                 "fortune": {
                     "fools_gold.name": "Złoto Głupców",
