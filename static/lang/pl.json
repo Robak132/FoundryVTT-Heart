@@ -1172,7 +1172,7 @@
                         "frenzy_of_the_sky_court.name": "Szał Podniebnego Dworu",
                         "frenzy_of_the_sky_court.description": "<p><i>The Court had their memories stripped away and their brains filled with nothing but air; though all of genius-level intelligence, they exist purely in a single, frantic moment.</i> Roll Evade+Occult to cast this spell. On a success, you are filled with the mercurial energy of the Sky Court, and you gain +1 Protection to all resistances for the remainder of the situation. However, until the spell ends (and you can't end it early), any actions that require more than a couple of seconds' attention become Risky.</p>",
                         "greed_of_the_red_king.name": "Chciwość Czerwonego Króla",
-                        "greed_of_the_red_king.description": "<p><i>The Red King's one desire is wealth; he was so devoted to the pursuit of gold that he dreamed himself a reality of infinite splendour.</i> Roll Discern+Occult to cast the spell. On a success, you determine what a target you can see wants most of all right now. In addition, you can smell money, or anything of particular value.</p>",
+                        "greed_of_the_red_king.description": "<p><i>Jedynym pragnieniem Czerwonego Króla jest bogactwo. Był tak oddany pogoni za złotem, że wyśnił sobie rzeczywistość pełną nieskończonego przepychu.</i> By rzucić to zaklęcie, przetestuj Obserwacja + Okultyzm. Jeśli ci się powiedzie, określisz, czego cel, który widzisz, pragnie teraz najbardziej. Ponadto możesz wyczuć zapach pieniędzy lub wartościowych przedmiotów.</p>",
                         "kiss_of_the_drowned_queen.name": "Pocałunek Królowej Topielców",
                         "kiss_of_the_drowned_queen.description": "<p><i>Ujrzałeś zatopiony Dwór Królowej Topielców, gdzie śpi i oczekuje na odrodzenie swojego rodu.</i> Jednym dotknięciem możesz wyczarować słoną wodę w płucach tych, którzy Ci się sprzeciwiają. To zaklęcie działa jako broń: (Broń D6, Przebijająca). Jeśli cel znajduje się co najmniej po pas w wodzie, zadajesz D8 obrażeń.</p>",
                         "sanctum_of_the_stone_chorus.name": "Sanctum Kamiennego Chóru",
@@ -1267,7 +1267,7 @@
                         "aetheric_field.name": "Pole Eteryczne",
                         "aetheric_field.description": "<p><i>Twój pancerz brzęczy od wyładowań elektrostatycznych, które sprawiają, że włosy stają dęba. Wyładowania mogą uchronić cię przed wypaczającymi efektami tuneli Vermis.</i> Raz na sesję możesz otrzymać +3 ochrony Echa do końca sytuacji.</p>",
                         "dragon_killer.name": "Zabójca Smoków",
-                        "dragon_killer.description": "<p><i>Powierzone ci wielkie ostrze ze skarbca zakonu, starożytną broń zaprojektowaną do zabijania najgroźniejszych plugastw w Tunelach Vermis.</i> Wielkie ostrze ma dwa zestawy statystyk, jeden, gdy jest używany przeciwko celom wielkości człowieka: (Broń D6, Ciężka), a drugi, gdy jest używany przeciwko celom znacznie większym od ciebie: (Broń D10, Ciężka).</p>",
+                        "dragon_killer.description": "<p><i>Powierzono ci wielkie ostrze ze skarbca zakonu, starożytną broń zaprojektowaną do zabijania najgroźniejszych plugastw w Tunelach Vermis.</i> Wielkie ostrze ma dwa zestawy statystyk, jeden, gdy jest używany przeciwko celom wielkości człowieka: (Broń D6, Ciężka), a drugi, gdy jest używany przeciwko celom znacznie większym od ciebie: (Broń D10, Ciężka).</p>",
                         "get_behind_me.name": "Schowaj się za mną",
                         "get_behind_me.description": "<p><i>Nauczyłeś się utrzymywać swoją drużynę przy życiu, gdyż doskonale wiesz, że nie dasz rady przemierzać świata w pojedynkę.</i> Dzięki twojej pomocy, każdy sojusznik w zasięgu twoich rąk zyskuje +1 ochrony Krwi. Raz na sytuację możesz wydać rozkazy i usunąć D4 stresu Krwi lub Umysłu z pobliskiego sojusznika.</p>",
                         "overclock.name": "Przetaktowanie",
@@ -1315,7 +1315,7 @@
                         "distinguished_lineage.name": "Wybitny Ród",
                         "distinguished_lineage.description": "<p><i>Twoje matki krwi działają w Mieście Poniżej od wieków, a ty dźwigasz ciężar ich czynów (i obietnic) na swoich barkach.</i> Zyskujesz domenę \"Schronienie\". Raz na sesję, kiedy twoja więź ponosi stres, nie musisz rzucać na konsekwencje.</p>",
                         "divinity.name": "Boskość",
-                        "divinity.description": "<p><i>You were inducted into a coven who believe that witches are blessed by the gods; you recognise a second heartbeat, unknowable and sacred, inside you.</i> Gain the Religion domain. Roll Discern+Religion to follow the secret signs in an inhabited landmark that lead to the hidden places of worship where you are revered as a messenger of the Heart Itself.</p>",
+                        "divinity.description": "<p><i>Zostałeś wcielony do sabatu, który wierzy, że wiedźmy są błogosławione przez bogów. Wewnątrz siebie, wyczuwasz drugie bicie serca, niepoznawalne i święte.</i> Zdobywasz domenę Religia. Rzuć Obserwacja+Religia, by podążyć za tajemnymi znakami w zamieszkałym miejscu, które prowadzą do ukrytych świątyni, gdzie będziesz czczony jako posłaniec Samego Serca.</p>",
                         "heart_wise.name": "Sercomądra",
                         "heart_wise.description": "Zyskujesz dostęp do jednej z następujących umiejętności: Manipulacja, Wyprawa, Obserwacja, Odporność, Polowanie, Zabijanie, Łączenie. Możesz wybrać tę zdolność więcej niż raz.",
                         "implacable.name": "Nieustępliwa",
@@ -1365,7 +1365,7 @@
                         "rule.name": "Władza",
                         "rule.description": "Gdy znajdujesz się w swoim legowisku, wykonujesz wszystkie akcje z mistrzostwem.",
                         "feed.name": "Pasza",
-                        "feed.description": "<p><i>Once per session, you may feed a helpless or dead person or animal to your lair to remove stress from your bond.</i> The larger the creature, the more stress you remove from the bond - a cat is D4, a person is D6, and if you can haul or lure a bear in there it's D12.</p>"
+                        "feed.description": "Raz na sesję możesz nakarmić leże bezbronną lub martwą osobą albo zwierzęciem, by usunąć stres z waszej więzi. Im większe stworzenie, tym więcej stresu usuwasz z więzi: kot to D4, człowiek to D6, a jeśli uda ci się zaciągnąć lub zwabić niedźwiedzia, to D12."
                     },
                     "major": {
                         "ascendancy.name": "Ascendencja",
@@ -1450,7 +1450,7 @@
                     "exodus.name": "Eksodus",
                     "exodus.description": "Wymiotujesz garściami wijących się stworzeń: blade, tłuste ćmy, półprzezroczyste larwy, pająki z niewłaściwą liczbą odnóży, pulsujące pasożyty i tak dalej. Każdy, kto to zobaczy i nie jest na to gotowy, otrzymuje D4 stresu Umysłu. [Natychmiastowa]",
                     "follower.name": "Obserwujący",
-                    "follower.description": "Someone, or something, believes you are very important: chosen of the Heart and worth following. A weird-looking but essentially harmless creature or person follows you at a distance; they won't approach you, but they'll be keen to sift through your rubbish or attempt to hurt anyone who looks like they might want to get in your way. [Ongoing]",
+                    "follower.description": "Ktoś lub coś uważa, że jesteś bardzo ważny: wybrany przez Serce i godny naśladowania. Dziwnie wyglądająca, ale zasadniczo nieszkodliwa istota lub osoba podąża za tobą. Nie podejdzie do ciebie, ale chętnie przeszuka twoje rzeczy albo spróbuje skrzywdzić kogoś, kto wygląda, jakby chciał wejść ci w drogę. [Trwająca]",
                     "glitch.name": "Błąd",
                     "glitch.description": "Znikasz i pojawisz się ponownie dopiero po tym, jak każdy inny gracz wykona przynajmniej jedną akcję. [Natychmiastowa]",
                     "hex-eye.name": "Klątwa Wielowzroku",
@@ -1584,7 +1584,7 @@
                 },
                 "supplies": {
                     "in_the_dark.name": "W Ciemności",
-                    "in_the_dark.description": "Your torch sputters out, and you can't re-light it. All Delve or Discern checks you make become Risky. Also, someone or something takes the opportunity to strike while you're vulnerable. Until you can get some light, the fight is Dangerous. Once things calm down, another party member can remove this fallout by marking D6 stress to Supplies. [Immediate, Ongoing]",
+                    "in_the_dark.description": "Twoja pochodnia gaśnie i nie możesz jej ponownie zapalić. Wszystkie wykonywane przez ciebie akcje Wyprawy lub Obserwacji stają się Ryzykowne. Ponadto ktoś lub coś korzysta z okazji, by cię zaatakować, gdy jesteś bezbronny. Dopóki nie odzyskasz światła, walka będzie Niebezpieczna. Gdy sytuacja się uspokoi, inny członek drużyny może usunąć tę konsekwencję, otrzymując D6 stresu Zapasów. [Natychmiastowa, Trwająca]",
                     "lost_property.name": "Utracone Mienie",
                     "lost_property.description": "Zgubiłeś przedmiot (GM wybiera). Mógłbyś spędzić czas na szukaniu go, ale musiałbyś się cofnąć. Dodatkowo ktoś mógł już go zabrać. [Natychmiastowa]",
                     "no_rations.name": "Koniec Jedzenia",
