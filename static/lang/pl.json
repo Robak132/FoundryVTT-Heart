@@ -588,7 +588,7 @@
                         "bounty_shared.name": "Wspólna Nagroda"
                     },
                     "major": {
-                        "bloodbound_beast.description": "<p><i>You are accompanied by a ragged cryptid that follows your commands - an ancient stone-browed stag, a razor toothed heartsblood hound or something stranger.</i> You feed it your blood, and it fights for you. You gain the Bloodbound tag on all weapons as you and your companion work in concert.</p>",
+                        "bloodbound_beast.description": "<p><i>Towarzyszy ci obdarta kryptyda, która wykonuje twoje polecenia: pradawny jeleń o kamiennych brwiach, sercokrwisty ogar o zębach jak brzytwy lub coś jeszcze dziwniejszego.</i> Karmisz go swoją krwią, a on pomaga ci w walce. Zyskujesz etykietę Więź Krwi na wszystkich broniach, jeśli współpracujesz z twoim towarzyszem.</p>",
                         "bloodbound_beast.name": "Bestia Krwi",
                         "chimeric_strain.description": "<p><i>Z odgłosem pękających mięśni i skręcających się ścięgien, zmieniasz się w coś przerażającego.</i> Gdy aktywujesz tę zdolność, ponieś D4 stresu Echa. Przez resztę obecnej sytuacji wszystkie wykonywane przez ciebie ataki wręcz zyskują etykiety Brutalny i Dziwny.</p>",
                         "chimeric_strain.name": "Chimeryczna Odmiana",
@@ -745,7 +745,7 @@
                         "perfect_structure.description": "<p><i>Twoje ciało odrzuca zdradzieckie mięso na rzecz wytrzymałego woskowego plastra.</i> Zyskujesz +2 ochrony Echa.</p>",
                         "perfect_structure.name": "Idealna Struktura",
                         "thrice_warded.name": "Po Trzykroć Chroniony",
-                        "thrice_warded.description": "<p><i>Yo ur bees are marked with auspicious glyphs and you are able to brave the worst of the Heart unscathed.</i> Gain the Cursed domain. Each session, the first time you would take Minor Fortune fallout, avoid the fallout and do not remove stress from Fortune.</p>",
+                        "thrice_warded.description": "<p><i>Your bees are marked with auspicious glyphs and you are able to brave the worst of the Heart unscathed.</i> Gain the Cursed domain. Each session, the first time you would take Minor Fortune fallout, avoid the fallout and do not remove stress from Fortune.</p>",
                         "uncanny_biology.description": "<p><i>Poza Królową w sercu, każda część twojego ciała może zostać zastąpiona przez rój.</i> Zyskujesz +2 ochrony Krwi.</p>",
                         "uncanny_biology.name": "Niepokojąca Biologia",
                         "waxen_sigils.description": "Zdobywasz +1 ochronę Krwi, Echo, Szczęścia lub Zapasów. Możesz wybrać tę zdolność więcej niż raz.",
@@ -864,7 +864,7 @@
                         "avatar_of_moonlight.name": "Awatar Światła Księżyca",
                         "avatar_of_moonlight.description": "<p><i>When you use OATH OF FURY, you can choose to replace the benefits granted with +2 Echo protection.</i> In addition, when you use the Mend skill on an ally, instead of removing stress you may remove Minor Blood or Mind fallout on a successful roll. At the end of the session, if you have not removed both Blood and Mind fallout from your allies, mark D6 stress to Mind.</p>",
                         "avatar_of_shadows.name": "Awatar Cienia",
-                        "avatar_of_shadows.description": "<p><i>When you use OATH OF FURY, you can choose to replace the benefits granted with +2 Fortune protection and your attacks (even melee) gaining the Extreme Range tag.</i> At the end of the session, if you have not taken the life of a worthy creature, mark D6 stress to Mind.</p>",
+                        "avatar_of_shadows.description": "Kiedy używasz PRZYSIĘGI FURII, możesz zdecydować się na zastąpienie normalnych efektów na +2 ochrony Szczęścia. Dodatkowo twoje ataki (nawet wręcz) zyskują wtedy etykietę Ekstremalny zasięg. Na koniec sesji, jeśli nie odebrałeś życia godnej istocie, otrzymasz D6 stresu Umysłu.",
                         "fragment_of_lekole.name": "Fragment Lekolé",
                         "fragment_of_lekole.description": "Broń otrzymuje etykietę „Brutalny”.",
                         "fragment_of_lombre.name": "Fragment Lombré",
@@ -898,11 +898,11 @@
                     },
                     "zenith": {
                         "ascension.name": "Ascension",
-                        "ascension.description": "<p>You transcend the need for mortal flesh. The Goddess appears before you in her trifold majesty: a scintillating blaze of divinity, silver-crimson and midnight black. She blesses you, and your frail mortal anatomy becomes a conduit for her eternal flesh. You take on an angelic form.</p> <p>The descriptions of angels of the Moon Beneath are varied, but multiple heads, six or more wings, mighty voices raised in exaltation and an abundance of eyes are common themes. In your new form, your many hyperdimensional claws and appendages inflict D10 damage and possess the Piercing tag. You roll 6D10 when striking at those who would threaten the faithful or desecrate sacred ground, and all other actions automatically fail.</p> <p>At the end of the situation, you are transfused into ossified bone-crystal, your radiance added to her incomprehensible refulgence, and retired as a player character.</p>",
+                        "ascension.description": "<p><i>You transcend the need for mortal flesh.</i> The Goddess appears before you in her trifold majesty: a scintillating blaze of divinity, silver-crimson and midnight black. She blesses you, and your frail mortal anatomy becomes a conduit for her eternal flesh. You take on an angelic form.</p> <p>The descriptions of angels of the Moon Beneath are varied, but multiple heads, six or more wings, mighty voices raised in exaltation and an abundance of eyes are common themes. In your new form, your many hyperdimensional claws and appendages inflict D10 damage and possess the Piercing tag. You roll 6D10 when striking at those who would threaten the faithful or desecrate sacred ground, and all other actions automatically fail.</p> <p>At the end of the situation, you are transfused into ossified bone-crystal, your radiance added to her incomprehensible refulgence, and retired as a player character.</p></p>",
                         "glory.name": "Chwała",
-                        "glory.description": "<p>You come face to face with the goddess herself, and the radiance reflected in your eyes is too much for people to behold. You keep your face covered. When you uncover it, all those who can see you are stunned and awed, unable to look upon you without falling to their knees.&nbsp; hose who remain in your presence miraculously remove one Minor Blood or Mind fallout result, or downgrade a Major to a Minor after about an hour; most NPCs will convert to your faith on the spot.</p> <p>In the City Above, a team of aelfir hunters working for the Solar Church are mobilised and dispatched to kill you. They will find and eliminate you, and you will die.</p>",
+                        "glory.description": "<p><i>You come face to face with the goddess herself, and the radiance reflected in your eyes is too much for people to behold.</i> You keep your face covered. When you uncover it, all those who can see you are stunned and awed, unable to look upon you without falling to their knees.&nbsp; hose who remain in your presence miraculously remove one Minor Blood or Mind fallout result, or downgrade a Major to a Minor after about an hour; most NPCs will convert to your faith on the spot.</p> <p>In the City Above, a team of aelfir hunters working for the Solar Church are mobilised and dispatched to kill you. They will find and eliminate you, and you will die.</p></p>",
                         "testament_of_faith.name": "Świadectwo Wiary",
-                        "testament_of_faith.description": "<p>You become a beacon of hope for those struck by fear or desperation. To activate this ability, die a martyr&rsquo;s death. The ground on which you died (or where you&rsquo;re buried, whichever is more dramatically appropriate) becomes holy to the church of the Moon Beneath. Over the next few months, pilgrims will visit the site and erect a suitable shrine. For the remainder of the campaign, and at the GM&rsquo;s discretion any future campaigns, the shrine functions as a landmark with some appropriate haunts. Once per campaign, when the surviving player characters visit it, they can beseech your spirit to answer a question. You will deliver valuable wisdom.</p>"
+                        "testament_of_faith.description": "<p><i>You become a beacon of hope for those struck by fear or desperation.</i> To activate this ability, die a martyr&rsquo;s death. The ground on which you died (or where you&rsquo;re buried, whichever is more dramatically appropriate) becomes holy to the church of the Moon Beneath. Over the next few months, pilgrims will visit the site and erect a suitable shrine. For the remainder of the campaign, and at the GM&rsquo;s discretion any future campaigns, the shrine functions as a landmark with some appropriate haunts. Once per campaign, when the surviving player characters visit it, they can beseech your spirit to answer a question. You will deliver valuable wisdom.</p></p>"
                     }
                 }
             },
@@ -1079,7 +1079,7 @@
                         "connection.name": "Połączenie",
                         "connection.description": "Po rzuceniu DZIENNIKA KARMY można zobaczyć, kto jest dłużnikiem. Manifestuje się to jako efemeryczny czerwony sznurek łączący dłużnika z pożyczającym. Jest wystarczająco widoczny, żeby łatwo go śledzić.",
                         "harvest.name": "Żniwa",
-                        "harvest.description": "<p><i>When you cast KARMIC LEDGER, you can beseech Incarne (ask the GM) to rate the value of their debt on a scale from D4 (low) to D12 (extremely high).</i> When you murder the target and give their debt to Incarne, remove stress equal to the dice size of their debt.</p>",
+                        "harvest.description": "Kiedy rzucasz DZIENNIK KARMY, możesz poprosić Incarne (zapytaj MG), by ocenił dług celu w skali od D4 (niski) do D12 (ekstremalnie wysoki). Kiedy zamordujesz cel i oddasz jego dług Incarne, usuń stres równy wielkości jego długu.",
                         "candidate.name": "Kandydat",
                         "candidate.description": "Raz na sesję, gdy spędzisz kilka minut na kontakcie z Incarne, pokaże ci on wizję osoby z niespłaconym długiem karmy w twojej okolicy.",
                         "proliferation.name": "Rozrost",
@@ -1271,7 +1271,7 @@
                         "anathema.name": "Klątwa",
                         "anathema.description": "Kiedy POLE ETERYCZNE jest aktywne, twoje ataki wręcz wymierzone w sercokrwiste stworzenia lub ludzi zyskują etykietę „Brutalny”.",
                         "hunted.name": "Polowanie",
-                        "hunted.description": "<p><i>Name the creature that is coming after you.</i> Once per session, you can declare that it replaces the opposition in a dangerous scene as it eats them, chases them off or causes a big distraction - the GM decides. You'll have to fight or evade it yourself now, of course. If you kill it, gain a minor advance and remove this ability.</p>",
+                        "hunted.description": "Nazwij stworzenie, które cię ściga. Raz na sesję możesz zadeklarować, że zastępuje on przeciwników w niebezpiecznej scenie, gdy ich pożera, przegania lub powoduje duże zamieszanie (decyduje GM). Oczywiście wciąż będziesz musiał z nią walczyć albo uciec. Jeśli ją zabijasz, tracisz tę zdolność i możesz wybrać kolejną pomniejszą zdolność.",
                         "endurance_training.name": "Trening Wytrzymałościowy",
                         "endurance_training.description": "Twoje wielkie ostrze traci etykietę Ciężki i zadaje D8 stresu celom wielkości człowieka.",
                         "applied_research.name": "Badania Stosowane",
@@ -1299,11 +1299,11 @@
                         "aetheric_field.name": "Pole Eteryczne",
                         "aetheric_field.description": "<p><i>Twój pancerz brzęczy od wyładowań elektrostatycznych, które sprawiają, że włosy stają dęba. Wyładowania mogą uchronić cię przed wypaczającymi efektami tuneli Vermis.</i> Raz na sesję możesz otrzymać +3 ochrony Echa do końca sytuacji.</p>",
                         "dragon_killer.name": "Zabójca Smoków",
-                        "dragon_killer.description": "<p><i>You have been entrusted with a greatblade from the order's vaults - an ancient weapon designed to slay the fiercest abominations within the Vermissian network.</i> A greatblade has two profiles: one when used against human-sized targets (Kill D6, Tiring), and one when used against targets significantly larger than yourself (Kill D10, Tiring).</p>",
+                        "dragon_killer.description": "<p><i>Powierzone ci wielkie ostrze ze skarbca zakonu, starożytną broń zaprojektowaną do zabijania najgroźniejszych plugastw w Tunelach Vermis.</i> Wielkie ostrze ma dwa zestawy statystyk, jeden, gdy jest używany przeciwko celom wielkości człowieka: (Broń D6, Ciężka), a drugi, gdy jest używany przeciwko celom znacznie większym od ciebie: (Broń D10, Ciężka).</p>",
                         "get_behind_me.name": "Schowaj się za mną",
-                        "get_behind_me.description": "<p><i>You know that you can't explore the world alone, so you've learned to keep your team alive.</i> Any ally within arm's reach of you gains +1 Blood protection thanks to your interventions. Once per situation, you can bellow an order and remove D4 Blood or Mind stress from a nearby ally.</p>",
+                        "get_behind_me.description": "<p><i>Nauczyłeś się utrzymywać swoją drużynę przy życiu, gdyż doskonale wiesz, że nie dasz rady przemierzać świata w pojedynkę.</i> Dzięki twojej pomocy, każdy sojusznik w zasięgu twoich rąk zyskuje +1 ochrony Krwi. Raz na sytuację możesz wydać rozkazy i usunąć D4 stresu Krwi lub Umysłu z pobliskiego sojusznika.</p>",
                         "overclock.name": "Przetaktowanie",
-                        "overclock.description": "<p><i>You push your Vermissian Plate up to, and honestly beyond, its limits.</i> You may activate this ability at any time. When you do, make an immediate melee attack; your weapon gains the Brutal tag. After using the ability, mark D4 stress to Fortune as you push your luck and strain your engines.</p>",
+                        "overclock.description": "<p><i>Wykorzystujesz swoją Vermisiańską Płytę do granic jej możliwości.</i> Możesz aktywować tę zdolność w dowolnym momencie. Kiedy to zrobisz, wykonaj natychmiastowy atak wręcz; twoja broń otrzyma etykietę Brutalny. Po użyciu tej zdolności otrzymujesz D4 stresu Szczęścia, ponieważ nadwyrężasz swoje silniki.</p>",
                         "trailblazer.name": "Pionier",
                         "trailblazer.description": "<p><i>Leading teams of explorers to lost sites and distant stations have taught you how best to move throughtheCity Beneath - even at a cost to your own health.</i> When you lead a party on a delve, you may activate this ability. When active, increase the stress dice inflicted on the delve (and that the delve inflicts on you) by one step.</p>"
                     },
@@ -1462,7 +1462,7 @@
                     "figment.name": "Wymysł",
                     "figment.description": "You lose track of what's real and what's not. The GM picks a Minor fallout from a different resistance and tells you have it.Until this fallout is removed, you're convinced you're suffering from the fallout (no matter what others tell you) and suffer from all appropriate effects. (GM: it is up to you whether you inform the player that this is a delusion or not.) [Ongoing]",
                     "shaken.name": "Wstrząśnięty",
-                    "shaken.description": "You panic and fall back on your primitive impulses. The GM chooses one: Fight (attack the problem in an attempt to destroy it), Flight (get away from the problem by any means necessary) or Freeze (do not act, putting yourself in danger). At the end of the situation, remove this fallout. [Immediate]",
+                    "shaken.description": "<p>Wpadasz w panikę i reagujesz w prymitywny sposób. MG wybiera jeden: Walcz (zaatakuj problem, próbując go zniszczyć), Uciekaj (ucieknij od problemu wszelkimi niezbędnymi środkami) lub Zastygnij (nie rób nic, narażając się na niebezpieczeństwo). Usuń tę konsekwencję na koniec sytuacji. [Natychmiastowa]",
                     "take_the_edge_off.name": "Czas na relaks",
                     "take_the_edge_off.description": "Nie możesz dojść do siebie, dopóki nie wypijesz drinka (lub czegoś mocniejszego). Dopóki nie dotrzesz do znanego miejsca z dostępem do alkoholu i upijesz się do nieprzytomności, za każdym razem, gdy zaznaczasz stres Umysłu, rzuć dwiema kostkami i wybierz wyższą. Konsekwencję można ulepszyć do UZALEŻNIENIE. [Trwająca]",
                     "vulnerable.name": "Wrażliwość",
@@ -1497,7 +1497,7 @@
                 "fortune": {
                     "broken.name": "Zepsuty przedmiot",
                     "broken.description": "Uszkodziłeś ważny przedmiot, nie możesz z niego korzystać, dopóki nie poświęcisz czasu i zasobów na jego naprawę. [Trwająca]",
-                    "collateral.name": "Przypadek",
+                    "collateral.name": "Żywa Tarcza",
                     "collateral.description": "Następnym razem, gdy otrzymasz stres, pobliski sojusznik otrzyma taką samą ilość, następnie usuń tę konsekwencję. [Natychmiastowa]",
                     "foreboding.name": "Złe Przeczucia",
                     "foreboding.description": "Coś złego może się wydarzyć. MG sugeruje złowieszczy omen, zapowiadający przyszłe wydarzenie: dym w oddali, wstrząsy przed pulsem, szalona muzyka Karnawału. Ta konsekwencja może zostać ulepszona do KRYZYSU. [Trwająca]",
@@ -1564,7 +1564,7 @@
                     "phantasm.name": "Urojenie",
                     "phantasm.description": "You lose track of what’s real and what’s not. The GM picks a Major fallout from a different resistance and tells you have it. Until this fallout is removed, you’re convinced you’re suffering from the fallout (no matter what others tell you) and suffer from all appropriate effects. GM: it is up to you whether you inform the player that this is a delusion or not.) [Ongoing]",
                     "scarred.name": "Blizna",
-                    "scarred.description": "(See SHAKEN above.) Your mind cracks and reforms in primal, instinctive patterns. This functions as SHAKEN. In addition, every time you encounter the source of the fallout from now on,the GM can ask you to make an Endure check or suffer D8 stress to Mind.[Ongoing]",
+                    "scarred.description": "(See SHAKEN above.) Your mind cracks and reforms in primal, instinctive patterns. This functions as SHAKEN. In addition, every time you encounter the source of the fallout from now on,the GM can ask you to make an Endure check or suffer D8 stress to Mind. [Ongoing]",
                     "unsettling.name": "Niepokojący",
                     "unsettling.description": "(See SHAKEN above.) You behave in a weird manner, causing your companions discomfort. This functions as SHAKEN, and any friendly character who sees you perform the act takes D6 Mind stress. [Immediate]"
                 },
@@ -1594,11 +1594,11 @@
                     "crisis.name": "Kryzys",
                     "crisis.description": "Something bad is about to happen. GM, hint at an ominous future event – smoke in the distance, the tremors before a pulse, the frantic music of the Carnival. The danger is real and will occur after some time. [Immediate]",
                     "destroyed.name": "Zniszczony",
-                    "destroyed.description": "If you're currently on a delve that has a connection established, remove the connection and describe what happened. If you're inside a landmark, you destroy something of value and remove one of the landmark's haunts (if it has any). Tell us how you did it (on purpose or accidentally). [Immediate]",
+                    "destroyed.description": "Jeśli jesteś obecnie na wyprawie, która ma ustanowione połączenie, usuń to połączenie i opisz, co się stało. Jeśli znajdujesz się wewnątrz znanego miejsca, niszczysz coś wartościowego. Usuń jedno z miejsc odpoczynku (jeśli miejsce takowe posiada). Opowiedz, jak to zrobiłeś (celowo lub przypadkowo). [Natychmiastowa]",
                     "exiled.name": "Wygnany",
                     "exiled.description": "Zostajesz wygnany ze schronienia, w którym obecnie przebywasz lub które znajduje się w pobliżu. Opowiedz, co się stało. Twoi sojusznicy nie podlegają tym samym ograniczeniom, ale będą traktowani podejrzliwie. [Natychmiastowa, Trwająca]",
                     "grievance.name": "Uraza",
-                    "grievance.description": "You are marked as an enemy by a group within the Heart - a cult, a church, the Hounds, members of a particular haven, beasts, etc. They will work to foil your efforts as best they can until you clear your name or kill your way out of the problem.[Immediate,Ongoing]",
+                    "grievance.description": "You are marked as an enemy by a group within the Heart - a cult, a church, the Hounds, members of a particular haven, beasts, etc. They will work to foil your efforts as best they can until you clear your name or kill your way out of the problem. [Immediate, Ongoing]",
                     "hell_for_weather.name": "Piekielna Pogoda",
                     "hell_for_weather.description": "Twoje przewidywania okazały się błędne i doprowadziłeś drużynę do niebezpiecznego obszaru, obecny obszar zmienił się i stał się wrogi lub, jeśli pozwala na to lokalizacja, rozpętała się burza. Dopóki nie dotrzesz do znanego miejsca, wszystkie akcje podejmowane przez drużynę stają się Ryzykowne. Usuń tę konsekwencję, gdy zagrożenie minie. [Natychmiastowa, Trwająca]",
                     "lost_map.name": "Zaginiona Mapa",
@@ -1608,7 +1608,7 @@
                     "no_way_out.name": "Bez wyjścia",
                     "no_way_out.description": "Prowadziłeś drużynę w ślepy zaułek, pułapkę lub zasadzkę. Usuń tę konsekwencję, jeśli wyjdziesz z niej żywy. [Natychmiastowa]",
                     "reputation.name": "Reputacja",
-                    "reputation.description": "Another delver has gotten wind of your successes (or your weaknesses) and they are coming for you. You are ambushed by a hunter seeking to claim your head and relieve you of your hard earned supplies. Remove this fallout once the fight is over. [Immediate]",
+                    "reputation.description": "Inny poszukiwacz dowiedział się o twoich sukcesach (lub słabościach) i idzie po ciebie. Wpadłeś w zasadzkę łowcy, który chce pozbawić cię twojej słowy i ciężko zarobionych zapasów. Usuń tę konsekwencję po zakończeniu walki. [Natychmiastowa]",
                     "the_road_less_travelled.name": "Mniej Uczęszczana Droga",
                     "the_road_less_travelled.description": "Wybrałeś złą ścieżkę. Kolejne znane miejsce, do którego dotrzesz, nie jest tym, którego się spodziewasz. Jest to zupełnie inne miejsce, prawdopodobnie takie, którego próbowałeś uniknąć. [Natychmiastowa]",
                     "unwilling_leader.name": "Niechętny Lider",
@@ -1662,7 +1662,7 @@
                     "break.name": "Załamanie",
                     "break.description": "You completely lose it. Anyone standing nearby who you care about marks D8 stress to Mind; anyone standing nearby who you've never really liked marks D8 stress to Blood as you attack them. After this, you die (either self-inflicted or at the hands of your allies) or your mind is so shattered that you retire as a player character. [Immediate]",
                     "obsessed.name": "Obsesja",
-                    "obsessed.description": "Your purpose has become twisted and cruel; you will stop at nothing to achieve it. Your character is retired from play and becomes an antagonist that acts against the surviving player characters in an effort to achieve their wicked desires.[Immediate,Ongoing]"
+                    "obsessed.description": "Your purpose has become twisted and cruel; you will stop at nothing to achieve it. Your character is retired from play and becomes an antagonist that acts against the surviving player characters in an effort to achieve their wicked desires. [Immediate, Ongoing]"
                 },
                 "fortune": {
                     "fools_gold.name": "Złoto Głupców",
