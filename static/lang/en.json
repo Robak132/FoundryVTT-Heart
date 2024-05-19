@@ -1532,7 +1532,7 @@
                     "phantasm.name": "Phantasm",
                     "phantasm.description": "You lose track of what’s real and what’s not. The GM picks a Major fallout from a different resistance and tells you have it. Until this fallout is removed, you’re convinced you’re suffering from the fallout (no matter what others tell you) and suffer from all appropriate effects. GM: it is up to you whether you inform the player that this is a delusion or not.) [Ongoing]",
                     "scarred.name": "Scarred",
-                    "scarred.description": "(See SHAKEN above.) Your mind cracks and reforms in primal, instinctive patterns. This functions as SHAKEN. In addition, every time you encounter the source of the fallout from now on,the GM can ask you to make an Endure check or suffer D8 stress to Mind.[Ongoing]",
+                    "scarred.description": "(See SHAKEN above.) Your mind cracks and reforms in primal, instinctive patterns. This functions as SHAKEN. In addition, every time you encounter the source of the fallout from now on,the GM can ask you to make an Endure check or suffer D8 stress to Mind. [Ongoing]",
                     "unsettling.name": "Unsettling",
                     "unsettling.description": "(See SHAKEN above.) You behave in a weird manner, causing your companions discomfort. This functions as SHAKEN, and any friendly character who sees you perform the act takes D6 Mind stress. [Immediate]"
                 },
@@ -1566,7 +1566,7 @@
                     "exiled.name": "Exiled",
                     "exiled.description": "You are banned from entering the haven you are currently in, or one that's nearby - tell us what happened. Your allies aren't subject to the same restrictions, but they will be treated with suspicion. [Immediate, Ongoing]",
                     "grievance.name": "Grievance",
-                    "grievance.description": "You are marked as an enemy by a group within the Heart - a cult, a church, the Hounds, members of a particular haven, beasts, etc. They will work to foil your efforts as best they can until you clear your name or kill your way out of the problem.[Immediate,Ongoing]",
+                    "grievance.description": "You are marked as an enemy by a group within the Heart - a cult, a church, the Hounds, members of a particular haven, beasts, etc. They will work to foil your efforts as best they can until you clear your name or kill your way out of the problem. [Immediate, Ongoing]",
                     "hell_for_weather.name": "Hell For Weather",
                     "hell_for_weather.description": "Your predictions were wrong and you lead the party into an actively dangerous area; or, the area you're in changes and becomes hostile; or, if the locale permits, a storm whips up.Until you reach a landmark,all actions the party take become Risky. Remove this fallout when you do.[Immediate,Ongoing]",
                     "lost_map.name": "Lost Map",
