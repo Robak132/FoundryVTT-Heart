@@ -1365,7 +1365,7 @@
                         "rule.name": "Rule",
                         "rule.description": "While in your lair, you roll with mastery on all actions.",
                         "feed.name": "Feed",
-                        "feed.description": "<p><i>Once per session, you may feed a helpless or dead person or animal to your lair to remove stress from your bond.</i> The larger the creature, the more stress you remove from the bond - a cat is D4, a person is D6, and if you can haul or lure a bear in there it's D12.</p>"
+                        "feed.description": "Once per session, you may feed a helpless or dead person or animal to your lair to remove stress from your bond. The larger the creature, the more stress you remove from the bond - a cat is D4, a person is D6, and if you can haul or lure a bear in there it's D12."
                     },
                     "major": {
                         "ascendancy.name": "Ascendancy",
