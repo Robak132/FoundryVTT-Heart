@@ -35,10 +35,10 @@
       },
       "imjf9rd2xsgwyg7l": {
         "_id": "imjf9rd2xsgwyg7l",
-        "name": "calling.enlightenment.beat.minor.gain-access-to-comcealed-knowledge",
+        "name": "calling.enlightenment.beat.minor.gain-access-to-concealed-knowledge",
         "type": "beat",
         "system": {
-          "description": "calling.enlightenment.beat.minor.gain-access-to-comcealed-knowledge",
+          "description": "calling.enlightenment.beat.minor.gain-access-to-concealed-knowledge",
           "type": "minor"
         }
       },
@@ -314,7 +314,6 @@
   "effects": [],
   "img": "icons/svg/item-bag.svg",
   "folder": null,
-
   "_id": "rAeIO6Ly9VeZ6n1N",
   "_key": "!items!rAeIO6Ly9VeZ6n1N"
 }

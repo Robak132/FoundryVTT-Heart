@@ -5,14 +5,14 @@
   "system": {
     "description": "ancestry.aelfir.description",
     "questions": {
-      "0": {
-        "0": "ancestry.aelfir.question.0"
+      "whded8sodv24k1kt": {
+        "question": "ancestry.aelfir.question.0"
       },
-      "1": {
-        "1": "ancestry.aelfir.question.1"
+      "q7im146o5j9i77te": {
+        "question": "ancestry.aelfir.question.1"
       },
-      "2": {
-        "2": "ancestry.aelfir.question.2"
+      "9xue63cwjai9ns82": {
+        "question": "ancestry.aelfir.question.2"
       }
     }
   },

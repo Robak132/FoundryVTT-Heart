@@ -5,14 +5,14 @@
   "system": {
     "description": "ancestry.gnoll.description",
     "questions": {
-      "0": {
-        "0": "ancestry.gnoll.question.0"
+      "whded8sodv24k1kt": {
+        "question": "ancestry.gnoll.question.0"
       },
-      "1": {
-        "1": "ancestry.gnoll.question.1"
+      "q7im146o5j9i77te": {
+        "question": "ancestry.gnoll.question.1"
       },
-      "2": {
-        "2": "ancestry.gnoll.question.2"
+      "9xue63cwjai9ns82": {
+        "question": "ancestry.gnoll.question.2"
       }
     }
   },
