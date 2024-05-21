@@ -311,6 +311,17 @@
                 "type": "minor",
                 "children": {}
               }
+            },
+            "9ZYxl2uEhjcaxhH1": {
+              "_id": "9ZYxl2uEhjcaxhH1",
+              "name": "class.incarnadine.ability.minor.viral.name",
+              "type": "ability",
+              "system": {
+                "active": false,
+                "description": "class.incarnadine.ability.minor.viral.description",
+                "type": "minor",
+                "children": {}
+              }
             }
           }
         }

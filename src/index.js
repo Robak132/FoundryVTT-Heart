@@ -185,6 +185,8 @@ function initialise() {
         }
     }
 
+
+
     window.localizeHeart = localizeHeart;
 
     Handlebars.registerHelper('localizeHeart', localizeHeart);
@@ -240,16 +242,35 @@ Hooks.on("renderCompendium", async (app, html) => {
     })
 });
 
+
+function sanitizeString(text) {
+    const start = text.startsWith("<p>") ? 3 : 0
+    const stop = text.endsWith("</p>") ? text.length - 4 : text.length
+    return text.substring(start, stop)
+}
+
+function updateAll(document) {
+    let updates = {
+        name: localizeHeart(sanitizeString(document.name)),
+        "system.description": localizeHeart(sanitizeString(document.system.description))
+    }
+    for (const [id, value] of Object.entries(document.system.children)) {
+        updates[`system.children.${id}.name`] = sanitizeString(value.name)
+        updates[`system.children.${id}.system.description`] = sanitizeString(value.system.description)
+    }
+    document.update(updates);
+}
+
+Hooks.on('updateItem', function(document, data, options, userId) {
+    updateAll(document)
+});
+
 Hooks.on('preCreateItem', function(document, data, options, userId) {
-    document.updateSource({
-        name: localizeHeart(document.name)
-    });
+    updateAll(document)
 });
 
 Hooks.on('preCreateActor', function(document, data, options, userId) {
-    document.updateSource({
-        name: localizeHeart(document.name)
-    });
+    updateAll(document)
 });
 
 if (module.hot) {

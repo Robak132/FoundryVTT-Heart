@@ -438,17 +438,6 @@
           "children": {}
         }
       },
-      "ilh01vje2kotr7pq": {
-        "_id": "ilh01vje2kotr7pq",
-        "name": "class.cleaver.equipment.hunting_knife",
-        "type": "equipment",
-        "system": {
-          "type": "kill",
-          "die_size": "d6",
-          "group": "core",
-          "children": {}
-        }
-      },
       "z13n4glna8s72orp": {
         "_id": "z13n4glna8s72orp",
         "name": "class.cleaver.equipment.cleaver",
@@ -476,8 +465,12 @@
               },
               "_key": "!items!hd1bex1x3ql9t1ad"
             }
-          }
-        }
+          },
+          "resistances": [
+            "blood"
+          ]
+        },
+        "img": "systems/heart/assets/battle-gear.svg"
       },
       "yvtkxmekfv0ldz5l": {
         "_id": "yvtkxmekfv0ldz5l",
@@ -522,13 +515,57 @@
             }
           }
         }
+      },
+      "e1GY9TrxrZiitjWv": {
+        "_id": "e1GY9TrxrZiitjWv",
+        "name": "class.cleaver.equipment.hunting_knife",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d6",
+          "group": "group_1",
+          "children": {},
+          "resistances": [
+            "blood"
+          ]
+        },
+        "img": "systems/heart/assets/battle-gear.svg"
+      },
+      "G7ncBfHknFioWltI": {
+        "_id": "G7ncBfHknFioWltI",
+        "name": "class.cleaver.equipment.hunting_knife",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d6",
+          "group": "group_2",
+          "children": {},
+          "resistances": [
+            "blood"
+          ]
+        },
+        "img": "systems/heart/assets/battle-gear.svg"
+      },
+      "DvS3Fnap6dSEHHZr": {
+        "_id": "DvS3Fnap6dSEHHZr",
+        "name": "class.cleaver.equipment.hunting_knife",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d6",
+          "group": "group_3",
+          "children": {},
+          "resistances": [
+            "blood"
+          ]
+        },
+        "img": "systems/heart/assets/battle-gear.svg"
       }
     },
     "type": "core",
     "core_skill": "hunt",
     "core_domain": "cursed",
     "equipment_groups": [
-      "core",
       "group_1",
       "group_2",
       "group_3"
