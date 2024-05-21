@@ -397,7 +397,7 @@
                         "perform-service-to-NPC-witch": "Pomóż BN, który jest wiedźmą.",
                         "shelter-someone-touched-by-the-Heart": "Uchroń kogoś dotkniętego Sercem przed prześladowaniem.",
                         "find-heart-touched-sapling": "Znajdź podczas wyprawy sadzonkę dotkniętą przez Serce i przynieś ją do schronienia w celu zasadzenia.",
-                        "convince-party-to-collect-cursed-resources": "Przekonaj drużynę do zbierania Przeklętych zasobów na wyprawie, dodając D6 do odporności wyprawy."
+                        "convince-party-to-collect-cursed-resources": "Przekonaj drużynę do zbierania <b>Przeklętych</b> zasobów na wyprawie, dodając D6 do odporności wyprawy."
                     },
                     "major": {
                         "take-major-echo-fallout": "Ponieś Poważną Konsekwencję Echo.",
@@ -544,7 +544,7 @@
                         "nightmare_arrow.name": "Strzała Koszmarów",
                         "rejuvenation.description": "Raz na sesję, gdy użyjesz POTWORNEGO APETYTU, by skonsumować zasób o wartości D8 lub wyższej, który ma posiadaną przez ciebie domenę, możesz całkowicie usunąć Pomniejszą Konsekwencję Krwi lub Echo.",
                         "rejuvenation.name": "Odmłodzenie",
-                        "tainted_meat.description": "Raz na sesję, kiedy używasz POTWORNEGO APETYTU, by zjeść zasób z domeną Klątwy o wartości D8 lub wyższej, możesz dodać 1 do minimalnej ochrony zapewnianej przez zdolność SERCOKRWISTY, zamiast usuwać stres. Ten efekt trwa do końca sytuacji.",
+                        "tainted_meat.description": "Raz na sesję, kiedy używasz POTWORNEGO APETYTU, by zjeść zasób z domeną <b>Klątwy</b> o wartości D8 lub wyższej, możesz dodać 1 do minimalnej ochrony zapewnianej przez zdolność SERCOKRWISTY, zamiast usuwać stres. Ten efekt trwa do końca sytuacji.",
                         "tainted_meat.name": "Spaczone Mięso",
                         "horrendous_bite.description": "Raz na sytuację, gdy zadajesz stres przeciwnikowi atakiem bez broni, możesz do końca sytuacji obniżyć poziom trudności o jeden poziom do minimum Standardowego.",
                         "horrendous_bite.name": "Potworne Ugryzienie",
@@ -564,7 +564,7 @@
                         "extinction_bow.name": "Łuk Zagłady",
                         "monstrous_appetite.description": "<p><i>When you eat, you unhinge your jaw and wolf down anything within reach until your belly is distended and you are resplendent with power.</i> When you use THE RED FEAST to consume a resource that has a domain you can access, remove stress from Blood or Echo equal to the amount rolled on the dice instead.</p>",
                         "monstrous_appetite.name": "Potworny Apetyt",
-                        "the_wild_hunt.description": "<p><i>The Heart sings of flesh and plenty; you echo that sickeningsong.</i> You may lead a group in communion with the Heart. This requires you to pass an Endure+ Cursed roll, and the check is Risky if you're in an area with the Haven tag. (If you fail the check, you can try again later this session. ) Those who commune gain the Hunt skill if they don't already have it, and increase the stress they inflict on delves by 1 step until the end of the current delve.</p>",
+                        "the_wild_hunt.description": "<p><i>The Heart sings of flesh and plenty; you echo that sickeningsong.</i> You may lead a group in communion with the Heart. This requires you to pass an <b>Endure+Cursed</b> roll, and the check is Risky if you're in an area with the <b>Haven</b> tag. (If you fail the check, you can try again later this session. ) Those who commune gain the <b>Hunt</b> skill if they don't already have it, and increase the stress they inflict on delves by 1 step until the end of the current delve.</p>",
                         "the_wild_hunt.name": "Dziki Gon"
                     },
                     "zenith": {
@@ -593,7 +593,7 @@
                     "core": {
                         "death_follows_close.description": "<p><i>You never knew anyone could love you as much as your own death.</i> You are followed around by a manifestation of your death that is invisible and intangible to everyone but you - although when you are on the verge of dying, or in places that resonate heavily with death and sorrow, it might be visible to others. The exact appearance of it is up to you. The first time each session you suffer Major Blood, Mind or Fortune fallout, your death manifests to protect you and inflicts D8 stress on whatever caused the fallout.</p>",
                         "death_follows_close.name": "Śmierć Kroczy Blisko",
-                        "enter_the_grey.description": "<p><i>You know the trick of stepping sideways into the Grey: the space between the worlds of the living and the worlds of the dead.</i> Roll Delve+Religion to enact this ritual. It takes around ten minutes of preparation, e.g. donning ritual garb, inhaling sacred smoke, communing with your death and so on. On a success, the smoke clears, and you (and anyone you bring with you) are in the Grey. Within the Grey, the world is a shadowy echo of its living counterpart. Some souls linger here, awaiting their eternal reward, but for the most part it is grim, empty and monochrome. (For more information on travelling and surviving the Grey, see p. 169. ) Exiting the Grey is a simple enough task for a Deadwalker and those they ferry across; it's a Delve+Religion roll for anyone else.</p>",
+                        "enter_the_grey.description": "<p><i>You know the trick of stepping sideways into the Grey: the space between the worlds of the living and the worlds of the dead.</i> Roll <b>Delve+Religion</b> to enact this ritual. It takes around ten minutes of preparation, e.g. donning ritual garb, inhaling sacred smoke, communing with your death and so on. On a success, the smoke clears, and you (and anyone you bring with you) are in the Grey. Within the Grey, the world is a shadowy echo of its living counterpart. Some souls linger here, awaiting their eternal reward, but for the most part it is grim, empty and monochrome. (For more information on travelling and surviving the Grey, see p. 169. ) Exiting the Grey is a simple enough task for a Deadwalker and those they ferry across; it's a <b>Delve+Religion</b> roll for anyone else.</p>",
                         "enter_the_grey.name": "Prosto w Szarość"
                     },
                     "minor": {
