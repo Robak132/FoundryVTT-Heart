@@ -12,9 +12,6 @@ function activateTemplates() {
         _templateCache[template.path] = compiled;
     });
 
-    // Register custom fonts
-    CONFIG.fontDefinitions.MelmaCracked = {editor : true, fonts : [{urls: "src/fonts/melma/MelmaCracked.ttf"}]};
-
     // Pre-load templates for faster use
     const templatesPath = templates.map(t => t.default.path.replace("heart:", "systems/heart/src/"))
     loadTemplates(templatesPath);
