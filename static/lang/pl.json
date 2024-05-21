@@ -12,7 +12,7 @@
         "character.single": "Bohater",
         "core-ability.multiple": "Podstawowe zdolności",
         "core-ability.single": "Podstawowa zdolność",
-        "core-traits.multiple": "Główne cechy",
+        "core-traits.multiple": "Cechy Główne",
         "core-traits.single": "Główna cecha",
         "delve.multiple": "Wyprawy",
         "delve.single": "Wyprawa",
@@ -417,7 +417,7 @@
                     }
                 },
                 "ability.core": {
-                    "in_the_blood.description": "<p><i>Poruszasz się przez Serce, tak jakbyś był przez nie błogosławiony.</i> Otrzymujesz +1 ochronę Echa. Raz na sytuację, gdy otrzymujesz dowolny stres inny niż Echo, możesz, zamiast tego, ponieść go w Echo.</p>",
+                    "in_the_blood.description": "<p><i>Poruszasz się przez Serce, tak jakbyś był przez nie błogosławiony.</i> Otrzymujesz +1 ochronę Echa. Raz na sytuację, gdy otrzymujesz dowolny stres inny niż Echo, możesz, zamiast tego, otrzymać go w Echo.</p>",
                     "in_the_blood.name": "We Krwi"
                 }
             },
@@ -989,7 +989,7 @@
                         "the_cost_of_doing_business.name": "Cena Interesów",
                         "the_cost_of_doing_business.description": "<p><i>A mix of scrying and luck magic lets you portion off your fortune to be used as you wish.</i> At any time you may consume a resource and roll its dice; set this dice aside. When you perform an action or inflict stress, but before you roll the dice to resolve it, you may replace any unrolled dice in your pool with the dice you set aside. Once used in this manner, it is consumed. If you have an unspent dice set aside at the end of the session, you take Fortune stress equal to the value rolled on the dice.</p>",
                         "mutually_assured_destruction.name": "Wzajemne Gwarantowane Zniszczenie",
-                        "mutually_assured_destruction.description": "<p><i>Jeśli pójdziesz na dno, zabierzesz wroga ze sobą.</i> Jeśli zginiesz, umieszczone na twojej duszy zaklęcia ochronne spróbują zabić tego, kto ciebie zabił. Wybuchasz i zadajesz stres równy D8 + twój aktualny stres Szczęścia każdemu, kto stoi w pobliżu.</p>"
+                        "mutually_assured_destruction.description": "<p><i>Jeśli pójdziesz na dno, zabierzesz wroga ze sobą.</i> Jeśli zginiesz, umieszczone na twojej duszy zaklęcia ochronne zabić tego, kto zabił ciebie. Wybuchasz i zadajesz stres równy D8 + twój aktualny stres Szczęścia każdemu, kto stoi w pobliżu.</p>"
                     },
                     "minor": {
                         "a_red_and_bloody_business.name": "Czerwony Krwawy Biznes",
@@ -1011,7 +1011,7 @@
                         "make_do.name": "Ujdzie",
                         "make_do.description": "<p><i>Periods of poverty have taught you to make the best of what you've got and keep things ticking over until your next big score.</i> Gain the <b>Mend</b> skill. Once per session, you can immediately fix something that's broken - but it only works once. After that, it's destroyed past the point of repair.</p>",
                         "on_the_run.name": "W Biegu",
-                        "on_the_run.description": "<p><i>Od lat uciekasz przed wierzycielami. Nie masz nic przeciwko czołganiu się przez odchody na rękach i kolanach, by przetrwać.</i> Zyskujesz umiejętność <b>Unik</b>. Możesz ponieść D4 stresu Zapasów, skoncentrować uwagę osoby lub stworzenia na innym BG lub ważnym BN.</p>",
+                        "on_the_run.description": "<p><i>Od lat uciekasz przed wierzycielami. Nie masz nic przeciwko czołganiu się przez odchody na rękach i kolanach, by przetrwać.</i> Zyskujesz umiejętność <b>Unik</b>. Możesz otrzymać D4 stresu Zapasów, by skoncentrować uwagę jakiejś osoby lub stworzenia na innym BG albo ważnym BN.</p>",
                         "priest_of_incarne.name": "Kapłan Incarne",
                         "priest_of_incarne.description": "<p><i>Most Incarnadines pay lip service to their god whilst paying off their debt; you've bought in wholesale, and you understand the terrible power of your patron.</i> Gain the <b>Religion</b> domain. Once per session, when you visit a shrine of Incarne and preach to the faithful, refresh equal to the size of the shrine (D4 for cupboard-sized devotionals, D12 for a glorious temple). The Red Market is too fractious and shifting to act as a shrine for the purposes of this ability.</p>",
                         "red_marketeer.name": "Czerwony Marketer",
@@ -1255,7 +1255,7 @@
                         "momentum.name": "Rozpęd",
                         "momentum.description": "Kiedy aktywujesz PRZETAKTOWANIE, możesz dodać etykietę <b>Sprawdzony</b> do rzutu na <b>Wyprawę</b> zamiast etykietę <b>Brutalny</b> do ataku.",
                         "galvanic_crucible.name": "Tygiel Galwaniczny",
-                        "galvanic_crucible.description": "Możesz aktywować zdolność VERMISIAŃSKA PŁYTA dwa razy na sesję, a nie tylko raz. Za drugim razem musisz ponieść D4 stresu Szczęścia.",
+                        "galvanic_crucible.description": "Możesz aktywować zdolność VERMISIAŃSKA PŁYTA dwa razy na sesję, a nie tylko raz. Gdy zrobisz to drugi raz otrzymasz D4 stresu Szczęścia.",
                         "first_to_the_front.name": "Pierwszy na Froncie",
                         "first_to_the_front.description": "Możesz aktywować tę zdolność, gdy dowodzisz drużyną w walce. Gdy jest aktywna, zwiększasz o jeden poziom kości stresu, które ty i przeciwnik zadajecie sobie nawzajem.",
                         "pathfinder.name": "Przepatrywacz Ścieżek",
@@ -1349,13 +1349,13 @@
                         "as_above_so_below.name": "Jako w Niebie, tak i na Ziemi",
                         "as_above_so_below.description": "<p><i>You do not need line of sight to use EXSANGUINATE as long as you have a sympathetic token connected to your target (their hair, a figurine in their shape, a favoured item of theirs, etc.</i> ), but you are still limited to making an attack within the usual distance of the Range tag.</p>",
                         "resilient.name": "Odporny",
-                        "resilient.description": "Możesz ponieść łącznie 6 stresu, zamiast 4, zanim stracisz dostęp do swojego chowańca na resztę sesji.",
+                        "resilient.description": "Możesz otrzymać łącznie 6 stresu, zamiast 4, zanim stracisz dostęp do swojego chowańca na resztę sesji.",
                         "hungry.name": "Głód",
                         "hungry.description": "Twój chowaniec działa jak broń: (Broń D8, Zasięgowy, Zawodny).",
                         "curious.name": "Ciekawski",
                         "curious.description": "Twój chowaniec działa jak przedmiot (Wyprawa D8, Zawodny).",
                         "enthrall.name": "Zniewolenie",
-                        "enthrall.description": "Kiedy przemieniasz się w swoją prawdziwą formę, możesz ponieść D4 stresu Echo, by wszyscy widzący przemianę zostali ogłuszeni. Będą w tym stanie przez wystarczająco dużo czasu, byś mógł wykonać pojedynczą akcję całkowicie bez sprzeciwu.",
+                        "enthrall.description": "Kiedy przemieniasz się w swoją prawdziwą formę, możesz otrzymać D4 stresu Echo, by wszyscy widzący przemianę zostali ogłuszeni. Będą w tym stanie przez wystarczająco dużo czasu, byś mógł wykonać pojedynczą akcję całkowicie bez sprzeciwu.",
                         "sacred_object.name": "Święty Obiekt",
                         "sacred_object.description": "Raz na sesję, gdy przybierasz swoją prawdziwą postać, zmniejsz o jeden stopień jedną konsekwencję Krwi, na którą cierpisz.",
                         "union.name": "Zjednoczenie",

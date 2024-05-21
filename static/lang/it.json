@@ -226,7 +226,7 @@
             "debilitating.name": "Debilitante",
             "debilitating.description": "Una volta per scena, quando infliggi Stress con questo oggetto a uno o più bersagli, nel tuo prossimo attacco effettuato contro di loro lancia con Maestria.",
             "degenerating.name": "Degenerante",
-            "degenerating.description": "Se subisci danni daun’arma con questo Attributo, alla fine della scena fai una prova di Resistere +[Dominio]. Se fallisci, subisci D6 Stress; se ottieni un successo condizionato, subisci D4 Stress; se hai successo, non subisci Stress.",
+            "degenerating.description": "Se subisci danni daun’arma con questo Attributo, alla fine della scena fai una prova di <b>Resistere+[Dominio]</b>. Se fallisci, subisci D6 Stress; se ottieni un successo condizionato, subisci D4 Stress; se hai successo, non subisci Stress.",
             "deteriorating.name": "Deteriorato",
             "deteriorating.description": "La risorsa sta marcendo, arrugginendo o sta per rompersi. Devi trovare quanto prima un nuovo proprietario a cui piazzarla.",
             "distressing.name": "Angoscia",
@@ -266,7 +266,7 @@
             "smoke.name": "Fumante",
             "smoke.description": "Funziona come l’Attributo Oscurante, ma solo quando l’oggetto viene utilizzato e solo nell’area in cui è stato utilizzato.",
             "spread.name": "Danno diffuso",
-            "spread.description": "Chiunque si trovi vicino al bersaglio dell’oggetto con questoAttributo, deve superare una prova di Sfuggire + [Dominio] (o usare un’altra Abilità adeguata invece di Sfuggire) per evitare di subire Stress. In caso di successo condizionato, il dado dello Stress ricevuto si riduce di un livello. I PNG coinvolti subiscono sempre lo Stress.",
+            "spread.description": "Chiunque si trovi vicino al bersaglio dell’oggetto con questo Attributo, deve superare una prova di <b>Sfuggire+[Dominio]</b> (o usare un’altra Abilità adeguata invece di Sfuggire) per evitare di subire Stress. In caso di successo condizionato, il dado dello Stress ricevuto si riduce di un livello. I PNG coinvolti subiscono sempre lo Stress.",
             "taboo.name": "Tabù",
             "taboo.description": "La risorsa non è accettata per il baratto nella maggiorparte dei covi (ad esempio organi di persone Sanguedi Cuore, denti d’oro o determinati narcotici).",
             "tiring.name": "Stancante",
@@ -331,7 +331,7 @@
             },
             "0_8_1": {
                 "changes": [
-                    "Added italian translations"
+                    "Aggiunte traduzioni in italiano."
                 ],
                 "notes": [
                     "Thanks to Arcadio21 for providing the italian translations."
