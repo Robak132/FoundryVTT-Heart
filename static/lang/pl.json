@@ -528,12 +528,12 @@
                         "pack_hunter.name": "Drapieżnik Stadny",
                         "pounce.description": "Raz na sytuację wybierz przeciwnika, którego widzisz. Twój towarzysz zaatakuje go, zadając D6 stresu.",
                         "pounce.name": "Skok",
-                        "faithful_until_the_end.description": "<p><i> If you take Critical fallout and would die, you do not die - instead, you are rescued by your companion and dragged to safety at the nearest landmark.</i> Your companion dies in your arms, exhausted and wounded, after you regain consciousness. Remove BLOODBOUND BEAST from your character sheet and gain an immediate major advance. You can't access BLOODBOUND BEAST ever again.</p>",
+                        "faithful_until_the_end.description": "Jeśli poniesiesz Krytyczną Konsekwencję i miałbyś zginąć, nie zginiesz. Zamiast tego zostaniesz uratowany i odciągnięty w znane bezpieczne miejsce przez swojego towarzysza. Twój towarzysz umrze w twoich ramionach, wyczerpany i ranny, zaraz po tym jak odzyskasz przytomność. Usuń zdolność BESTIA KRWI z karty postaci, możesz natychmiastowo wykupić inną Poważną Zdolność. Nigdy więcej nie będziesz mógł już wykupić zdolności BESTIA KRWI.",
                         "faithful_until_the_end.name": "Wierny Do Końca",
-                        "blighted.description": "Kiedy aktywujesz CHIMERYCZNĄ ODMIANĘ, oprócz wszelkich innych efektów, zwiększasz zadawany stres Echo o 1 poziom i otrzymujesz +2 ochrony Krwi do końca obecnej sytuacji.",
+                        "blighted.description": "Kiedy aktywujesz CHIMERYCZNĄ ODMIANĘ, otrzymywany stres Echo zwiększa się o 1 poziom, ale oprócz wszelkich innych efektów, otrzymujesz +2 ochrony Krwi do końca obecnej sytuacji.",
                         "blighted.name": "Zarażony",
                         "horned.description": "Kiedy aktywujesz CHIMERYCZNĄ ODMIANĘ, otrzymany stres Echo zwiększa się o 1 poziom, ale oprócz wszystkich innych efektów, do końca sytuacji zwiększasz zadawane obrażenia wręcz o 1 poziom.",
-                        "horned.name": "Horned",
+                        "horned.name": "Rogaty",
                         "bezerk.description": "Kiedy aktywujesz CHIMERYCZNĄ ODMIANĘ, otrzymany stres Echo zwiększa się o 1 poziom, ale do końca sytuacji możesz zignorować efekty konsekwencji Krwi, gdyż walczysz dalej, nie zważając na ból.",
                         "bezerk.name": "Berzerk",
                         "harpoon.description": "Raz na sytuację, gdy zadajesz przeciwnikowi stres za pomocą ŁUKU ZAGŁADY, przywiązujesz się do niego liną lub łańcuchem. Gdy jesteście związani ani wrogowie, ani ty, nie mogą uciec.",
@@ -562,7 +562,7 @@
                         "chimeric_strain.name": "Chimeryczna Odmiana",
                         "extinction_bow.description": "<p><i>Nosisz ogromny łuk zdolny do wystrzeliwania specjalnie wykonanych strzał w kierunku ofiary, znak prawdziwego sercokrwistego łowcy.</i> Gdy odblokujesz tę zdolność, zyskujesz dostęp do ogromnej broni dystansowej o następujących statystykach: (Broń D10, Ciężki, Zasięgowy, Kosztowny).</p>",
                         "extinction_bow.name": "Łuk Zagłady",
-                        "monstrous_appetite.description": "<p><i>When you eat, you unhinge your jaw and wolf down anything within reach until your belly is distended and you are resplendent with power.</i> When you use THE RED FEAST to consume a resource that has a domain you can access, remove stress from Blood or Echo equal to the amount rolled on the dice instead.</p>",
+                        "monstrous_appetite.description": "<p><i>Kiedy jesz, rozwierasz szczęki i pożerasz wszystko, co znajdzie się w twoim zasięgu, aż twój brzuch się rozciągnie, a ty promieniejesz mocą.</i> Gdy używasz CZERWONEJ UCZTY, by zjeść zasób, który ma domenę, do której możesz uzyskać dostęp, zamiast tego możesz usunąć stres Krwi lub Echa równy liczbie wyrzuconej na kości.</p>",
                         "monstrous_appetite.name": "Potworny Apetyt",
                         "the_wild_hunt.description": "<p><i>The Heart sings of flesh and plenty; you echo that sickeningsong.</i> You may lead a group in communion with the Heart. This requires you to pass an <b>Endure+Cursed</b> roll, and the check is Risky if you're in an area with the <b>Haven</b> tag. (If you fail the check, you can try again later this session. ) Those who commune gain the <b>Hunt</b> skill if they don't already have it, and increase the stress they inflict on delves by 1 step until the end of the current delve.</p>",
                         "the_wild_hunt.name": "Dziki Gon"
@@ -573,7 +573,7 @@
                         "legendary_beast.description": "<p><i>You shed what little remains of your human form and ascend into something many-limbed and majestic.</i> When you gain access to this ability, you begin your hunt to slay the Beast: the capital-B Beast, an ancient creature wrought from stone and muscle and petrified wood. You will kill the Beast, and in doing so, you understand it perfectly. You become the new Beast, an epitome of bestial power and a legendary terror in the City Beneath. You become part of the wilderness of the Heart; it grows around you more than ever, blossoming into patterns that you dream of in the echoing recesses of your ancient gestalt mind. Create a new landmark that you call your territory; here, you are lord and ruler, but you can no longer leave. One day, another Cleaver will find you, kill you and become you.</p>",
                         "legendary_beast.name": "Legendarna Bestia",
                         "weald_and_woe.description": "<p><i>Czasem po śmierci legendarnego łowcy, Las, pradawny raj dla bezsłownych myśliwych i ściganych przez nich gigantycznych bestii, wdziera się do Serca, by odebrać jego ciało jako trofeum.</i> Musisz umrzeć, by aktywować tę zdolność. Znane miejsce, w którym obecnie się znajdujesz, zostaje przejęte przez Las. Jeśli jesteś na wyprawie, natychmiast utworzy to nowe znane miejsce. Święte drzewa uderzają i przedzierają się przez ściany rzeczywistości, roje wielkich bestii roztrzaskują otaczający je świat, a twoje ciało zostaje pochłonięte przez czarną, urodzajną glebę, by cię odrodzić. Ta wyrwa pozostanie połączona ze znanym miejscem przez kilka godzin, zanim się zamknie, a drzewa skamienieją w martwy las z błyszczącego opalu, odwiedzany tylko przez zmarłych. Po śmierci odrodzisz się w lesie, gdzie czeka cię wieczne polowanie, ucztowanie i wycie do dziwnych, obojętnych gwiazd.</p>",
-                        "weald_and_woe.name": "Obudzenie Lasu"
+                        "weald_and_woe.name": "Przebudzenie Lasu"
                     }
                 }
             },
@@ -692,7 +692,7 @@
                     "core": {
                         "the_hive.description": "<p><i>Słodziutkie pszczoły zagnieździły się w twoim ciele.</i> Niektóre z twoich organów zastąpione są skomplikowanymi woskowymi kopiami wykonanymi przez pracowite pszczoły. Żyją w tobie, na początku jest ich niewiele, ale ich liczba rośnie wraz z twoją potęgą. Ich ciekawskie brzęczenie zestraja twój umysł z Ulem. Na początku każdej sytuacji usuń cały stres Umysłu, ponieważ Ul wysysa z ciebie twoje szaleństwo. Nie możesz korzystać z ochrony Umysłu ani usuwać stresu Umysłu w inny sposób niż przez tę zdolność.</p>",
                         "the_hive.name": "Ul",
-                        "release_the_swarm.description": "<p><i>Wysyłasz rój pszczół, które będą cię bronić.</i> Zyskujesz dostęp do następującej broni: (Broń D4, Obszarowa, Zasięgowa).</p>",
+                        "release_the_swarm.description": "<p><i>Wysyłasz rój pszczół, które będą cię bronić.</i> Zyskujesz dostęp do następującej broni: (Broń D4, Obszarowy, Zasięgowy).</p>",
                         "release_the_swarm.name": "Wypuść Rój"
                     },
                     "minor": {
@@ -708,12 +708,12 @@
                         "intoxicant.name": "Narkotyk",
                         "intrusion.description": "<p><i>Twój rój daje ci moc przytłaczania i kontrolowania prymitywnych umysłów.</i> Zyskujesz domenę <b>Dzicz</b>. Możesz rzucić <b>Manipulacja+Dzicz</b>, by twój rój przejął ciało dzikiego zwierzęcia. Możesz teraz kontrolować zwierzę, by wykonywało podstawowe zadania, ale kontrola roju nie jest doskonała. Na czas trwania tego zaklęcia twoje nieprzytomne ciało osuwa się na podłogę, ockniesz się, gdy rój do ciebie wróci. Na koniec sytuacji kontrolowane przez ciebie zwierzę umiera.</p>",
                         "intrusion.name": "Wtargnięcie",
-                        "many_eyes.description": "<p><i>Each of your companions is a vessel for your sight.</i> Gain the <b>Discern</b> skill. When you stand still and close your eyes, you can see through the eyes of any of your bees, allowing you to spy around corners or look into closed spaces. You can't control the bees directly, but you have enough at your disposal to cover the area around you.</p>",
+                        "many_eyes.description": "<p><i>Każdy z twoich towarzyszy jest naczyniem dla twojego wzroku.</i> Zdobywasz umiejętność <b>Obserwacja</b>. Kiedy stoisz nieruchomo i zamkniesz oczy, możesz widzieć przez oczy każdej ze swoich pszczół, co pozwala ci zaglądać za rogi lub do zamkniętych przestrzeni. Nie możesz bezpośrednio kontrolować pszczół, ale masz ich wystarczająco dużo, by pokryć obszar wokół siebie.</p>",
                         "many_eyes.name": "Wiele Oczu",
                         "perfect_structure.description": "<p><i>Twoje ciało odrzuca zdradzieckie mięso na rzecz wytrzymałego woskowego plastra.</i> Zyskujesz +2 ochrony Echa.</p>",
                         "perfect_structure.name": "Idealna Struktura",
                         "thrice_warded.name": "Po Trzykroć Chroniony",
-                        "thrice_warded.description": "<p><i>Your bees are marked with auspicious glyphs and you are able to brave the worst of the Heart unscathed.</i> Gain the <b>Cursed</b> domain. Each session, the first time you would take Minor Fortune fallout, avoid the fallout and do not remove stress from Fortune.</p>",
+                        "thrice_warded.description": "<p><i>Twoje pszczoły są naznaczone glifami pomyślności, a ty jesteś w stanie bez szwanku stawić czoła najgorszemu, co Serce ma dla ciebie.</i> Zdobywasz domenę <b>Klątwa</b>. Na każdej sesji, za pierwszym razem, gdy miałbyś ponieść Pomniejszą Konsekwencję Szczęścia, uniknij jej, ale nie usuwaj stresu Szczęścia.</p>",
                         "uncanny_biology.description": "<p><i>Poza Królową w sercu, każda część twojego ciała może zostać zastąpiona przez rój.</i> Zyskujesz +2 ochrony Krwi.</p>",
                         "uncanny_biology.name": "Niepokojąca Biologia",
                         "waxen_sigils.description": "Zdobywasz +1 ochronę Krwi, Echo, Szczęścia lub Zapasów. Możesz wybrać tę zdolność więcej niż raz.",
@@ -754,15 +754,15 @@
                         "filed_away.name": "Uporządkowanie"
                     },
                     "major": {
-                        "annihilation.description": "<p><i>Your body is unHeart; it burns through the parasitic world of meat and bone.</i> Against heartsblooded people or creatures, your touch functions as a (Kill D8) weapon. As you use it, your flesh roils and cracks, but the swarm repairs it as quickly as it is unmade; your opponent doesn't have that luxury. Against any other target, it functions as a (Kill D6) weapon.</p>",
+                        "annihilation.description": "<p><i>Twoje ciało jest nieSercem, spala pasożytniczy świat mięsa i kości.</i> Przeciwko sercokrwistym ludziom lub stworzeniom twój dotyk działa jak broń (Broń D8). Gdy go używasz, twoje skóra wysusza się i pęka, ale rój naprawia ją w miarę poniesionych obrażeń. Twój przeciwnik nie ma tak łatwo. Przeciwko innym celom działa jak broń (Broń D6).</p>",
                         "annihilation.name": "Anihilacja",
                         "blessed_toxin.description": "<p><i>The swarm within you offers up its members as sacrifices to your cause, just like you offer yourself up to the Hive.</i> Some of the bees inside you develop a sting that soothes the mind when injected (as well as being an addictive narcotic). Your body functions as a (Mend Mind D6) item; you can mark D4 stress to Blood to have it function as a (Mend Mind D8) item on your next action.</p>",
                         "blessed_toxin.name": "Błogosławione Toksyny",
                         "delirium_spike.description": "<p><i>Święty majestat Ula wypełnia cię skwierczącą, niestabilną mocą.</i> Stres zadawany przez zdolność <b>WYPUŚĆ RÓJ</b> wzrasta do D6. Za pierwszym razem, gdy zadajesz stres za pomocą <b>WYPUŚĆ RÓJ</b>, dodaj swój stres Umysłu do stresu zadanego celowi. Po rozstrzygnięciu akcji zredukuj swój stres umysłu do 0. Zastępuje to normalne ograniczenia dotyczące usuwania stresu Umysłu opisane w UL.</p>",
                         "delirium_spike.name": "Żądła Szaleństwa",
-                        "sacred_geometry.description": "<p><i>Multiple futures swim about your head, and you pick that which is most advantageous; to an outside observer, you move unopposed and uncanny.</i> When you are rolling to inflict stress on a delve or adversary, or remove stress from yourself or an ally, and you roll a 6 (a number sacred to Apiarists), roll an additional D6 and add it to your total.</p>",
+                        "sacred_geometry.description": "<p><i>W twojej głowie krąży wiele wersji przyszłości, ale ty wybierasz tą, która jest najkorzystniejsza. Dla zewnętrznego obserwatora poruszasz się w osobliwy sposób, nie napotykając żadnego oporu.</i> Kiedy zadajesz stres wyprawie lub przeciwnikowi albo usuwasz stres i wyrzucisz 6 (świętą liczbę Pszczelarzy), rzuć dodatkową D6 i dodaj ją do wyniku.</p>",
                         "sacred_geometry.name": "Święta Geometria",
-                        "unchaos.description": "<p><i>The Heart is a chaotic place, and you seek to undo that with ancient magic.</i> Roll <b>Mend+Occult</b> to cast this spell. On a success, for the remainder of the situation, you or one nearby ally treats Risky actions as Standard actions (keep the highest rolled dice) as probability coalesces around you and crystallizes at your feet.</p>",
+                        "unchaos.description": "<p><i>Serce to chaotyczne miejsce, a ty starasz się to odwrócić za pomocą starożytnej magii.</i> Użyj <b>Łączenie+Okultyzm</b>, by rzucić to zaklęcie. Jeśli ci się uda, przez resztę sytuacji ty lub jeden z pobliskich sojuszników może potraktować akcje Ryzykowne jako Standardowe (zachować najwyższą wyrzuconą kość), ponieważ prawdopodobieństwo kumuluje się wokół ciebie i krystalizuje u twoich stóp.</p>",
                         "unchaos.name": "Niechaos"
                     },
                     "zenith": {

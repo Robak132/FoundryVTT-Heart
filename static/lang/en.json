@@ -528,7 +528,7 @@
                         "pack_hunter.name": "Pack Hunter",
                         "pounce.description": "Once per situation, select an adversary you can see. That adversary marks D6 stress as your companion leaps on them.",
                         "pounce.name": "Pounce",
-                        "faithful_until_the_end.description": "<p><i> If you take Critical fallout and would die, you do not die - instead, you are rescued by your companion and dragged to safety at the nearest landmark.</i> Your companion dies in your arms, exhausted and wounded, after you regain consciousness. Remove BLOODBOUND BEAST from your character sheet and gain an immediate major advance. You can't access BLOODBOUND BEAST ever again.</p>",
+                        "faithful_until_the_end.description": "If you take Critical fallout and would die, you do not die - instead, you are rescued by your companion and dragged to safety at the nearest landmark. Your companion dies in your arms, exhausted and wounded, after you regain consciousness. Remove BLOODBOUND BEAST from your character sheet and gain an immediate major advance. You can't access BLOODBOUND BEAST ever again.",
                         "faithful_until_the_end.name": "Faithful Until The End",
                         "blighted.description": "When you activate CHIMERIC STRAIN, increase the Echo stress inflicted by 1 step and gain +2 Blood Protection until the end of the current situation in addition to any other effects.",
                         "blighted.name": "Blighted",
