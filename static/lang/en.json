@@ -560,7 +560,7 @@
                         "pack_hunter.name": "Pack Hunter",
                         "pounce.description": "Once per situation, select an adversary you can see. That adversary marks D6 stress as your companion leaps on them.",
                         "pounce.name": "Pounce",
-                        "faithful_until_the_end.description": "<p><i> If you take Critical fallout and would die, you do not die - instead, you are rescued by your companion and dragged to safety at the nearest landmark.</i> Your companion dies in your arms, exhausted and wounded, after you regain consciousness. Remove BLOODBOUND BEAST from your character sheet and gain an immediate major advance. You can't access BLOODBOUND BEAST ever again.</p>",
+                        "faithful_until_the_end.description": "If you take Critical fallout and would die, you do not die - instead, you are rescued by your companion and dragged to safety at the nearest landmark. Your companion dies in your arms, exhausted and wounded, after you regain consciousness. Remove BLOODBOUND BEAST from your character sheet and gain an immediate major advance. You can't access BLOODBOUND BEAST ever again.",
                         "faithful_until_the_end.name": "Faithful Until The End",
                         "blighted.description": "When you activate CHIMERIC STRAIN, increase the Echo stress inflicted by 1 step and gain +2 Blood Protection until the end of the current situation in addition to any other effects.",
                         "blighted.name": "Blighted",
@@ -1067,7 +1067,7 @@
                         "addict.name": "Addict",
                         "addict.description": "When you cast CRAVE, the target will desire the subject of your choosing until the end of the session. If they don't get what they want by the end of the session, they either descend into violence to acquire it or lose their mind in despair (GM's choice).",
                         "viral.name": "Viral",
-                        "viral.description": "<p><i>When you cast CRAVE, the target has the capacity to pass the desire on to anyone they speak to (aside from you) until it fades - there's a 1 in 6 chance of infection (roll a D6) for every person they talk to for more than a minute.</i> You are immune to the effects of this spell; your allies aren't.</p>",
+                        "viral.description": "When you cast CRAVE, the target has the capacity to pass the desire on to anyone they speak to (aside from you) until it fades - there's a 1 in 6 chance of infection (roll a D6) for every person they talk to for more than a minute. You are immune to the effects of this spell; your allies aren't.",
                         "conditioning.name": "Conditioning",
                         "conditioning.description": "When you cast CRAVE, mark D6 stress to Mind to scar the target with the desire. From now on, the first time they see you each session, treat them as though you had just cast CRAVE on them with the same subject of desire.",
                         "buy_off.name": "Buy Off",
@@ -1083,7 +1083,7 @@
                         "candidate.name": "Candidate",
                         "candidate.description": "Once per session, when you spend a few minutes communing with Incarne, they show you a vision of a person with outstanding karmic debt in your nearby area.",
                         "proliferation.name": "Proliferation",
-                        "proliferation.description": "<p><i>Whilst at a haven that's in your trade network, you and your party may use haunts located in havens that you are not currently visiting.</i> When you use a haunt in this way, halve the value rolled on the dice when determining how much stress to remove from your resistances. If you use such a haunt to remove fallout, increase the cost by 1 step.</p>",
+                        "proliferation.description": "Whilst at a haven that's in your trade network, you and your party may use haunts located in havens that you are not currently visiting. When you use a haunt in this way, halve the value rolled on the dice when determining how much stress to remove from your resistances. If you use such a haunt to remove fallout, increase the cost by 1 step.",
                         "pathways.name": "Pathways",
                         "pathways.description": "When you and your allies attempt to establish a Connection between landmarks and at least one of them is part of your trade network, roll with mastery.",
                         "money_talks.name": "Money Talks",
@@ -1101,7 +1101,7 @@
                         "karmic_ledger.name": "Karmic Ledger",
                         "karmic_ledger.description": "<p><i>Once you know what's keeping someone awake at night, it's much easier to take advantage of them.</i> Roll <b>Discern+Haven</b> to cast this spell on a target you can see and hear. On a success, you determine their deepest karmic debt: the greatest thing that they've taken from someone else (money, valuables, freedom, a son, etc). When you act on this information, roll with mastery.</p>",
                         "network.name": "Network",
-                        "network.description": "<p><i>You draw the faithful - those whose lives have been scarred by debt - around a symbol of Incarne, and harvest the bounty they offer up to your god.</i> When in a landmark with the <b>Haven</b> domain, roll <b>Mend+Religion</b> to cast this spell as you build a shrine to Incarne; on a success, you add the landmark to your trade network. When you enter a haven that you have added to your trade network, gain a D4(<b>Haven</b>) resource. Increase the dice size of this resource by one step for every additional haven in the network after the first to a maximum of D10. If you take this ability, you or any other incarnadine may now incur the fallout below.</p>"
+                        "network.description": "<p><i>You draw the faithful - those whose lives have been scarred by debt - around a symbol of Incarne, and harvest the bounty they offer up to your god.</i> When in a landmark with the <b>Haven</b> domain, roll <b>Mend+Religion</b> to cast this spell as you build a shrine to Incarne; on a success, you add the landmark to your trade network. When you enter a haven that you have added to your trade network, gain a D4(<b>Haven</b>) resource. Increase the dice size of this resource by one step for every additional haven in the network after the first to a maximum of D10.</p>"
                     },
                     "zenith": {
                         "ultimate_credit.name": "Ultimate Credit",
