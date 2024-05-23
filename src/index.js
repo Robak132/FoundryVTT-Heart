@@ -1,8 +1,8 @@
-import templates from './**/*.@(html|handlebars|hbs)';
-import './index.sass';
-import './common/sheet.sass';
+import templates from "./**/*.@(html|handlebars|hbs)";
+import "./index.sass";
+import "./common/sheet.sass";
 
-import modules from './**/index.js';
+import modules from "./**/index.js";
 
 function activateTemplates() {
     templates.forEach(function (module) {
@@ -239,35 +239,20 @@ Hooks.on("renderCompendium", async (app, html) => {
     })
 });
 
-
 function sanitizeString(text) {
+    if (typeof text !== "string" ) {
+        return text
+    }
     const start = text.startsWith("<p>") ? 3 : 0
     const stop = text.endsWith("</p>") ? text.length - 4 : text.length
     return text.substring(start, stop)
 }
 
-function updateAll(document) {
-    let updates = {
-        name: localizeHeart(sanitizeString(document.name)),
-        "system.description": localizeHeart(sanitizeString(document.system.description))
-    }
-    for (const [id, value] of Object.entries(document.system.children)) {
-        updates[`system.children.${id}.name`] = sanitizeString(value.name)
-        updates[`system.children.${id}.system.description`] = sanitizeString(value.system.description)
-    }
-    document.update(updates);
-}
-
 Hooks.on('updateItem', function(document, data, options, userId) {
-    updateAll(document)
-});
-
-Hooks.on('preCreateItem', function(document, data, options, userId) {
-    updateAll(document)
-});
-
-Hooks.on('preCreateActor', function(document, data, options, userId) {
-    updateAll(document)
+    let [key, value] = Object.entries(flattenObject({'system': data.system}))[0]
+    document.update({
+        [key]: sanitizeString(value)
+    })
 });
 
 if (module.hot) {
