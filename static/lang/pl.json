@@ -806,7 +806,7 @@
                         "liars_burden.name": "Ciężar Kłamcy",
                         "liars_burden.description": "<p><i>Księżyc Poniżej nie toleruje niegodziwych słów grzeszników.</i> Zyskujesz umiejętność <b>Obserwacja</b>. Jeśli podejrzewasz, że BN cię okłamuje, rzuć <b>Obserwacja+Religia</b>. W przypadku sukcesu zadajesz mu D4 stresu. Z jego ust leje się krew, jakby próbował żuć potłuczone szkło.</p>",
                         "incandescent_communion.name": "Olśniewająca Komunia",
-                        "incandescent_communion.description": "<p><i>In the tear between worlds, She blessed you with night-black eyes that resonate with Her Eternal Light.</i> Gain the <b>Cursed</b> domain. You can see in total darkness as though the area was illuminated by candle-light.</p>",
+                        "incandescent_communion.description": "<p><i>Kiedy znalazłeś się w rozdarciu między światami, Ona obdarzyła cię czarnymi jak noc oczami, przepełnionymi Jej Wiecznym Światłem.</i> Zyskujesz domenę <b>Klątwa</b>. Możesz widzieć w całkowitej ciemności, tak jakby obszar był oświetlony blaskiem świec.</p>",
                         "righteous_rhetoric.name": "Sprawiedliwa Retoryka",
                         "righteous_rhetoric.description": "<p><i>Wielokrotnie spierałeś się o interpretację świętych pism ze starszyzną świątynną.</i> Zyskujesz umiejętność <b>Manipulacja</b>. Możesz rzucać z mistrzostwem, jeśli w rozmowie z innym wyznawcą twojej wiary powołujesz się na święte teksty.</p>",
                         "rite_of_placidity.name": "Rytuał Łagodności",
@@ -814,7 +814,7 @@
                         "sacred_tattoo.name": "Święte Tatuaże",
                         "sacred_tattoo.description": "<p><i>Nosisz swoje święte pisma wypisane na skórze, litanię bólu znoszonego w imię Jej Chtonicznej Wysokości.</i> Zyskujesz +2 ochrony Szczęścia.</p>",
                         "shard_of_the_temple_door.name": "Odłamek Drzwi Świątyni",
-                        "shard_of_the_temple_door.description": "<p><i>The great doors of the Moon Ascendant temple were smashed to pieces on the night of the purge.</i> You carry a shard of the door, reminding you that your faith is eternal. Gain the <b>Endure</b> skill. Once per session, when you touch the shard to a closed door, it will not open for at least an hour (unless it is destroyed).</p>",
+                        "shard_of_the_temple_door.description": "<p><i>W noc czystki wspaniałe drzwi świątyni Księżyca w Ascendencie zostały roztrzaskane na kawałki.</i> Od tego czasu nosisz przy sobie odłamek drzwi, który przypomina ci, że twoja wiara jest wieczna. Zyskujesz umiejętność <b>Odporność</b>. Raz na sesję, gdy dotkniesz odłamkiem zamkniętych drzwi, nie otworzą się one przez co najmniej godzinę (chyba że zostaną zniszczone).</p>",
                         "tomes_of_knowledge.name": "Księgi Wiedzy",
                         "tomes_of_knowledge.description": "Zyskujesz dostęp do jednej z następujących domen: <b>Klątwa</b>, <b>Odludzie</b>, <b>Schronienie</b>, <b>Religia</b>, <b>Technologia</b>, <b>Dzicz</b>, <b>Norowisko</b>. Możesz wybrać tę zdolność więcej niż raz.",
                         "unwavering_faith.name": "Niezachwiana Wiara",
@@ -830,7 +830,7 @@
                         "avatar_of_flame.name": "Awatar Płomienia",
                         "avatar_of_flame.description": "Kiedy używasz PRZYSIĘGI FURII, możesz zdecydować się na zastąpienie dotychczasowych korzyści na +2 ochrony Krwi i etykietę Osłabiający na wszystkich atakach. Jeśli do końca sesji nie odebrałeś życia godnej istocie, ponieś D6 stresu Umysłu.",
                         "avatar_of_moonlight.name": "Awatar Światła Księżyca",
-                        "avatar_of_moonlight.description": "<p><i>When you use OATH OF FURY, you can choose to replace the benefits granted with +2 Echo protection.</i> In addition, when you use the <b>Mend</b> skill on an ally, instead of removing stress you may remove Minor Blood or Mind fallout on a successful roll. At the end of the session, if you have not removed both Blood and Mind fallout from your allies, mark D6 stress to Mind.</p>",
+                        "avatar_of_moonlight.description": "Kiedy używasz <b>PRZYSIĘGI FURII</b>, możesz zastąpić dotychczasowe korzyści na +2 ochrony Echa. Dodatkowo, kiedy używasz umiejętności <b>Łączenie</b> na sojuszniku, zamiast usunąć stres, możesz usunąć Pomniejszą Konsekwencję Krwi lub Umysłu. Na koniec sesji, jeśli nie usunąłeś z sojuszników zarówno konsekwencji Krwi, jak i Umysłu, otrzymujesz D6 stresu Umysłu.",
                         "avatar_of_shadows.name": "Awatar Cienia",
                         "avatar_of_shadows.description": "Kiedy używasz PRZYSIĘGI FURII, możesz zdecydować się na zastąpienie normalnych efektów na +2 ochrony Szczęścia. Dodatkowo twoje ataki (nawet wręcz) zyskują wtedy etykietę Ekstremalny zasięg. Na koniec sesji, jeśli nie odebrałeś życia godnej istocie, otrzymasz D6 stresu Umysłu.",
                         "fragment_of_lekole.name": "Fragment Lekolé",
@@ -860,9 +860,9 @@
                         "oath_of_sagacity.name": "Przysięga Zuchwałości",
                         "oath_of_sagacity.description": "<p><i>Nauczyłeś się jednego z sekretnych imion Potrójnej Damy. Gdy wypowiesz je na głos, twoi wrogowie zostaną porażeni jego mocą.</i> Imię Bogini działa jak następująca broń: (Broń D6, Obszarowy, Osłabiający, Jednostrzałowy).</p>",
                         "oath_of_tenacity.name": "Przysięga Wytrwałości",
-                        "oath_of_tenacity.description": "<p><i>She laid a kss of stars and secrets upon your forehead, and you are infused with her tremendous determination.</i> When you succeed at a Risky action, increase the size of the stress dice you inflict by 1 step. When you succeed at a Dangerous action, increase the size of the stress dice you inflict by 2 steps. You can choose to make an action Risky or Dangerous, even if it's Standard, to gain access to this benefit.</p>",
+                        "oath_of_tenacity.description": "<p><i>She laid a kiss of stars and secrets upon your forehead, and you are infused with her tremendous determination.</i> When you succeed at a Risky action, increase the size of the stress dice you inflict by 1 step. When you succeed at a Dangerous action, increase the size of the stress dice you inflict by 2 steps. You can choose to make an action Risky or Dangerous, even if it's Standard, to gain access to this benefit.</p>",
                         "rite_of_vigilance.name": "Rytuał Czujności",
-                        "rite_of_vigilance.description": "<p><i>You look upon the world through the six sacred eyes of the Goddess and see beyond the realm of flesh and stone.</i> When you attune your mind to the glory of the Moon Beneath, roll <b>Discern+Religion</b>. On a success, when you close your eyes, you can see the souls of creatures around you in your immediate area.These are visible regardless of physical obstructions.</p>"
+                        "rite_of_vigilance.description": "<p><i>Patrzysz na świat przez sześć świętych oczu Bogini i spoglądasz poza sferą ciała i kamienia.</i> Możesz dostroić swój umysł do chwały Księżyca Poniżej, rzucając <b>Obserwacja+Religia</b>. Jeśli ci się powiedzie, po zamknięciu oczu będziesz widzieć dusze istot znajdujących się w twoim najbliższym otoczeniu. Będą one widoczne niezależnie od fizycznych przeszkód.</p>"
                     },
                     "zenith": {
                         "ascension.name": "Ascension",
@@ -870,7 +870,7 @@
                         "glory.name": "Chwała",
                         "glory.description": "<p><i>You come face to face with the goddess herself, and the radiance reflected in your eyes is too much for people to behold.</i> You keep your face covered. When you uncover it, all those who can see you are stunned and awed, unable to look upon you without falling to their knees.&nbsp; hose who remain in your presence miraculously remove one Minor Blood or Mind fallout result, or downgrade a Major to a Minor after about an hour; most NPCs will convert to your faith on the spot.</p> <p>In the City Above, a team of aelfir hunters working for the Solar Church are mobilised and dispatched to kill you. They will find and eliminate you, and you will die.</p></p>",
                         "testament_of_faith.name": "Świadectwo Wiary",
-                        "testament_of_faith.description": "<p><i>You become a beacon of hope for those struck by fear or desperation.</i> To activate this ability, die a martyr&rsquo;s death. The ground on which you died (or where you&rsquo;re buried, whichever is more dramatically appropriate) becomes holy to the church of the Moon Beneath. Over the next few months, pilgrims will visit the site and erect a suitable shrine. For the remainder of the campaign, and at the GM&rsquo;s discretion any future campaigns, the shrine functions as a landmark with some appropriate haunts. Once per campaign, when the surviving player characters visit it, they can beseech your spirit to answer a question. You will deliver valuable wisdom.</p></p>"
+                        "testament_of_faith.description": "<p><i>Stajesz się latarnią nadziei dla tych, którzy odczuwają strach lub rozpacz.</i> By aktywować tę zdolność, zgiń jako męczennik. Miejsce, w którym zginąłeś (lub w którym zostałeś pochowany, w zależności od tego, co jest bardziej dramatyczne), staje się święte dla kościoła Księżyca Poniżej. W ciągu następnych kilku miesięcy pielgrzymi odwiedzą to miejsce i wzniosą odpowiednią świątynię. Przez pozostałą część kampanii, a także według uznania MG w przyszłych kampaniach, świątynia będzie funkcjonować jako znane miejsce z kilkoma odpowiednimi miejscami odpoczynku. Raz na kampanię, gdy pozostałe przy życiu postacie graczy odwiedzą ją, mogą poprosić twojego ducha o odpowiedź na pytanie. Dostarczysz im wartościowych rad.</p>"
                     }
                 }
             },
@@ -1221,7 +1221,7 @@
                         "protector's_gauntlet.name": "Rękawica Obrońcy",
                         "protector's_gauntlet.description": "<p><i>Twoja ciężka metalowa rękawica dzierży herb twojego rodu: Galwanicznych Lordów, Wolnych Kół lub Krajoznawców.</i> Otrzymujesz +1 ochronę Krwi i +1 ochronę Szczęścia.</p>",
                         "sanguinary_array.name": "Krwawe Obwody",
-                        "sanguinary_array.description": "<p><i>Your inefficient mortal heart is supplemented by a rig that extracts, filters and nourishes your vital fluids.</i> One side effect of this is that your blood acts as an antenna for the scattershot electrical impulses of the Heart. Gain the <b>Discern</b> skill. If one of your senses becomes damaged or unusable, you can replace it with the weird echoes that shudder through your exposed blood - it's not perfect, but it'll do.</p>",
+                        "sanguinary_array.description": "<p><i>Twoje niewydajne śmiertelne serce jest wzmocnione przez urządzenia, które pobierają, filtrują i odżywiają płyny ustrojowe.</i> Jednym z efektów ubocznych ich działania jest to, że twoje krew działa jak antena dla impulsów elektrycznych rozsyłanych przez Serce. Zyskujesz umiejętność <b>Obserwacja</b>. Jeśli jeden z twoich zmysłów zostanie uszkodzony lub przestanie działać, możesz zastąpić go poprzez dziwne echo, które wyczuwasz w twojej krwi. Co prawda nie jest to idealne rozwiązanie, ale powinno wystarczyć.</p>",
                         "stalwart.name": "Dzielny",
                         "stalwart.description": "Zyskujesz +1 ochrony Krwi, Echa, Zapasów lub Szczęścia. Możesz wybrać tę zdolność więcej niż raz.",
                         "steelbones.name": "Stalowe Kości",
@@ -1273,7 +1273,7 @@
                         "overclock.name": "Przetaktowanie",
                         "overclock.description": "<p><i>Wykorzystujesz swoją Vermisiańską Płytę do granic jej możliwości.</i> Możesz aktywować tę zdolność w dowolnym momencie. Kiedy to zrobisz, wykonaj natychmiastowy atak wręcz; twoja broń otrzyma etykietę Brutalny. Po użyciu tej zdolności otrzymujesz D4 stresu Szczęścia, ponieważ nadwyrężasz swoje silniki.</p>",
                         "trailblazer.name": "Pionier",
-                        "trailblazer.description": "<p><i>Leading teams of explorers to lost sites and distant stations have taught you how best to move throughtheCity Beneath - even at a cost to your own health.</i> When you lead a party on a delve, you may activate this ability. When active, increase the stress dice inflicted on the delve (and that the delve inflicts on you) by one step.</p>"
+                        "trailblazer.description": "<p><i>Leading teams of explorers to lost sites and distant stations have taught you how best to move through the City Beneath - even at a cost to your own health.</i> When you lead a party on a delve, you may activate this ability. When active, increase the stress dice inflicted on the delve (and that the delve inflicts on you) by one step.</p>"
                     },
                     "zenith": {
                         "end_of_the_line.name": "End Of The Line",
