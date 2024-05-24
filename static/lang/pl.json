@@ -56,7 +56,7 @@
         "zenith-beat.multiple": "Takty Zenitu",
         "zenith-beat.single": "Takt Zenitu",
         "startup.title": "Heart — The City Beneath (v{VERSION})",
-        "startup.description": "<h1>Witamy w Heart v{VERSION}</h1><h2>Szybkie wprowadzenie</h2><p><b>Gracz</b>: Możesz wykonywać rzuty za pomocą prośby na czacie lub bezpośrednio z karty. Poproś swojego MG o klasę i powołanie, które będziesz mógł przeciągnąć do karty.</p><p><b>Mistrz Gry:</b> Za pomocą makra 'Przygotuj prośbę o rzut' możesz uławtić graczom rzut. Będziesz musiał ręcznie utworzyć klasy i powołania dla swoich graczy, ale powinno to być mniej lub bardziej intuicyjne.</p>",
+        "startup.description": "<h1>Witamy w Heart v{VERSION}</h1><h2>Szybkie wprowadzenie</h2><p><b>Gracz</b>: Możesz wykonywać rzuty za pomocą prośby na czacie lub bezpośrednio z karty. Poproś swojego MG o klasę i powołanie, które będziesz mógł przeciągnąć do karty.</p><p><b>Mistrz Gry:</b> Za pomocą makra 'Przygotuj prośbę o rzut' możesz ułatwić graczom rzut. Będziesz musiał ręcznie utworzyć klasy i powołania dla swoich graczy, ale powinno to być mniej lub bardziej intuicyjne.</p>",
         "clear-stress.title": "Wyczyść stres",
         "clear-stress.description": "Wybierz odporność, której chcesz ustawić 0 stresu",
         "prepare-fallout-roll.description": "Wybierz Bohatera, by rzucić na Konsekwencje.",
@@ -277,7 +277,7 @@
                         "gain-favour-with-faction": "Zdobądź przychylność frakcji, która pomoże Ci dowiedzieć się więcej o twoim celu.",
                         "take-minor-mind-fallout": "Ponieś Pomniejszą Konsekwencję Umysłu.",
                         "destroy-evidence-or-rhetoric": "Zniszcz dowody lub argumentację, które dowodzą, że twoje zadanie jest niemożliwe.",
-                        "sell-d8-resource-to-secure-secret": "Sprzedaj lub poświęć zasób o wartości D8 lub wyższej, aby zabezpieczyć sekret.",
+                        "sell-d8-resource-to-secure-secret": "Sprzedaj lub poświęć zasób o wartości D8 albo wyższej, by ochronić sekret.",
                         "reach-landmark-on-tier-3": "Dotrzyj do miejsca na 3 poziomie Serca.",
                         "find-helpful-text": "Znajdź przydatny tekst.",
                         "succeed-at-task-that-someone-failed": "Odnieś sukces w zadaniu, którego ktoś inny niedawno nie zdołał wykonać.",
@@ -289,8 +289,7 @@
                         "release-your-findings-in-journal": "Ujawnij swoje szokujące odkrycia w gazecie opublikowanej w Mieście Powyżej.",
                         "meet-someone-from-your-old-life": "Spotkaj kogoś ze swojego dawnego życia, kto będzie próbował nakłonić cię do porzucenia poszukiwań.",
                         "dissect-something-interrogate-someone": "Przeanalizuj coś lub przesłuchaj kogoś, kto może rzucić światło na twoje zadanie.",
-                        "buy-experimental-equipment": "Kup najnowocześniejszy, eksperymentalny lub precyzyjnie wykonany sprzęt i użyj go na wyprawie.",
-                        "mark-d8-stress-to-NPC-bond": "Przenieś D8 stresu na związanego z tobą BNa i opisz, co się dzieje."
+                        "buy-experimental-equipment": "Kup najnowocześniejszy, eksperymentalny lub precyzyjnie wykonany sprzęt i użyj go na wyprawie."
                     },
                     "major": {
                         "take-major-mind-fallout": "Ponieś Poważną Konsekwencję Umysłu.",
@@ -343,8 +342,7 @@
                         "cover-up-a-crime": "Zatuszowuj przestępstwo, które popełnił ktoś inny w imieniu twoich Panów.",
                         "claim-doing-something-on-behalf": "Twierdź, że robisz coś w imieniu swoich Panów, podczas gdy w rzeczywistości robisz to dla własnych celów.",
                         "involve-NPC-in-masters-schemes": "Zaangażuj BNa w plany swoich Panów.",
-                        "do-favor-for-someone": "Wyświadcz komuś przysługę, by zyskać nad nim przewagę.",
-                        "involve-NPC-in-masters-schemes": "Zaangażuj BNa w plany swoich Panów."
+                        "do-favor-for-someone": "Wyświadcz komuś przysługę, by zyskać nad nim przewagę."
                     },
                     "major": {
                         "destroy-something-important": "Zniszcz coś ważnego dla swoich Panów.",
@@ -399,8 +397,7 @@
                         "perform-service-to-NPC-witch": "Pomóż BN, który jest wiedźmą.",
                         "shelter-someone-touched-by-the-Heart": "Uchroń kogoś dotkniętego Sercem przed prześladowaniem.",
                         "find-heart-touched-sapling": "Znajdź podczas wyprawy sadzonkę dotkniętą przez Serce i przynieś ją do schronienia w celu zasadzenia.",
-                        "convince-party-to-collect-cursed-resources": "Przekonaj drużynę do zbierania <b>Przeklętych</b> zasobów na wyprawie, dodając D6 do odporności wyprawy.",
-                        "perform-service-to-NPC-witch": "Pomóż BN, który jest wiedźmą."
+                        "convince-party-to-collect-cursed-resources": "Przekonaj drużynę do zbierania <b>Przeklętych</b> zasobów na wyprawie, dodając D6 do odporności wyprawy."
                     },
                     "major": {
                         "take-major-echo-fallout": "Ponieś Poważną Konsekwencję Echo.",
@@ -445,7 +442,7 @@
                         "make-reparations-to-an-NPC": "Dokonaj zadośćuczynienia na rzecz BN, którego osobiście skrzywdziłeś.",
                         "meet-NPC-who-hates-you": "Spotkaj BN, który nienawidzi cię za to, co zrobiłeś.",
                         "openly-attack-enemies-of-order": "Otwarcie zaatakuj wrogów swojego zakonu.",
-                        "punish-an-NPC": "Ukaraj BN za jakieś wykroczenie.",
+                        "punish-an-NPC": "Ukarz BN za jakieś wykroczenie.",
                         "put-yourself-in-great-danger": "Naraź się na wielkie niebezpieczeństwo, by chronić swoich towarzyszy.",
                         "refuse-desirable-offer": "Odrzucić opłacalną ofertę ze względu na twoją z pokutę.",
                         "repair-something-physical": "Napraw coś fizycznego (most, drzwi, ścianę itp.), którego ktoś potrzebuje.",
@@ -465,8 +462,7 @@
                         "attack-the-enemies-of-order": "Zaatakuj wrogów swojego zakonu, mimo przytłaczającej przewagi wrogów.",
                         "eliminate-enemy-faction": "Wyeliminuj lub całkowicie zrujnuj frakcję, która sprzeciwia się twojemu zakonowi.",
                         "your-order-suffers-devastating-setback": "Twój zakon doznał druzgocącej porażki, a ty wierzysz, że to twoja wina.",
-                        "perform-an-undesirable-task": "Wykonaj niechciane zadanie, o które poprosi cię członek twojego zakonu.",
-                        "convert-important-NPC": "Przekonaj ważnego BN do wartości twojego zakonu."
+                        "perform-an-undesirable-task": "Wykonaj niechciane zadanie, o które poprosi cię członek twojego zakonu."
                     },
                     "zenith": {
                         "be-truly-absolved-of-your-sins": "Uzyskaj prawdziwe rozgrzeszenie poprzez siłę wyższą.",
@@ -532,14 +528,14 @@
                         "pack_hunter.name": "Drapieżnik Stadny",
                         "pounce.description": "Raz na sytuację wybierz przeciwnika, którego widzisz. Twój towarzysz zaatakuje go, zadając D6 stresu.",
                         "pounce.name": "Skok",
-                        "faithful_until_the_end.description": "Jeśli poniesiesz Krytyczną Konsekwencję i miałbyś zginąć, nie zginiesz. Zamiast tego zostaniesz uratowany i odciągnięty w znane bezpieczne miejsce przez swojego towarzysza. Twój towarzysz umrze w twoich ramionach, wyczerpany i ranny, zaraz po tym jak odzyskasz przytomność. Usuń zdolność <b>BESTIA KRWI</b> z karty postaci, możesz natychmiastowo wybrać inną Poważną Zdolność. Nigdy więcej nie będziesz mógł już wybrać zdolności <b>BESTIA KRWI</b>.",
+                        "faithful_until_the_end.description": "Jeśli poniesiesz Krytyczną Konsekwencję i miałbyś zginąć, nie zginiesz. Zamiast tego zostaniesz uratowany i odciągnięty w znane bezpieczne miejsce przez swojego towarzysza. Twój towarzysz umrze w twoich ramionach, wyczerpany i ranny, zaraz po tym, jak odzyskasz przytomność. Usuń zdolność <b>BESTIA KRWI</b> z karty postaci, możesz natychmiastowo wybrać inną Poważną Zdolność. Nigdy więcej nie będziesz mógł już wybrać zdolności <b>BESTIA KRWI</b>.",
                         "faithful_until_the_end.name": "Wierny Do Końca",
                         "blighted.description": "Kiedy aktywujesz <b>CHIMERYCZNĄ ODMIANĘ</b>, otrzymywany stres Echo zwiększa się o 1 stopień, ale oprócz wszelkich innych efektów, zyskujesz +2 ochrony Krwi do końca obecnej sytuacji.",
                         "blighted.name": "Zarażony",
                         "horned.description": "Kiedy aktywujesz <b>CHIMERYCZNĄ ODMIANĘ</b>, otrzymany stres Echo zwiększa się o 1 stopień, ale oprócz wszystkich innych efektów, do końca sytuacji zwiększasz zadawane obrażenia wręcz o 1 stopień.",
                         "horned.name": "Rogaty",
                         "bezerk.description": "Kiedy aktywujesz <b>CHIMERYCZNĄ ODMIANĘ</b>, otrzymany stres Echo zwiększa się o 1 stopień, ale do końca sytuacji możesz zignorować efekty Konsekwencji Krwi, gdyż walczysz dalej, nie zważając na ból.",
-                        "bezerk.name": "Berzerk",
+                        "bezerk.name": "Berserk",
                         "harpoon.description": "Raz na sytuację, gdy zadajesz przeciwnikowi stres za pomocą <b>ŁUKU ZAGŁADY</b>, przywiązujesz się do niego liną lub łańcuchem. Gdy jesteście związani, żaden z was nie może uciec ze starcia.",
                         "harpoon.name": "Harpun",
                         "hunters_eye.description": "Raz na sytuację, gdy ty i twoi sojusznicy jesteście w niebezpieczeństwie, możesz wskazać strategiczny element krajobrazu. Za pierwszym razem, gdy każdy sojusznik wejdzie w interakcję z tym elementem, może wykonać rzut z mistrzostwem podczas swojej kolejnej akcji.",
@@ -595,7 +591,7 @@
                 },
                 "ability": {
                     "core": {
-                        "death_follows_close.description": "<p><i>You never knew anyone could love you as much as your own death.</i> You are followed around by a manifestation of your death that is invisible and intangible to everyone but you - although when you are on the verge of dying, or in places that resonate heavily with death and sorrow, it might be visible to others. The exact appearance of it is up to you. The first time each session you suffer Major Blood, Mind or Fortune fallout, your death manifests to protect you and inflicts D8 stress on whatever caused the fallout.</p>",
+                        "death_follows_close.description": "<p><i>You never knew anyone could love you as much as your own death.</i> You are followed around by a manifestation of your death that is invisible and intangible to everyone but you – although when you are on the verge of dying, or in places that resonate heavily with death and sorrow, it might be visible to others. The exact appearance of it is up to you. The first time each session you suffer Major Blood, Mind or Fortune fallout, your death manifests to protect you and inflicts D8 stress on whatever caused the fallout.</p>",
                         "death_follows_close.name": "Śmierć Kroczy Blisko",
                         "enter_the_grey.description": "<p><i>You know the trick of stepping sideways into the Grey: the space between the worlds of the living and the worlds of the dead.</i> Roll <b>Delve+Religion</b> to enact this ritual. It takes around ten minutes of preparation, e.g. donning ritual garb, inhaling sacred smoke, communing with your death and so on. On a success, the smoke clears, and you (and anyone you bring with you) are in the Grey. Within the Grey, the world is a shadowy echo of its living counterpart. Some souls linger here, awaiting their eternal reward, but for the most part it is grim, empty and monochrome. (For more information on travelling and surviving the Grey, see p. 169. ) Exiting the Grey is a simple enough task for a Deadwalker and those they ferry across; it's a <b>Delve+Religion</b> roll for anyone else.</p>",
                         "enter_the_grey.name": "Prosto w Szarość"
@@ -663,11 +659,11 @@
                         "descent.name": "Zejście",
                         "echoes.description": "<p><i>Możesz dostrzec pozostałości dawnych dziejów.</i> Rzuć <b>Obserwacja+[Domena]</b>, by zobaczyć upiorną rekonstrukcję przeszłości danego miejsca. Zazwyczaj pokaże ci to najbardziej interesującą lub dramatyczną rzecz, która wydarzyła się tu w ostatnim czasie.</p>",
                         "echoes.name": "Echa",
-                        "invidious_spectre.description": "<p><i>Your death has got your back - right up until it can claim you for itself.</i> Your death manifests as poltergeist activity and other supernatural phenomena that distresses and confuses your enemies. Any weapon you carry is considered to have the Conduit tag, and as such, you can mark D4 stress to Mind to roll with mastery when you attack for the remainder of the current situation.</p>",
+                        "invidious_spectre.description": "<p><i>Your death has got your back – right up until it can claim you for itself.</i> Your death manifests as poltergeist activity and other supernatural phenomena that distresses and confuses your enemies. Any weapon you carry is considered to have the Conduit tag, and as such, you can mark D4 stress to Mind to roll with mastery when you attack for the remainder of the current situation.</p>",
                         "invidious_spectre.name": "Niewdzięczna Zjawa",
                         "reapers_strike.description": "<p><i>Porzucasz obronę na rzecz pojedynczego, decydującego ciosu.</i> Kiedy atakujesz przeciwnika, przed wykonaniem rzutu możesz zdecydować się na zignorowanie ochrony Krwi na czas ataku. Jeśli to zrobisz i odniesiesz sukces lub częściowy sukces, dodaj swoją wartość ochrony Krwi do zadanego stresu.</p>",
                         "reapers_strike.name": "Uderzenie Żniwiarza",
-                        "sudden_death.description": "<p><i>Twoja dusza jest tak słabo związana z ciałem, że możesz zanurkować w Szarość bez ostrzeżenia.</i> <b>PROSTO</b> W SZAROŚĆ nie zajmuje już dziesięciu minut - jest natychmiastowe. Zabieranie ze sobą innych osób podczas rzucania czaru w ten sposób sprawia, że akcja jest Ryzykowna.</p>",
+                        "sudden_death.description": "<p><i>Twoja dusza jest tak słabo związana z ciałem, że możesz zanurkować w Szarość bez ostrzeżenia.</i> Użycie zdolności <b>PROSTO W SZAROŚĆ</b> nie zajmuje już dziesięciu minut – jest natychmiastowe. Zabieranie ze sobą innych osób podczas rzucania czaru w ten sposób sprawia, że akcja jest Ryzykowna.</p>",
                         "sudden_death.name": "Nagła Śmierć"
                     },
                     "zenith": {
@@ -718,7 +714,7 @@
                         "perfect_structure.name": "Idealna Struktura",
                         "thrice_warded.name": "Po Trzykroć Chroniony",
                         "thrice_warded.description": "<p><i>Twoje pszczoły są naznaczone glifami pomyślności, a ty jesteś w stanie bez szwanku stawić czoła najgorszemu, co Serce ma dla ciebie.</i> Zdobywasz domenę <b>Klątwa</b>. Na każdej sesji, za pierwszym razem, gdy miałbyś ponieść Pomniejszą Konsekwencję Szczęścia, uniknij jej, ale nie usuwaj stresu Szczęścia.</p>",
-                        "uncanny_biology.description": "<p><i>Poza Królową w sercu, każda część twojego ciała może zostać zastąpiona przez rój.</i> Zyskujesz +2 ochrony Krwi.</p>",
+                        "uncanny_biology.description": "<p><i>Poza Królową w sercu każda część twojego ciała może zostać zastąpiona przez rój.</i> Zyskujesz +2 ochrony Krwi.</p>",
                         "uncanny_biology.name": "Niepokojąca Biologia",
                         "waxen_sigils.description": "Zyskujesz +1 ochronę Krwi, Echa, Szczęścia lub Zapasów. Możesz wybrać tę zdolność więcej niż raz.",
                         "waxen_sigils.name": "Woskowe Pieczęcie",
@@ -740,7 +736,7 @@
                         "bloodless.name": "Bezkrwawy",
                         "imperfect_balance.description": "Kiedy otrzymujesz stres Krwi, zmniejsz go o połowę (zaokrąglając w górę), jeśli jest on niższy niż obecny stres Umysłu.",
                         "imperfect_balance.name": "Niedoskonała Równowaga",
-                        "venomous_hex.description": "Kiedy używasz zdolności <b>WYPUŚć RÓJ</b>, możesz zastąpić etykietę <b>Obszarowy</b> na <b>Przebijający</b>.",
+                        "venomous_hex.description": "Kiedy używasz zdolności <b>WYPUŚĆ RÓJ</b>, możesz zastąpić etykietę <b>Obszarowy</b> na <b>Przebijający</b>.",
                         "venomous_hex.name": "Jadowita Klątwa",
                         "inquisitive_burrowers.description": "<b>WYPUŚĆ RÓJ</b> otrzymuje etykietę Brutalny.",
                         "inquisitive_burrowers.name": "Dociekliwe Owady",
@@ -762,7 +758,7 @@
                         "annihilation.name": "Anihilacja",
                         "blessed_toxin.description": "<p><i>The swarm within you offers up its members as sacrifices to your cause, just like you offer yourself up to the Hive.</i> Some of the bees inside you develop a sting that soothes the mind when injected (as well as being an addictive narcotic). Your body functions as a (Mend Mind D6) item; you can mark D4 stress to Blood to have it function as a (Mend Mind D8) item on your next action.</p>",
                         "blessed_toxin.name": "Błogosławione Toksyny",
-                        "delirium_spike.description": "<p><i>Święty majestat Ula wypełnia cię skwierczącą, niestabilną mocą.</i> Stres zadawany przez zdolność <b>WYPUŚĆ RÓJ</b> wzrasta do D6. Za pierwszym razem, gdy zadajesz stres za pomocą <b>WYPUŚĆ RÓJ</b>, dodaj swój stres Umysłu do stresu zadanego celowi. Po rozstrzygnięciu akcji zredukuj swój stres umysłu do 0. Zastępuje to normalne ograniczenia dotyczące usuwania stresu Umysłu opisane w <b>UL</b>.</p>",
+                        "delirium_spike.description": "<p><i>Święty majestat Ula wypełnia cię skwierczącą, niestabilną mocą.</i> Stres zadawany przez zdolność <b>WYPUŚĆ RÓJ</b> wzrasta do D6. Za pierwszym razem, gdy zadajesz stres za pomocą zdolności <b>WYPUŚĆ RÓJ</b>, dodaj swój stres Umysłu do stresu zadanego celowi. Po rozstrzygnięciu akcji zredukuj swój stres umysłu do 0. Zastępuje to normalne ograniczenia dotyczące usuwania stresu Umysłu opisane w <b>UL</b>.</p>",
                         "delirium_spike.name": "Żądła Szaleństwa",
                         "sacred_geometry.description": "<p><i>W twojej głowie krąży wiele wersji przyszłości, ale ty wybierasz tą, która jest najkorzystniejsza. Dla zewnętrznego obserwatora poruszasz się w osobliwy sposób, nie napotykając żadnego oporu.</i> Kiedy zadajesz stres wyprawie lub przeciwnikowi albo usuwasz stres i wyrzucisz 6 (świętą liczbę Pszczelarzy), rzuć dodatkową D6 i dodaj ją do wyniku.</p>",
                         "sacred_geometry.name": "Święta Geometria",
@@ -904,7 +900,7 @@
                         "close_quarters.name": "Blisko Siebie",
                         "close_quarters.description": "<p><i>Lubisz patrzeć na rzeczy z bliska i osobiście.</i> Zyskujesz domenę <b>Norowisko</b>. Gdy przebywasz miejscu z domeną <b>Norowisko</b>, zyskujesz +1 ochrony Krwi.</p>",
                         "custodian.name": "Opiekun",
-                        "custodian.description": "<p><i>You - and those who wore the badge before you - have spent so much time rebuilding shattered lives and shattered homes that everyone welcomes you.</i> Gain the <b>Mend</b> skill. If you are in a populated location you can always find someone willing to take you in, give you somewhere to sleep and maybe even some warm food.</p>",
+                        "custodian.description": "<p><i>You – and those who wore the badge before you – have spent so much time rebuilding shattered lives and shattered homes that everyone welcomes you.</i> Gain the <b>Mend</b> skill. If you are in a populated location you can always find someone willing to take you in, give you somewhere to sleep and maybe even some warm food.</p>",
                         "echoes_of_the_33rd.name": "Echa Trzydziestego Trzeciego",
                         "echoes_of_the_33rd.description": "Zyskujesz dostęp do jednej z następujących domen: <b>Klątwa</b>, <b>Odludzie</b>, <b>Schronienie</b>, <b>Technologia</b>, <b>Norowisko</b>, <b>Dzicz</b>. Możesz wybrać tę zdolność więcej niż raz.",
                         "hard_as_nails.name": "Twardy Jak Głaz",
@@ -918,7 +914,7 @@
                         "our_glorious_lady.name": "Nasza Chwalebna Pani",
                         "our_glorious_lady.description": "<p><i>Na dnie butelki odnalazłeś boginię, która odmieniła twoje życie.</i> Zyskujesz domenę <b>Religia</b>. Raz na sesję możesz wybłagać u bogini ochronę sojusznika, usuwając z niego D4 stresu Krwi.</p>",
                         "quartermaster_training.name": "Szkolenie Kwatermistrza",
-                        "quartermaster_training.description": "<p><i>You have studied under the Quartermasters of the Hounds, learning the valuable skill of creative acquisition.</i> +1 Supplies Protection. You don't like to be unarmed - you steal, build and improvise what you need. Your \"unarmed\" attacks become (D6, Brutal, Unreliable); on a failure, it breaks and your unarmed attacks are D4 as standard.</p>",
+                        "quartermaster_training.description": "<p><i>You have studied under the Quartermasters of the Hounds, learning the valuable skill of creative acquisition.</i> +1 Supplies Protection. You don't like to be unarmed – you steal, build and improvise what you need. Your \"unarmed\" attacks become (D6, Brutal, Unreliable); on a failure, it breaks and your unarmed attacks are D4 as standard.</p>",
                         "round_the_next_corner.name": "Za Następnym Rogiem",
                         "round_the_next_corner.description": "<p><i>You can find a place to shelter, smoke a roll-up and let things blow over.</i> Gain the <b>Delve</b> skill. Once per delve, you find an out-of-the-way location where you can catch your breath and recuperate without fear of being discovered by your enemies. You can take your time and heal here without incurring a bane.</p>",
                         "sergeant.name": "Sergeant",
@@ -968,16 +964,16 @@
                     },
                     "zenith": {
                         "everlasting_stand.name": "Wieczna Służba",
-                        "everlasting_stand.description": "<p><i>As you feel your identity slipping away into the gestalt consciousness of the 33rd, you give everything you have to protect the people of the City Beneath.</i> When a landmark you are in is under threat from outside powers (which is pretty much always true), activate this ability. You become the original owner of your badge - it might be an instantaneous process, it might take several weeks - as you prepare to defend the landmark. Once your preparations are complete, you are subsumed into the Hounds completely. The 33rd will watch the landmark you designated as safe indefinitely - nothing short of another zenith ability will put it in danger.</p>",
+                        "everlasting_stand.description": "<p><i>As you feel your identity slipping away into the gestalt consciousness of the 33rd, you give everything you have to protect the people of the City Beneath.</i> When a landmark you are in is under threat from outside powers (which is pretty much always true), activate this ability. You become the original owner of your badge – it might be an instantaneous process, it might take several weeks – as you prepare to defend the landmark. Once your preparations are complete, you are subsumed into the Hounds completely. The 33rd will watch the landmark you designated as safe indefinitely – nothing short of another zenith ability will put it in danger.</p>",
                         "fulcrum.name": "Sedno Sprawy",
-                        "fulcrum.description": "<p><i>Your actions have earned you the ultimate reward - your name replaces the one marked on your badge, and you are officially inducted into the 33rd.</i> You are filled with the hopes and fears of every terrified, desperate person in the Heart. Until the end of the current situation, you roll five dice and pick the highest whenever you make an action. Once the situation ends, you slope off into the depths of the Heart to fight metaphysical battles beyond the understanding of mortals.</p>",
+                        "fulcrum.description": "<p><i>Your actions have earned you the ultimate reward – your name replaces the one marked on your badge, and you are officially inducted into the 33rd.</i> You are filled with the hopes and fears of every terrified, desperate person in the Heart. Until the end of the current situation, you roll five dice and pick the highest whenever you make an action. Once the situation ends, you slope off into the depths of the Heart to fight metaphysical battles beyond the understanding of mortals.</p>",
                         "incursion.name": "Wtargnięcie",
                         "incursion.description": "<p><i>You learn a fragment of the terrible truth behind what happened to the 33rd all those years ago, and understand why they can never die.</i> At the culmination of a dark ritual, you smash your badge apart on an altar made from bones and shell casings, and summon the last moments of the 33rd to your location. Reality comes undone; the world is transformed into a twisted, burning maze of trench and razorwire, and the 33rd act out their terrified final moments on whoever they can find. The landmark you're in is destroyed, pretty much everything inside it dies and your mind is blasted into pieces as you witness the lengths they went to in order to survive.  </p>"
                     }
                 }
             },
             "incarnadine": {
-                "description": "<p>Łatwo jest popaść w długi, ale nie w aż taki katastrofalny poziom zadłużenia, który udało ci się osiągnąć. Musiałeś być bardzo dobry w pożyczaniu pieniędzy… i czasu, i wiary innych, i wszystkiego, co dostałeś w swoje ręce, by przyciągnąć uwagę Incarne, Karmazynowego Boga Długów.</p><p>Pewnego dnia obudziłeś się i odkryłeś, że zaginęła jakaś część twojego życia, jakby zostało przeszukane przez niebiańskich komorników. Nieruchomości, ruchomości, wspomnienia, członkowie rodziny, emocje i pragnienia zostały podzielone między twoich wierzycieli przez niewidzialną siłę. Być może twój partner już cię nie poznawał, może nigdy nie byliście małżeństwem. Może wróciłeś do domu, by zastać brudne opuszczone pokoje, jakby nikt w nich nie mieszkał od dziesięcioleci.</p><p>Incarne naznaczył cię, piętno na twoim sercu położyło kres życiu, jakie znałeś. Niektórzy ludzie tego szukają, moc i wolność zawsze wiążą się ze se spisaniem starego życia na straty, a Incarne nagradza ich niesamowitymi zdolnościami, które doprowadzają ich (i innych) w jeszcze głębsze długi. Wkroczyłeś do Serca, aby znaleźć cel, szczęście lub zapomnienie.</p><p>Rzadko mówisz o piętnie lub o tym, jak nisko upadłeś, by handlować historiami, godzinami i życiem w ciemnościach Miasta Poniżej. Znak znak swędzi. Twoja chciwość swędzi. Nosisz ciężar większy, niż ci się wydaje, i wypychasz gniew, smutek, i to, co utraciłeś w ciemność, daleko poza światła schronienia.</p>",
+                "description": "<p>Łatwo jest popaść w długi, ale nie w aż taki katastrofalny poziom zadłużenia, który udało ci się osiągnąć. Musiałeś być bardzo dobry w pożyczaniu pieniędzy… i czasu, i wiary innych, i wszystkiego, co dostałeś w swoje ręce, by przyciągnąć uwagę Incarne, Karmazynowego Boga Długów.</p><p>Pewnego dnia obudziłeś się i odkryłeś, że zaginęła jakaś część twojego życia, jakby zostało przeszukane przez niebiańskich komorników. Nieruchomości, ruchomości, wspomnienia, członkowie rodziny, emocje i pragnienia zostały podzielone między twoich wierzycieli przez niewidzialną siłę. Być może twój partner już cię nie poznawał, może nigdy nie byliście małżeństwem. Może wróciłeś do domu, by zastać brudne opuszczone pokoje, jakby nikt w nich nie mieszkał od dziesięcioleci.</p><p>Incarne naznaczył cię, piętno na twoim sercu położyło kres życiu, jakie znałeś. Niektórzy ludzie tego szukają, moc i wolność zawsze wiążą się ze se spisaniem starego życia na straty, a Incarne nagradza ich niesamowitymi zdolnościami, które doprowadzają ich (i innych) w jeszcze głębsze długi. Wkroczyłeś do Serca, aby znaleźć cel, szczęście lub zapomnienie.</p><p>Rzadko mówisz o piętnie lub o tym, jak nisko upadłeś, by handlować historiami, godzinami i życiem w ciemnościach Miasta Poniżej. Znak swędzi. Twoja chciwość swędzi. Nosisz ciężar większy, niż ci się wydaje, i wypychasz gniew, smutek, i to, co utraciłeś w ciemność, daleko poza światła schronienia.</p>",
                 "name": "Inkarnadyn",
                 "equipment": {
                     "hooked_blade": "Zakrzywione ostrze",
@@ -993,7 +989,7 @@
                         "the_cost_of_doing_business.name": "Cena Interesów",
                         "the_cost_of_doing_business.description": "<p><i>A mix of scrying and luck magic lets you portion off your fortune to be used as you wish.</i> At any time you may consume a resource and roll its dice; set this dice aside. When you perform an action or inflict stress, but before you roll the dice to resolve it, you may replace any unrolled dice in your pool with the dice you set aside. Once used in this manner, it is consumed. If you have an unspent dice set aside at the end of the session, you take Fortune stress equal to the value rolled on the dice.</p>",
                         "mutually_assured_destruction.name": "Wzajemne Gwarantowane Zniszczenie",
-                        "mutually_assured_destruction.description": "<p><i>Jeśli pójdziesz na dno, zabierzesz wroga ze sobą.</i> Jeśli zginiesz, umieszczone na twojej duszy zaklęcia ochronne zabić tego, kto zabił ciebie. Wybuchasz i zadajesz stres równy D8 + twój aktualny stres Szczęścia każdemu, kto stoi w pobliżu.</p>"
+                        "mutually_assured_destruction.description": "<p><i>Jeśli pójdziesz na dno, zabierzesz wroga ze sobą.</i> Jeśli zginiesz, umieszczone na twojej duszy zaklęcia ochronne zabiją tego, kto cię zabił. Wybuchasz i zadajesz stres równy D8 + twój aktualny stres Szczęścia każdemu, kto stoi w pobliżu.</p>"
                     },
                     "minor": {
                         "a_red_and_bloody_business.name": "Czerwony Krwawy Biznes",
@@ -1017,8 +1013,8 @@
                         "on_the_run.name": "W Biegu",
                         "on_the_run.description": "<p><i>Od lat uciekasz przed wierzycielami. Nie masz nic przeciwko czołganiu się przez odchody na rękach i kolanach, by przetrwać.</i> Zyskujesz umiejętność <b>Unik</b>. Możesz otrzymać D4 stresu Zapasów, by skoncentrować uwagę jakiejś osoby lub stworzenia na innym BG albo ważnym BN.</p>",
                         "priest_of_incarne.name": "Kapłan Incarne",
-                        "priest_of_incarne.description": "<p><i>Większość Inkarnadynów składa gołosłowne deklaracje swemu bogu, spłacając jednocześnie swój dług. Ty kupiłeś towar hurtowo i rozumiesz straszliwą moc swojego patrona.</i> Zyskujesz domenę <b>Religia</b>. Raz na sesję, gdy odwiedzasz kapliczkę Incarne i głosisz kazanie wiernym, usuń stres równy wielkości kapliczki (D4 za dewocjonalia wielkości szafki, D12 za wspaniałą świątynię). Czerwony Targ jest zbyt niespokojny i zmienny, by pełnić rolę kapliczki na potrzeby tej zdolności.</p>",
-                        "red_marketeer.name": "Czerwony Marketer",
+                        "priest_of_incarne.description": "<p><i>Większość Inkarnadynów składa gołosłowne deklaracje swemu bogu, spłacając jednocześnie swój dług. Ty kupiłeś towar hurtowo i rozumiesz straszliwą moc swojego patrona.</i> Zyskujesz domenę <b>Religia</b>. Raz na sesję, gdy odwiedzasz kapliczkę Incarne i głosisz kazanie wiernym, usuń stres równy wielkości kapliczki (D4 za dewocjonalia wielkości szafki, D12 za wspaniałą świątynię). Czerwony Targ jest zbyt niespokojny i zmienny, by być traktowany, jako kapliczka na potrzeby tej zdolności.</p>",
+                        "red_marketeer.name": "Czerwony Handlowiec",
                         "red_marketeer.description": "<p><i>Przez jakiś czas byłeś na tyle odważny, by handlować krwią i duszami w zmiennych alejkach Czerwonego Rynku.</i> Zyskujesz domenę <b>Norowisko</b>. Jeśli powstrzymujesz kogoś przed odebraniem ci tego, co należy do ciebie, twoje ataki zyskują etykietę Brutalny.</p>",
                         "valuable_asset.name": "Cenny Nabytek",
                         "valuable_asset.description": "<p><i>Incarne nie pozwoli ci umrzeć, ponieważ wtedy nie odbierze tego, co mu się należy.</i> Zyskujesz +2 ochrony Szczęścia.</p>",
@@ -1079,7 +1075,7 @@
                         "ultimate_credit.name": "Ostateczny Kredyt",
                         "ultimate_credit.description": "<p><i>A life lived in service of Incarne brings with it a powerful favour.</i> Once, and only once, you can buy anything (except the Heart Itself). You own this physical, conceptual or immaterial thing and have as much control over it as you do a knife, a suit of clothes or anything else you own. Two sessions from now, the debt will be recalled, and it will take your life.</p>",
                         "ultimate_debt.name": "Ostateczny Dług",
-                        "ultimate_debt.description": "<p><i>You wield the wrath of Incarne.</i> Once, and only once, you can unload the weight of Incarne's debt upon a single luckless individual, location or entity (except the Heart Itself). Anything and everything that could go wrong for the target does go wrong, and it does so catastrophically, but they do not die. Once per situation, you can harvest the debt on the target to clear stress from your resistance tracks - when you do so, roll a D10. On a 2 or higher, remove that much stress. On a 1, your luck runs out, and a cosmic loophole sees Incarne claim your life.</p>",
+                        "ultimate_debt.description": "<p><i>You wield the wrath of Incarne.</i> Once, and only once, you can unload the weight of Incarne's debt upon a single luckless individual, location or entity (except the Heart Itself). Anything and everything that could go wrong for the target does go wrong, and it does so catastrophically, but they do not die. Once per situation, you can harvest the debt on the target to clear stress from your resistance tracks – when you do so, roll a D10. On a 2 or higher, remove that much stress. On a 1, your luck runs out, and a cosmic loophole sees Incarne claim your life.</p>",
                         "ultimate_reward.name": "Ostateczna Nagroda",
                         "ultimate_reward.description": "<p><i>Udało ci się, spłaciłeś go.</i> W końcu wydostałeś się z długów Incarne. Możesz powrócić do normalnego życia, założyć rodzinę, może małą firmę, cokolwiek, na co masz ochotę. Za kilka lat może dekad umrzesz spokojnie, w otoczeniu bliskich.</p>"
                     }
@@ -1116,7 +1112,7 @@
                         "litanies_of_false_power.name": "Litanie Fałszywych Potęg",
                         "litanies_of_false_power.description": "<p><i>Doskonale wiesz, że bogowie tego świata są odlegli, martwi lub niezainteresowani, ale jeśli jesteś uważny, mogą ujawnić przydatne sekrety.</i> Zyskujesz domenę <b>Religia</b>. Kiedy korzystasz ze zdolności <b>OFIARA</b>, możesz również zużywać zasoby z domeny <b>Religia</b>.</p>",
                         "mark_of_hunger.name": "Znak Głodu",
-                        "mark_of_hunger.description": "<p><i>You can taste the power slumbering in the City Beneath, and you want it more than anything.</i> Gain the <b>Delve</b> skill. You can smell sources of magical power - the more potent and active, the more pungent the smell. Different types of magic have different scents: relics of the Moon Beneath have the aroma of wine and butter, necromancy smells like nujabian kafee and the occult technology of the Vermissian resembles malt and rich tannins.</p>",
+                        "mark_of_hunger.description": "<p><i>You can taste the power slumbering in the City Beneath, and you want it more than anything.</i> Gain the <b>Delve</b> skill. You can smell sources of magical power – the more potent and active, the more pungent the smell. Different types of magic have different scents: relics of the Moon Beneath have the aroma of wine and butter, necromancy smells like nujabian kafee and the occult technology of the Vermissian resembles malt and rich tannins.</p>",
                         "mark_of_the_phantom.name": "Widmowy Znak",
                         "mark_of_the_phantom.description": "<p><i>Silver-grey skinspells and litanies of obfuscation wind their way over your body; you are an aberration in space and time, glitching through the City Beneath.</i> Gain the <b>Evade</b> skill. Once per situation, when you mark stress due to physical harm or detection, you may make the MG reroll the stress dice. Keep the second result, even if it's higher.</p>",
                         "mark_of_shadow.name": "Znak Cienia",
@@ -1148,7 +1144,7 @@
                         "brisk_conjuration.name": "Zaklęcie Rześkiego Wiatru",
                         "brisk_conjuration.description": "Jesteś w stanie przywołać podmuch powietrza w wybranym przez siebie kierunku. Zaklęcie to działa jak broń (Broń D4, Rozrzut, Osłabiający, Jednostrzałowy).",
                         "maddening_storm.name": "Burza Szaleństwa",
-                        "maddening_storm.description": "<p><i>Roll <b>Compel+Occult</b> to cast this spell.</i> On a success, an area roughly the size of a city block - centred on you - is assailed with stiff winds that stir up debris and howl deafeningly through tunnels and vents, but everything within ten feet of you remains calm. All <b>Sneak</b> and <b>Evade</b> checks in this area are made with mastery, but the inhabitants definitely know something's going on. This effect lasts until the end of the current situation; if you move outside of the zone of calm at the centre beforehand, the spell ends.</p>",
+                        "maddening_storm.description": "<p><i>Roll <b>Compel+Occult</b> to cast this spell.</i> On a success, an area roughly the size of a city block – centred on you – is assailed with stiff winds that stir up debris and howl deafeningly through tunnels and vents, but everything within ten feet of you remains calm. All <b>Sneak</b> and <b>Evade</b> checks in this area are made with mastery, but the inhabitants definitely know something's going on. This effect lasts until the end of the current situation; if you move outside of the zone of calm at the centre beforehand, the spell ends.</p>",
                         "only_the_finest.name": "Najlepsi z Najlepszych",
                         "only_the_finest.description": "Raz na sytuację trzymany przez ciebie przedmiot zyskuje Doskonałą jakość. Po zakończeniu sytuacji przedmiot zostaje zniszczony.",
                         "gorge.name": "Gardziel",
@@ -1180,15 +1176,15 @@
                         "kiss_of_the_drowned_queen.name": "Pocałunek Królowej Topielców",
                         "kiss_of_the_drowned_queen.description": "<p><i>Ujrzałeś zatopiony Dwór Królowej Topielców, gdzie śpi i oczekuje na odrodzenie swojego rodu.</i> Jednym dotknięciem możesz wyczarować słoną wodę w płucach tych, którzy Ci się sprzeciwiają. To zaklęcie działa jako broń: (Broń D6, Przebijająca). Jeśli cel znajduje się co najmniej po pas w wodzie, zadajesz D8 obrażeń.</p>",
                         "sanctum_of_the_stone_chorus.name": "Sanctum Kamiennego Chóru",
-                        "sanctum_of_the_stone_chorus.description": "<p><i>They claim, in a hundred voices like the scraping of tectonic plates, that they are the Old Gods, imprisoned in the Heart by upstart deities.</i> Roll <b>Discern+Religion</b> to cast this spell. On a success, you find (or spontaneously create) a path to one of the parasitic temples of the Old Gods, which sucks existence from the world like ticks. When you meditate here, remove D6 stress from Echo; your allies may use the temple in the same way. You may not open more than one path to a temple at any one time. After an hour or so, the path will seal shut - but not without warning, so you'll have time to leave.</p>"
+                        "sanctum_of_the_stone_chorus.description": "<p><i>They claim, in a hundred voices like the scraping of tectonic plates, that they are the Old Gods, imprisoned in the Heart by upstart deities.</i> Roll <b>Discern+Religion</b> to cast this spell. On a success, you find (or spontaneously create) a path to one of the parasitic temples of the Old Gods, which sucks existence from the world like ticks. When you meditate here, remove D6 stress from Echo; your allies may use the temple in the same way. You may not open more than one path to a temple at any one time. After an hour or so, the path will seal shut – but not without warning, so you'll have time to leave.</p>"
                     },
                     "zenith": {
                         "the_herald_of_the_red_king.name": "Herold Czerwonego Króla",
                         "the_herald_of_the_red_king.description": "<p><i>You conjure forth a door to the King of Want, and his approach is terrible.</i> You can only cast this spell once, but you do so automatically without needing to roll. The Red King appears, a writhing town-sized knot of jealousy and fire and iron- hard scales, and breathes flame so hot that it can destroy anyone and anything it touches. You can direct his attack. When you cast the spell, roll <b>Endure+Occult</b>. On a success, you become the new Red King, a furious engine of desire, and can be summoned by other Junk Mages. On a failure, you are added to his hoard. Either way, there's no coming back.</p>",
                         "the_herald_of_the_drowned_queen.name": "Herold Królowej Topielców",
-                        "the_herald_of_the_drowned_queen.description": "<p><i>You give the Queen what she wants most of all: subjects.</i> You can only cast this spell once, but you do so automatically without needing to roll. The landmark you're in is half-submerged in water, and from the depths in the centre a throne room rises, bearing the immortal majesty of the Drowned Queen. This is now her dominion, and you are her most trusted advisor; the remade landmark is utterly under your and the Queen's control. You have a session or two to get what you need out of the situation before you are retired as a player character - driven mad from occult stress, assassinated by agents of a rival haven, or betrothed to the Queen to cement the new expansion.</p>",
+                        "the_herald_of_the_drowned_queen.description": "<p><i>You give the Queen what she wants most of all: subjects.</i> You can only cast this spell once, but you do so automatically without needing to roll. The landmark you're in is half-submerged in water, and from the depths in the centre a throne room rises, bearing the immortal majesty of the Drowned Queen. This is now her dominion, and you are her most trusted advisor; the remade landmark is utterly under your and the Queen's control. You have a session or two to get what you need out of the situation before you are retired as a player character – driven mad from occult stress, assassinated by agents of a rival haven, or betrothed to the Queen to cement the new expansion.</p>",
                         "the_herald_of_the_stone_chorus.name": "Herold Kamiennego Chóru",
-                        "the_herald_of_the_stone_chorus.description": "<p><i>You throw open the door to the Chorus' prison; while they look on in shock, you throw another captive into the cell.</i> You can only cast this spell once, but you do so automatically without needing to roll. A creature or entity you are touching is sealed away in the Stone Chorus'prison eternally; you become part of the mechanism that locks the door, and cease to exist in any meaningful sense. Nothing can free the target from its prison short of you, the door, agreeing to open.</p>"
+                        "the_herald_of_the_stone_chorus.description": "<p><i>You throw open the door to the Chorus' prison; while they look on in shock, you throw another captive into the cell.</i> You can only cast this spell once, but you do so automatically without needing to roll. A creature or entity you are touching is sealed away in the Stone Chorus' prison eternally; you become part of the mechanism that locks the door, and cease to exist in any meaningful sense. Nothing can free the target from its prison short of you, the door, agreeing to open.</p>"
                     }
                 }
             },
@@ -1207,7 +1203,7 @@
                 "ability": {
                     "core": {
                         "vermissian_plate.name": "Vermisiańska Płyta",
-                        "vermissian_plate.description": "<p><i>Twój pancerz składa się ze uzbieranej, ledwo zrozumiałej technologii z alternatywnych rzeczywistości wewnątrz Tuneli Vermis.</i> Raz na sesję, kiedy zużywasz zasób z domeny <b>Technologia</b> lub <b>Okultyzm</b>, by ulepszyć lub naprawić swoją zbroję, rzuć kośćmi zasobu i wybierz jedną z poniższych opcji: <ul><li>Usuń stres Krwi, Umysłu lub Echu równy wyrzuconej wartości.</li><li>Zadaj stres wyprawie lub przeciwnikowi równy wyrzuconej wartości.</li><li>(zasób D8 lub lepszy) Uzyskaj dostęp do umiejętności lub domeny do końca sesji.</li> <li>(zasób D8 lub lepszy) Zwiększ swoją ochronę Krwi o 1 do końca sytuacji.</li></ul></p>"
+                        "vermissian_plate.description": "<p><i>Twój pancerz składa się z poskładanej z wielu źródeł, ledwo zrozumiałej technologii z alternatywnych rzeczywistości wewnątrz Tuneli Vermis.</i> Raz na sesję, kiedy zużywasz zasób z domeny <b>Technologia</b> lub <b>Okultyzm</b>, by ulepszyć lub naprawić swoją zbroję, rzuć kośćmi zasobu i wybierz jedną z poniższych opcji: <ul><li>Usuń stres Krwi, Umysłu lub Echu równy wyrzuconej wartości.</li><li>Zadaj stres wyprawie lub przeciwnikowi równy wyrzuconej wartości.</li><li>(zasób D8 lub lepszy) Uzyskaj dostęp do umiejętności lub domeny do końca sesji.</li><li>(zasób D8 lub lepszy) Zwiększ swoją ochronę Krwi o 1 do końca sytuacji.</li></ul></p>"
                     },
                     "minor": {
                         "arcane_rebreather.name": "Tajemny Aparat Oddechowy",
@@ -1259,7 +1255,7 @@
                         "momentum.name": "Rozpęd",
                         "momentum.description": "Kiedy aktywujesz <b>PRZETAKTOWANIE</b>, możesz dodać etykietę <b>Sprawdzony</b> do rzutu na <b>Wyprawę</b> zamiast etykietę <b>Brutalny</b> do ataku.",
                         "galvanic_crucible.name": "Tygiel Galwaniczny",
-                        "galvanic_crucible.description": "Możesz aktywować zdolność <b>VERMISIAŃSKA PŁYTA</b> dwa razy na sesję, a nie tylko raz. Gdy zrobisz to drugi raz otrzymasz D4 stresu Szczęścia.",
+                        "galvanic_crucible.description": "Możesz aktywować zdolność <b>VERMISIAŃSKA PŁYTA</b> dwa razy na sesję, a nie tylko raz. Gdy zrobisz to drugi raz, otrzymasz D4 stresu Szczęścia.",
                         "first_to_the_front.name": "Pierwszy na Froncie",
                         "first_to_the_front.description": "Możesz aktywować tę zdolność, gdy dowodzisz drużyną w walce. Gdy jest aktywna, zwiększasz o jeden poziom kości stresu, które ty i przeciwnik zadajecie sobie nawzajem.",
                         "pathfinder.name": "Przepatrywacz Ścieżek",
@@ -1273,19 +1269,19 @@
                         "dragon_killer.name": "Zabójca Smoków",
                         "dragon_killer.description": "<p><i>Powierzono ci wielkie ostrze ze skarbca zakonu, starożytną broń zaprojektowaną do zabijania najgroźniejszych plugastw w Tunelach Vermis.</i> Wielkie ostrze ma dwa zestawy statystyk, jeden, gdy jest używany przeciwko celom wielkości człowieka: (Broń D6, Ciężka), a drugi, gdy jest używany przeciwko celom znacznie większym od ciebie: (Broń D10, Ciężka).</p>",
                         "get_behind_me.name": "Schowaj się za mną",
-                        "get_behind_me.description": "<p><i>Nauczyłeś się utrzymywać swoją drużynę przy życiu, gdyż doskonale wiesz, że nie dasz rady przemierzać świata w pojedynkę.</i> Dzięki twojej pomocy, każdy sojusznik w zasięgu twoich rąk zyskuje +1 ochrony Krwi. Raz na sytuację możesz wydać rozkazy i usunąć D4 stresu Krwi lub Umysłu z pobliskiego sojusznika.</p>",
+                        "get_behind_me.description": "<p><i>Nauczyłeś się utrzymywać swoją drużynę przy życiu, gdyż doskonale wiesz, że nie dasz rady przemierzać świata w pojedynkę.</i> Dzięki twojej pomocy każdy sojusznik w zasięgu twoich rąk zyskuje +1 ochrony Krwi. Raz na sytuację możesz wydać rozkazy i usunąć D4 stresu Krwi lub Umysłu z pobliskiego sojusznika.</p>",
                         "overclock.name": "Przetaktowanie",
                         "overclock.description": "<p><i>Wykorzystujesz swoją Vermisiańską Płytę do granic jej możliwości.</i> Możesz aktywować tę zdolność w dowolnym momencie. Kiedy to zrobisz, wykonaj natychmiastowy atak wręcz; twoja broń otrzyma etykietę Brutalny. Po użyciu tej zdolności otrzymujesz D4 stresu Szczęścia, ponieważ nadwyrężasz swoje silniki.</p>",
                         "trailblazer.name": "Pionier",
-                        "trailblazer.description": "<p><i>Leading teams of explorers to lost sites and distant stations have taught you how best to move through the City Beneath - even at a cost to your own health.</i> When you lead a party on a delve, you may activate this ability. When active, increase the stress dice inflicted on the delve (and that the delve inflicts on you) by one step.</p>"
+                        "trailblazer.description": "<p><i>Leading teams of explorers to lost sites and distant stations have taught you how best to move through the City Beneath – even at a cost to your own health.</i> When you lead a party on a delve, you may activate this ability. When active, increase the stress dice inflicted on the delve (and that the delve inflicts on you) by one step.</p>"
                     },
                     "zenith": {
                         "end_of_the_line.name": "End Of The Line",
-                        "end_of_the_line.description": "<p><i>A lifetime of searching has paid off: you discover what you've been looking for all these years.</i> On tier 2 or deeper, you may activate this power. You learn of the location of a unique landmark - something truly extraordinary. Work out what it is with the MG. You must complete a delve to reach it. Once there, you cannot leave the landmark. Instead, you die in some tragic fashion, vow to protect it forever or ascend into a pure state of electricity and echoing rails. Your character is removed from the story.</p>",
+                        "end_of_the_line.description": "<p><i>A lifetime of searching has paid off: you discover what you've been looking for all these years.</i> On tier 2 or deeper, you may activate this power. You learn of the location of a unique landmark – something truly extraordinary. Work out what it is with the MG. You must complete a delve to reach it. Once there, you cannot leave the landmark. Instead, you die in some tragic fashion, vow to protect it forever or ascend into a pure state of electricity and echoing rails. Your character is removed from the story.</p>",
                         "perpetual_motion_engine.name": "Perpetuum Mobile",
-                        "perpetual_motion_engine.description": "<p><i>Years of heartsblood radiation and forbidden knowledge culminate in your ultimate work: an engine powered by a throbbing heart seed, a source of wild and limitless power.</i> Upon implantation of the heartseed into your suit's furnace, you become an unstoppable force within the City Beneath - indeed, you can never stop moving. You stamp off into the darkness, and your character is removed from the story except for the <b>DEUS EX MACHINA</b> ability that is granted to all surviving members of your party.</p>",
+                        "perpetual_motion_engine.description": "<p><i>Years of heartsblood radiation and forbidden knowledge culminate in your ultimate work: an engine powered by a throbbing heart seed, a source of wild and limitless power.</i> Upon implantation of the heartseed into your suit's furnace, you become an unstoppable force within the City Beneath – indeed, you can never stop moving. You stamp off into the darkness, and your character is removed from the story except for the <b>DEUS EX MACHINA</b> ability that is granted to all surviving members of your party.</p>",
                         "the_last_train.name": "Ostatni Pociąg",
-                        "the_last_train.description": "<p><i>You consume your power in a forbidden rite. Etching ancient timetables onto the walls in the blood of angels, and lighting signal-fires in colours not visible to the naked eye, you summon The Last Train to your position.</i> The Last Train arrives at your current position by the most direct and destructive route, destroying anything in its path. You are killed when this ability is used - crushed under the wheels of the train, riddled with strange energies and cooked in your armour or burned out from the occult strain.</p>"
+                        "the_last_train.description": "<p><i>You consume your power in a forbidden rite. Etching ancient timetables onto the walls in the blood of angels, and lighting signal-fires in colours not visible to the naked eye, you summon The Last Train to your position.</i> The Last Train arrives at your current position by the most direct and destructive route, destroying anything in its path. You are killed when this ability is used – crushed under the wheels of the train, riddled with strange energies and cooked in your armour or burned out from the occult strain.</p>"
                     }
                 }
             },
@@ -1325,13 +1321,13 @@
                         "implacable.name": "Nieustępliwa",
                         "implacable.description": "<p><i>Przetrwałeś już gorsze cierpienia i jesteś gotowy przetrwać je ponownie. Dzięki swojej krwi jesteś stabilny, wieczny i niezachwiany.</i> Zyskujesz umiejętność <b>Odporność</b>. Raz na sesję dodaj 1 do wybranej odporności. Usuń to na koniec sesji.</p>",
                         "the_old_blood.name": "Stara Krew",
-                        "the_old_blood.description": "<p><i>You inherited the disease from an ancient bloodline; you are strange, and powerful, and can see echoes of things that others can't.</i> Gain the <b>Discern</b> skill. When you observe someone for a few seconds, you can read their aura and discern their surface-level emotions - whether they're angry, happy, frustrated and soon.</p>",
+                        "the_old_blood.description": "<p><i>You inherited the disease from an ancient bloodline; you are strange, and powerful, and can see echoes of things that others can't.</i> Gain the <b>Discern</b> skill. When you observe someone for a few seconds, you can read their aura and discern their surface-level emotions – whether they're angry, happy, frustrated and soon.</p>",
                         "ramblewyrd.name": "Dziwny Wędrowiec",
                         "ramblewyrd.description": "<p><i>Jesteś dobrze wyszkolony w odkrywaniu i życiu w miejscach najbardziej związanych z Samym Sercem. Czasem robisz to nawet dla przyjemności.</i> Zyskujesz domenę <b>Klątwa</b>. Raz na sesję, gdy znajdujesz się na obszarze z domeną <b>Klątwa</b>, usuń D6 stresu z wybranych przez siebie odporności.</p>",
                         "red_dominion.name": "Czerwone Dominium",
                         "red_dominion.description": "<p><i>Krwawisz, tylko jeśli tego zapragniesz. Kiedy jesteś wściekły, twoje żyły pod skórą wyraźnie pulsują.</i> Zyskujesz +2 ochrony Krwi.</p>",
                         "wild_witch.name": "Dzika Wiedźma",
-                        "wild_witch.description": "<p><i>You know the secrets of the wild things of the world, and are skilled at distilling their essences.</i> Gain the <b>Wild</b> domain. When you're in a landmark and have time to prepare, you can turn a resource with the <b>Wild</b> domain into a healing draught. When drunk, this draught removes Blood or Mind stress equal to its dice size minus one step - choose whether it's Blood or Mind when you create it.</p>",
+                        "wild_witch.description": "<p><i>You know the secrets of the wild things of the world, and are skilled at distilling their essences.</i> Gain the <b>Wild</b> domain. When you're in a landmark and have time to prepare, you can turn a resource with the <b>Wild</b> domain into a healing draught. When drunk, this draught removes Blood or Mind stress equal to its dice size minus one step – choose whether it's Blood or Mind when you create it.</p>",
                         "witch_spit.name": "Wiedźmia Ślina",
                         "witch_spit.description": "<p><i>Mówią, że ślina Wiedźmy może wyleczyć drobne dolegliwości, naprawić drobiazgi lub ukoić zbolałe serce.</i> Twoja zasklepia rany wylotowe. Zyskujesz umiejętność <b>Łączenie</b>. Możesz sprawić, że ślina stanie się kleista lub stwardnieje w smolistą substancję.</p>",
                         "bypass.name": "Obejście",
@@ -1375,15 +1371,15 @@
                         "ascendancy.name": "Ascendencja",
                         "ascendancy.description": "<p><i>You know the secret of singing the City Beneath into different shapes.</i> Roll <b>Compel+Occult</b> to cast this spell and draw the Heart Itself into the area around you. The area you're in gains the <b>Occult</b> domain, and reacts appropriately: magic circles blossom on the floor and thrum with dark power, mist floods the air and so on. This lasts until the end of your current situation.</p>",
                         "crimson_mirror.name": "Karmazynowe Lustro",
-                        "crimson_mirror.description": "<p><i>You bleed onto an upturned mirror, and omens swim within the crimson.</i> Roll <b>Discern+Occult</b> to cast this spell before you embark on a delve. On a success, you see three omens; describe them. You don't have to be too specific - in fact, the more vague you are, the better. These are fated to come up on the delve. The first time you interact with whatever you find that relates to each omen, you roll with mastery.</p>",
+                        "crimson_mirror.description": "<p><i>You bleed onto an upturned mirror, and omens swim within the crimson.</i> Roll <b>Discern+Occult</b> to cast this spell before you embark on a delve. On a success, you see three omens; describe them. You don't have to be too specific – in fact, the more vague you are, the better. These are fated to come up on the delve. The first time you interact with whatever you find that relates to each omen, you roll with mastery.</p>",
                         "exsanguinate.name": "Wykrwawienie",
                         "exsanguinate.description": "<p><i>Wyciągasz celowi krew przez usta i nos, dusząc go jego własnymi wnętrznościami.</i> To zaklęcie działa jak broń z następującymi etykietami: (Broń D6, Zasięgowy). Stres otrzymywany w wyniku użycia tego zaklęcia możesz przydzielić do Echa.</p>",
                         "familiar.name": "Chowaniec",
-                        "familiar.description": "<p><i>You have developed a special relationship with a creature; you feed it your blood, and in return it accepts the monstrous changes of your magic.</i> You are accompanied by a small creature - no bigger than a dog - that is cowardly and strange to look at. Describe it. When you take stress from magical sources (including your own), you may assign that stress to your familiar instead of your own resistances. When you mark 4 total stress to your familiar, it is unavailable until the start of the next session. It returns changed; describe what aspect of it has been transformed by the magical energy coursing through it. At the start of each session, remove all stress marked against your familiar.</p>",
+                        "familiar.description": "<p><i>You have developed a special relationship with a creature; you feed it your blood, and in return it accepts the monstrous changes of your magic.</i> You are accompanied by a small creature – no bigger than a dog – that is cowardly and strange to look at. Describe it. When you take stress from magical sources (including your own), you may assign that stress to your familiar instead of your own resistances. When you mark 4 total stress to your familiar, it is unavailable until the start of the next session. It returns changed; describe what aspect of it has been transformed by the magical energy coursing through it. At the start of each session, remove all stress marked against your familiar.</p>",
                         "great_and_terrible.name": "Wielki i Straszny",
                         "great_and_terrible.description": "<p><i>Odblokowujesz pełną potęgę swojej prawdziwej formy, budzącej podziw połączenia magii i ciała.</i> Nie musisz przyjmować swojej <b>PRAWDZIWEJ FORMY</b>, gdy ponosisz Poważną Konsekwencję. Gdy przemieniasz się w swoją prawdziwą formę, wszyscy przeciwnicy, którzy cię widzą, otrzymują D4 stresu.</p>",
                         "lair.name": "Legowisko",
-                        "lair.description": "<p><i>You adopt or create a predatory building and claim it as your own; it still eats people, but it doesn't eat you.</i> The building in question is no larger than a small shop or study. Inside, the shadows crawl and scurry, the walls creak and whisper and a maddening heartbeat thuds at the back of your consciousness - perfect for you, but unsettling for anyone else. Any non-witch who enters your lair must roll Resist+<b>Occult</b> and mark D6 stress to Echo on a failure or D4 stress to Echo on a partial success. When you are in a landmark, roll <b>Mend+Occult</b> to summon your lair. On a success, it's always been here, as far as anyone knows. Your lair acts as a bond (p. 98) - if it suffers fallout, it's either eaten someone who'll be missed or been damaged by suspicious locals.</p>"
+                        "lair.description": "<p><i>You adopt or create a predatory building and claim it as your own; it still eats people, but it doesn't eat you.</i> The building in question is no larger than a small shop or study. Inside, the shadows crawl and scurry, the walls creak and whisper and a maddening heartbeat thuds at the back of your consciousness – perfect for you, but unsettling for anyone else. Any non-witch who enters your lair must roll Resist+<b>Occult</b> and mark D6 stress to Echo on a failure or D4 stress to Echo on a partial success. When you are in a landmark, roll <b>Mend+Occult</b> to summon your lair. On a success, it's always been here, as far as anyone knows. Your lair acts as a bond (p. 98) – if it suffers fallout, it's either eaten someone who'll be missed or been damaged by suspicious locals.</p>"
                     },
                     "zenith": {
                         "final_form.name": "Ostateczna Forma",
@@ -1391,7 +1387,7 @@
                         "perfect_resurrection.name": "Doskonałe Zmartwychwstanie",
                         "perfect_resurrection.description": "<p><i>The communion between flesh and fracture, between the mortal and the undying, becomes near-perfect.</i> You can make a perfect copy of someone who has died, but only once. The copy is absolutely the same as the original, right down to the soul. The copy is so good, in fact, that the person can no longer permanently die. If they sustain damage that would kill them, they appear dead, but in fact a new copy is pupating somewhere in the depths of the Heart. It will slide out wetly within a lunar month. They get no say in this, and there is no known way to turn it off short of destroying the Heart Itself. Casting this spell takes an hour or so of ritual chanting and kills you.</p>",
                         "the_red_queen.name": "Czerwona Królowa",
-                        "the_red_queen.description": "<p><i>You ascend to dominance over the witches of Hallow.</i> Following a long period of scheming or a single night of decisive action, you are now in charge of all the witches of Hallow. Such a force, when mobilised, is terrifying to behold: their true forms skitter and swarm across rooftops and in the shadows. Few can stand in their path and survive. After a session or two, the realities of being the head witch set in - there is a surprising amount of admin to do, and other witches are always coming to you with requests for aid. Pretty soon you're going to be interred in the Red Vaults beneath Hallow (as all the leaders of the witches are) to join the chorus of elders.</p>"
+                        "the_red_queen.description": "<p><i>You ascend to dominance over the witches of Hallow.</i> Following a long period of scheming or a single night of decisive action, you are now in charge of all the witches of Hallow. Such a force, when mobilised, is terrifying to behold: their true forms skitter and swarm across rooftops and in the shadows. Few can stand in their path and survive. After a session or two, the realities of being the head witch set in – there is a surprising amount of admin to do, and other witches are always coming to you with requests for aid. Pretty soon you're going to be interred in the Red Vaults beneath Hallow (as all the leaders of the witches are) to join the chorus of elders.</p>"
                     }
                 }
             }
@@ -1410,13 +1406,13 @@
                     "furious.name": "Wściekły",
                     "furious.description": "Jesteś ranny, nerwowy i nieufny. Nie możesz pomagać innym bohaterom, dodając kość do ich rzutów. [Trwający]",
                     "limping.name": "Utykanie",
-                    "limping.description": "Jesteś spowolniony. Jeśli ktoś lub coś zaatakuje twoją drużynę, najpierw zaatakuje ciebie. Jeśli istnieje jakakolwiek wątpliwość co do tego, kto dotrze gdzieś ostatni, to będziesz to ty. Wszystkie testy wymagające szybkiego ruchu lub skradania staną się akcjami Ryzykownymi. [Trwająca]",
+                    "limping.description": "Jesteś spowolniony. Jeśli ktoś lub coś zaatakuje twoją drużynę, najpierw wybierze ciebie. Jeśli istnieje jakakolwiek wątpliwość co do tego, kto dotrze gdzieś ostatni, to będziesz to ty. Wszystkie testy wymagające szybkiego ruchu lub skradania staną się akcjami Ryzykownymi. [Trwająca]",
                     "ringing_head.name": "Ogłuszenie",
                     "ringing_head.description": "Kręci ci się w głowie i czujesz krew w ustach. Następna akcja, którą wykonasz, będzie Niebezpieczna, kolejna Ryzykowna. Później oszołomienie się kończy i usuwasz tę Konsekwencję. [Natychmiast]",
                     "shattered.name": "Rozbity",
                     "shattered.description": "Twój pancerz nie jest już użyteczny. Nie możesz używać ochrony Krwi. [Trwająca]",
                     "spitting_teeth.name": "Wybite zęby",
-                    "spitting_teeth.description": "Każda czynność wymagająca mówienia lub wyglądania przyzwoicie, staje się Ryzykowna. [Trwająca]",
+                    "spitting_teeth.description": "Każda czynność wymagająca mówienia lub wyglądania przyzwoicie staje się Ryzykowna. [Trwająca]",
                     "tired.name": "Zmęczony",
                     "tired.description": "Jesteś zmęczony, podejmujesz złe decyzje i złościsz się na przyjaciół. Nie możesz dodawać kości z umiejętności do rzutów. [Trwająca]",
                     "winded.name": "Brak tchu",
@@ -1462,7 +1458,7 @@
                     "the_ravening_call.name": "Drapieżny Zew",
                     "the_ravening_call.description": "Ta Konsekwencja nie daje żadnych efektów, ale pozostaje na twojej postaci i czasami objawia się jako urywany skowyt w ich umyśle. Konsekwencja może zostać ulepszona do DRAPIEŻNA <b>BESTIA</b>. [Trwająca]",
                     "strange_appetite.name": "Dziwny Apetyt",
-                    "strange_appetite.description": "You crave unusual - taboo - things rather than good honest meat and drink: rusted metal, living creatures, vermin, effluvia, used clothing, beloved pets, etc. Next time you visit a haunt and attempt to refresh Blood or Mind stress, you must seek out this weirdness and indulge in it; otherwise you will be unable to refresh. Once you've sought out the weirdness, remove this fallout. This fallout can be upgraded into <b>DARK CRAVINGS</b>.[Ongoing]",
+                    "strange_appetite.description": "You crave unusual – taboo – things rather than good honest meat and drink: rusted metal, living creatures, vermin, effluvia, used clothing, beloved pets, etc. Next time you visit a haunt and attempt to refresh Blood or Mind stress, you must seek out this weirdness and indulge in it; otherwise you will be unable to refresh. Once you've sought out the weirdness, remove this fallout. This fallout can be upgraded into <b>DARK CRAVINGS</b>.[Ongoing]",
                     "siren_song.name": "Syreni Śpiew",
                     "siren_song.description": "You cannot shake the thought of a particular place or person from your mind (the MG will pick a nearby landmark or <b>NPC</b>). If you do anything other than move towards it or remove obstacles in your path, the action becomes Risky. Once you reach it, the feeling dissipates. [Ongoing]"
                 },
@@ -1512,7 +1508,7 @@
                     "blinded.name": "Oślepiony",
                     "blinded.description": "Nic nie widzisz albo widzisz tak słabo, że równie dobrze mógłbyś być ślepy. Może to być permanentne. Każde zadanie wymagające widzenia (a więc większość) staje się Akcją Niebezpieczną. [Trwająca]",
                     "broken_arm.name": "Złamana Ręka",
-                    "broken_arm.description": "Twoja ręka łamię się pod wpływem wysiłku, a odłamki kości przebijają się przez skórę. Nie możesz używać ręki, dopóki się nie zagoi, co sprawi, że niektóre akcje będą Ryzykowne lub Niebezpieczne, a inne Niemożliwe. Ta Konsekwencja może zostać obniżona lub podwyższona z <b>BATTERED</b>. [Trwająca]",
+                    "broken_arm.description": "Twoja ręka łamię się pod wpływem wysiłku, a odłamki kości przebijają się przez skórę. Nie możesz używać ręki, dopóki się nie zagoi, co sprawi, że niektóre akcje będą Ryzykowne lub Niebezpieczne, a inne Niemożliwe. Ta Konsekwencja może zostać obniżona lub podwyższona z <b>POOBIJANY</b>. [Trwająca]",
                     "broken_leg.name": "Złamana Noga",
                     "broken_leg.description": "Twoje kości nóg łamią się i pękają. Każda czynność związana z nogami (wspinaczka, poruszanie się inaczej niż czołganie) automatycznie kończy się niepowodzeniem. Ta Konsekwencja może zostać obniżona do lub ulepszona z <b>UTYKANIA</b>. [Trwająca]",
                     "critical_injury.name": "Poważna Rana",
@@ -1554,11 +1550,11 @@
                     "meat.name": "Mięso",
                     "meat.description": "Everyone is just meat to you: dull, worthless, soulless. Any time you enter a situation where you must talk to a mundane NPC for an extended period of time,the GM can call for an <b>Endure</b> roll; on a failure, take D6 stress. If you are intimate with a mundane NPC, take D10 stress on a failure. [Ongoing]",
                     "mirage.name": "Miraż",
-                    "mirage.description": "The next landmark you reach is a facsimile made by the Heart, arranged to give you what you want. It seems real, but the more you explore, the more obvious it is that everything - the streets, the books, the people - is fake. It's an artful copy made out of meat, bone and blood. From the looks of things, it's existed for hundreds of years. Once you realise that the landmark is fake,remove this fallout.[Immediate]",
+                    "mirage.description": "The next landmark you reach is a facsimile made by the Heart, arranged to give you what you want. It seems real, but the more you explore, the more obvious it is that everything – the streets, the books, the people – is fake. It's an artful copy made out of meat, bone and blood. From the looks of things, it's existed for hundreds of years. Once you realise that the landmark is fake,remove this fallout.[Immediate]",
                     "the_ravening_beast.name": "Drapieżna Bestia",
                     "the_ravening_beast.description": "Emerging from a patch of shadows, the Ravening Beast that has been hiding in your mind appears. It will attempt to maul others, but its primary motivation is to consume you utterly. Fighting off the beast does not remove this fallout, but it has no further effect unless you upgrade this fallout (see <b>THE RAVENING</b>).[Immediate]",
                     "reconfigured_physiology.name": "Zmieniona Fizjologia",
-                    "reconfigured_physiology.description": "Your organs and bones don't make sense any more. You can no longer remove stress from Blood, or remove Blood fallout at haunts or through the use of medical kits.This shows itself in some outward fashion - unusual growths bulging under your skin, words appearing as bruises, black blood and so on. [Ongoing]",
+                    "reconfigured_physiology.description": "Your organs and bones don't make sense any more. You can no longer remove stress from Blood, or remove Blood fallout at haunts or through the use of medical kits.This shows itself in some outward fashion – unusual growths bulging under your skin, words appearing as bruises, black blood and so on. [Ongoing]",
                     "vanished.name": "Zniknięcie",
                     "vanished.description": "Następne znane miejsce, które zmierzałeś odwiedzić, zniknęło, a zamiast niego znajdujesz coś innego. Prawdopodobnie miejsce to gdzieś przeniesione, chyba że zostało całkowicie pochłonięte przez Serce. [Natychmiastowa]"
                 },
@@ -1570,7 +1566,7 @@
                     "exiled.name": "Wygnany",
                     "exiled.description": "Zostajesz wygnany ze schronienia, w którym obecnie przebywasz lub które znajduje się w pobliżu. Opowiedz, co się stało. Twoi sojusznicy nie podlegają tym samym ograniczeniom, ale będą traktowani podejrzliwie. [Natychmiastowa, Trwająca]",
                     "grievance.name": "Uraza",
-                    "grievance.description": "You are marked as an enemy by a group within the Heart - a cult, a church, the Hounds, members of a particular haven, beasts, etc. They will work to foil your efforts as best they can until you clear your name or kill your way out of the problem. [Immediate, Ongoing]",
+                    "grievance.description": "You are marked as an enemy by a group within the Heart – a cult, a church, the Hounds, members of a particular haven, beasts, etc. They will work to foil your efforts as best they can until you clear your name or kill your way out of the problem. [Immediate, Ongoing]",
                     "hell_for_weather.name": "Piekielna Pogoda",
                     "hell_for_weather.description": "Twoje przewidywania okazały się błędne i doprowadziłeś drużynę do niebezpiecznego obszaru, obecny obszar zmienił się i stał się wrogi lub, jeśli pozwala na to lokalizacja, rozpętała się burza. Dopóki nie dotrzesz do znanego miejsca, wszystkie akcje podejmowane przez drużynę stają się Ryzykowne. Usuń tę Konsekwencję, gdy zagrożenie minie. [Natychmiastowa, Trwająca]",
                     "lost_map.name": "Zaginiona Mapa",
@@ -1584,7 +1580,7 @@
                     "the_road_less_travelled.name": "Mniej Uczęszczana Droga",
                     "the_road_less_travelled.description": "Wybrałeś złą ścieżkę. Kolejne znane miejsce, do którego dotrzesz, nie jest tym, którego się spodziewasz. Jest to zupełnie inne miejsce, prawdopodobnie takie, którego próbowałeś uniknąć. [Natychmiastowa]",
                     "unwilling_leader.name": "Niechętny Lider",
-                    "unwilling_leader.description": "You end up responsible for an unwanted group - they have problems and they look to you to solve them. Maybe you killed their boss and now you're the new boss; maybe they appeal to your sense of kindness and you foolishly give in; maybe the “group</b> is an orphan you have to look after. You can use the group to achieve things, but honestly, they cause more problems than they solve. [Immediate, Ongoing]"
+                    "unwilling_leader.description": "You end up responsible for an unwanted group – they have problems and they look to you to solve them. Maybe you killed their boss and now you're the new boss; maybe they appeal to your sense of kindness and you foolishly give in; maybe the “group</b> is an orphan you have to look after. You can use the group to achieve things, but honestly, they cause more problems than they solve. [Immediate, Ongoing]"
                 },
                 "supplies": {
                     "in_the_dark.name": "W Ciemności",
@@ -1608,9 +1604,9 @@
                     "bleeding_out.name": "Wykrwawienie",
                     "bleeding_out.description": "Umierasz. Możesz zrobić coś pożytecznego przed śmiercią (i rzucić z mistrzostwem, bo to ostatnia rzecz, jaką kiedykolwiek zrobisz) lub desperacko próbować utrzymać się przy życiu (i przy okazji oddać coś istotnego). [Natychmiastowa]",
                     "chosen.name": "Wybraniec",
-                    "chosen.description": "You pass out and awaken in a half- dream state before the Heart; you have been blessed with its power. You return to life seemingly unharmed - a miracle! But within a session or two your transformation into an Angel, a nightmare creature of blistering unreality and scintillating ribbons of wet flesh, is complete. You're not dead; but then again, you can't die. You retire as a player character. [Ongoing]",
+                    "chosen.description": "You pass out and awaken in a half- dream state before the Heart; you have been blessed with its power. You return to life seemingly unharmed – a miracle! But within a session or two your transformation into an Angel, a nightmare creature of blistering unreality and scintillating ribbons of wet flesh, is complete. You're not dead; but then again, you can't die. You retire as a player character. [Ongoing]",
                     "ghost.name": "Duch",
-                    "ghost.description": "You die, but your spirit doesn't rest easy. Your ghost remains in the City Beneath, angry at the manner of its death and the friends who it believes failed it - you haunt the party. Until they lay your spirit to rest (or murder it with specialised weapons), they suffer D6 Mind or Echo stress at the start of every session. [Immediate]"
+                    "ghost.description": "You die, but your spirit doesn't rest easy. Your ghost remains in the City Beneath, angry at the manner of its death and the friends who it believes failed it – you haunt the party. Until they lay your spirit to rest (or murder it with specialised weapons), they suffer D6 Mind or Echo stress at the start of every session. [Immediate]"
                 },
                 "echo": {
                     "beast.name": "Bestia",
@@ -1620,13 +1616,13 @@
                     "descent.name": "Upadek",
                     "descent.description": "The next time you're in a landmark,the ground shakes as the Heart draws you and the place further down. Move the landmark, and anyone in it, to the next available space on the tier below. This is catastrophic; most people will not survive. You are swallowed up by the Heart, and retire as a player character.[Immediate]",
                     "messiah.name": "Mesjasz",
-                    "messiah.description": "You have been followed by a cult of weirdos and monsters for long enough now - something's got to give. One of two things happen: either you believe your own hype and become a cult leader, leaving your life of delving behind and attempting to set up shop in a new haven within the Heart, or the cult out you as a false prophet and attempt to kill you in an appropriately brutal and public manner. [Immediate]",
+                    "messiah.description": "You have been followed by a cult of weirdos and monsters for long enough now – something's got to give. One of two things happen: either you believe your own hype and become a cult leader, leaving your life of delving behind and attempting to set up shop in a new haven within the Heart, or the cult out you as a false prophet and attempt to kill you in an appropriately brutal and public manner. [Immediate]",
                     "petrified.name": "Petryfikacja",
                     "petrified.description": "Twoje ciało wapnieje, kostnieje lub krystalizuje się, a ty stajesz się idealnym posągiem samego siebie. Twoje ciało jest niezwykle odporne na uszkodzenia, więc większość ludzi, którzy zamieniają się w posągi, pozostaje tam, gdzie stoją, stając się ostrzeżeniem dla innych lub ponurym hołdem.",
                     "the_ravening.name": "Pochłonięcie",
                     "the_ravening.description": "Your body hatches with a wet red noise and a Ravening Beast emerges from you, skinless and steaming with heat, hungry for food. You die; this is how they breed. If your surviving friends are nearby. [Immediate]",
                     "stranded.name": "Zagubiony",
-                    "stranded.description": "Somewhere along the line, your reality diverged from everyone else's - and by the time you realise, it's too late to do anything about it. You are marooned in a fracture, an alternate future or a parasite dimension - tell the group about where you spend the rest of your life. You might return, but it's doubtful that anyone you know will recognise you (or be alive) by the time you get back. [Immediate]"
+                    "stranded.description": "Somewhere along the line, your reality diverged from everyone else's – and by the time you realise, it's too late to do anything about it. You are marooned in a fracture, an alternate future or a parasite dimension – tell the group about where you spend the rest of your life. You might return, but it's doubtful that anyone you know will recognise you (or be alive) by the time you get back. [Immediate]"
                 },
                 "mind": {
                     "abandon.name": "Opuszczenie",
@@ -1638,10 +1634,10 @@
                 },
                 "fortune": {
                     "fools_gold.name": "Złoto Głupców",
-                    "fools_gold.description": "You get exactly what you want - secrets, penitence, freedom, whatever. It seems too good to be true, which is apt, because it isn't: you've been tricked or deluded, and you don't have it after all. The stress is too much for you to bear,and your only worth now is as a warning to other delvers not to take things at face value. [Immediate]",
+                    "fools_gold.description": "You get exactly what you want – secrets, penitence, freedom, whatever. It seems too good to be true, which is apt, because it isn't: you've been tricked or deluded, and you don't have it after all. The stress is too much for you to bear,and your only worth now is as a warning to other delvers not to take things at face value. [Immediate]",
                     "heavy_hangs_the_head.name": "Ciężka jest głowa, która nosi koronę",
                     "heavy_hangs_the_head.description": "Despite your best efforts, you are elected leader of a haven; maybe you defend it from an attack and the people think you've got what it takes to run the place. You don't. You have the capacity to do one useful thing with the haven's resources before you're assassinated by your rivals, the haven is overrun or the fact you were a patsy all along is revealed and you're hung out to dry. [Immediate]",
-                    "a_slow_and_insidious_killer.name": "Powolny i Podstępny Zabójca",
+                    "a_slow_and_insidious_killer.name": "Powolny i podstępny zabójca",
                     "a_slow_and_insidious_killer.description": "Działasz z pewnością siebie, ale twoja pycha kończy się ironiczną śmiercią. [Natychmiastowa]",
                     "wrong_place.name": "W złym miejscu i czasie",
                     "wrong_place.description": "Przypadkowo otrzymujesz śmiertelny cios przeznaczony dla kogoś innego. Ta osoba pozostaje nietknięta, ale ty giniesz. [Natychmiastowy]"
