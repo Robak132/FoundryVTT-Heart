@@ -233,10 +233,10 @@
       },
       "052r8hb8uuphof9e": {
         "_id": "052r8hb8uuphof9e",
-        "name": "calling.forced.beat.minor.important-beloved-NPC-dies",
+        "name": "calling.forced.beat.major.important-beloved-NPC-dies",
         "type": "beat",
         "system": {
-          "description": "calling.forced.beat.minor.important-beloved-NPC-dies",
+          "description": "calling.forced.beat.major.important-beloved-NPC-dies",
           "type": "major"
         }
       },
