@@ -1366,7 +1366,7 @@
                         "bypass.description": "Za pierwszym razem, gdy rzucisz to zaklęcie na wyprawie, daje one bonus D6.",
                         "blood_calls_for_blood.name": "Zanim Poleje się Krew",
                         "blood_calls_for_blood.description": "Każda broń używana na tym obszarze zwiększa kości stresu o 1 stopień. Dotyczy to zarówno przeciwników, jak i bohaterów Graczy.",
-                        "refuge.name": "<b>Schronienie</b>",
+                        "refuge.name": "Schronienie",
                         "refuge.description": "Za każdym razem, gdy rzucasz to zaklęcie, usuń D6 stresu Szczęścia z ciebie lub sojusznika.",
                         "shared_visions.name": "Wspólne Wizje",
                         "shared_visions.description": "Twoi sojusznicy mogą również rzucać z mistrzostwem podczas interakcji ze złowieszczymi przedmiotami.",
