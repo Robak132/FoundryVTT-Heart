@@ -1273,7 +1273,7 @@
                         "overclock.name": "Przetaktowanie",
                         "overclock.description": "<i>Wykorzystujesz swoją Vermisiańską Płytę do granic jej możliwości.</i> Możesz aktywować tę zdolność w dowolnym momencie. Kiedy to zrobisz, wykonaj natychmiastowy atak wręcz; twoja broń otrzyma etykietę Brutalny. Po użyciu tej zdolności otrzymujesz D4 stresu Szczęścia, ponieważ nadwyrężasz swoje silniki.",
                         "trailblazer.name": "Pionier",
-                        "trailblazer.description": "<i>Leading teams of explorers to lost sites and distant stations have taught you how best to move through the City Beneath – even at a cost to your own health.</i> When you lead a party on a delve, you may activate this ability. When active, increase the stress dice inflicted on the delve (and that the delve inflicts on you) by one step."
+                        "trailblazer.description": "<i>Prowadzenie drużyn odkrywców do zaginionych miejsc i odległych stacji nauczyło cię, jak najlepiej poruszać się po Mieście Poniżej, nawet jeśli kosztem jest własne zdrowie.</i> Możesz aktywować tę zdolność, gdy prowadzisz drużynę podczas wyprawy. Zwiększasz wtedy stres zadawany wyprawie o (i zadawany przez nią tobie) o 1 poziom."
                     },
                     "zenith": {
                         "end_of_the_line.name": "End Of The Line",
@@ -1281,7 +1281,7 @@
                         "perpetual_motion_engine.name": "Perpetuum Mobile",
                         "perpetual_motion_engine.description": "<i>Lata wystawienia na sercokrwiste promieniowanie i zdobywania zakazanej wiedzy zaowocowały twoim ostatecznym dziełem: silnikiem napędzanym pulsującą esencją Serca, źródłem dzikiej i nieograniczonej mocy.</i> Po włączeniu go do pieca twojego pancerza, stajesz się niepowstrzymaną siłą Miasta Poniżej. Nie możesz już nigdy przestać się ruszać, wyruszasz w ciemność, a twoja postać zostaje usunięta z historii. Wszyscy pozostali przy życiu członkowie twojej drużyny otrzymują zdolność <b>DEUS EX MACHINA</b>.",
                         "the_last_train.name": "Ostatni Pociąg",
-                        "the_last_train.description": "<i>You consume your power in a forbidden rite. Etching ancient timetables onto the walls in the blood of angels, and lighting signal-fires in colours not visible to the naked eye, you summon The Last Train to your position.</i> The Last Train arrives at your current position by the most direct and destructive route, destroying anything in its path. You are killed when this ability is used – crushed under the wheels of the train, riddled with strange energies and cooked in your armour or burned out from the occult strain."
+                        "the_last_train.description": "<i>Wykorzystujesz swoją moc w zakazanym rytuale. Trawiąc starożytne rozkłady jazdy na ścianach za pomocą krwi aniołów i zapalając ognie sygnałowe w kolorach niewidocznych gołym okiem, przywołujesz Ostatni Pociąg.</i> Przybywa on do ciebie bezpośrednią i destrukcyjną drogą, niszcząc wszystko na swojej drodze. Jeśli użyjesz tej zdolności, zginiesz. Zostaniesz zmiażdżony pod kołami pociągu, przeszyty dziwną energią, ugotowany w pancerzu lub spalony poprzez okultystyczne moce."
                     }
                 }
             },
