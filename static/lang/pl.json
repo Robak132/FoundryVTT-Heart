@@ -671,7 +671,7 @@
                         "extinguish.name": "Wygaszenie",
                         "infernal_claws.description": "<i>You learn the secrets of the Dark Place.</i> You know the location of and the route to hell (or something close to it). You can also summon fallen angels and other agents of misrule to drag a target down there. Compared to hell, the Eight Heavens seem like pretty nice places to spend an eternity. This process traps the target there indefinitely, wracking it with torments and driving it insane. Dragging someone to hell in this way consumes your life essence, and your death embraces you for one final time before stopping your heart.",
                         "infernal_claws.name": "Piekielne Szpony",
-                        "sunder_the_veil.description": "<i>With your last breath you tear open a ragged door to heaven and energy floods into the area, causing spontaneous miracles.</i> To activate this ability, die. All nearby allies remove all ongoing fallout, all stress marked to all resistances and gain mastery on all rolls for the remainder of the situation. ",
+                        "sunder_the_veil.description": "<i>With your last breath you tear open a ragged door to heaven and energy floods into the area, causing spontaneous miracles.</i> To activate this ability, die. All nearby allies remove all ongoing fallout, all stress marked to all resistances and gain mastery on all rolls for the remainder of the situation.",
                         "sunder_the_veil.name": "Rozedrzyj Zasłonę"
                     }
                 }
@@ -1029,7 +1029,7 @@
                         "invest.name": "Inwestycja",
                         "invest.description": "<b>POŚREDNIK</b> może być teraz używany na sobie.",
                         "transferral.name": "Przeniesienie",
-                        "transferral.description": "<i>Roll <b>Mend+Haven</b> to cast this spell; on a success, move a Minor fallout from any willing target other than yourself to any other willing target.</i> Both targets must be within arm's reach of one another, and the receiving party must be able to bear the fallout (i.e. a creature with no legs can't receive the <b>LIMPING</b> fallout).",
+                        "transferral.description": "Rzuć <b>Łączenie+Schronienie</b>, by przenieść Pomniejszą Konsekwencję z dowolnego chętnego celu innego niż ty na dowolny inny chętny cel. Oba cele muszą znajdować się w zasięgu rąk od siebie, a konsekwencja nie może być niemożliwa dla strony otrzymującej (np. istota bez nóg nie może otrzymać <b>UTYKANIA</b>).",
                         "inflict.name": "Krzywdziciel",
                         "inflict.description": "Kiedy rzucasz <b>PRZENIESIENIE</b>, cel otrzymujący Konsekwencję nie musi chcieć jej otrzymać. Trudność rzucenie zaklęcia w ten sposób zależy od celu.",
                         "addict.name": "Uzależnienie",
@@ -1063,7 +1063,7 @@
                         "broker.name": "Pośrednik",
                         "broker.description": "<i>Błagasz Incarne o pomoc.</i> Rzuć <b>Łączenie+Schronienie</b>, by rzucić to zaklęcie. Jeśli ci się powiedzie, usuń D6 stresu ze wszystkich odporności (innych niż Zapasy) jednej pobliskiej postaci innej niż ty. ",
                         "crave.name": "Pragnienie",
-                        "crave.description": "<i>Debt is just quantified want; you cut out the middleman.</i> Roll <b>Compel+Haven</b> to cast this spell on an NPC you're speaking to; on a success, you can instill a great desire for something in them. If the thing they want is unusual for them, casting this spell is Risky. On a success, they now fiercely want whatever it is you've specified until the end of the current situation.",
+                        "crave.description": "<i>Dług to po prostu skwantyfikowane pragnienie, ty tylko eliminujesz pośrednika.</i> Rzuć <b>Manipulacja+Schronienie</b>, by wzbudzić pragnienie czegoś w umyśle BN, z którym rozmawiasz. Jeśli rzecz, której pragną, jest dla nich nietypowa, rzucenie tego zaklęcia będzie Ryzykowne. Jeśli zaklęcie się powiedzie, BN będzie teraz zaciekle pragnąć określonej przez ciebie rzeczy do końca bieżącej sytuacji.",
                         "debtors_reds.name": "Czerwień Dłużników",
                         "debtors_reds.description": "<i>Ogarnia cię obecność Incarne, jesteś olśniewający, straszny i trudno patrzeć na ciebie bezpośrednio.</i> Za każdym razem, gdy działasz nosząc święte szaty Incarne, niezliczone święte symbole, dzienniki i świeżo wybite monety, możesz automatycznie zadać 1 stres każdemu patrzącemu na ciebie przeciwnikowi.",
                         "karmic_ledger.name": "Dziennik Karmy",
@@ -1277,7 +1277,7 @@
                     },
                     "zenith": {
                         "end_of_the_line.name": "End Of The Line",
-                        "end_of_the_line.description": "<p><i>A lifetime of searching has paid off: you discover what you've been looking for all these years.</i> On tier 2 or deeper, you may activate this power. You learn of the location of a unique landmark – something truly extraordinary. Work out what it is with the GM. You must complete a delve to reach it. Once there, you cannot leave the landmark. Instead, you die in some tragic fashion, vow to protect it forever or ascend into a pure state of electricity and echoing rails. Your character is removed from the story.</p>",
+                        "end_of_the_line.description": "<i>A lifetime of searching has paid off: you discover what you've been looking for all these years.</i> On tier 2 or deeper, you may activate this power. You learn of the location of a unique landmark – something truly extraordinary. Work out what it is with the GM. You must complete a delve to reach it. Once there, you cannot leave the landmark. Instead, you die in some tragic fashion, vow to protect it forever or ascend into a pure state of electricity and echoing rails. Your character is removed from the story.",
                         "perpetual_motion_engine.name": "Perpetuum Mobile",
                         "perpetual_motion_engine.description": "<i>Years of heartsblood radiation and forbidden knowledge culminate in your ultimate work: an engine powered by a throbbing heart seed, a source of wild and limitless power.</i> Upon implantation of the heartseed into your suit's furnace, you become an unstoppable force within the City Beneath – indeed, you can never stop moving. You stamp off into the darkness, and your character is removed from the story except for the <b>DEUS EX MACHINA</b> ability that is granted to all surviving members of your party.",
                         "the_last_train.name": "Ostatni Pociąg",
