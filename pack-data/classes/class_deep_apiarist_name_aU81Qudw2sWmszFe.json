@@ -455,10 +455,50 @@
         "system": {
           "type": "kill",
           "die_size": "d4",
-          "group": "core",
+          "group": "group_1",
           "children": {
             "7l51toey7jmw94sy": {
               "_id": "7l51toey7jmw94sy",
+              "name": "tag.brutal.name",
+              "type": "tag",
+              "system": {
+                "description": "tag.brutal.description"
+              },
+              "_key": "!items!cpu88j1zvh93j65x"
+            }
+          }
+        }
+      },   "e0l4qfpkac0jg0bk": {
+        "_id": "e0l4qfpkac0jg0bk",
+        "name": "class.deep_apiarist.equipment.hive_tool",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d4",
+          "group": "group_2",
+          "children": {
+            "3cttwk0hzjsljt09": {
+              "_id": "3cttwk0hzjsljt09",
+              "name": "tag.brutal.name",
+              "type": "tag",
+              "system": {
+                "description": "tag.brutal.description"
+              },
+              "_key": "!items!cpu88j1zvh93j65x"
+            }
+          }
+        }
+      },   "tvrk9zsjz51il3v1": {
+        "_id": "tvrk9zsjz51il3v1",
+        "name": "class.deep_apiarist.equipment.hive_tool",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d4",
+          "group": "group_3",
+          "children": {
+            "m9q4o631bho30a4x": {
+              "_id": "m9q4o631bho30a4x",
               "name": "tag.brutal.name",
               "type": "tag",
               "system": {
@@ -545,14 +585,9 @@
     "core_skill": "mend",
     "core_domain": "occult",
     "equipment_groups": [
-      "core",
       "group_1",
       "group_2",
       "group_3"
-    ],
-    "active_equipment_group": "",
-    "active_equipment_groups": [
-      "core"
     ]
   },
   "effects": [],

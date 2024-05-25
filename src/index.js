@@ -250,6 +250,7 @@ function sanitizeString(text) {
 
 Hooks.on('updateItem', function(document, data, options, userId) {
     let [key, value] = Object.entries(flattenObject({'system': data.system}))[0]
+    if (value === null) return
     document.update({
         [key]: sanitizeString(value)
     })

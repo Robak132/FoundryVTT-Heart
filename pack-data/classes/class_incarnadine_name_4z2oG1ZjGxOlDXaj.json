@@ -494,6 +494,28 @@
           "children": {}
         }
       },
+      "paomuuih39a7g3ut": {
+        "_id": "paomuuih39a7g3ut",
+        "name": "class.incarnadine.equipment.hooked_blade",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d6",
+          "group": "group_1",
+          "children": {}
+        }
+      },
+      "gmcrhht78jt90kdd": {
+        "_id": "gmcrhht78jt90kdd",
+        "name": "class.incarnadine.equipment.hooked_blade",
+        "type": "equipment",
+        "system": {
+          "type": "kill",
+          "die_size": "d6",
+          "group": "group_2",
+          "children": {}
+        }
+      },
       "milwdgfjz1u6ohwn": {
         "_id": "milwdgfjz1u6ohwn",
         "name": "class.incarnadine.equipment.hooked_blade",
@@ -501,7 +523,7 @@
         "system": {
           "type": "kill",
           "die_size": "d6",
-          "group": "core",
+          "group": "group_3",
           "children": {}
         }
       },
@@ -600,14 +622,13 @@
     "core_skill": "compel",
     "core_domain": "haven",
     "equipment_groups": [
-      "core",
       "group_1",
       "group_2",
       "group_3"
     ],
     "active_equipment_group": "",
     "active_equipment_groups": [
-      "core"
+      "group_1"
     ]
   },
   "effects": [],
