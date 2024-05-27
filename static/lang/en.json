@@ -206,6 +206,38 @@
             "mend": "Mend",
             "sneak": "Sneak"
         },
+        "ancestry": {
+            "multiple": "Ancestries",
+            "single": "Ancestry",
+            "drow": {
+                "name": "Drow",
+                "description": "Monochromatic elves with a strong sensitivity to sunlight. The lands surrounding the Heart are predominantly populated by dark elves, including the towering city of Spire (where they are subjugated by the aelfir) and the rolling desert caravan city of Aliquam. Drow live to around a hundred years of age, but the cruel conditions of Spire means that few of them reach 50. Drow do not give birth to viable young – instead, they lay fist-sized fleshy eggs that must be tended to for months until they develop into an infant. Drow regularly find their way into the Heart, either actively fleeing Spire or trying to find someone or something to call their own in the depths. Some are pilgrims tracing fragmented maps to find the Moon Beneath, tired of the state-mandated religions in Spire. The Drow of Spire predominantly worship Our Glorious Lady, a facet of their on ce-tripartite moon goddess; venerating the other two facets is forbidden. This religion focuses on six primary virtues, and it is considered good and proper for a drow to live their life in accordance with them: Community, Sagacity, Fury, Grace, Tenacity and Vigilance.",
+                "question.0": "You were born in the City Above and served a durance – four years of indentured servitude – under the rule of the cruel aelfir. What were you forced to do?",
+                "question.1": "You were born in the City Beneath. Where does your family live, and who or what do they worship?",
+                "question.2": "You're a traveller from a distant land – the desert of Aliquam, the treacherous foothills of Nujab or the warrenous Home Nations. Where are you from, and why aren't you there anymore?"
+            },
+            "human": {
+                "name": "Human",
+                "description": "In this part of the world, humans have a reputation for digging into the ground to uncover ancient relics, and it’s not entirely inaccurate. They have emerged from their scattered island nations in the Eastern Kingdoms bearing retro-engineered technology, and are eager to sell it to the highest bidder. Humans live brief but bright lives in the eyes of the elves, passing away at 60 or so, often from illness or injury. The discovery of spireblack processing and the resulting rise in arms manufacture is almost entirely their doing. They have become prominent enough to gain a seat at the Council that rules the City Above through their shrewd politics, the vast sums gained from their discoveries and the way that they will do anything if the price is right.",
+                "question.0": "You are from the Eastern Kingdoms. You came to Spire with nothing but the clothes on your back and a dream, looking for excitement and profit. What went wrong?",
+                "question.1": "You were kicked out of a retro-engineering or magical college thanks to your unorthodox beliefs and practices. What did you do?",
+                "question.2": "You're third-generation Heartborn, and not at all like the humans on the surface. What incorrect assumption do people most often make about you?"
+            },
+            "aelfir": {
+                "name": "Aelfir",
+                "description": "Aelfir benefit from massive privilege; they rule the City Above and lead lives of bizarre luxury in their frozen palace of Amaranth. Some turn away from a life of power to seek meaning in the lawless city below, while others pursue the dark secrets whispered about in perfumed boudoirs. They are tall, impossibly graceful and can sustain their lives supposedly indefinitely with curious rituals and surgeries. Aelfir in the City Above wear masks to hide their faces from their inferiors; in the City Beneath, only traditionalists wear them. In the City Above, their rule is cruel and capricious; it is self-serving and deleterious to those around them. When adventuring into the City Below, most aelfir know that they lost any authority as soon as they passed through Derelictus. Many have adjusted to their new place in life. It's foolish not to; the Heart treats everyone equally.",
+                "question.0": "You still wear your mask. What does it look like, and why do you wear it?",
+                "question.1": "Your family name was ruined due to a cataclysmic social faux pas. What did they do?",
+                "question.2": "You still cling to one luxury that keeps you centred – a habit, a style of clothing, a drug, etc. What is it?"
+            },
+            "gnoll": {
+                "name": "Gnoll",
+                "description": "Hyena-headed people from the south with fur that covers their bodies. The gnolls are at war with the aelfir, and are forbidden from entering the city of Spire; many have gone into hiding in the City Beneath. The gnollish empire (and its capital city Al’Marah) is founded on their advanced demonological and mechanical abilities; there are tales of djinn being bound into brass spheres to power uncanny devices. In the confines of the Heart, where the gaps between realities are thin, they can achieve unthought-of results in mechanoccultism – and great machines from ages past thrum and whirr in the hidden depths, just waiting to be found. Gnolls have a reputation for being angry, bestial warriors – but a lot of this is propaganda on the part of the aelfir, and they’re no more warlike than any other people. Some gnolls try to use their public image to their advantage and cultivate fearsome visages, but the majority are keen to be left to their own devices.",
+                "question.0": "You travelled to the Heart in search of something specific. Were you part of a team, or were you on your own – and did you find what you were looking for?",
+                "question.1": "You fled Spire – you were an escaped prisoner of war, a refugee or an agent on a clandestine mission. What do you miss most about the surface world?",
+                "question.2": "You were born down here. What image do you project to impress, surprise or intimidate people?"
+            }
+        },
         "calling": {
             "multiple": "Callings",
             "single": "Calling",
@@ -305,7 +337,7 @@
                     },
                     "zenith": {
                         "find-final-secret-solve-impossible-task": "Find the final secret you have so desperately sought and use it to solve your impossible task.",
-                        "find-final-secret-destroy-it": "Find the final secret you have so desperately sought and destroy it so noone else can know of it."
+                        "find-final-secret-destroy-it": "Find the final secret you have so desperately sought and destroy it so no one else can know of it."
                     }
                 },
                 "ability.core": {
@@ -625,7 +657,7 @@
                         "walking_reliquary.name": "Walking Reliquary",
                         "esoteric_cartographer.description": "Choose two additional heavens that you have access to whilst in the Grey.",
                         "esoteric_cartographer.name": "Esoteric Cartographer",
-                        "step_between.description": "You can leave a Heaven and arrive at a completely different landmark than the one you started at.Your exit point must be within the same tier, and it must share a domain with the Heaven that you just visited. If you've never visited the landmark before, undertaking the delve is Risky.",
+                        "step_between.description": "You can leave a Heaven and arrive at a completely different landmark than the one you started at. Your exit point must be within the same tier, and it must share a domain with the Heaven that you just visited. If you've never visited the landmark before, undertaking the delve is Risky.",
                         "step_between.name": "Step Between",
                         "all_doors_as_one.description": "When you use <b>STEP BETWEEN</b>, your destination point can be one tier above or below your current tier.",
                         "all_doors_as_one.name": "All Doors As One",
@@ -862,13 +894,13 @@
                         "oath_of_tenacity.name": "Oath Of Tenacity",
                         "oath_of_tenacity.description": "<i>She laid a kiss of stars and secrets upon your forehead, and you are infused with her tremendous determination.</i> When you succeed at a Risky action, increase the size of the stress dice you inflict by 1 step. When you succeed at a Dangerous action, increase the size of the stress dice you inflict by 2 steps. You can choose to make an action Risky or Dangerous, even if it's Standard, to gain access to this benefit.",
                         "rite_of_vigilance.name": "Rite Of Vigilance",
-                        "rite_of_vigilance.description": "<i>You look upon the world through the six sacred eyes of the Goddess and see beyond the realm of flesh and stone.</i> When you attune your mind to the glory of the Moon Beneath, roll <b>Discern+Religion</b>. On a success, when you close your eyes, you can see the souls of creatures around you in your immediate area.These are visible regardless of physical obstructions."
+                        "rite_of_vigilance.description": "<i>You look upon the world through the six sacred eyes of the Goddess and see beyond the realm of flesh and stone.</i> When you attune your mind to the glory of the Moon Beneath, roll <b>Discern+Religion</b>. On a success, when you close your eyes, you can see the souls of creatures around you in your immediate area. These are visible regardless of physical obstructions."
                     },
                     "zenith": {
                         "ascension.name": "Ascension",
                         "ascension.description": "<i>You transcend the need for mortal flesh.</i> The Goddess appears before you in her trifold majesty: a scintillating blaze of divinity, silver-crimson and midnight black. She blesses you, and your frail mortal anatomy becomes a conduit for her eternal flesh. You take on an angelic form.</p><p>The descriptions of angels of the Moon Beneath are varied, but multiple heads, six or more wings, mighty voices raised in exaltation and an abundance of eyes are common themes. In your new form, your many hyperdimensional claws and appendages inflict D10 damage and possess the Piercing tag. You roll 6D10 when striking at those who would threaten the faithful or desecrate sacred ground, and all other actions automatically fail.</p><p>At the end of the situation, you are transfused into ossified bone-crystal, your radiance added to her incomprehensible refulgence, and retired as a player character.</p>",
                         "glory.name": "Glory",
-                        "glory.description": "<i>You come face to face with the goddess herself, and the radiance reflected in your eyes is too much for people to behold.</i> You keep your face covered. When you uncover it, all those who can see you are stunned and awed, unable to look upon you without falling to their knees.&nbsp; hose who remain in your presence miraculously remove one Minor Blood or Mind fallout result, or downgrade a Major to a Minor after about an hour; most NPCs will convert to your faith on the spot.</p><p>In the City Above, a team of aelfir hunters working for the Solar Church are mobilised and dispatched to kill you. They will find and eliminate you, and you will die.</p>",
+                        "glory.description": "<i>You come face to face with the goddess herself, and the radiance reflected in your eyes is too much for people to behold.</i> You keep your face covered. When you uncover it, all those who can see you are stunned and awed, unable to look upon you without falling to their knees. Those who remain in your presence miraculously remove one Minor Blood or Mind fallout result, or downgrade a Major to a Minor after about an hour; most NPCs will convert to your faith on the spot.</p><p>In the City Above, a team of aelfir hunters working for the Solar Church are mobilised and dispatched to kill you. They will find and eliminate you, and you will die.</p>",
                         "testament_of_faith.name": "Testament of Faith",
                         "testament_of_faith.description": "<i>You become a beacon of hope for those struck by fear or desperation.</i> To activate this ability, die a martyr's death. The ground on which you died (or where you're buried, whichever is more dramatically appropriate) becomes holy to the church of the Moon Beneath. Over the next few months, pilgrims will visit the site and erect a suitable shrine. For the remainder of the campaign, and at the GM's discretion any future campaigns, the shrine functions as a landmark with some appropriate haunts. Once per campaign, when the surviving player characters visit it, they can beseech your spirit to answer a question. You will deliver valuable wisdom."
                     }
@@ -956,7 +988,7 @@
                         "forewarned_and_forearmed.name": "Forewarned And Forearmed",
                         "forewarned_and_forearmed.description": "<i>Never get into a fight you can't win.</i> Once per session, when you have an hour or two to spare in a landmark, you can make preparations for the coming challenges. Pick one of the benefits from the list below. You and all other characters who choose to take part in preparations gain this benefit until they next enter a landmark:<ul><li><b><i>Whetstone and Weapon Drill:</i></b> One piece of Kill equipment gains the Brutal tag.</li><li><b><i>Checked and Triple-Checked:</i></b> One piece of Delve equipment gains the Trusty tag.</li><li><b><i>Toughen Up:</i></b> Gain +1 Blood protection.</li><li><b><i>One for the Road:</i></b> Gain +1 Mind protection.</li><li><b><i>Creative Acquisitions:</i></b> Gain +1 Supplies protection.</li></ul>",
                         "stare_down.name": "Stare Down",
-                        "stare_down.description": "<i>You have a reputation as a terrifying enforcer; just looking at some folk is enough to get them to throw down their weapons.</i> Your gaze functions as a weapon (Kill D6, ranged).It only works when your target can see you and if they have the capacity to be scared of you – so criminals are fair game, but heartsblood predators aren't. You can use this \"weapon\" in a haven or other landmark without causing a huge ruckus. Your gaze won't kill people – it's disheartening, and if you reduce an opponent's resistance to 0 with it they surrender, try to bargain their way out or trip and incapacitate themselves whilst fleeing.",
+                        "stare_down.description": "<i>You have a reputation as a terrifying enforcer; just looking at some folk is enough to get them to throw down their weapons.</i> Your gaze functions as a weapon (Kill D6, ranged). It only works when your target can see you and if they have the capacity to be scared of you – so criminals are fair game, but heartsblood predators aren't. You can use this \"weapon\" in a haven or other landmark without causing a huge ruckus. Your gaze won't kill people – it's disheartening, and if you reduce an opponent's resistance to 0 with it they surrender, try to bargain their way out or trip and incapacitate themselves whilst fleeing.",
                         "trench_fighter.name": "Trench-Fighter",
                         "trench_fighter.description": "<i>Your mind is scarred with mud, gore and screams from a century before your birth.</i> When you attack at close range, your attacks gain the Piercing tag, even if you're unarmed.",
                         "unstoppable.name": "Unstoppable",
@@ -1174,7 +1206,7 @@
                         "greed_of_the_red_king.name": "Greed Of The Red King",
                         "greed_of_the_red_king.description": "<i>The Red King's one desire is wealth; he was so devoted to the pursuit of gold that he dreamed himself a reality of infinite splendour.</i> Roll <b>Discern+Occult</b> to cast the spell. On a success, you determine what a target you can see wants most of all right now. In addition, you can smell money, or anything of particular value.",
                         "kiss_of_the_drowned_queen.name": "Kiss Of The Drowned Queen",
-                        "kiss_of_the_drowned_queen.description": "<i>You have glimpsed the sunken Court of the Drowned Queen, where she slumbers and awaits the resurgence of her line.</i> With a touch, you can conjure salt water in the lungs of those who oppose you. This spell functions as the following weapon: (Kill D6, Piercing.) If the target is at least shin-deep in water, it inflicts D8 damage.",
+                        "kiss_of_the_drowned_queen.description": "<i>You have glimpsed the sunken Court of the Drowned Queen, where she slumbers and awaits the resurgence of her line.</i> With a touch, you can conjure salt water in the lungs of those who oppose you. This spell functions as the following weapon: (Kill D6, Piercing). If the target is at least shin-deep in water, it inflicts D8 damage.",
                         "sanctum_of_the_stone_chorus.name": "Sanctum Of The Stone Chorus",
                         "sanctum_of_the_stone_chorus.description": "<i>They claim, in a hundred voices like the scraping of tectonic plates, that they are the Old Gods, imprisoned in the Heart by upstart deities.</i> Roll <b>Discern+Religion</b> to cast this spell. On a success, you find (or spontaneously create) a path to one of the parasitic temples of the Old Gods, which sucks existence from the world like ticks. When you meditate here, remove D6 stress from Echo; your allies may use the temple in the same way. You may not open more than one path to a temple at any one time. After an hour or so, the path will seal shut – but not without warning, so you'll have time to leave."
                     },
@@ -1414,7 +1446,7 @@
                     "spitting_teeth.name": "Spitting Teeth",
                     "spitting_teeth.description": "Any action that requires you to speak or look respectable is Risky. [Ongoing]",
                     "tired.name": "Tired",
-                    "tired.description": "You're weary; you're going to make bad decisions and snap at your friends.You cannot gain extra dice from skills. [Ongoing]",
+                    "tired.description": "You're weary; you're going to make bad decisions and snap at your friends. You cannot gain extra dice from skills. [Ongoing]",
                     "winded.name": "Winded",
                     "winded.description": "When you attack with melee weapons, decrease stress inflicted by one dice size. [Ongoing]"
                 },
@@ -1428,7 +1460,7 @@
                     "fascination.name": "Fascination",
                     "fascination.description": "You become obsessed with a strange topic usually whatever caused the fallout. You must try and learn more about it, first hand if possible. Whenever you attempt to learn more about your weird fascination, roll with mastery. If you have the opportunity to learn about it and you refuse, mark D4 stress to Mind. [Ongoing]",
                     "figment.name": "Figment",
-                    "figment.description": "You lose track of what's real and what's not. The GM picks a Minor fallout from a different resistance and tells you have it.Until this fallout is removed, you're convinced you're suffering from the fallout (no matter what others tell you) and suffer from all appropriate effects. (GM: it is up to you whether you inform the player that this is a delusion or not.) [Ongoing]",
+                    "figment.description": "You lose track of what's real and what's not. The GM picks a Minor fallout from a different resistance and tells you have it. Until this fallout is removed, you're convinced you're suffering from the fallout (no matter what others tell you) and suffer from all appropriate effects. (GM: it is up to you whether you inform the player that this is a delusion or not). [Ongoing]",
                     "shaken.name": "Shaken",
                     "shaken.description": "You panic and fall back on your primitive impulses. The GM chooses one: Fight (attack the problem in an attempt to destroy it), Flight (get away from the problem by any means necessary) or Freeze (do not act, putting yourself in danger). At the end of the situation, remove this fallout. [Immediate]",
                     "take_the_edge_off.name": "Take The Edge Off",
@@ -1448,7 +1480,7 @@
                     "aetheric_scourge.name": "Aetheric Scourge",
                     "aetheric_scourge.description": "Mark D6 stress to cast this spell. A nearby target takes D6 stress as raw magic boils out of you and into them, burning their skin and hair.",
                     "exodus.name": "Exodus",
-                    "exodus.description": "You retch up a handful of writhing creatures: pallid fat moths, translucent grubs, spiders with the wrong number of legs, throbbing parasites and so on.Anyone who sees this and isn't ready for it marks D4 stress to Mind. [Immediate]",
+                    "exodus.description": "You retch up a handful of writhing creatures: pallid fat moths, translucent grubs, spiders with the wrong number of legs, throbbing parasites and so on. Anyone who sees this and isn't ready for it marks D4 stress to Mind. [Immediate]",
                     "follower.name": "Follower",
                     "follower.description": "Someone, or something, believes you are very important: chosen of the Heart and worth following. A weird-looking but essentially harmless creature or person follows you at a distance; they won't approach you, but they'll be keen to sift through your rubbish or attempt to hurt anyone who looks like they might want to get in your way. [Ongoing]",
                     "glitch.name": "Glitch",
@@ -1530,7 +1562,7 @@
                     "memory_holes.name": "Memory Holes",
                     "memory_holes.description": "You did things that you can't quite recall. While you step outside, or during downtime, all the other players work with the GM to determine what you did that you blocked from your mind. These are generally pretty awful things. They can have happened up to a year ago in game time, or immediately upon suffering fallout. Your character has zero memory of the events, but everyone else involved knows what happened. [Immediate]",
                     "phantasm.name": "Phantasm",
-                    "phantasm.description": "You lose track of what’s real and what’s not. The GM picks a Major fallout from a different resistance and tells you have it. Until this fallout is removed, you’re convinced you’re suffering from the fallout (no matter what others tell you) and suffer from all appropriate effects. GM: it is up to you whether you inform the player that this is a delusion or not.) [Ongoing]",
+                    "phantasm.description": "You lose track of what’s real and what’s not. The GM picks a Major fallout from a different resistance and tells you have it. Until this fallout is removed, you’re convinced you’re suffering from the fallout (no matter what others tell you) and suffer from all appropriate effects. GM: it is up to you whether you inform the player that this is a delusion or not). [Ongoing]",
                     "scarred.name": "Scarred",
                     "scarred.description": "(See <b>SHAKEN</b> above.) Your mind cracks and reforms in primal, instinctive patterns. This functions as <b>SHAKEN</b>. In addition, every time you encounter the source of the fallout from now on, the GM can ask you to make an <b>Endure</b> check or suffer D8 stress to Mind. [Ongoing]",
                     "unsettling.name": "Unsettling",
@@ -1554,7 +1586,7 @@
                     "the_ravening_beast.name": "The Ravening Beast",
                     "the_ravening_beast.description": "Emerging from a patch of shadows, the Ravening Beast that has been hiding in your mind appears. It will attempt to maul others, but its primary motivation is to consume you utterly. Fighting off the beast does not remove this fallout, but it has no further effect unless you upgrade this fallout (see <b>THE RAVENING</b>). [Immediate]",
                     "reconfigured_physiology.name": "Reconfigured Physiology",
-                    "reconfigured_physiology.description": "Your organs and bones don't make sense any more. You can no longer remove stress from Blood, or remove Blood fallout at haunts or through the use of medical kits.This shows itself in some outward fashion – unusual growths bulging under your skin, words appearing as bruises, black blood and so on. [Ongoing]",
+                    "reconfigured_physiology.description": "Your organs and bones don't make sense any more. You can no longer remove stress from Blood, or remove Blood fallout at haunts or through the use of medical kits. This shows itself in some outward fashion – unusual growths bulging under your skin, words appearing as bruises, black blood and so on. [Ongoing]",
                     "vanished.name": "Vanished",
                     "vanished.description": "The next landmark you reach isn't there; you find something else instead. Presumably the landmark is somewhere, assuming it hasn't been entirely swallowed up by the Heart. [Immediate]"
                 },
@@ -1586,7 +1618,7 @@
                     "in_the_dark.name": "In The Dark",
                     "in_the_dark.description": "Your torch sputters out, and you can't re-light it. All <b>Delve</b> or <b>Discern</b> checks you make become Risky. Also, someone or something takes the opportunity to strike while you're vulnerable. Until you can get some light, the fight is Dangerous. Once things calm down, another party member can remove this fallout by marking D6 stress to Supplies. [Immediate, Ongoing]",
                     "lost_property.name": "Lost Property",
-                    "lost_property.description": "You have misplaced an item; the GM picks which.You could spend time searching for it, but you'll need to back-track – and someone might have made off with it already. [Immediate]",
+                    "lost_property.description": "You have misplaced an item; the GM picks which. You could spend time searching for it, but you'll need to back-track – and someone might have made off with it already. [Immediate]",
                     "no_rations.name": "No Rations",
                     "no_rations.description": "You're out of food. When you remove stress, roll two dice and pick the lowest of the two. Also, all actions you make become Risky due to shaking hands and low blood sugar. Another party member can remove this fallout by marking D8 stress to Supplies. [Ongoing]",
                     "services_rendered.name": "Services Rendered",
@@ -1674,7 +1706,7 @@
             "debilitating.name": "Debilitating",
             "debilitating.description": "Once per situation, when you inflict stress with this item to one or more targets, the next attack made against them is rolled with mastery.",
             "degenerating.name": "Degenerating",
-            "degenerating.description": "If you take damage from a weapon with this tag, roll <b>Endure+[Domain]</b> at the end of the situation.On a failure, mark D6 stress; on a partial success, mark D4 stress; on a success, mark none.",
+            "degenerating.description": "If you take damage from a weapon with this tag, roll <b>Endure+[Domain]</b> at the end of the situation. On a failure, mark D6 stress; on a partial success, mark D4 stress; on a success, mark none.",
             "deteriorating.name": "Deteriorating",
             "deteriorating.description": "The resource is breaking down, rotting or rusting and you'll need to get it to a new owner quickly.",
             "distressing.name": "Distressing",
@@ -1720,7 +1752,7 @@
             "tiring.name": "Tiring",
             "tiring.description": "When you fail an action using this equipment, the size of its stress dice decreases by 1 for the remainder of the situation.",
             "trusty.name": "Trusty",
-            "trusty.description": "When you roll for stress marked against a delve while using this item, roll two dice and pick the highest.Multiple instances of this tag stack as per the Brutal tag.",
+            "trusty.description": "When you roll for stress marked against a delve while using this item, roll two dice and pick the highest. Multiple instances of this tag stack as per the Brutal tag.",
             "unreliable.name": "Unreliable",
             "unreliable.description": "When you fail an action using this equipment, it cannot be used for the remainder of the situation if in a landmark or for the remainder of the journey if on a delve.",
             "volatile.name": "Volatile",
