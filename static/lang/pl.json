@@ -214,28 +214,28 @@
                 "description": "Monochromatic elves with a strong sensitivity to sunlight. The lands surrounding the Heart are predominantly populated by dark elves, including the towering city of Spire (where they are subjugated by the aelfir) and the rolling desert caravan city of Aliquam. Drow live to around a hundred years of age, but the cruel conditions of Spire means that few of them reach 50. Drow do not give birth to viable young – instead, they lay fist-sized fleshy eggs that must be tended to for months until they develop into an infant. Drow regularly find their way into the Heart, either actively fleeing Spire or trying to find someone or something to call their own in the depths. Some are pilgrims tracing fragmented maps to find the Moon Beneath, tired of the state-mandated religions in Spire. The Drow of Spire predominantly worship Our Glorious Lady, a facet of their on ce-tripartite moon goddess; venerating the other two facets is forbidden. This religion focuses on six primary virtues, and it is considered good and proper for a drow to live their life in accordance with them: Community, Sagacity, Fury, Grace, Tenacity and Vigilance.",
                 "question.0": "Urodziłeś się w Mieście Powyżej i odsłużyłeś pańszczyznę, cztery lata przymusowej służby dla okrutnego aelfira. Do czego byłeś zmuszany?",
                 "question.1": "Urodziłeś się w Mieście Poniżej. Gdzie mieszka twoja rodzina i kogo lub co czczą?",
-                "question.2": "You're a traveller from a distant land – the desert of Aliquam, the treacherous foothills of Nujab or the warrenous Home Nations. Where are you from, and why aren't you there anymore?"
+                "question.2": "Jesteś podróżnikiem z odległej krainy: pustyni Aliquam, zdradzieckich podnóży Nujab lub Rodzinnych Krain. Skąd pochodzisz i dlaczego stamtąd wyjechałeś?"
             },
             "human": {
                 "name": "Człowiek",
                 "description": "In this part of the world, humans have a reputation for digging into the ground to uncover ancient relics, and it’s not entirely inaccurate. They have emerged from their scattered island nations in the Eastern Kingdoms bearing retro-engineered technology, and are eager to sell it to the highest bidder. Humans live brief but bright lives in the eyes of the elves, passing away at 60 or so, often from illness or injury. The discovery of spireblack processing and the resulting rise in arms manufacture is almost entirely their doing. They have become prominent enough to gain a seat at the Council that rules the City Above through their shrewd politics, the vast sums gained from their discoveries and the way that they will do anything if the price is right.",
                 "question.0": "Pochodzisz ze Wschodnich Królestw. Przybyłeś do Iglicy, mając ze sobą jedynie ubrania i marzenia, szukając wrażeń i zysku. Co poszło nie tak?",
-                "question.1": "You were kicked out of a retro-engineering or magical college thanks to your unorthodox beliefs and practices. What did you do?",
-                "question.2": "You're third-generation Heartborn, and not at all like the humans on the surface. What incorrect assumption do people most often make about you?"
+                "question.1": "Zostałeś wyrzucony ze szkoły retro-inżynieryjnej lub magicznej z powodu swoich niekonwencjonalnych przekonań i praktyk. Co zrobiłeś?",
+                "question.2": "Twoja rodzina od trzech pokoleń mieszka w Sercu, dlatego na pierwszy rzut oka w ogóle nie przypominasz ludzi z powierzchni. Jakie błędne przekonania inni mają o tobie?"
             },
             "aelfir": {
                 "name": "Aelfir",
                 "description": "Aelfir benefit from massive privilege; they rule the City Above and lead lives of bizarre luxury in their frozen palace of Amaranth. Some turn away from a life of power to seek meaning in the lawless city below, while others pursue the dark secrets whispered about in perfumed boudoirs. They are tall,impossibly graceful and can sustain their lives supposedly indefinitely with curious rituals and surgeries. Aelfir in the City Above wear masks to hide their faces from their inferiors; in the City Beneath, only traditionalists wear them. In the City Above, their rule is cruel and capricious; it is self-serving and deleterious to those aroundthem.WhenventuringintotheCityBelow, most aelfir know that they lost any authority as soon as they passed through Derelictus. Many have adjusted to their new place in life. It's foolish not to; the Heart treats everyone equally.",
                 "question.0": "Nadal nosisz swoją maskę. Jak ona wygląda i dlaczego ją nosisz?",
-                "question.1": "Your family name was ruined due to a cataclysmic social faux pas. What did they do?",
-                "question.2": "You still cling to one luxury that keeps you centred – a habit, a style of clothing, a drug, etc. What is it?"
+                "question.1": "Nazwisko twojej rodziny zostało zhańbione z powodu katastrofalnego towarzyskiego faux-pas. Co się stało?",
+                "question.2": "Wciąż trzymasz się jednej wygody, która utrzymuje cię w ryzach: nawyk, styl ubierania się, narkotyk itp. Co to jest?"
             },
             "gnoll": {
                 "name": "Gnoll",
                 "description": "Hyena-headed people from the south with fur that covers their bodies. The gnolls are at war with the aelfir, and are forbidden from entering the city of Spire; many have gone into hiding in the City Beneath. The gnollish empire (and its capital city Al’Marah) is founded on their advanced demonological and mechanical abilities; there are tales of djinn being bound into brass spheres to power uncanny devices. In the confines of the Heart, where the gaps between realities are thin, they can achieve unthought-of results in mechanoccultism – and great machines from ages past thrum and whirr in the hidden depths, just waiting to be found. Gnolls have a reputation for being angry, bestial warriors – but a lot of this is propaganda on the part of the aelfir, and they’re no more warlike than any other people. Some gnolls try to use their public image to their advantage and cultivate fearsome visages, but the majority are keen to be left to their own devices.",
-                "question.0": "You travelled to the Heart in search of something specific. Were you part of a team, or were you on your own – and did you find what you were looking for?",
-                "question.1": "You fled Spire – you were an escaped prisoner of war, a refugee or an agent on a clandestine mission. What do you miss most about the surface world?",
-                "question.2": "You were born down here. What image do you project to impress, surprise or intimidate people?"
+                "question.0": "Udałeś się do Serca w poszukiwaniu czegoś konkretnego. Czy byłeś częścią jakiejś wyprawy, czy działałeś na własną rękę? Czy znalazłeś to, czego szukałeś?",
+                "question.1": "Uciekłeś z Iglicy, jesteś zbiegłym jeńcem wojennym, uchodźcą lub agentem wykonującym tajną misję. Za jakim elementem świata na powierzchni najbardziej tęsknisz?",
+                "question.2": "Urodziłeś się tutaj, na dole. Jaki wizerunek prezentujesz, by zaskoczyć, zastraszyć lub zaimponować ludziom?"
             }
         },
         "calling": {
@@ -691,7 +691,7 @@
                         "descent.name": "Zejście",
                         "echoes.description": "<i>Możesz dostrzec pozostałości dawnych dziejów.</i> Rzuć <b>Obserwacja+[Domena]</b>, by zobaczyć upiorną rekonstrukcję przeszłości danego miejsca. Zazwyczaj pokaże ci to najbardziej interesującą lub dramatyczną rzecz, która wydarzyła się tu w ostatnim czasie.",
                         "echoes.name": "Echa",
-                        "invidious_spectre.description": "<i>Your death has got your back – right up until it can claim you for itself.</i> Your death manifests as poltergeist activity and other supernatural phenomena that distresses and confuses your enemies. Any weapon you carry is considered to have the Conduit tag, and as such, you can mark D4 stress to Mind to roll with mastery when you attack for the remainder of the current situation.",
+                        "invidious_spectre.description": "<i>Śmierć cię wspiera, czekając na moment, gdy będzie mogła cię odebrać.</i> Twoja śmierć manifestuje się jako poltergeist i inne nadprzyrodzone zjawiska, które niepokoją i dezorientują twoich wrogów. Każda broń, którą nosisz, otrzymuje etykietę Magiczny Fokusa. Czyli możesz otrzymać D4 stresu Umysłu, by atakować z mistrzostwem przez resztę obecnej sytuacji.",
                         "invidious_spectre.name": "Niewdzięczna Zjawa",
                         "reapers_strike.description": "<i>Porzucasz obronę na rzecz pojedynczego, decydującego ciosu.</i> Kiedy atakujesz przeciwnika, przed wykonaniem rzutu możesz zdecydować się na zignorowanie ochrony Krwi na czas ataku. Jeśli to zrobisz i odniesiesz sukces lub częściowy sukces, dodaj swoją wartość ochrony Krwi do zadanego stresu.",
                         "reapers_strike.name": "Uderzenie Żniwiarza",
@@ -1359,7 +1359,7 @@
                         "red_dominion.name": "Czerwone Dominium",
                         "red_dominion.description": "<i>Krwawisz, tylko jeśli tego zapragniesz. Kiedy jesteś wściekły, twoje żyły pod skórą wyraźnie pulsują.</i> Zyskujesz +2 ochrony Krwi.",
                         "wild_witch.name": "Dzika Wiedźma",
-                        "wild_witch.description": "<i>You know the secrets of the wild things of the world, and are skilled at distilling their essences.</i> Gain the <b>Wild</b> domain. When you're in a landmark and have time to prepare, you can turn a resource with the <b>Wild</b> domain into a healing draught. When drunk, this draught removes Blood or Mind stress equal to its dice size minus one step – choose whether it's Blood or Mind when you create it.",
+                        "wild_witch.description": "<i>Znasz sekrety dzikich stworzeń tego świata i potrafisz destylować ich esencje.</i> Zyskujesz domenę <b>Dzicz</b>. Kiedy jesteś w znanym miejscu i masz czas na przygotowania, możesz zamienić zasób z domeną <b>Dzicz</b> w napój leczniczy. Po wypiciu usuwa on stres Krwi lub Umysłu równy rozmiarowi kości minus jeden stopień. Podczas tworzenia musisz wybrać, czy będzie on usuwał Krew, czy Umysł.",
                         "witch_spit.name": "Wiedźmia Ślina",
                         "witch_spit.description": "<i>Mówią, że ślina Wiedźmy może wyleczyć drobne dolegliwości, naprawić drobiazgi lub ukoić zbolałe serce.</i> Twoja zasklepia rany wylotowe. Zyskujesz umiejętność <b>Łączenie</b>. Możesz sprawić, że ślina stanie się kleista lub stwardnieje w smolistą substancję.",
                         "bypass.name": "Obejście",
@@ -1490,7 +1490,7 @@
                     "the_ravening_call.name": "Drapieżny Zew",
                     "the_ravening_call.description": "Ta Konsekwencja nie daje żadnych efektów, ale pozostaje na twojej postaci i czasami objawia się jako urywany skowyt w ich umyśle. Konsekwencja może zostać ulepszona do DRAPIEŻNA <b>BESTIA</b>. [Trwająca]",
                     "strange_appetite.name": "Dziwny Apetyt",
-                    "strange_appetite.description": "You crave unusual – taboo – things rather than good honest meat and drink: rusted metal, living creatures, vermin, effluvia, used clothing, beloved pets, etc. Next time you visit a haunt and attempt to refresh Blood or Mind stress, you must seek out this weirdness and indulge in it; otherwise you will be unable to refresh. Once you've sought out the weirdness, remove this fallout. This fallout can be upgraded into <b>DARK CRAVINGS</b>. [Ongoing]",
+                    "strange_appetite.description": "Pragniesz czegoś niezwykłego, tabu, zamiast dobrego, uczciwego mięsa i napoju: zardzewiałego metalu, żywych stworzeń, robactwa, ścieków, używanych ubrań, ukochanych zwierząt domowych itp. Następnym razem, gdy odwiedzisz miejsce odpoczynku i spróbujesz usunąć stres Krwi lub Umysłu, musisz szukać tych dziwactw i oddać się im. Jeśli tego nie zrobisz, nie będziesz w stanie usunąć stresu. Po oddaniu się dziwności usuń tę konsekwencję. Ta konsekwencja może zostać ulepszona do <b>MROCZNE PRAGNIENIA</b>. [Trwająca]",
                     "siren_song.name": "Syreni Śpiew",
                     "siren_song.description": "You cannot shake the thought of a particular place or person from your mind (the MG will pick a nearby landmark or <b>NPC</b>). If you do anything other than move towards it or remove obstacles in your path, the action becomes Risky. Once you reach it, the feeling dissipates. [Ongoing]"
                 },
@@ -1574,7 +1574,7 @@
                     "cult.name": "Kult",
                     "cult.description": "Your actions mark you as a true scion of the Heart, and weird people/creatures will trail around you, espousing your glories (whether real or imagined). This is nothing but trouble, and any attempt to take advantage of them will go wrong. Getting into a haven will be difficult with this many people around, so you'd best hope that some of them die along the way. [Ongoing]",
                     "darkcravings.name": "Mroczne Pragnienia",
-                    "darkcravings.description": "You crave unusual – taboo – things rather than good honest meat and drink: rusted metal, living creatures, vermin, effluvia, used clothing, beloved pets, etc. Next time you visit a haunt and attempt to refresh Blood or Mind stress, you must seek out this weirdness and indulge in it; otherwise you will be unable to refresh. The effect is permanent until this fallout is removed. [Ongoing]",
+                    "darkcravings.description": "Pragniesz czegoś niezwykłego, tabu, zamiast dobrego, uczciwego mięsa i napoju: zardzewiałego metalu, żywych stworzeń, robactwa, ścieków, używanych ubrań, ukochanych zwierząt domowych itp. Następnym razem, gdy odwiedzisz miejsce odpoczynku i spróbujesz usunąć stres Krwi lub Umysłu, musisz szukać tych dziwactw i oddać się im. Jeśli tego nie zrobisz, nie będziesz w stanie usunąć stresu. Efekt będzie trwały, dopóki ta konsekwencja nie zostanie usunięta. [Trwająca]",
                     "eyes.name": "Oczy",
                     "eyes.description": "Your eyes become wide black orbs; or perhaps you find more eyes blossoming on your body, growing in your sternum like a nest of spiders. You can see perfectly well in the dark, but lights dazzle and hurt you. The MG can call for an <b>Endure</b> check when you enter a well-lit area, and you take stress on a failure or partial success. [Ongoing]",
                     "the_life_not_lived.name": "Nieprzeżyte życie",
@@ -1638,7 +1638,7 @@
                     "chosen.name": "Wybraniec",
                     "chosen.description": "You pass out and awaken in a half- dream state before the Heart; you have been blessed with its power. You return to life seemingly unharmed – a miracle! But within a session or two your transformation into an Angel, a nightmare creature of blistering unreality and scintillating ribbons of wet flesh, is complete. You're not dead; but then again, you can't die. You retire as a player character. [Ongoing]",
                     "ghost.name": "Duch",
-                    "ghost.description": "You die, but your spirit doesn't rest easy. Your ghost remains in the City Beneath, angry at the manner of its death and the friends who it believes failed it – you haunt the party. Until they lay your spirit to rest (or murder it with specialised weapons), they suffer D6 Mind or Echo stress at the start of every session. [Immediate]"
+                    "ghost.description": "Umierasz, ale twój duch nie podda się tam łatwo. Pozostaje w Mieście Poniżej, wściekły z powodu swojej śmierci i przyjaciół, którzy według niego go zawiedli. Dopóki drużyna nie pogodzi się z tobą (lub nie zamordują cię specjalistyczną bronią), na początku każdej sesji będzie otrzymywać D6 stresu Umysłu lub Echa. [Natychmiastowa]"
                 },
                 "echo": {
                     "beast.name": "Bestia",
@@ -1668,7 +1668,7 @@
                     "fools_gold.name": "Złoto Głupców",
                     "fools_gold.description": "Dostajesz dokładnie to, czego chciałeś: sekrety, skruchę, wolność, cokolwiek. Wydaje się to zbyt piękne, by mogło być prawdziwe i w istocie nie jest: zostałeś oszukany lub omamiony. Wszystko okazało się ułudą. Nie możesz znieść tej porażki, stres jest zbyt duży do zniesienia. Wycofujesz się, i jedynie, na co się przydasz to jako ostrzeżenie dla innych poszukiwaczy, by nie brali rzeczy za dobrą monetę. [Natychmiastowa]",
                     "heavy_hangs_the_head.name": "Ciężka jest głowa, która nosi koronę",
-                    "heavy_hangs_the_head.description": "Despite your best efforts, you are elected leader of a haven; maybe you defend it from an attack and the people think you've got what it takes to run the place. You don't. You have the capacity to do one useful thing with the haven's resources before you're assassinated by your rivals, the haven is overrun or the fact you were a patsy all along is revealed and you're hung out to dry. [Immediate]",
+                    "heavy_hangs_the_head.description": "Mimo twoich najlepszych starań zostałeś wybrany na przywódcę schronienia: być może obroniłeś go przed atakiem, a ludzie stwierdzili, że masz to, czego potrzeba do zarządzania tego miejsca. Mylą się. Możesz zrobić jedną użyteczną rzecz z zasobami schronienia, zanim zostaniesz zamordowany przez swoich rywali, zginiesz w ataku na schronienie lub ludzie ujrzą twoją niekompetencję i opuszczą cię. [Natychmiast]",
                     "a_slow_and_insidious_killer.name": "Powolny i podstępny zabójca",
                     "a_slow_and_insidious_killer.description": "Działasz z pewnością siebie, ale twoja pycha kończy się ironiczną śmiercią. [Natychmiastowa]",
                     "wrong_place.name": "W złym miejscu i czasie",
