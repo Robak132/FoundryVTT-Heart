@@ -986,7 +986,7 @@
                         "condemn.name": "Condemn",
                         "condemn.description": "<i>You have the authority to declare someone as a wanted criminal.</i> Once per session, when you find evidence of someone's (or something's) crimes, you can publicly condemn them. When you or another Hound tracks down a condemned target, roll with mastery.",
                         "forewarned_and_forearmed.name": "Forewarned And Forearmed",
-                        "forewarned_and_forearmed.description": "<i>Never get into a fight you can't win.</i> Once per session, when you have an hour or two to spare in a landmark, you can make preparations for the coming challenges. Pick one of the benefits from the list below. You and all other characters who choose to take part in preparations gain this benefit until they next enter a landmark:<ul><li>Whetstone and Weapon Drill. One piece of <b>Kill</b> equipment gains the Brutal tag.</li><li>Checked and Triple-Checked. One piece of <b>Delve</b> equipment gains the Trusty tag.</li><li>Toughen Up. Gain +1 Blood protection.</li><li>One for the Road. Gain +1 Mind protection.</li><li>Creative Acquisitions. Gain +1 Supplies protection.</li></ul>",
+                        "forewarned_and_forearmed.description": "<i>Never get into a fight you can't win.</i> Once per session, when you have an hour or two to spare in a landmark, you can make preparations for the coming challenges. Pick one of the benefits from the list below. You and all other characters who choose to take part in preparations gain this benefit until they next enter a landmark:<ul><li><b><i>Whetstone and Weapon Drill:</i></b> One piece of Kill equipment gains the Brutal tag.</li><li><b><i>Checked and Triple-Checked:</i></b> One piece of Delve equipment gains the Trusty tag.</li><li><b><i>Toughen Up:</i></b> Gain +1 Blood protection.</li><li><b><i>One for the Road:</i></b> Gain +1 Mind protection.</li><li><b><i>Creative Acquisitions:</i></b> Gain +1 Supplies protection.</li></ul>",
                         "stare_down.name": "Stare Down",
                         "stare_down.description": "<i>You have a reputation as a terrifying enforcer; just looking at some folk is enough to get them to throw down their weapons.</i> Your gaze functions as a weapon (Kill D6, ranged).It only works when your target can see you and if they have the capacity to be scared of you – so criminals are fair game, but heartsblood predators aren't. You can use this \"weapon\" in a haven or other landmark without causing a huge ruckus. Your gaze won't kill people – it's disheartening, and if you reduce an opponent's resistance to 0 with it they surrender, try to bargain their way out or trip and incapacitate themselves whilst fleeing.",
                         "trench_fighter.name": "Trench-Fighter",
@@ -1448,7 +1448,7 @@
                     "tired.name": "Tired",
                     "tired.description": "You're weary; you're going to make bad decisions and snap at your friends.You cannot gain extra dice from skills. [Ongoing]",
                     "winded.name": "Winded",
-                    "winded.description": "When you attack with melee weapons, decrease stress inflicted by one dice size.[Ongoing]"
+                    "winded.description": "When you attack with melee weapons, decrease stress inflicted by one dice size. [Ongoing]"
                 },
                 "mind": {
                     "clouded.name": "Clouded",
@@ -1468,7 +1468,7 @@
                     "vulnerable.name": "Vulnerable",
                     "vulnerable.description": "You feel small, shaken and scared. You cannot use Mind protection. [Ongoing]",
                     "weird.name": "Weird",
-                    "weird.description": "You do something unsettling that bothers normal people – obsessive behaviour, singing to yourself,fulfilling a strange compulsion at inappropriate times. At the earliest opportunity, the GM can declare that your weirdness puts a useful NPC off you (and probably your allies, too). [Immediate,Ongoing]"
+                    "weird.description": "You do something unsettling that bothers normal people – obsessive behaviour, singing to yourself, fulfilling a strange compulsion at inappropriate times. At the earliest opportunity, the GM can declare that your weirdness puts a useful NPC off you (and probably your allies, too). [Immediate, Ongoing]"
                 },
                 "echo": {
                     "buboes.name": "Buboes",
@@ -1490,7 +1490,7 @@
                     "the_ravening_call.name": "The Ravening Call",
                     "the_ravening_call.description": "This fallout has no effect, but it stays on your character, and occasionally manifests as a broken, staccato howl in the back of their mind. Should this fallout by upgraded, see <b>THE RAVENING BEAST</b> below. [Ongoing]",
                     "strange_appetite.name": "Strange Appetite",
-                    "strange_appetite.description": "You crave unusual – taboo – things rather than good honest meat and drink: rusted metal, living creatures, vermin, effluvia, used clothing, beloved pets, etc. Next time you visit a haunt and attempt to refresh Blood or Mind stress, you must seek out this weirdness and indulge in it; otherwise you will be unable to refresh. Once you've sought out the weirdness, remove this fallout. This fallout can be upgraded into <b>DARK CRAVINGS</b>.[Ongoing]",
+                    "strange_appetite.description": "You crave unusual – taboo – things rather than good honest meat and drink: rusted metal, living creatures, vermin, effluvia, used clothing, beloved pets, etc. Next time you visit a haunt and attempt to refresh Blood or Mind stress, you must seek out this weirdness and indulge in it; otherwise you will be unable to refresh. Once you've sought out the weirdness, remove this fallout. This fallout can be upgraded into <b>DARK CRAVINGS</b>. [Ongoing]",
                     "siren_song.name": "Siren Song",
                     "siren_song.description": "You cannot shake the thought of a particular place or person from your mind (the GM will pick a nearby landmark or NPC). If you do anything other than move towards it or remove obstacles in your path, the action becomes Risky. Once you reach it, the feeling dissipates. [Ongoing]"
                 },
@@ -1530,7 +1530,7 @@
                     "out_of_ammo.name": "Out Of Ammo",
                     "out_of_ammo.description": "You run out of ammunition for a ranged or powered weapon and it can no longer be used. If another party member has a similar weapon, they can remove this fallout by marking D6 stress to their own Supplies. [Ongoing]",
                     "used_up.name": "Used Up",
-                    "used_up.description": "Your stocks are depleted of crucial items, something has spoiled or someone's stolen something vital from your bag. You cannot use any healing items you own.[Ongoing]"
+                    "used_up.description": "Your stocks are depleted of crucial items, something has spoiled or someone's stolen something vital from your bag. You cannot use any healing items you own. [Ongoing]"
                 }
             },
             "major": {
@@ -1540,23 +1540,23 @@
                     "blinded.name": "Blinded",
                     "blinded.description": "You can't see, or can see so little that you might as well be blind. It might be permanent. Any task involving vision (so, most of them) becomes Dangerous. [Ongoing]",
                     "broken_arm.name": "Broken Arm",
-                    "broken_arm.description": "Your arm breaks under the strain, and splintered bone juts up through your skin. You can't use the arm until it heals, which will make some tasks Risky or Dangerous,and others impossible. This fallout can be downgraded to or upgraded from <b>BATTERED</b>. [Ongoing]",
+                    "broken_arm.description": "Your arm breaks under the strain, and splintered bone juts up through your skin. You can't use the arm until it heals, which will make some tasks Risky or Dangerous, and others impossible. This fallout can be downgraded to or upgraded from <b>BATTERED</b>. [Ongoing]",
                     "broken_leg.name": "Broken Leg",
                     "broken_leg.description": "Your leg bones splinter and crack. Any action involving the leg (climbing, moving above a crawl) automatically fails. This fallout can be downgraded to or upgraded from <b>LIMPING</b>. [Ongoing]",
                     "critical_injury.name": "Critical Injury",
                     "critical_injury.description": "You take a hit somewhere vital. The GM picks a skill you have access to and you no longer have access to that skill. For example, a hit to your sword-arm could remove <b>Kill</b>; an eye injury could remove <b>Discern</b>; ripped tendons in your fingers could remove <b>Mend</b>. [Ongoing]",
                     "downed.name": "Downed",
-                    "downed.description": "You can't move under your own power and you're barely clinging on to consciousness. You can be moved around by others,but without medical attention, you're not going anywhere. Can be upgraded to <b>DYING</b>.[Ongoing]",
+                    "downed.description": "You can't move under your own power and you're barely clinging on to consciousness. You can be moved around by others, but without medical attention, you're not going anywhere. Can be upgraded to <b>DYING</b>. [Ongoing]",
                     "exhausted.name": "Exhausted",
-                    "exhausted.description": "You can't go on; if you push yourself any harder you're going to pass out. Stop now,or convince someone else to carry you the rest of the way. Alternatively, make one more action and then fall unconscious once the roll is resolved. [Immediate, Ongoing]"
+                    "exhausted.description": "You can't go on; if you push yourself any harder you're going to pass out. Stop now, or convince someone else to carry you the rest of the way. Alternatively, make one more action and then fall unconscious once the roll is resolved. [Immediate, Ongoing]"
                 },
                 "mind": {
                     "aetheric_resonance.name": "Aetheric Resonance",
                     "aetheric_resonance.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of blood and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. Also, you permanently learn <b>AETHERIC SCOURGE</b> and can cast it at will. [Ongoing]",
                     "addict.name": "Addict",
-                    "addict.description": "You realise that you have become reliant on drugs to keep yourself stable. When you're high (or drunk, or whatever) you take Mind stress normally,but all tasks that require extended concentration or fine manipulation become Risky.When you're not intoxicated and you suffer stress to Mind, roll twice and pick the higher dice. It takes a few minutes to get high and a few hours to sober up. [Ongoing]",
+                    "addict.description": "You realise that you have become reliant on drugs to keep yourself stable. When you're high (or drunk, or whatever) you take Mind stress normally, but all tasks that require extended concentration or fine manipulation become Risky. When you're not intoxicated and you suffer stress to Mind, roll twice and pick the higher dice. It takes a few minutes to get high and a few hours to sober up. [Ongoing]",
                     "delusion.name": "Delusion",
-                    "delusion.description": "Something you believe to be true is in fact false. While you step outside, or during downtime, all the other players work with the GM to determine what you are deluded about. For example: you're not an orphan, and you've got a family back in High Rise; there's no such group as the Hounds, and your uniform doesn't mean anything; etc. Next time you encounter the subject, reality (and the other characters) behave appropriately,leaving you confused and shaken.",
+                    "delusion.description": "Something you believe to be true is in fact false. While you step outside, or during downtime, all the other players work with the GM to determine what you are deluded about. For example: you're not an orphan, and you've got a family back in High Rise; there's no such group as the Hounds, and your uniform doesn't mean anything; etc. Next time you encounter the subject, reality (and the other characters) behave appropriately, leaving you confused and shaken.",
                     "despair.name": "Despair",
                     "despair.description": "Your mind races with the implications of what you've seen; your life before seems unreal and distant. The GM picks a domain that you have access to and you no longer have access to that domain. [Ongoing]",
                     "memory_holes.name": "Memory Holes",
@@ -1564,7 +1564,7 @@
                     "phantasm.name": "Phantasm",
                     "phantasm.description": "You lose track of what’s real and what’s not. The GM picks a Major fallout from a different resistance and tells you have it. Until this fallout is removed, you’re convinced you’re suffering from the fallout (no matter what others tell you) and suffer from all appropriate effects. GM: it is up to you whether you inform the player that this is a delusion or not.) [Ongoing]",
                     "scarred.name": "Scarred",
-                    "scarred.description": "(See <b>SHAKEN</b> above.) Your mind cracks and reforms in primal, instinctive patterns. This functions as <b>SHAKEN</b>. In addition, every time you encounter the source of the fallout from now on,the GM can ask you to make an <b>Endure</b> check or suffer D8 stress to Mind. [Ongoing]",
+                    "scarred.description": "(See <b>SHAKEN</b> above.) Your mind cracks and reforms in primal, instinctive patterns. This functions as <b>SHAKEN</b>. In addition, every time you encounter the source of the fallout from now on, the GM can ask you to make an <b>Endure</b> check or suffer D8 stress to Mind. [Ongoing]",
                     "unsettling.name": "Unsettling",
                     "unsettling.description": "(See <b>SHAKEN</b> above.) You behave in a weird manner, causing your companions discomfort. This functions as <b>SHAKEN</b>, and any friendly character who sees you perform the act takes D6 Mind stress. [Immediate]"
                 },
@@ -1572,7 +1572,7 @@
                     "blooded.name": "Blooded",
                     "blooded.description": "You show some mark of the Heart in your physical form: twisting, fragile antlers of bone, fingernails that curve in fractal-sharp patterns, bioluminescent veins, additional joints in your limbs, and so on. Your frail mortal form is not designed to be used as such a canvas; when you mark stress to Blood, roll two dice and pick the higher. [Ongoing]",
                     "cult.name": "Cult",
-                    "cult.description": "Your actions mark you as a true scion of the Heart, and weird people/creatures will trail around you, espousing your glories (whether real or imagined).This is nothing but trouble, and any attempt to take advantage of them will go wrong. Getting into a haven will be difficult with this many people around, so you'd best hope that some of them die along the way. [Ongoing]",
+                    "cult.description": "Your actions mark you as a true scion of the Heart, and weird people/creatures will trail around you, espousing your glories (whether real or imagined). This is nothing but trouble, and any attempt to take advantage of them will go wrong. Getting into a haven will be difficult with this many people around, so you'd best hope that some of them die along the way. [Ongoing]",
                     "darkcravings.name": "Dark Cravings",
                     "darkcravings.description": "You crave unusual – taboo – things rather than good honest meat and drink: rusted metal, living creatures, vermin, effluvia, used clothing, beloved pets, etc. Next time you visit a haunt and attempt to refresh Blood or Mind stress, you must seek out this weirdness and indulge in it; otherwise you will be unable to refresh. The effect is permanent until this fallout is removed. [Ongoing]",
                     "eyes.name": "Eyes",
@@ -1580,11 +1580,11 @@
                     "the_life_not_lived.name": "The Life Not Lived",
                     "the_life_not_lived.description": "Upgrades <b>DEJA VU</b>. You meet someone from your past who should, by all rights, be dead. [Immediate]",
                     "meat.name": "Meat",
-                    "meat.description": "Everyone is just meat to you: dull, worthless, soulless. Any time you enter a situation where you must talk to a mundane NPC for an extended period of time,the GM can call for an <b>Endure</b> roll; on a failure, take D6 stress. If you are intimate with a mundane NPC, take D10 stress on a failure. [Ongoing]",
+                    "meat.description": "Everyone is just meat to you: dull, worthless, soulless. Any time you enter a situation where you must talk to a mundane NPC for an extended period of time, the GM can call for an <b>Endure</b> roll; on a failure, take D6 stress. If you are intimate with a mundane NPC, take D10 stress on a failure. [Ongoing]",
                     "mirage.name": "Mirage",
-                    "mirage.description": "The next landmark you reach is a facsimile made by the Heart, arranged to give you what you want. It seems real, but the more you explore, the more obvious it is that everything – the streets, the books, the people – is fake. It's an artful copy made out of meat, bone and blood. From the looks of things, it's existed for hundreds of years. Once you realise that the landmark is fake,remove this fallout.[Immediate]",
+                    "mirage.description": "The next landmark you reach is a facsimile made by the Heart, arranged to give you what you want. It seems real, but the more you explore, the more obvious it is that everything – the streets, the books, the people – is fake. It's an artful copy made out of meat, bone and blood. From the looks of things, it's existed for hundreds of years. Once you realise that the landmark is fake, remove this fallout. [Immediate]",
                     "the_ravening_beast.name": "The Ravening Beast",
-                    "the_ravening_beast.description": "Emerging from a patch of shadows, the Ravening Beast that has been hiding in your mind appears. It will attempt to maul others, but its primary motivation is to consume you utterly. Fighting off the beast does not remove this fallout, but it has no further effect unless you upgrade this fallout (see <b>THE RAVENING</b>).[Immediate]",
+                    "the_ravening_beast.description": "Emerging from a patch of shadows, the Ravening Beast that has been hiding in your mind appears. It will attempt to maul others, but its primary motivation is to consume you utterly. Fighting off the beast does not remove this fallout, but it has no further effect unless you upgrade this fallout (see <b>THE RAVENING</b>). [Immediate]",
                     "reconfigured_physiology.name": "Reconfigured Physiology",
                     "reconfigured_physiology.description": "Your organs and bones don't make sense any more. You can no longer remove stress from Blood, or remove Blood fallout at haunts or through the use of medical kits.This shows itself in some outward fashion – unusual growths bulging under your skin, words appearing as bruises, black blood and so on. [Ongoing]",
                     "vanished.name": "Vanished",
@@ -1600,7 +1600,7 @@
                     "grievance.name": "Grievance",
                     "grievance.description": "You are marked as an enemy by a group within the Heart – a cult, a church, the Hounds, members of a particular haven, beasts, etc. They will work to foil your efforts as best they can until you clear your name or kill your way out of the problem. [Immediate, Ongoing]",
                     "hell_for_weather.name": "Hell For Weather",
-                    "hell_for_weather.description": "Your predictions were wrong and you lead the party into an actively dangerous area; or, the area you're in changes and becomes hostile; or, if the locale permits, a storm whips up.Until you reach a landmark,all actions the party take become Risky. Remove this fallout when you do.[Immediate,Ongoing]",
+                    "hell_for_weather.description": "Your predictions were wrong and you lead the party into an actively dangerous area; or, the area you're in changes and becomes hostile; or, if the locale permits, a storm whips up. Until you reach a landmark, all actions the party take become Risky. Remove this fallout when you do. [Immediate, Ongoing]",
                     "lost_map.name": "Lost Map",
                     "lost_map.description": "Your map is lost or stolen. Until you get it back or replace it, you cannot use connections – every journey is treated as unexplored territory. [Ongoing]",
                     "lost_property.name": "Lost Property",
@@ -1612,7 +1612,7 @@
                     "the_road_less_travelled.name": "The Road Less Travelled",
                     "the_road_less_travelled.description": "You pick the wrong path. The next landmark you reach isn't the one you're expecting – it's an entirely different one, and probably one you were trying to avoid. [Immediate]",
                     "unwilling_leader.name": "Unwilling Leader",
-                    "unwilling_leader.description": "You end up responsible for an unwanted group – they have problems and they look to you to solve them. Maybe you killed their boss and now you're the new boss; maybe they appeal to your sense of kindness and you foolishly give in; maybe the “group” is an orphan you have to look after. You can use the group to achieve things, but honestly, they cause more problems than they solve.[Immediate,Ongoing]"
+                    "unwilling_leader.description": "You end up responsible for an unwanted group – they have problems and they look to you to solve them. Maybe you killed their boss and now you're the new boss; maybe they appeal to your sense of kindness and you foolishly give in; maybe the “group” is an orphan you have to look after. You can use the group to achieve things, but honestly, they cause more problems than they solve. [Immediate, Ongoing]"
                 },
                 "supplies": {
                     "in_the_dark.name": "In The Dark",
@@ -1626,7 +1626,7 @@
                     "sold.name": "Sold",
                     "sold.description": "You're forced to sell off something valuable to pay your debtors. Work out with the GM what you're forced to sell. If you haven't used it since you last visited a haven, you sold it retroactively. [Immediate]",
                     "spoiled.name": "Spoiled",
-                    "spoiled.description": "A resource you are carrying is destroyed: it degrades into uselessness, is revealed to be fake, breaks in your pack or scatters on the ground. Remove it from your possessions.[Immediate]",
+                    "spoiled.description": "A resource you are carrying is destroyed: it degrades into uselessness, is revealed to be fake, breaks in your pack or scatters on the ground. Remove it from your possessions. [Immediate]",
                     "incarnadine_severed.name": "Severed",
                     "incarnadine_severed.description": "Thanks to your neglect or pure misfortune, one of your shrines to Incarne has fallen into disrepair, and the haven it's inside is no longer part of your trade network."
                 }
@@ -1666,7 +1666,7 @@
                 },
                 "fortune": {
                     "fools_gold.name": "Fool's Gold",
-                    "fools_gold.description": "You get exactly what you want – secrets, penitence, freedom, whatever. It seems too good to be true, which is apt, because it isn't: you've been tricked or deluded, and you don't have it after all. The stress is too much for you to bear,and your only worth now is as a warning to other delvers not to take things at face value. [Immediate]",
+                    "fools_gold.description": "You get exactly what you want – secrets, penitence, freedom, whatever. It seems too good to be true, which is apt, because it isn't: you've been tricked or deluded, and you don't have it after all. The stress is too much for you to bear, and your only worth now is as a warning to other delvers not to take things at face value. [Immediate]",
                     "heavy_hangs_the_head.name": "Heavy Hangs The Head",
                     "heavy_hangs_the_head.description": "Despite your best efforts, you are elected leader of a haven; maybe you defend it from an attack and the people think you've got what it takes to run the place. You don't. You have the capacity to do one useful thing with the haven's resources before you're assassinated by your rivals, the haven is overrun or the fact you were a patsy all along is revealed and you're hung out to dry. [Immediate]",
                     "a_slow_and_insidious_killer.name": "A Slow And Insidious Killer",
@@ -1680,7 +1680,7 @@
                     "pitch_black.name": "Pitch Black",
                     "pitch_black.description": "Unable to see, you are dragged away by darkling creatures, never to return. [Immediate]",
                     "plummet.name": "Plummet",
-                    "plummet.description": "Your line snaps; your hooks don't hold; your pick shears away and tumbles into a chasm. Whatever it is, you plunge into the darkness beneath and do not return.[Immediate]",
+                    "plummet.description": "Your line snaps; your hooks don't hold; your pick shears away and tumbles into a chasm. Whatever it is, you plunge into the darkness beneath and do not return. [Immediate]",
                     "starvation.name": "Starvation",
                     "starvation.description": "You starve to death or are overcome by dehydration. [Immediate]"
                 }
@@ -1748,7 +1748,7 @@
             "spread.name": "Spread",
             "spread.description": "Anyone standing near the target on a successful use must roll <b>Evade+[Domain]</b> (or another applicable skill) to avoid marking stress as well. On a partial success, downgrade the stress dice by one size. NPCs caught in a blast simply take the stress.",
             "taboo.name": "Taboo",
-            "taboo.description": "The resource isn't accepted for barter in most haunts (e.g. organs from heartsblooded people,gold teeth or certain narcotics).",
+            "taboo.description": "The resource isn't accepted for barter in most haunts (e.g. organs from heartsblooded people, gold teeth or certain narcotics).",
             "tiring.name": "Tiring",
             "tiring.description": "When you fail an action using this equipment, the size of its stress dice decreases by 1 for the remainder of the situation.",
             "trusty.name": "Trusty",
