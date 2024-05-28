@@ -1379,7 +1379,7 @@
                         "maestro.name": "Maestro",
                         "maestro.description": "Broń otrzymuje etykietę Przebijający.",
                         "as_above_so_below.name": "Jako w Niebie, tak i na Ziemi",
-                        "as_above_so_below.description": "You do not need line of sight to use <b>EXSANGUINATE</b> as long as you have a sympathetic token connected to your target (their hair, a figurine in their shape, a favoured item of theirs, etc.), but you are still limited to making an attack within the usual distance of the Range tag.",
+                        "as_above_so_below.description": "Nie potrzebujesz widzieć celu, by użyć <b>WYKRWAWIENIA</b>, o ile posiadasz przedmiot związany z celem (jego włosy, figurkę w jego kształcie, ulubiony przedmiot itp.). Nadal jednak jesteś ograniczony do zwykłej odległości etykiety Zasięgowy.",
                         "resilient.name": "Odporny",
                         "resilient.description": "Możesz otrzymać łącznie 6 stresu, zamiast 4, zanim stracisz dostęp do swojego chowańca na resztę sesji.",
                         "hungry.name": "Głód",
@@ -1566,7 +1566,7 @@
                     "scarred.name": "Blizna",
                     "scarred.description": "(See <b>SHAKEN</b> above.) Your mind cracks and reforms in primal, instinctive patterns. This functions as <b>SHAKEN</b>. In addition, every time you encounter the source of the fallout from now on, the GM can ask you to make an <b>Endure</b> check or suffer D8 stress to <b>Mind</b>. [Ongoing]",
                     "unsettling.name": "Niepokojący",
-                    "unsettling.description": "(See <b>SHAKEN</b> above.) You behave in a weird manner, causing your companions discomfort. This functions as <b>SHAKEN</b>, and any friendly character who sees you perform the act takes D6 <b>Mind</b> stress. [Immediate]"
+                    "unsettling.description": "Wpadasz w panikę i zachowujesz się w dziwny sposób, powodując dyskomfort u swoich towarzyszy. MG wybiera jeden: Walcz (zaatakuj problem, próbując go zniszczyć), Uciekaj (ucieknij od problemu wszelkimi niezbędnymi środkami) lub Zastygnij (nie rób nic, narażając się na niebezpieczeństwo). Każda przyjazna postać, która cię widzi, otrzymuje D6 stresu <b>Umysłu</b>. Usuń tę Konsekwencję na koniec sytuacji. [Natychmiastowa]"
                 },
                 "echo": {
                     "blooded.name": "Skrwawiony",
