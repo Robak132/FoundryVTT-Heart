@@ -588,7 +588,7 @@
                         "bounty_shared.name": "Bounty Shared"
                     },
                     "major": {
-                        "bloodbound_beast.description": "<i>You are accompanied by a ragged cryptid that follows your commands – an ancient stone-browed stag, a razor toothed heartsblood hound or something stranger.</i> You feed it your <b>Blood</b>, and it fights for you. You gain the Bloodbound tag on all weapons as you and your companion work in concert.",
+                        "bloodbound_beast.description": "<i>You are accompanied by a ragged cryptid that follows your commands – an ancient stone-browed stag, a razor toothed heartsblood hound or something stranger.</i> You feed it your blood, and it fights for you. You gain the Bloodbound tag on all weapons as you and your companion work in concert.",
                         "bloodbound_beast.name": "Bloodbound Beast",
                         "chimeric_strain.description": "<i>With the sound of cracking muscle and twisting tendon, your form is transmuted into something terrifying.</i> When you activate this power, mark D4 stress to <b>Echo</b>. For the remainder of the current situation, all melee attacks you make gain the Brutal and Wyrd tags.",
                         "chimeric_strain.name": "Chimeric Strain",
@@ -1586,7 +1586,7 @@
                     "the_ravening_beast.name": "The Ravening Beast",
                     "the_ravening_beast.description": "Emerging from a patch of shadows, the Ravening Beast that has been hiding in your mind appears. It will attempt to maul others, but its primary motivation is to consume you utterly. Fighting off the beast does not remove this fallout, but it has no further effect unless you upgrade this fallout (see <b>THE RAVENING</b>). [Immediate]",
                     "reconfigured_physiology.name": "Reconfigured Physiology",
-                    "reconfigured_physiology.description": "Your organs and bones don't make sense any more. You can no longer remove stress from <b>Blood</b>, or remove <b>Blood</b> fallout at haunts or through the use of medical kits. This shows itself in some outward fashion – unusual growths bulging under your skin, words appearing as bruises, black <b>Blood</b> and so on. [Ongoing]",
+                    "reconfigured_physiology.description": "Your organs and bones don't make sense any more. You can no longer remove stress from <b>Blood</b>, or remove <b>Blood</b> fallout at haunts or through the use of medical kits. This shows itself in some outward fashion – unusual growths bulging under your skin, words appearing as bruises, black blood and so on. [Ongoing]",
                     "vanished.name": "Vanished",
                     "vanished.description": "The next landmark you reach isn't there; you find something else instead. Presumably the landmark is somewhere, assuming it hasn't been entirely swallowed up by the Heart. [Immediate]"
                 },
