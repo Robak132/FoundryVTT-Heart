@@ -940,7 +940,7 @@
                         "kill_count.name": "Licznik Zabitych",
                         "kill_count.description": "<i>Twoja broń jest pokryta licznikami zabitych, świadectwami tego, co zrobiłeś, aby chronić innych.</i> Zyskujesz umiejętność <b>Zabijanie</b>. Za każdym razem, gdy zabijesz kogoś lub coś, usuń 1 stresu z dowolnej odporności.",
                         "liquid_courage.name": "Płynna Odwaga",
-                        "liquid_courage.description": "<i>Popadłeś w nałóg picia, żeby zachować zdrowy rozsądek, wierząc, że to nie alkohol jest dla ciebie największym zagrożeniem.</i> Otrzymujesz +1 Ochronę umysłu. Kiedy idziesz się napić, aby usunąć stres lub Konsekwencję <b>Umysłu</b>, traktuj wydane zasoby jako cenniejsze o jeden poziom kości.",
+                        "liquid_courage.description": "<i>Popadłeś w nałóg picia, żeby zachować zdrowy rozsądek, wierząc, że to nie alkohol jest dla ciebie największym zagrożeniem.</i> Otrzymujesz +1 ochrony <b>Umysłu</b>. Kiedy idziesz się napić, aby usunąć stres lub Konsekwencję <b>Umysłu</b>, traktuj wydane zasoby jako cenniejsze o jeden poziom kości.",
                         "marshal.name": "Szeryf",
                         "marshal.description": "<i>Dowiadujesz się, w czym leży problem i robisz wszystko, co w twojej mocy, by to naprawić. Jeśli przy okazji możesz zarobić, to jeszcze lepiej.</i> Zyskujesz umiejętność <b>Manipulacja</b>. Raz na sesję, wchodząc do znanego miejsca, możesz dowiedzieć się o niesprawiedliwości, zagrożeniu lub niebezpieczeństwie, które niepokoi jego mieszkańców. Niektórzy ludzie mogą być w stanie ci zapłacić, jeśli im pomożesz.",
                         "our_glorious_lady.name": "Nasza Chwalebna Pani",
@@ -972,7 +972,7 @@
                         "over_the_top.name": "Przeskok",
                         "over_the_top.description": "Otrzymujesz +2 ochrony <b>Krwi</b> przed atakami dystansowymi.",
                         "keep_smiling.name": "Uśmiechnij się",
-                        "keep_smiling.description": "Za pierwszym razem, gdy doświadczasz stresu związanego z Umysłem w danej sytuacji, nie rzucaj na Konsekwencje.",
+                        "keep_smiling.description": "Za pierwszym razem, gdy doświadczasz stresu <b>Umysłu</b> w danej sytuacji, nie rzucaj na Konsekwencje.",
                         "homecoming.name": "Powrót do Domu",
                         "homecoming.description": "Kiedy wracasz do miejsca z domeną <b>Schronienie</b> po wyprawie, odśwież stres zgodnie z rozmiarem i znaczeniem lokacji. Trzy szałasy z ogniskiem to D4, Derelictus to D12.",
                         "limping_onward.name": "Kulejąc",
@@ -1093,7 +1093,7 @@
                         "backstab.name": "Dźgnięcie w Plecy",
                         "backstab.description": "<i>Trzeba być głupcem, żeby ci zaufać.</i> Kiedy atakujesz jednoręczną bronią białą cel, który nie jest świadomy twojej obecności, twoje ataki zyskują etykietę Przebijający.",
                         "broker.name": "Pośrednik",
-                        "broker.description": "<i>Błagasz Incarne o pomoc.</i> Rzuć <b>Łączenie+Schronienie</b>, by rzucić to zaklęcie. Jeśli ci się powiedzie, usuń D6 stresu ze wszystkich odporności (innych niż Zapasy) jednej pobliskiej postaci innej niż ty. ",
+                        "broker.description": "<i>Błagasz Incarne o pomoc.</i> Rzuć <b>Łączenie+Schronienie</b>, by rzucić to zaklęcie. Jeśli ci się powiedzie, usuń D6 stresu ze wszystkich odporności (innych niż <b>Zapasy</b>) jednej pobliskiej postaci innej niż ty.",
                         "crave.name": "Pragnienie",
                         "crave.description": "<i>Dług to po prostu skwantyfikowane pragnienie, ty tylko eliminujesz pośrednika.</i> Rzuć <b>Manipulacja+Schronienie</b>, by wzbudzić pragnienie czegoś w umyśle BN, z którym rozmawiasz. Jeśli rzecz, której pragną, jest dla nich nietypowa, rzucenie tego zaklęcia będzie Ryzykowne. Jeśli zaklęcie się powiedzie, BN będzie teraz zaciekle pragnąć określonej przez ciebie rzeczy do końca bieżącej sytuacji.",
                         "debtors_reds.name": "Czerwień Dłużników",
@@ -1235,7 +1235,7 @@
                 "ability": {
                     "core": {
                         "vermissian_plate.name": "Vermisiańska Płyta",
-                        "vermissian_plate.description": "<i>Twój pancerz składa się z poskładanej z wielu źródeł, ledwo zrozumiałej technologii z alternatywnych rzeczywistości wewnątrz Tuneli Vermis.</i> Raz na sesję, kiedy zużywasz zasób z domeny <b>Technologia</b> lub <b>Okultyzm</b>, by ulepszyć lub naprawić swoją zbroję, rzuć kośćmi zasobu i wybierz jedną z poniższych opcji: <ul><li>Usuń stres <b>Krwi</b>, <b>Umysłu</b> lub Echu równy wyrzuconej wartości.</li><li>Zadaj stres wyprawie lub przeciwnikowi równy wyrzuconej wartości.</li><li>(zasób D8 lub lepszy) Uzyskaj dostęp do umiejętności lub domeny do końca sesji.</li><li>(zasób D8 lub lepszy) Zwiększ swoją ochronę <b>Krwi</b> o 1 do końca sytuacji.</li></ul>"
+                        "vermissian_plate.description": "<i>Twój pancerz składa się z poskładanej z wielu źródeł, ledwo zrozumiałej technologii z alternatywnych rzeczywistości wewnątrz Tuneli Vermis.</i> Raz na sesję, kiedy zużywasz zasób z domeny <b>Technologia</b> lub <b>Okultyzm</b>, by ulepszyć lub naprawić swoją zbroję, rzuć kośćmi zasobu i wybierz jedną z poniższych opcji: <ul><li>Usuń stres <b>Krwi</b>, <b>Umysłu</b> lub <b>Echa</b> równy wyrzuconej wartości.</li><li>Zadaj stres wyprawie lub przeciwnikowi równy wyrzuconej wartości.</li><li>(zasób D8 lub lepszy) Uzyskaj dostęp do umiejętności lub domeny do końca sesji.</li><li>(zasób D8 lub lepszy) Zwiększ swoją ochronę <b>Krwi</b> o 1 do końca sytuacji.</li></ul>"
                     },
                     "minor": {
                         "arcane_rebreather.name": "Tajemny Aparat Oddechowy",
@@ -1252,7 +1252,7 @@
                         "phantom_lens.description": "<i>Nosisz soczewki nasączone różnymi rodzajami krwi, ichoru i plwocin, które pozwalają ci zajrzeć w inne wymiary.</i> Zyskujesz umiejętność <b>Polowanie</b>. Gdy nosisz te soczewki, możesz wytropić wszystko, nawet jeśli nie zostawiało namacalnego śladu.",
                         "protector's_gauntlet.name": "Rękawica Obrońcy",
                         "protector's_gauntlet.description": "<i>Twoja ciężka metalowa rękawica dzierży herb twojego rodu: Galwanicznych Lordów, Wolnych Kół lub Krajoznawców.</i> Otrzymujesz +1 ochronę <b>Krwi</b> i +1 ochronę <b>Szczęścia</b>.",
-                        "sanguinary_array.name": "Krwawe Obwody",
+                        "sanguinary_array.name": "Krwawa Antena",
                         "sanguinary_array.description": "<i>Twoje niewydajne śmiertelne serce jest wzmocnione przez urządzenia, które pobierają, filtrują i odżywiają płyny ustrojowe.</i> Jednym z efektów ubocznych ich działania jest to, że twoje krew działa jak antena dla impulsów elektrycznych rozsyłanych przez Serce. Zyskujesz umiejętność <b>Obserwacja</b>. Jeśli jeden z twoich zmysłów zostanie uszkodzony lub przestanie działać, możesz zastąpić go poprzez dziwne echo, które wyczuwasz w twojej krwi. Co prawda nie jest to idealne rozwiązanie, ale powinno wystarczyć.",
                         "stalwart.name": "Dzielny",
                         "stalwart.description": "Zyskujesz +1 ochrony <b>Krwi</b>, <b>Echa</b>, <b>Zapasów</b> lub <b>Szczęścia</b>. Możesz wybrać tę zdolność więcej niż raz.",
