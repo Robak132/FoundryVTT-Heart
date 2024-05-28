@@ -1456,7 +1456,7 @@
                     "creepy.name": "Creepy",
                     "creepy.description": "You react in a strange way that weirds out your friends – tell us how. Any friendly character who sees you do it marks D4 stress to <b>Mind</b>. [Immediate]",
                     "collateral_magic.name": "Collateral Magic",
-                    "collateral_magic.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of <b>Blood</b> and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. This fallout can be upgraded to <b>AETHERIC RESONANCE</b>. [Immediate]",
+                    "collateral_magic.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of blood and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. This fallout can be upgraded to <b>AETHERIC RESONANCE</b>. [Immediate]",
                     "fascination.name": "Fascination",
                     "fascination.description": "You become obsessed with a strange topic usually whatever caused the fallout. You must try and learn more about it, first hand if possible. Whenever you attempt to learn more about your weird fascination, roll with mastery. If you have the opportunity to learn about it and you refuse, mark D4 stress to <b>Mind</b>. [Ongoing]",
                     "figment.name": "Figment",

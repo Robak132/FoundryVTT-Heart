@@ -588,7 +588,7 @@
                         "bounty_shared.name": "Wspólna Nagroda"
                     },
                     "major": {
-                        "bloodbound_beast.description": "<i>Towarzyszy ci obdarta kryptyda, która wykonuje twoje polecenia: pradawny jeleń o kamiennych brwiach, sercokrwisty ogar o zębach jak brzytwy lub coś jeszcze dziwniejszego.</i> Karmisz go swoją krwią, a on pomaga ci w walce. Zyskujesz etykietę Więź <b>Krwi</b> na każdej broni, jeśli walczysz ramię w ramię z twoim towarzyszem.",
+                        "bloodbound_beast.description": "<i>Towarzyszy ci obdarta kryptyda, która wykonuje twoje polecenia: pradawny jeleń o kamiennych brwiach, sercokrwisty ogar o zębach jak brzytwy lub coś jeszcze dziwniejszego.</i> Karmisz go swoją krwią, a on pomaga ci w walce. Zyskujesz etykietę Więź Krwi na każdej broni, jeśli walczysz ramię w ramię z twoim towarzyszem.",
                         "bloodbound_beast.name": "Bestia <b>Krwi</b>",
                         "chimeric_strain.description": "<i>Z odgłosem pękających mięśni i skręcających się ścięgien, zmieniasz się w coś przerażającego.</i> Gdy aktywujesz tę zdolność, ponieś D4 stresu <b>Echa</b>. Przez resztę obecnej sytuacji wszystkie wykonywane przez ciebie ataki wręcz zyskują etykiety Brutalny i Dziwny.",
                         "chimeric_strain.name": "Chimeryczna Odmiana",
