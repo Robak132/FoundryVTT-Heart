@@ -1475,7 +1475,7 @@
                     "buboes.description": "Your skin blisters and bubbles. When you take <b>Blood</b> stress, take an extra D4 as the boils split and burst. [Ongoing]",
                     "conduit.name": "Conduit",
                     "conduit.description": "Your best efforts to keep the unreal energies of the Heart at bay are futile: your body is a crucible for strangeness. You cannot use <b>Echo</b> protection. [Ongoing]",
-                    "dejavu.name": "Dejavu",
+                    "dejavu.name": "Déjà vu",
                     "dejavu.description": "You notice minor elements of your past life appearing in the Heart as though it is reading your mind and adapting itself to your expectations; the GM tells you what happens. [Immediate, Ongoing]",
                     "aetheric_scourge.name": "Aetheric Scourge",
                     "aetheric_scourge.description": "Mark D6 stress to cast this spell. A nearby target takes D6 stress as raw magic boils out of you and into them, burning their skin and hair.",
@@ -1564,9 +1564,9 @@
                     "phantasm.name": "Phantasm",
                     "phantasm.description": "You lose track of what’s real and what’s not. The GM picks a Major fallout from a different resistance and tells you have it. Until this fallout is removed, you’re convinced you’re suffering from the fallout (no matter what others tell you) and suffer from all appropriate effects. GM: it is up to you whether you inform the player that this is a delusion or not). [Ongoing]",
                     "scarred.name": "Scarred",
-                    "scarred.description": "(See <b>SHAKEN</b> above.) Your mind cracks and reforms in primal, instinctive patterns. This functions as <b>SHAKEN</b>. In addition, every time you encounter the source of the fallout from now on, the GM can ask you to make an <b>Endure</b> check or suffer D8 stress to <b>Mind</b>. [Ongoing]",
+                    "scarred.description": "Your mind cracks and reforms in primal, instinctive patterns. The GM chooses one: Fight (attack the problem in an attempt to destroy it), Flight (get away from the problem by any means necessary) or Freeze (do not act, putting yourself in danger). In addition, every time you encounter the source of the fallout from now on, the GM can ask you to make an <b>Endure</b> check or suffer D8 stress to <b>Mind</b>. [Ongoing]",
                     "unsettling.name": "Unsettling",
-                    "unsettling.description": "(See <b>SHAKEN</b> above.) You behave in a weird manner, causing your companions discomfort. This functions as <b>SHAKEN</b>, and any friendly character who sees you perform the act takes D6 <b>Mind</b> stress. [Immediate]"
+                    "unsettling.description": "You behave in a weird manner, causing your companions discomfort. The GM chooses one: Fight (attack the problem in an attempt to destroy it), Flight (get away from the problem by any means necessary) or Freeze (do not act, putting yourself in danger). Any friendly character who sees you perform the act takes D6 <b>Mind</b> stress. At the end of the situation, remove this fallout. [Immediate]"
                 },
                 "echo": {
                     "blooded.name": "Blooded",
