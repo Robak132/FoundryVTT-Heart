@@ -187,6 +187,33 @@ function initialise() {
         }
     }
 
+    function chatDataSetup(content, modeOverride = false, isRoll = false, {forceWhisper, alias, flavor}={}) {
+        let chatData = {
+            user: game.user.id,
+            rollMode: modeOverride || game.settings.get("core", "rollMode"),
+            content: content
+        };
+        if (isRoll)
+            chatData.sound = CONFIG.sounds.dice;
+
+        if (["gmroll", "blindroll"].includes(chatData.rollMode)) chatData["whisper"] = ChatMessage.getWhisperRecipients("GM").map(u => u.id);
+        if (chatData.rollMode === "blindroll") chatData["blind"] = true;
+        else if (chatData.rollMode === "selfroll") chatData["whisper"] = [game.user.id];
+
+        if (alias)
+            chatData.speaker = {alias};
+        if (flavor)
+            chatData.flavor = flavor;
+
+        if (forceWhisper) { // Final force !
+            chatData["speaker"] = ChatMessage.getSpeaker();
+            chatData["whisper"] = ChatMessage.getWhisperRecipients(forceWhisper);
+        }
+
+        return chatData;
+    }
+
+    window.chatDataSetup = chatDataSetup;
     window.localizeHeart = localizeHeart;
 
     Handlebars.registerHelper('localizeHeart', localizeHeart);

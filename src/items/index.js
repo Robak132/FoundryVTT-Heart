@@ -126,6 +126,28 @@ class HeartItem extends Item {
         return child;
     }
 
+    async post() {
+        let postedItem = this.toObject();
+        let chatData = duplicate(postedItem);
+
+        // Pre-translate description to avoid issues with rendering
+        chatData.system.description = localizeHeart(chatData.system.description)
+
+        renderTemplate('heart:templates/post.html', chatData).then(html => {
+            let chatOptions = chatDataSetup(html);
+
+            // Setup drag and drop data
+            chatOptions["flags.transfer"] = JSON.stringify(
+                {
+                    type: "postedItem",
+                    payload: postedItem,
+                });
+            chatOptions["flags.recreationData"] = chatData;
+            ChatMessage.create(chatOptions);
+        });
+    }
+
+
     async addChildren(datas=[]) {
         const update = {};
         datas.forEach(data => {
