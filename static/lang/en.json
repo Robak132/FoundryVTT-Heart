@@ -1000,7 +1000,7 @@
                         "fulcrum.name": "Fulcrum",
                         "fulcrum.description": "<i>Your actions have earned you the ultimate reward – your name replaces the one marked on your badge, and you are officially inducted into the 33rd.</i> You are filled with the hopes and fears of every terrified, desperate person in the Heart. Until the end of the current situation, you roll five dice and pick the highest whenever you make an action. Once the situation ends, you slope off into the depths of the Heart to fight metaphysical battles beyond the understanding of mortals.",
                         "incursion.name": "Incursion",
-                        "incursion.description": "<i>You learn a fragment of the terrible truth behind what happened to the 33rd all those years ago, and understand why they can never die.</i> At the culmination of a dark ritual, you smash your badge apart on an altar made from bones and shell casings, and summon the last moments of the 33rd to your location. Reality comes undone; the world is transformed into a twisted, burning maze of trench and razorwire, and the 33rd act out their terrified final moments on whoever they can find. The landmark you're in is destroyed, pretty much everything inside it dies and your mind is blasted into pieces as you witness the lengths they went to in order to survive.  "
+                        "incursion.description": "<i>You learn a fragment of the terrible truth behind what happened to the 33rd all those years ago, and understand why they can never die.</i> At the culmination of a dark ritual, you smash your badge apart on an altar made from bones and shell casings, and summon the last moments of the 33rd to your location. Reality comes undone; the world is transformed into a twisted, burning maze of trench and razorwire, and the 33rd act out their terrified final moments on whoever they can find. The landmark you're in is destroyed, pretty much everything inside it dies and your mind is blasted into pieces as you witness the lengths they went to in order to survive."
                     }
                 }
             },
@@ -1162,7 +1162,7 @@
                         "ecstasy.name": "Ecstasy",
                         "ecstasy.description": "When you cast <b>CURSE OF THE SKY COURT</b>, you can focus it on a single target rather than everyone nearby. This individual is overwhelmed with joy, and energised to seek more of it – they find it hard to focus on even immediate dangers. As long as you maintain your concentration on them, their difficulty is reduced to Standard.",
                         "a_moment_eternal.name": "A Moment Eternal",
-                        "a_moment_eternal.description": "<i>Roll <b>Evade+Occult</b> to cast this spell.</i> On a success, your immediate area is time-shifted. For each hour outside of the area, those in the area experience 4 hours of time passing. While intended to stretch out a perfect moment, this can make time-sensitive tasks easier to attempt. The barrier that surrounds the area is blurry and indistinct, and if anyone from outside the area intrudes, the spell is broken and time resumes to normal speed.",
+                        "a_moment_eternal.description": "Roll <b>Evade+Occult</b> to cast this spell. On a success, your immediate area is time-shifted. For each hour outside of the area, those in the area experience 4 hours of time passing. While intended to stretch out a perfect moment, this can make time-sensitive tasks easier to attempt. The barrier that surrounds the area is blurry and indistinct, and if anyone from outside the area intrudes, the spell is broken and time resumes to normal speed.",
                         "steal_the_night_away.name": "Steal The Night Away",
                         "steal_the_night_away.description": "Once per session, when you engage in reckless hedonism, refresh D6. If you spend time with someone who fascinates you during the process, refresh D8 instead. These refreshes can be spent to remove fallout as though you were making use of a haunt.",
                         "words_of_flame.name": "Words Of Flame",
@@ -1415,7 +1415,7 @@
                     },
                     "zenith": {
                         "final_form.name": "Final Form",
-                        "final_form.description": "<i>You reach down deep within yourself, inside the singing of your <b>Blood</b>, and unearth your purest state: a nightblack being of wrath and ruin.</i> Your true form was but a mere shadow of this. You have complete control over the landmark you are currently occupying (or the nearby area, if you're on a delve) and you are omniscient and omnipresent within its borders. You alone chooses who lives and dies inside. At the end of the situation after you activate this power, the area you are in is stained forever with your essence. It counts as one tier deeper than it was before and changes to become appropriately strange. You live on as an echo, a mark on the place; it becomes part of you, and you part of it.",
+                        "final_form.description": "<i>You reach down deep within yourself, inside the singing of your blood, and unearth your purest state: a nightblack being of wrath and ruin.</i> Your true form was but a mere shadow of this. You have complete control over the landmark you are currently occupying (or the nearby area, if you're on a delve) and you are omniscient and omnipresent within its borders. You alone chooses who lives and dies inside. At the end of the situation after you activate this power, the area you are in is stained forever with your essence. It counts as one tier deeper than it was before and changes to become appropriately strange. You live on as an echo, a mark on the place; it becomes part of you, and you part of it.",
                         "perfect_resurrection.name": "Perfect Resurrection",
                         "perfect_resurrection.description": "<i>The communion between flesh and fracture, between the mortal and the undying, becomes near-perfect.</i> You can make a perfect copy of someone who has died, but only once. The copy is absolutely the same as the original, right down to the soul. The copy is so good, in fact, that the person can no longer permanently die. If they sustain damage that would kill them, they appear dead, but in fact a new copy is pupating somewhere in the depths of the Heart. It will slide out wetly within a lunar month. They get no say in this, and there is no known way to turn it off short of destroying the Heart Itself. Casting this spell takes an hour or so of ritual chanting and kills you.",
                         "the_red_queen.name": "The Red Queen",
@@ -1456,7 +1456,7 @@
                     "creepy.name": "Creepy",
                     "creepy.description": "You react in a strange way that weirds out your friends – tell us how. Any friendly character who sees you do it marks D4 stress to <b>Mind</b>. [Immediate]",
                     "collateral_magic.name": "Collateral Magic",
-                    "collateral_magic.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of <b>Blood</b> and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. This fallout can be upgraded to <b>AETHERIC RESONANCE</b>. [Immediate]",
+                    "collateral_magic.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of blood and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. This fallout can be upgraded to <b>AETHERIC RESONANCE</b>. [Immediate]",
                     "fascination.name": "Fascination",
                     "fascination.description": "You become obsessed with a strange topic usually whatever caused the fallout. You must try and learn more about it, first hand if possible. Whenever you attempt to learn more about your weird fascination, roll with mastery. If you have the opportunity to learn about it and you refuse, mark D4 stress to <b>Mind</b>. [Ongoing]",
                     "figment.name": "Figment",
@@ -1475,7 +1475,7 @@
                     "buboes.description": "Your skin blisters and bubbles. When you take <b>Blood</b> stress, take an extra D4 as the boils split and burst. [Ongoing]",
                     "conduit.name": "Conduit",
                     "conduit.description": "Your best efforts to keep the unreal energies of the Heart at bay are futile: your body is a crucible for strangeness. You cannot use <b>Echo</b> protection. [Ongoing]",
-                    "dejavu.name": "Dejavu",
+                    "dejavu.name": "Déjà vu",
                     "dejavu.description": "You notice minor elements of your past life appearing in the Heart as though it is reading your mind and adapting itself to your expectations; the GM tells you what happens. [Immediate, Ongoing]",
                     "aetheric_scourge.name": "Aetheric Scourge",
                     "aetheric_scourge.description": "Mark D6 stress to cast this spell. A nearby target takes D6 stress as raw magic boils out of you and into them, burning their skin and hair.",
@@ -1552,7 +1552,7 @@
                 },
                 "mind": {
                     "aetheric_resonance.name": "Aetheric Resonance",
-                    "aetheric_resonance.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of <b>Blood</b> and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. Also, you permanently learn <b>AETHERIC SCOURGE</b> and can cast it at will. [Ongoing]",
+                    "aetheric_resonance.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of blood and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. Also, you permanently learn <b>AETHERIC SCOURGE</b> and can cast it at will. [Ongoing]",
                     "addict.name": "Addict",
                     "addict.description": "You realise that you have become reliant on drugs to keep yourself stable. When you're high (or drunk, or whatever) you take <b>Mind</b> stress normally, but all tasks that require extended concentration or fine manipulation become Risky. When you're not intoxicated and you suffer stress to <b>Mind</b>, roll twice and pick the higher dice. It takes a few minutes to get high and a few hours to sober up. [Ongoing]",
                     "delusion.name": "Delusion",
@@ -1564,9 +1564,9 @@
                     "phantasm.name": "Phantasm",
                     "phantasm.description": "You lose track of what’s real and what’s not. The GM picks a Major fallout from a different resistance and tells you have it. Until this fallout is removed, you’re convinced you’re suffering from the fallout (no matter what others tell you) and suffer from all appropriate effects. GM: it is up to you whether you inform the player that this is a delusion or not). [Ongoing]",
                     "scarred.name": "Scarred",
-                    "scarred.description": "(See <b>SHAKEN</b> above.) Your mind cracks and reforms in primal, instinctive patterns. This functions as <b>SHAKEN</b>. In addition, every time you encounter the source of the fallout from now on, the GM can ask you to make an <b>Endure</b> check or suffer D8 stress to <b>Mind</b>. [Ongoing]",
+                    "scarred.description": "Your mind cracks and reforms in primal, instinctive patterns. The GM chooses one: Fight (attack the problem in an attempt to destroy it), Flight (get away from the problem by any means necessary) or Freeze (do not act, putting yourself in danger). In addition, every time you encounter the source of the fallout from now on, the GM can ask you to make an <b>Endure</b> check or suffer D8 stress to <b>Mind</b>. [Ongoing]",
                     "unsettling.name": "Unsettling",
-                    "unsettling.description": "(See <b>SHAKEN</b> above.) You behave in a weird manner, causing your companions discomfort. This functions as <b>SHAKEN</b>, and any friendly character who sees you perform the act takes D6 <b>Mind</b> stress. [Immediate]"
+                    "unsettling.description": "You behave in a weird manner, causing your companions discomfort. The GM chooses one: Fight (attack the problem in an attempt to destroy it), Flight (get away from the problem by any means necessary) or Freeze (do not act, putting yourself in danger). Any friendly character who sees you perform the act takes D6 <b>Mind</b> stress. At the end of the situation, remove this fallout. [Immediate]"
                 },
                 "echo": {
                     "blooded.name": "Blooded",
