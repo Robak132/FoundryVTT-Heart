@@ -48,6 +48,12 @@ export default class HeartActorSheet extends HeartSheetMixin(ActorSheet) {
           this.actor.createEmbeddedDocuments('Item', [doc.toObject()]);
         });
 
+        html.find('[data-action=post]').click(async ev => {
+            const uuid = $(ev.currentTarget).closest('[data-item-id]').data('itemId');
+            const item = await fromUuid(uuid);
+            item.post();
+        });
+
         html.find('[data-action=view]').click(async ev => {
           const uuid = $(ev.currentTarget).closest('[data-item-id]').data('itemId');
           const item = await fromUuid(uuid);

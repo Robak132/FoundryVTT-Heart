@@ -53,6 +53,13 @@ export default class HeartItemSheet extends HeartSheetMixin(ItemSheet) {
             this.item.addChildren([data]);
         });
 
+        html.find('[data-item-id] [data-action=post]').click(async ev => {
+            const target = $(ev.currentTarget);
+            const uuid = target.closest('[data-item-id]').data('itemId');
+            const item = await fromUuid(uuid);
+            item.post();
+        });
+
         html.find('[data-item-id] [data-action=view]').click(async ev => {
             const target = $(ev.currentTarget);
             const uuid = target.closest('[data-item-id]').data('itemId');

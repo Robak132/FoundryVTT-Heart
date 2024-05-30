@@ -1,4 +1,3 @@
-
 import sheet_modules from './*/sheet.js';
 import proxies from './*/proxy.js';
 
@@ -21,6 +20,53 @@ class HeartActor extends Actor {
         } else {
             return super.effects;
         }
+    }
+
+    chatDataSetup(content, modeOverride=false, isRoll = false, {forceWhisper, alias, flavor}={}) {
+        let chatData = {
+            user: game.user.id,
+            rollMode: modeOverride || game.settings.get("core", "rollMode"),
+            content: content
+        };
+        if (isRoll)
+            chatData.sound = CONFIG.sounds.dice;
+
+        if (["gmroll", "blindroll"].includes(chatData.rollMode)) chatData["whisper"] = ChatMessage.getWhisperRecipients("GM").map(u => u.id);
+        if (chatData.rollMode === "blindroll") chatData["blind"] = true;
+        else if (chatData.rollMode === "selfroll") chatData["whisper"] = [game.user.id];
+
+        if (alias)
+            chatData.speaker = {alias};
+        if (flavor)
+            chatData.flavor = flavor;
+
+        if (forceWhisper) { // Final force !
+            chatData["speaker"] = ChatMessage.getSpeaker();
+            chatData["whisper"] = ChatMessage.getWhisperRecipients(forceWhisper);
+        }
+
+        return chatData;
+    }
+
+    async post() {
+        let postedItem = this.toObject();
+        let chatData = duplicate(postedItem);
+
+        // Pre-translate description to avoid issues with rendering
+        chatData.system.description = localizeHeart(chatData.system.description)
+
+        await renderTemplate('heart:templates/post.html', chatData).then(html => {
+            let chatOptions = this.chatDataSetup(html);
+
+            // Setup drag and drop data
+            chatOptions["flags.transfer"] = JSON.stringify(
+                {
+                    type: "postedItem",
+                    payload: postedItem,
+                });
+            chatOptions["flags.recreationData"] = chatData;
+            ChatMessage.create(chatOptions);
+        });
     }
 
     getEmbeddedDocument(embeddedName, embeddedId) {

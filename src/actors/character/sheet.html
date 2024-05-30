@@ -76,6 +76,7 @@
                 <div data-item-id="{{classItem.uuid}}" class="flexrow class item">
                     <div class="name">{{localizeHeart classItem.name}}</div>
                     <div class="right">
+                        <a data-action="post" title="{{localizeHeart 'post'}}"><span class="fas fa-comment"></span></a>
                         <a data-action="view" title="{{localizeHeart 'view'}}"><span class="fas fa-eye"></span></a>
                         {{#if classItem.isOwner}}
                         <a data-action="delete" title="{{localizeHeart 'delete'}}"><span class="fas fa-trash"></span></a>
@@ -90,6 +91,7 @@
                 <div data-item-id="{{callingItem.uuid}}" class="flexrow calling item">
                     <div class="name">{{localizeHeart callingItem.name}}</div>
                     <div class="right">
+                        <a data-action="post" title="{{localizeHeart 'post'}}"><span class="fas fa-comment"></span></a>
                         <a data-action="view" title="{{localizeHeart 'view'}}"><span class="fas fa-eye"></span></a>
                         {{#if callingItem.isOwner}}
                         <a data-action="delete" title="{{localizeHeart 'delete'}}"><span class="fas fa-trash"></span></a>
