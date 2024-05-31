@@ -1,0 +1,48 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "9p452bfsozptx497",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.greater_heartsblood_beast.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "w19vw3rtqohmuh8l",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!9p452bfsozptx497.w19vw3rtqohmuh8l"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.greater_heartsblood_beast.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "mn4r7sgmsoxlta8i",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!9p452bfsozptx497.mn4r7sgmsoxlta8i"
+    }
+  ],
+  "name": "actor.greater_heartsblood_beast.name",
+  "system": {
+    "names": "actor.greater_heartsblood_beast.names",
+    "description": "actor.greater_heartsblood_beast.description",
+    "descriptors": "actor.greater_heartsblood_beast.descriptors",
+    "motivation": "actor.greater_heartsblood_beast.motivation",
+    "difficulty": "actor.greater_heartsblood_beast.difficulty",
+    "resistance": "",
+    "resistanceMax": "10",
+    "protection": 2,
+    "resources": [],
+    "equipment": [],
+    "special": "",
+    "notes": "",
+    "domains": "actor.greater_heartsblood_beast.domains"
+  },
+  "flags": {},
+  "effects": [],
+  "_key": "!actors!9p452bfsozptx497"
+}

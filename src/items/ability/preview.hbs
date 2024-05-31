@@ -1,0 +1,17 @@
+
+{{#> "heart:items/base/preview.hbs" showActive=showActive}}
+    <h4>
+        {{#if showTypeInTitle}}{{localizeHeart "ability-level" item.system.type}}:{{/if}}
+        {{localizeHeart item.name}}
+    </h4>
+    <div>
+        {{{localizeHeart item.system.description}}}
+    </div>
+    <div>
+        {{#each item.proxy.abilities as |ability|}}
+            {{#if (or (not ../hideInactive) ability.system.active)}}
+            {{> "heart:items/ability/preview.hbs" document=../document item=ability showTypeInTitle=true showActivate=true}}
+            {{/if}}
+        {{/each}}
+    </div>
+{{/ "heart:items/base/preview.hbs"}}

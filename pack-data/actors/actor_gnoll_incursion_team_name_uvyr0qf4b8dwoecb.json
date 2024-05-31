@@ -1,0 +1,43 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "uvyr0qf4b8dwoecb",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.gnoll_incursion_team.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "pmbjpi4hn3qxkhkt",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!uvyr0qf4b8dwoecb.pmbjpi4hn3qxkhkt"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.gnoll_incursion_team.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "gbtyzmepgthcw81x",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!uvyr0qf4b8dwoecb.gbtyzmepgthcw81x"
+    }
+  ],
+  "name": "actor.gnoll_incursion_team.name",
+  "system": {
+    "description": "actor.gnoll_incursion_team.description",
+    "names": "actor.gnoll_incursion_team.names",
+    "descriptors": "actor.gnoll_incursion_team.descriptors",
+    "motivation": "actor.gnoll_incursion_team.motivation",
+    "difficulty": "actor.gnoll_incursion_team.difficulty",
+    "resistanceMax": 5,
+    "protection": 2,
+    "special": "",
+    "domains": "actor.gnoll_incursion_team.domains"
+  },
+  "effects": [],
+  "_key": "!actors!uvyr0qf4b8dwoecb"
+}

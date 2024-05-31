@@ -1,0 +1,43 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "dkyayq3s195jmsnd",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.carrion_pig.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "8dudd467kd6fleep",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!dkyayq3s195jmsnd.8dudd467kd6fleep"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.carrion_pig.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "zhpcf07uqnupqzit",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!dkyayq3s195jmsnd.zhpcf07uqnupqzit"
+    }
+  ],
+  "name": "actor.carrion_pig.name",
+  "system": {
+    "description": "actor.carrion_pig.description",
+    "names": "actor.carrion_pig.names",
+    "descriptors": "actor.carrion_pig.descriptors",
+    "motivation": "actor.carrion_pig.motivation",
+    "difficulty": "actor.carrion_pig.difficulty",
+    "resistanceMax": 15,
+    "protection": 5,
+    "special": "",
+    "domains": "actor.carrion_pig.domains"
+  },
+  "effects": [],
+  "_key": "!actors!dkyayq3s195jmsnd"
+}

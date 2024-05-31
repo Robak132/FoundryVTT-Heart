@@ -1,4 +1,4 @@
-import sheetHTML from './sheet.html';
+import sheetHTML from './sheet.hbs';
 
 export default function HeartSheetMixin(baseClass) {
     return class extends baseClass {

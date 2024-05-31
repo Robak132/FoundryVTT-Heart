@@ -1,0 +1,113 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "o0v3z0gu1uqxj4ef",
+  "items": [
+    {
+      "type": "resource",
+      "name": "Parasite samples",
+      "system": {
+        "die_size": "d8",
+        "description": "",
+        "children": {
+          "0aTFD8lSZcyYgfmY": {
+            "name": "tag.dangerous.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.dangerous.description",
+              "limited_uses": -1
+            },
+            "img": "icons/svg/item-bag.svg",
+            "_id": "0aTFD8lSZcyYgfmY",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.2LSFSsVUiorlh64y"
+              }
+            }
+          }
+        },
+        "active": true,
+        "complete": false,
+        "domain": "cursed"
+      },
+      "_id": "ff1gxi9d99vh0w1d",
+      "img": "systems/heart/assets/ore.svg",
+      "flags": {},
+      "effects": [],
+      "_key": "!actors.items!o0v3z0gu1uqxj4ef.ff1gxi9d99vh0w1d"
+    },
+    {
+      "type": "equipment",
+      "name": "Impaling branches",
+      "system": {
+        "die_size": "d8",
+        "description": "",
+        "active": true,
+        "children": {},
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
+      },
+      "_id": "stwg6nj4ogw9xhro",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "flags": {},
+      "effects": [],
+      "_key": "!actors.items!o0v3z0gu1uqxj4ef.stwg6nj4ogw9xhro"
+    },
+    {
+      "type": "resource",
+      "name": "Assorted equipment and bones from its kills",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "haven"
+      },
+      "img": "systems/heart/assets/ore.svg",
+      "flags": {},
+      "_id": "8XzxCjuOTkpEl7BA",
+      "effects": [],
+      "_key": "!actors.items!o0v3z0gu1uqxj4ef.8XzxCjuOTkpEl7BA"
+    },
+    {
+      "type": "resource",
+      "name": "Assorted equipment and bones from its kills",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "wild"
+      },
+      "img": "systems/heart/assets/ore.svg",
+      "flags": {},
+      "_id": "kCZ6pGjON2mDzUpc",
+      "effects": [],
+      "_key": "!actors.items!o0v3z0gu1uqxj4ef.kCZ6pGjON2mDzUpc"
+    }
+  ],
+  "name": "actor.the_blighted.name",
+  "system": {
+    "names": "actor.the_blighted.names",
+    "description": "actor.the_blighted.description",
+    "descriptors": "actor.the_blighted.descriptors",
+    "motivation": "actor.the_blighted.motivation",
+    "difficulty": "actor.the_blighted.difficulty",
+    "resistance": "",
+    "resistanceMax": "10",
+    "protection": "",
+    "resources": [],
+    "equipment": [],
+    "special": "actor.the_blighted.special",
+    "notes": "",
+    "domains": "actor.the_blighted.domains"
+  },
+  "flags": {},
+  "effects": [],
+  "_key": "!actors!o0v3z0gu1uqxj4ef"
+}

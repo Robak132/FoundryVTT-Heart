@@ -1,0 +1,97 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "hxtpdpff5e8ii49k",
+  "items": [
+    {
+      "type": "resource",
+      "name": "Almost-useless scraps of occult energy",
+      "system": {
+        "die_size": "d4",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "occult"
+      },
+      "_id": "q71n8mtzx272hpoe",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!hxtpdpff5e8ii49k.q71n8mtzx272hpoe"
+    },
+    {
+      "type": "equipment",
+      "name": "Black market black magic",
+      "system": {
+        "die_size": "d8",
+        "description": "",
+        "active": true,
+        "children": {
+          "EPrvJhX7XNNkYKwb": {
+            "name": "tag.ranged.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.ranged.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "EPrvJhX7XNNkYKwb",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.rZrU1P1jMqp2lYnu"
+              }
+            }
+          },
+          "vO3QdqDMFNQshvNl": {
+            "name": "tag.brutal.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.brutal.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "vO3QdqDMFNQshvNl",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.98t7d89d8YnsJaMm"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood",
+          "mind"
+        ],
+        "type": "kill",
+        "group": "core"
+      },
+      "_id": "vb9ooaedoecve6pr",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!hxtpdpff5e8ii49k.vb9ooaedoecve6pr"
+    }
+  ],
+  "name": "actor.burnt_out_occultist.name",
+  "system": {
+    "names": "actor.burnt_out_occultist.names",
+    "description": "actor.burnt_out_occultist.description",
+    "descriptors": "actor.burnt_out_occultist.descriptors",
+    "motivation": "actor.burnt_out_occultist.motivation",
+    "difficulty": "actor.burnt_out_occultist.difficulty",
+    "resistance": "",
+    "resistanceMax": "6",
+    "protection": 0,
+    "resources": [],
+    "equipment": [],
+    "special": "actor.burnt_out_occultist.special",
+    "notes": "",
+    "domains": "actor.burnt_out_occultist.domains"
+  },
+  "flags": {},
+  "effects": [],
+  "_key": "!actors!hxtpdpff5e8ii49k"
+}

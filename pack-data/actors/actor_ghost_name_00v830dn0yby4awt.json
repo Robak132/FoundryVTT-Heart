@@ -1,0 +1,48 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "00v830dn0yby4awt",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.ghost.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "y088o5or15byvzk3",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!00v830dn0yby4awt.y088o5or15byvzk3"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.ghost.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "i8bzbf1i3ldqyun3",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!00v830dn0yby4awt.i8bzbf1i3ldqyun3"
+    }
+  ],
+  "name": "actor.ghost.name",
+  "system": {
+    "names": "actor.ghost.names",
+    "description": "actor.ghost.description",
+    "descriptors": "actor.ghost.descriptors",
+    "motivation": "actor.ghost.motivation",
+    "difficulty": "actor.ghost.difficulty",
+    "resistance": "",
+    "resistanceMax": "5",
+    "protection": "",
+    "resources": [],
+    "equipment": [],
+    "special": "actor.ghost.special",
+    "notes": "",
+    "domains": "actor.ghost.domains"
+  },
+  "effects": [],
+  "flags": {},
+  "_key": "!actors!00v830dn0yby4awt"
+}

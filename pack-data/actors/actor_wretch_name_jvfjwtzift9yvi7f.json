@@ -1,0 +1,64 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "jvfjwtzift9yvi7f",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.wretch.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "16xbxtlnv5moijes",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!jvfjwtzift9yvi7f.16xbxtlnv5moijes"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.wretch.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "g687cviyjklk2c0x",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!jvfjwtzift9yvi7f.g687cviyjklk2c0x"
+    },
+    {
+      "type": "fallout",
+      "name": "Submerged",
+      "system": {
+        "description": "You are pulled beneath the surface of the&nbsp;filth and begin to drown; increase the dice size&nbsp;of all stress you take by 1 step. When (if) you get&nbsp;out alive, remove this fallout.",
+        "active": true,
+        "complete": false,
+        "type": "minor",
+        "resistance": "blood"
+      },
+      "_id": "Y4na8c9sDcRVVH5q",
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "flags": {},
+      "effects": [],
+      "_key": "!actors.items!jvfjwtzift9yvi7f.Y4na8c9sDcRVVH5q"
+    }
+  ],
+  "name": "actor.wretch.name",
+  "system": {
+    "names": "actor.wretch.names",
+    "description": "actor.wretch.description",
+    "descriptors": "actor.wretch.descriptors",
+    "motivation": "actor.wretch.motivation",
+    "difficulty": "",
+    "resistance": "",
+    "resistanceMax": "6",
+    "protection": "",
+    "resources": [],
+    "equipment": [],
+    "special": "",
+    "notes": "",
+    "domains": "actor.wretch.domains"
+  },
+  "flags": {},
+  "effects": [],
+  "_key": "!actors!jvfjwtzift9yvi7f"
+}

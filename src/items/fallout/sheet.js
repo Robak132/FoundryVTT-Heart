@@ -1,4 +1,4 @@
-import sheetHTML from './sheet.html';
+import sheetHTML from './sheet.hbs';
 import templateJSON from './template.json';
 
 const fallout_levels = ['minor', 'major', 'critical']

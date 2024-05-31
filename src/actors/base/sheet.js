@@ -1,5 +1,5 @@
 import './sheet.sass';
-import sheetHTML from './sheet.html';
+import sheetHTML from './sheet.hbs';
 import HeartSheetMixin from '../../common/sheet';
 
 export default class HeartActorSheet extends HeartSheetMixin(ActorSheet) {

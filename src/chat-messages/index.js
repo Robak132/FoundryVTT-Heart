@@ -155,7 +155,7 @@ class HeartChatMessage extends ChatMessage {
 
         if(this.isRollRequest) {
             const data = this.getFlag('heart', 'roll-request');
-            const content = await renderTemplate('heart:applications/prepare-roll-request/chat-message.html', data);
+            const content = await renderTemplate('heart:applications/prepare-roll-request/chat-message.hbs', data);
             html.append(content)
         }
 

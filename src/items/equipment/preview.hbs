@@ -1,0 +1,19 @@
+{{#> "heart:items/base/preview.hbs" showActivate=showActivate}}
+    <h4>{{localizeHeart item.name}}</h4>
+    <div>
+        {{localizeHeart "equipment-type" item.system.type}}
+        (<a data-action="item-roll"><span class="fas fa-dice"></span> {{item.system.die_size}}</a>
+        {{#each item.system.resistances}}
+            {{localizeHeart "resistance" this}}
+        {{/each}}
+        {{#if item.childrenTypes.tag}}
+        <span class="fas fa-tag"></span>
+        {{/if}}
+        {{#each item.childrenTypes.tag as |tag|}}
+            <a data-action="view" data-item-id="{{tag.uuid}}" title="{{localizeHeart 'view'}}">
+                {{localizeHeart tag.name}}{{#unless @last}}, {{/unless}}
+            </a>
+        {{/each}})
+    {{{localizeHeart item.system.description}}}
+    </div>
+{{/ "heart:items/base/preview.hbs"}}

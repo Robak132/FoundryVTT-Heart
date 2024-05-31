@@ -1,0 +1,44 @@
+{{#> "heart:common/sheet.hbs" documentName="item" type="haunt"}}
+
+<div class="section {{localizeHeart haunt upgradeTrack 'single'}}">
+    <h3>
+        {{localizeHeart "upgradeTrack.single"}}
+        <div class="right">
+            <a data-action="upgrade" data-type="haunt"><span class="fas fa-level-up-alt"></span>{{localizeHeart "upgrade"}}</a>
+            <a data-action="downgrade" data-type="haunt"><span class="fas fa-level-down-alt"></span>{{localizeHeart "downgrade"}}</a>
+        </div>
+    </h3>
+    <div class="red" data-target='system.upgradeTrack'>{{{ordered-checkable item.system.upgradeTrack 6}}}</div>
+</div>
+
+<div class="section {{localizeHeart haunt service 'multiple'}}" data-item-id="{{item.uuid}}">
+    <h3>
+        {{#if overrideTitle}}
+            {{overrideTitle}}
+            {{else}}
+            {{localizeHeart "service.multiple"}}
+            {{/if}}
+        <div class="right">
+            <a data-action="add-service" data-type="service"><span class="fas fa-plus"></span></a>
+        </div>
+    </h3>
+    <div class="item-list">
+        {{#each system.resistances as |service id|}}
+            <div data-id="{{id}}">
+                <a data-action="service-roll"><span class="fas fa-dice"></span></a>
+                <select name="system.resistances.{{id}}.die_size">
+                    {{selectOptions ../die_sizes selected=service.die_size}}
+                </select>
+                <select name="system.resistances.{{id}}.resistance">
+                    {{selectOptions ../resistances selected=service.resistance}}
+                </select>
+                {{#if ../user.isGM }}
+                <a class="action right" data-action="delete-service"><span class="fas fa-trash"></span></a>
+                {{/if}}
+            </div>
+        {{/each}}
+    </div>
+</div>
+
+
+{{/ "heart:common/sheet.hbs"}}

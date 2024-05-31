@@ -1,0 +1,43 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "199brblrtvwaljze",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.the_carnival.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "jbf7ny03vkxtufdj",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!199brblrtvwaljze.jbf7ny03vkxtufdj"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.the_carnival.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "kdfr21520rn6hw1h",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!199brblrtvwaljze.kdfr21520rn6hw1h"
+    }
+  ],
+  "name": "actor.the_carnival.name",
+  "system": {
+    "description": "actor.the_carnival.description",
+    "names": "actor.the_carnival.names",
+    "descriptors": "actor.the_carnival.descriptors",
+    "motivation": "actor.the_carnival.motivation",
+    "difficulty": "actor.the_carnival.difficulty",
+    "resistanceMax": 4,
+    "protection": 0,
+    "special": "actor.the_carnival.special",
+    "domains": "actor.the_carnival.domains"
+  },
+  "effects": [],
+  "_key": "!actors!199brblrtvwaljze"
+}

@@ -1,0 +1,87 @@
+{{#*inline "beatSection"}}
+<h2>
+    {{localizeHeart (join "" type "-beat") "multiple"}}
+    {{#if user.isGM }}
+    <a class="right" data-action="add-child" data-type="beat" data-data='{"type": "{{type}}"}'><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>
+    {{/if}}
+</h2>
+<div class="item-list">
+    {{#each beats as |beat|}}
+        {{> "heart:items/beat/preview.hbs" item=beat showDelete=../user.isGM}}
+    {{/each}}
+</div>
+{{/inline}}
+
+<form class="heart sheet base Item calling {{cssClass}}" autocomplete="off">
+    <h1>
+        {{#if (and editable (not item.isOwned))}}
+        <input name="name" value="{{localizeHeart item.name}}"/>
+        {{else}}
+        {{localizeHeart item.name}}
+        {{/if}}
+    </h1>
+    <div class="description">
+        {{#if (and editable (not item.isOwned))}}
+        {{editor (localizeHeart system.description) target="system.description" button=true editable=editable owner=owner}}
+        {{else}}
+        {{{localizeHeart system.description}}}
+        {{/if}}
+    </div>
+
+    <h4>
+        {{localizeHeart "questions-prompt"}}
+        {{#if user.isGM }}
+        <a class="right" data-action="add-question"><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>
+        {{/if}}
+    </h4>
+    <ul>
+    {{#each system.questions as |question id|}}
+        <li data-id="{{id}}">
+            <div class="flexrow">
+                {{#if ../item.isOwned}}
+                <div>
+                    <div class="question">{{{localizeHeart question.question}}}</div>
+                    {{#if ../editable}}
+                    {{editor question.answer target=(join "." "system.questions" id "answer") button=true editable=../editable owner=owner}}
+                    {{else}}
+                    <div>{{{localizeHeart question.answer}}}</div>
+                    {{/if}}
+                </div>
+                {{else}}
+                    {{#if ../editable}}
+                    <div class="question">
+                        {{editor (localizeHeart question.question) target=(join "." "system.questions" id "question") button=true editable=../editable owner=owner}}
+                    </div>
+                    {{else}}
+                    <div>{{{localizeHeart question.question}}}</div>
+                    {{/if}}
+                {{/if}}
+                {{#if user.isGM }}
+                <a class="action" data-action="delete-question"><span class="fas fa-trash"></span> {{localizeHeart "delete"}}</a>
+                {{/if}}
+            </div>    
+        </li>
+    {{/each}}
+    </ul>
+
+
+    <h2>
+        {{#if (eq system.abilities.length 1)}}
+            {{localizeHeart "core-ability.single"}}
+        {{else}}
+            {{localizeHeart "core-ability.multiple"}}
+        {{/if}}
+        {{#if user.isGM }}
+        <a class="right" data-action="add-child" data-type="ability" data-data='{"active": true}'><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>
+        {{/if}}
+    </h2>
+    <div class="item-list">
+        {{#each childrenTypes.ability as |ability|}}
+            {{> "heart:items/ability/preview.hbs" item=ability showActivate=true showDelete=../user.isGM}}
+        {{/each}}
+    </div>
+
+    {{> beatSection beats=minorBeats type="minor"}}
+    {{> beatSection beats=majorBeats type="major"}}
+    {{> beatSection beats=zenithBeats type="zenith"}}
+</form>

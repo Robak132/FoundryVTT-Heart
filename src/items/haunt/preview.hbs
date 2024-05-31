@@ -1,0 +1,45 @@
+{{#> "heart:items/base/preview.hbs" showActivate=true showComplete=false showDelete=true die_sizes=undefined resistances=undefined}}
+    <h4>
+        {{localizeHeart item.name}}
+    </h4>
+    <div class="section {{localizeHeart haunt upgradeTrack 'single'}}">
+        <h4>
+            {{localizeHeart "upgradeTrack.single"}}
+            <div class="right">
+                <a data-action="upgrade" data-type="haunt"><span class="fas fa-level-up-alt"></span>{{localizeHeart "upgrade"}}</a>
+                <a data-action="downgrade" data-type="haunt"><span class="fas fa-level-down-alt"></span>{{localizeHeart "downgrade"}}</a>
+            </div>
+        </h4>
+        <div class="red" data-target='system.upgradeTrack'>{{{ordered-checkable item.system.upgradeTrack 6}}}</div>
+    </div>
+    
+    <div class="section {{localizeHeart haunt service 'multiple'}}">
+        <h4>
+            {{#if overrideTitle}}
+            {{overrideTitle}}
+            {{else}}
+            {{localizeHeart "service.multiple"}}
+            {{/if}}
+            <div class="right">
+                <a data-action="add-service" data-type="service"><span class="fas fa-plus"></span></a>
+            </div>
+        </h4>
+        
+        <div class="item-list">
+            {{#each item.system.resistances as |service id|}}
+                <div data-id="{{id}}">
+                    <a data-action="service-roll"><span class="fas fa-dice"></span></a>
+                    <select name="service-selector-die">
+                        {{selectOptions ../die_sizes selected=service.die_size}}
+                    </select>
+                    <select name="service-selector-resistance">
+                        {{selectOptions ../resistances selected=service.resistance}}
+                    </select>
+                    {{#if ../showDelete}}
+                    <a class="action right" data-action="delete-service"><span class="fas fa-trash"></span></a>
+                    {{/if}}
+                </div>
+            {{/each}}
+        </div>
+    </div>
+{{/ "heart:items/base/preview.hbs"}}

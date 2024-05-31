@@ -1,0 +1,43 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "32cdxsef6y39c2mu",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.tunnel_brigands.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "46jd2gvf6lcp2277",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!32cdxsef6y39c2mu.46jd2gvf6lcp2277"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.tunnel_brigands.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "kxxsy0vdvevg9ysq",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!32cdxsef6y39c2mu.kxxsy0vdvevg9ysq"
+    }
+  ],
+  "name": "actor.tunnel_brigands.name",
+  "system": {
+    "description": "actor.tunnel_brigands.description",
+    "names": "actor.tunnel_brigands.names",
+    "descriptors": "actor.tunnel_brigands.descriptors",
+    "motivation": "actor.tunnel_brigands.motivation",
+    "difficulty": "actor.tunnel_brigands.difficulty",
+    "resistanceMax": 5,
+    "protection": 1,
+    "special": "",
+    "domains": "actor.tunnel_brigands.domains"
+  },
+  "effects": [],
+  "_key": "!actors!32cdxsef6y39c2mu"
+}

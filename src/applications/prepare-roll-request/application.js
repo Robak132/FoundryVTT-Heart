@@ -1,4 +1,4 @@
-import applicationHTML from './application.html';
+import applicationHTML from './application.hbs';
 import HeartApplication from '../base/application';
 
 export default class PrepareRollRequestApplication extends HeartApplication {

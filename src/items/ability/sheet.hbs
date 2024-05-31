@@ -1,0 +1,12 @@
+{{#> "heart:items/base/sheet.hbs" type="ability"}}
+
+<div>
+    {{#each item.proxy.abilities as |ability|}}
+        {{> "heart:items/ability/preview.hbs" document=../document item=ability}}
+    {{/each}}
+    {{#if user.isGM }}
+    <a data-action="add-child" data-type="ability" data-data='{"type": "minor", "name": "New Ability"}'><span class="fas fa-plus"></span> {{localizeHeart "add-child-ability"}}</a>
+    {{/if}}
+</div>
+
+{{/ "heart:items/base/sheet.hbs" }}

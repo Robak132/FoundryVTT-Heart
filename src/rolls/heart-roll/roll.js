@@ -1,7 +1,7 @@
 import './roll.sass';
 
-import chatTemplateHTML from './roll.html';
-import tooltipTemplateHTML from './tooltip.html';
+import chatTemplateHTML from './roll.hbs';
+import tooltipTemplateHTML from './tooltip.hbs';
 
 const difficulty_reductions = {
     standard: 0,

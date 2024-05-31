@@ -1,0 +1,79 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/art/angel.png",
+  "_id": "hbrpoig8f1cbfno6",
+  "name": "actor.angel.name",
+  "system": {
+    "names": "actor.angel.names",
+    "description": "actor.angel.description",
+    "descriptors": "actor.angel.descriptors",
+    "motivation": "actor.angel.motivation",
+    "difficulty": "actor.angel.difficulty",
+    "resistance": "",
+    "resistanceMax": "20",
+    "protection": "",
+    "resources": [],
+    "equipment": [],
+    "special": "actor.angel.special",
+    "notes": "",
+    "domains": "actor.angel.domains"
+  },
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.angel.resources.caul_name",
+      "system": {
+        "die_size": "d12",
+        "description": "actor.angel.resources.caul_description",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "occult"
+      },
+      "_id": "rkyDUvzJoqVwLwgu",
+      "img": "systems/heart/assets/ore.svg",
+      "flags": {},
+      "effects": [],
+      "_key": "!actors.items!hbrpoig8f1cbfno6.rkyDUvzJoqVwLwgu"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.angel.equipment.unmaking_hands",
+      "system": {
+        "die_size": "d10",
+        "description": "",
+        "active": true,
+        "children": {
+          "0QuKIcH05znMRtnm": {
+            "name": "tag.piercing.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.piercing.description",
+              "limited_uses": -1
+            },
+            "img": "icons/svg/item-bag.svg",
+            "_id": "0QuKIcH05znMRtnm",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.QwD6r9FqyhMmp7SJ"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
+      },
+      "_id": "7B60PUG2YkXeoXDj",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "flags": {},
+      "effects": [],
+      "_key": "!actors.items!hbrpoig8f1cbfno6.7B60PUG2YkXeoXDj"
+    }
+  ],
+  "flags": {},
+  "effects": [],
+  "_key": "!actors!hbrpoig8f1cbfno6"
+}

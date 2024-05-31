@@ -1,0 +1,43 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "brcl472rl15f4w0v",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.male_harpy.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "ugkv05sz9c3fuquh",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!brcl472rl15f4w0v.ugkv05sz9c3fuquh"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.male_harpy.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "z6a830dm7x52dnr9",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!brcl472rl15f4w0v.z6a830dm7x52dnr9"
+    }
+  ],
+  "name": "actor.male_harpy.name",
+  "system": {
+    "description": "actor.male_harpy.description",
+    "names": "actor.male_harpy.names",
+    "descriptors": "actor.male_harpy.descriptors",
+    "motivation": "actor.male_harpy.motivation",
+    "difficulty": "actor.male_harpy.difficulty",
+    "resistanceMax": 4,
+    "protection": 0,
+    "special": "",
+    "domains": "actor.male_harpy.domains"
+  },
+  "effects": [],
+  "_key": "!actors!brcl472rl15f4w0v"
+}

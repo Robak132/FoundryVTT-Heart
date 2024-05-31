@@ -1,0 +1,48 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "is25hbpkt9a90foh",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.market_serf.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "3hj5s6r044p39jym",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!is25hbpkt9a90foh.3hj5s6r044p39jym"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.market_serf.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "6ier0v6rast5j284",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!is25hbpkt9a90foh.6ier0v6rast5j284"
+    }
+  ],
+  "name": "actor.market_serf.name",
+  "system": {
+    "names": "actor.market_serf.names",
+    "description": "actor.market_serf.description",
+    "descriptors": "actor.market_serf.descriptors",
+    "motivation": "actor.market_serf.motivation",
+    "difficulty": "actor.market_serf.difficulty",
+    "resistance": "",
+    "resistanceMax": "5",
+    "protection": "",
+    "resources": [],
+    "equipment": [],
+    "special": "",
+    "notes": "",
+    "domains": "actor.market_serf.domains"
+  },
+  "effects": [],
+  "flags": {},
+  "_key": "!actors!is25hbpkt9a90foh"
+}

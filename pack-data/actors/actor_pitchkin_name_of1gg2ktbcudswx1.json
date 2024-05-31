@@ -1,0 +1,43 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "of1gg2ktbcudswx1",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.pitchkin.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "jp70lklfyp5jo3q3",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!of1gg2ktbcudswx1.jp70lklfyp5jo3q3"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.pitchkin.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "qa3s8ke2wt1q3tmy",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!of1gg2ktbcudswx1.qa3s8ke2wt1q3tmy"
+    }
+  ],
+  "name": "actor.pitchkin.name",
+  "system": {
+    "description": "actor.pitchkin.description",
+    "names": "actor.pitchkin.names",
+    "descriptors": "actor.pitchkin.descriptors",
+    "motivation": "actor.pitchkin.motivation",
+    "difficulty": "actor.pitchkin.difficulty",
+    "resistanceMax": 7,
+    "protection": 0,
+    "special": "actor.pitchkin.special",
+    "domains": "actor.pitchkin.domains"
+  },
+  "effects": [],
+  "_key": "!actors!of1gg2ktbcudswx1"
+}

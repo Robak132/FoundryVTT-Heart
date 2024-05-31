@@ -2,12 +2,15 @@
     "Actor": {
         "adversary": {
             "names": "",
+            "description": "",
             "descriptors": "",
             "motivation": "",
             "difficulty": "",
             "resistance": "",
+            "resistanceDesc": "",
             "resistanceMax": "5",
             "protection": "",
+            "protectionDesc": "",
             "resources": [],
             "equipment": [],
             "special": "",

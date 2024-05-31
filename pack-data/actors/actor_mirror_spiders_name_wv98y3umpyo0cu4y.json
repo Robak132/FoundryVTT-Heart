@@ -1,0 +1,41 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "wv98y3umpyo0cu4y",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.mirror_spiders.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "yj5ci6vg2g73aj0j",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!wv98y3umpyo0cu4y.yj5ci6vg2g73aj0j"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.mirror_spiders.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "e4qvzfv8yu58ceps",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!wv98y3umpyo0cu4y.e4qvzfv8yu58ceps"
+    }
+  ],
+  "name": "actor.mirror_spiders.name",
+  "system": {
+    "description": "actor.mirror_spiders.description",
+    "names": "actor.mirror_spiders.names",
+    "descriptors": "actor.mirror_spiders.descriptors",
+    "motivation": "actor.mirror_spiders.motivation",
+    "difficulty": "actor.mirror_spiders.difficulty",
+    "special": "",
+    "domains": "actor.mirror_spiders.domains"
+  },
+  "effects": [],
+  "_key": "!actors!wv98y3umpyo0cu4y"
+}

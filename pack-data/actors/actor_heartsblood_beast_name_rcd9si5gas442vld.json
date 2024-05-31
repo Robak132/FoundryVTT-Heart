@@ -1,0 +1,42 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "rcd9si5gas442vld",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.heartsblood_beast.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "q4hez5edjjtfph90",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!rcd9si5gas442vld.q4hez5edjjtfph90"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.heartsblood_beast.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "o7y22t1tdgnnqfkp",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!rcd9si5gas442vld.o7y22t1tdgnnqfkp"
+    }
+  ],
+  "name": "actor.heartsblood_beast.name",
+  "system": {
+    "description": "actor.heartsblood_beast.description",
+    "names": "actor.heartsblood_beast.names",
+    "descriptors": "actor.heartsblood_beast.descriptors",
+    "motivation": "actor.heartsblood_beast.motivation",
+    "difficulty": "actor.heartsblood_beast.difficulty",
+    "resistanceMax": 5,
+    "special": "",
+    "domains": "actor.heartsblood_beast.domains"
+  },
+  "effects": [],
+  "_key": "!actors!rcd9si5gas442vld"
+}

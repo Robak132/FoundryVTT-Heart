@@ -159,7 +159,7 @@ class HeartItem extends Item {
         // Pre-translate description to avoid issues with rendering
         chatData.system.description = localizeHeart(chatData.system.description)
 
-        renderTemplate('heart:templates/post.html', chatData).then(html => {
+        renderTemplate('heart:templates/post.hbs', chatData).then(html => {
             let chatOptions = this.chatDataSetup(html);
 
             // Setup drag and drop data

@@ -1,0 +1,43 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "oz9xfzaq8h3xqyxg",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.signal_box_cultists.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "o4b9uoe3t0hicct5",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!oz9xfzaq8h3xqyxg.o4b9uoe3t0hicct5"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.signal_box_cultists.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "hgp8iy3x80j0g50r",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!oz9xfzaq8h3xqyxg.hgp8iy3x80j0g50r"
+    }
+  ],
+  "name": "actor.signal_box_cultists.name",
+  "system": {
+    "description": "actor.signal_box_cultists.description",
+    "names": "actor.signal_box_cultists.names",
+    "descriptors": "actor.signal_box_cultists.descriptors",
+    "motivation": "actor.signal_box_cultists.motivation",
+    "difficulty": "actor.signal_box_cultists.difficulty",
+    "resistanceMax": 4,
+    "protection": 0,
+    "special": "actor.signal_box_cultists.special",
+    "domains": "actor.signal_box_cultists.domains"
+  },
+  "effects": [],
+  "_key": "!actors!oz9xfzaq8h3xqyxg"
+}

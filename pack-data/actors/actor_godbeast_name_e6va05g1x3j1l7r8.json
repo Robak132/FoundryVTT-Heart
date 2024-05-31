@@ -1,0 +1,43 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "e6va05g1x3j1l7r8",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.godbeast.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "431rupfr2p3yvb5u",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!e6va05g1x3j1l7r8.431rupfr2p3yvb5u"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.godbeast.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "l5nwqvrr9a7mfp05",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!e6va05g1x3j1l7r8.l5nwqvrr9a7mfp05"
+    }
+  ],
+  "name": "actor.godbeast.name",
+  "system": {
+    "description": "actor.godbeast.description",
+    "names": "actor.godbeast.names",
+    "descriptors": "actor.godbeast.descriptors",
+    "motivation": "actor.godbeast.motivation",
+    "difficulty": "actor.godbeast.difficulty",
+    "resistanceMax": 30,
+    "protection": 3,
+    "special": "",
+    "domains": "actor.godbeast.domains"
+  },
+  "effects": [],
+  "_key": "!actors!e6va05g1x3j1l7r8"
+}

@@ -208,7 +208,7 @@ Hooks.once('ready', function () {
         if (game.settings.get('heart', 'showStartupMessage')) {
             let d = new Dialog({
                 title: game.i18n.format("heart.startup.title", { VERSION: game.system.version }),
-                content: await renderTemplate('heart:templates/startup.html', { versions: Object.values(game.i18n.translations.heart.versions).sort((a, b) => a.version > b.version ? -1 : 1), version: game.system.version }),
+                content: await renderTemplate('heart:templates/startup.hbs', { versions: Object.values(game.i18n.translations.heart.versions).sort((a, b) => a.version > b.version ? -1 : 1), version: game.system.version }),
                 buttons: {
                     close: {
                         icon: '<i class="fas fa-times"></i>',
@@ -234,6 +234,12 @@ Hooks.once('ready', function () {
 });
 
 Hooks.on("renderCompendium", async (app, html) => {
+    // html.find('.directory-list').children("li").sort(function(a, b) {
+    //     let A = localizeHeart($(a).text().trim())
+    //     let B = localizeHeart($(b).text().trim())
+    //     return A.localeCompare(B);
+    // }).appendTo(".directory-list");
+
     html.find('.document-name > a').each((_, item) => {
         item.innerHTML = localizeHeart(item.innerHTML);
     })
@@ -248,8 +254,18 @@ function sanitizeString(text) {
     return text.substring(start, stop)
 }
 
+Hooks.on('updateActor', function(document, data, options, userId) {
+    let [key, value] = Object.entries(flattenObject({'system': data.system}))[0]
+    console.log(key, value)
+    if (value === null) return
+    document.update({
+        [key]: sanitizeString(value)
+    })
+});
+
 Hooks.on('updateItem', function(document, data, options, userId) {
     let [key, value] = Object.entries(flattenObject({'system': data.system}))[0]
+    console.log(key, value)
     if (value === null) return
     document.update({
         [key]: sanitizeString(value)

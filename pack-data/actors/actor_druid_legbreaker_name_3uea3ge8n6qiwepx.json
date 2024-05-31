@@ -1,0 +1,43 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "3uea3ge8n6qiwepx",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.druid_legbreaker.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "sk28t7a9tgiqhg9j",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!3uea3ge8n6qiwepx.sk28t7a9tgiqhg9j"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.druid_legbreaker.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "rsnvnq65qdf1rcav",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!3uea3ge8n6qiwepx.rsnvnq65qdf1rcav"
+    }
+  ],
+  "name": "actor.druid_legbreaker.name",
+  "system": {
+    "description": "actor.druid_legbreaker.description",
+    "names": "actor.druid_legbreaker.names",
+    "descriptors": "actor.druid_legbreaker.descriptors",
+    "motivation": "actor.druid_legbreaker.motivation",
+    "difficulty": "actor.druid_legbreaker.difficulty",
+    "resistanceMax": 8,
+    "protection": 1,
+    "special": "",
+    "domains": "actor.druid_legbreaker.domains"
+  },
+  "effects": [],
+  "_key": "!actors!3uea3ge8n6qiwepx"
+}

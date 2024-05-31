@@ -1,0 +1,48 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "4gpywssbzrad5sow",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.red_saint.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "omqigct2cxifsu0l",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!4gpywssbzrad5sow.omqigct2cxifsu0l"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.red_saint.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "mi8x76rkq4svh3ej",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!4gpywssbzrad5sow.mi8x76rkq4svh3ej"
+    }
+  ],
+  "name": "actor.red_saint.name",
+  "system": {
+    "names": "actor.red_saint.names",
+    "description": "actor.red_saint.description",
+    "descriptors": "actor.red_saint.descriptors",
+    "motivation": "actor.red_saint.motivation",
+    "difficulty": "actor.red_saint.difficulty",
+    "resistance": "",
+    "resistanceMax": "16",
+    "protection": 2,
+    "resources": [],
+    "equipment": [],
+    "special": "actor.red_saint.special",
+    "notes": "",
+    "domains": "actor.red_saint.domains"
+  },
+  "flags": {},
+  "effects": [],
+  "_key": "!actors!4gpywssbzrad5sow"
+}

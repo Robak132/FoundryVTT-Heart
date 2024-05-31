@@ -1,4 +1,4 @@
-import chatTemplateHTML from './roll.html';
+import chatTemplateHTML from './roll.hbs';
 
 export default class StressRoll extends Roll {
     static get CHAT_TEMPLATE() { return chatTemplateHTML.path; }

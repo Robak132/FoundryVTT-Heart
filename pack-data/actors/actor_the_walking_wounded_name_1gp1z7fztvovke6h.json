@@ -1,0 +1,41 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "1gp1z7fztvovke6h",
+  "items": [
+    {
+      "type": "resource",
+      "name": 2,
+      "system": {
+        "active": true
+      },
+      "_id": "76mwwjpgjqmljel5",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!1gp1z7fztvovke6h.76mwwjpgjqmljel5"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.the_walking_wounded.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "32uuj2e42trdw6et",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!1gp1z7fztvovke6h.32uuj2e42trdw6et"
+    }
+  ],
+  "name": "actor.the_walking_wounded.name",
+  "system": {
+    "description": "actor.the_walking_wounded.description",
+    "names": "actor.the_walking_wounded.names",
+    "descriptors": "actor.the_walking_wounded.descriptors",
+    "motivation": "actor.the_walking_wounded.motivation",
+    "difficulty": "actor.the_walking_wounded.difficulty",
+    "special": "actor.the_walking_wounded.special",
+    "domains": "actor.the_walking_wounded.domains"
+  },
+  "effects": [],
+  "_key": "!actors!1gp1z7fztvovke6h"
+}

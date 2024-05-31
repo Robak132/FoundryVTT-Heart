@@ -1,4 +1,4 @@
-import sheetHTML from './sheet.html';
+import sheetHTML from './sheet.hbs';
 import templateJSON from './template.json';
 import HeartItemSheet from '../base/sheet';
 

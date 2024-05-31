@@ -1,0 +1,96 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "mecosfogyr3xkxwn",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.automaton_of_burden.resources.frantic_animal_intelligence",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "occult"
+      },
+      "_id": "rek8pk3yr9oudocu",
+      "img": "systems/heart/assets/ore.svg",
+      "flags": {},
+      "effects": [],
+      "_key": "!actors.items!mecosfogyr3xkxwn.rek8pk3yr9oudocu"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.automaton_of_burden.equipment.spindly_legs",
+      "system": {
+        "die_size": "d4",
+        "description": "",
+        "active": true,
+        "children": {},
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
+      },
+      "_id": "zrenun5z3jqip98q",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!mecosfogyr3xkxwn.zrenun5z3jqip98q"
+    },
+    {
+      "type": "resource",
+      "name": "actor.automaton_of_burden.resources.spare_parts",
+      "system": {
+        "die_size": "d8",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "technology"
+      },
+      "img": "systems/heart/assets/ore.svg",
+      "_id": "57UKKZFLZzLLKhQk",
+      "effects": [],
+      "_key": "!actors.items!mecosfogyr3xkxwn.57UKKZFLZzLLKhQk"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.automaton_of_burden.name",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {},
+        "resistances": [],
+        "type": "delve",
+        "group": "core"
+      },
+      "img": "systems/heart/assets/battle-gear.svg",
+      "flags": {},
+      "_id": "aLhTE64zaenmCTUi",
+      "effects": [],
+      "_key": "!actors.items!mecosfogyr3xkxwn.aLhTE64zaenmCTUi"
+    }
+  ],
+  "name": "actor.automaton_of_burden.name",
+  "system": {
+    "names": "actor.automaton_of_burden.names",
+    "description": "actor.automaton_of_burden.description",
+    "descriptors": "actor.automaton_of_burden.descriptors",
+    "motivation": "actor.automaton_of_burden.motivation",
+    "difficulty": "actor.automaton_of_burden.difficulty",
+    "resistance": "",
+    "resistanceMax": "10",
+    "protection": "",
+    "resources": [],
+    "equipment": [],
+    "special": "actor.automaton_of_burden.special",
+    "notes": "",
+    "domains": "actor.automaton_of_burden.domains"
+  },
+  "flags": {},
+  "effects": [],
+  "_key": "!actors!mecosfogyr3xkxwn"
+}

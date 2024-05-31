@@ -1,0 +1,53 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "5n8i4p40mgg1w103",
+  "items": [
+    {
+      "type": "resource",
+      "name": "Butcher entrails",
+      "system": {
+        "die_size": "d6",
+        "description": "Prized for making warding sigils",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "cursed"
+      },
+      "_id": "dgdzvgpmm82i1lr3",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!5n8i4p40mgg1w103.dgdzvgpmm82i1lr3"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.butcher.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "pe29gd8afpk054nz",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!5n8i4p40mgg1w103.pe29gd8afpk054nz"
+    }
+  ],
+  "name": "actor.butcher.name",
+  "system": {
+    "names": "actor.butcher.names",
+    "description": "actor.butcher.description",
+    "descriptors": "actor.butcher.descriptors",
+    "motivation": "actor.butcher.motivation",
+    "difficulty": "actor.butcher.difficulty",
+    "resistanceMax": 10,
+    "protection": 3,
+    "resources": [],
+    "equipment": [],
+    "special": "",
+    "notes": "",
+    "domains": "actor.butcher.domains"
+  },
+  "effects": [],
+  "flags": {},
+  "_key": "!actors!5n8i4p40mgg1w103"
+}

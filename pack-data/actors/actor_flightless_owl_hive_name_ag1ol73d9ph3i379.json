@@ -1,0 +1,43 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "ag1ol73d9ph3i379",
+  "items": [
+    {
+      "type": "resource",
+      "name": "actor.flightless_owl_hive.resources",
+      "system": {
+        "active": true
+      },
+      "_id": "u26192k42qpr75pr",
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "_key": "!actors.items!ag1ol73d9ph3i379.u26192k42qpr75pr"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.flightless_owl_hive.equipment",
+      "system": {
+        "active": true
+      },
+      "_id": "2esprvu8fijoyjne",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!ag1ol73d9ph3i379.2esprvu8fijoyjne"
+    }
+  ],
+  "name": "actor.flightless_owl_hive.name",
+  "system": {
+    "description": "actor.flightless_owl_hive.description",
+    "names": "actor.flightless_owl_hive.names",
+    "descriptors": "actor.flightless_owl_hive.descriptors",
+    "motivation": "actor.flightless_owl_hive.motivation",
+    "difficulty": "actor.flightless_owl_hive.difficulty",
+    "resistanceMax": 3,
+    "protection": 0,
+    "special": "",
+    "domains": "actor.flightless_owl_hive.domains"
+  },
+  "effects": [],
+  "_key": "!actors!ag1ol73d9ph3i379"
+}

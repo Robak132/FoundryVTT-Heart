@@ -1,4 +1,4 @@
-import sheetHTML from './sheet.html';
+import sheetHTML from './sheet.hbs';
 import './adversary.sass';
 import HeartActorSheet from '../base/sheet';
 import template from './template.json';
@@ -42,6 +42,7 @@ export default class AdversarySheet extends HeartActorSheet {
 
         html.find('.ordered-checkable-box:not(.checked)').click(ev => {
             ev.preventDefault();
+            console.log('clicked')
             const element = ev.currentTarget;
             const index = parseInt(element.dataset.index);
             const parent = element.parentElement;
@@ -54,13 +55,14 @@ export default class AdversarySheet extends HeartActorSheet {
 
         html.find('.ordered-checkable-box.checked').click(ev => {
             ev.preventDefault();
+            console.log('clicked')
             const element = ev.currentTarget;
             const index = parseInt(element.dataset.index);
             const parent = element.parentElement;
             const target = parent.dataset.target;
 
             const data = {};
-            if (index + 1 === getProperty(this.data, target)) {
+            if (index + 1 === getProperty(this.actor, target)) {
                 data[target] = index;
             } else {
                 data[target] = index + 1;

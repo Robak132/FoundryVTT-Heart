@@ -1,4 +1,4 @@
-import chatTemplateHTML from './roll.html';
+import chatTemplateHTML from './roll.hbs';
 import './roll.sass';
 
 const fallout_results = {

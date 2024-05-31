@@ -1,4 +1,4 @@
-import sheetHTML from './sheet.html';
+import sheetHTML from './sheet.hbs';
 import HeartSheetMixin from '../../common/sheet';
 import './preview.sass';
 

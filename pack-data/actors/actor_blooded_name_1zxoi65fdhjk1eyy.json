@@ -1,0 +1,114 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "1zxoi65fdhjk1eyy",
+  "items": [
+    {
+      "type": "resource",
+      "name": "Jewellery, keepsakes and valuables",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "desolate"
+      },
+      "_id": "37q9ah8rvhs1k3aq",
+      "img": "systems/heart/assets/ore.svg",
+      "flags": {},
+      "effects": [],
+      "_key": "!actors.items!1zxoi65fdhjk1eyy.37q9ah8rvhs1k3aq"
+    },
+    {
+      "type": "equipment",
+      "name": "Knife, club or poor-quality sword",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {},
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
+      },
+      "_id": "6l6gt6mjxk87au5b",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "flags": {},
+      "effects": [],
+      "_key": "!actors.items!1zxoi65fdhjk1eyy.6l6gt6mjxk87au5b"
+    },
+    {
+      "type": "equipment",
+      "name": "Whatever ranged weapons they could scare up",
+      "system": {
+        "die_size": "d8",
+        "description": "",
+        "active": true,
+        "children": {
+          "fUGw2vuTsxmg6nFL": {
+            "name": "tag.ranged.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.ranged.description",
+              "limited_uses": -1
+            },
+            "img": "icons/svg/item-bag.svg",
+            "_id": "fUGw2vuTsxmg6nFL",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.rZrU1P1jMqp2lYnu"
+              }
+            }
+          },
+          "pzO0bVtk3bHnit9s": {
+            "name": "tag.one_shot.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.one_shot.description",
+              "limited_uses": -1
+            },
+            "img": "icons/svg/item-bag.svg",
+            "_id": "pzO0bVtk3bHnit9s",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.IvSI5IufmZsa8NnU"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
+      },
+      "img": "systems/heart/assets/battle-gear.svg",
+      "flags": {},
+      "_id": "3OJcOL8YCQjum8sY",
+      "effects": [],
+      "_key": "!actors.items!1zxoi65fdhjk1eyy.3OJcOL8YCQjum8sY"
+    }
+  ],
+  "name": "actor.blooded.name",
+  "system": {
+    "names": "actor.blooded.names",
+    "description": "actor.blooded.description",
+    "descriptors": "actor.blooded.descriptors",
+    "motivation": "actor.blooded.motivation",
+    "difficulty": "actor.blooded.difficulty",
+    "resistance": "",
+    "resistanceMax": "6",
+    "protection": "",
+    "resources": [],
+    "equipment": [],
+    "special": "",
+    "notes": "",
+    "domains": "actor.blooded.domains"
+  },
+  "flags": {},
+  "effects": [],
+  "_key": "!actors!1zxoi65fdhjk1eyy"
+}

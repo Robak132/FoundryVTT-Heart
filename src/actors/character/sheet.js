@@ -1,4 +1,4 @@
-import sheetHTML from './sheet.html';
+import sheetHTML from './sheet.hbs';
 import './character.sass';
 import HeartActorSheet from '../base/sheet';
 import template from './template.json';

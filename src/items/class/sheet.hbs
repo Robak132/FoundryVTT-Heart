@@ -1,0 +1,106 @@
+{{#*inline "abilitySection"}}
+<h2>
+    {{localizeHeart (join "" type "-ability") "multiple"}}
+    {{#if (and editable (not item.isOwned))}}
+    <a class="right" data-action="add-child" data-type="ability" data-data='{"type": "{{type}}"{{#if (eq type "core")}}, "active": true{{/if}} }'><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>
+    {{/if}}
+</h2>
+<div class="item-list">
+    {{#each abilities as |ability|}}
+        {{> "heart:items/ability/preview.hbs" document=../document item=ability showActivate=true showDelete=../user.isGM}}
+    {{/each}}
+</div>
+{{/inline}}
+
+<form class="heart sheet base Item class {{cssClass}}" autocomplete="off">
+    <h1>
+        {{#if (and editable (not item.isOwned))}}
+        <input name="name" value="{{localizeHeart item.name}}"/>
+        {{else}}
+        {{localizeHeart item.name}}
+        {{/if}}
+    </h1>
+    <div class="description">
+        {{#if (and editable (not item.isOwned))}}
+        {{editor (localizeHeart system.description) target="system.description" button=true editable=editable owner=owner}}
+        {{else}}
+        {{{localizeHeart system.description}}}
+        {{/if}}
+    </div>
+
+    <h2>
+        {{localizeHeart "core-traits.multiple"}}
+    </h2>
+    <div class="grid-2 auto-first-col">
+        <div class="title-font">{{localizeHeart "skill.single"}}</div>
+        {{#if (and editable (not item.isOwned))}}
+        <select name="system.core_skill">
+            {{selectOptions skills selected=system.core_skill}}
+        </select>
+        {{else}}
+        <div>{{localizeHeart "skill" system.core_skill}}</div>
+        {{/if}}
+
+        <div class="title-font">{{localizeHeart "domain.single"}}</div>
+        {{#if (and editable (not item.isOwned))}}
+        <select name="system.core_domain">
+            {{selectOptions domains selected=system.core_domain}}
+        </select>
+        {{else}}
+        <div>{{localizeHeart "domain" system.core_domain}}</div>
+        {{/if}}
+
+        <div class="title-font">{{localizeHeart "resource.single"}}</div>
+        <div>
+            {{#each (lookup childrenTypes "resource") as |resource|}}
+                {{> "heart:items/resource/preview.hbs" document=../document item=resource user=../user showDelete=../user.isGM}}
+            {{/each}}
+            
+            {{#if user.isGM }}
+            {{/if}}
+          <a class="right" data-action="add-child" data-type="resource" data-data='{"name": "New Resource", "domain": "cursed", "active": true}'><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>
+        </div>
+        <div class="wide">
+        </div>
+    
+        <div class="title-font">{{localizeHeart "equipment.single"}}</div>
+        <div>
+            {{#if (gt item.system.equipment_groups.length 1)}}
+                {{localizeHeart "pick-one-group"}}
+            {{/if}}
+            {{#each item.system.equipment_groups as |groupId|}}
+                <div class="equipment-group {{#if (or (eq groupId ../item.system.active_equipment_group) (includes ../item.system.active_equipment_groups groupId))}}active{{/if}}" data-group-id="{{groupId}}">
+                    {{#if (or ../item.isEmbedded ../item.isChild) }}
+                    <div class="actionbar">
+                        {{#if (or (eq groupId ../item.system.active_equipment_group) (includes ../item.system.active_equipment_groups groupId))}}
+                        <a data-action="deactivate-group" title="{{localizeHeart 'deactivate'}}"><span class="fas fa-toggle-on"></span></a>
+                        {{else}}
+                        <a data-action="activate-group" title="{{localizeHeart 'activate'}}"><span class="fas fa-toggle-off"></span></a>
+                        {{/if}}
+                    </div>
+                    {{/if}}
+                    {{#each (lookup ../childrenTypes "equipment") as |item|}}
+                        {{#if (eq item.system.group groupId )}}
+                            {{> "heart:items/equipment/preview.hbs" document=../document item=item showActivate=false showDelete=../../user.isGM}}
+                        {{/if}}
+                    {{/each}}
+                    {{#if ../user.isGM }}
+                    <div class="flexcol">
+                        <a class="right" data-action="add-child" data-type="equipment" data-data='{"name": "New Resource", "domain": "cursed", "group": "{{groupId}}"}'><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>
+                        <a class="right" data-action="delete-equipment-group"><span class="fas fa-trash"></span> {{localizeHeart "delete-equipment-group"}}</a>
+                    </div>
+                    {{/if}}
+                </div>
+            {{/each}}
+            
+            {{#if user.isGM }}
+                <a class="right" data-action="add-equipment-group"><span class="fas fa-plus"></span> {{localizeHeart "add-equipment-group"}}</a>
+            {{/if}}          
+        </div>
+    </div>
+
+    {{> abilitySection abilities=coreAbilities type="core"}}
+    {{> abilitySection abilities=minorAbilities type="minor"}}
+    {{> abilitySection abilities=majorAbilities type="major"}}
+    {{> abilitySection abilities=zenithAbilities type="zenith"}}
+</form>
