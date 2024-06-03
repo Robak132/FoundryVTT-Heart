@@ -2195,7 +2195,7 @@
                 "notes": [
                     "Existing equipment will not have any Resistances associated with them."
                 ],
-                "version": "v0.6. 0"
+                "version": "v0.6.0"
             },
             "0_7_0": {
                 "changes": [
