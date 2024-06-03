@@ -22,13 +22,22 @@
     },
     {
       "type": "equipment",
-      "name": "actor.butcher.equipment",
+      "name": "actor.butcher.equipment.nightmare_claws",
       "system": {
-        "active": true
+        "die_size": "d10",
+        "description": "",
+        "active": true,
+        "children": {},
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "pe29gd8afpk054nz",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!5n8i4p40mgg1w103.pe29gd8afpk054nz"
     }
   ],
@@ -39,7 +48,8 @@
     "descriptors": "actor.butcher.descriptors",
     "motivation": "actor.butcher.motivation",
     "difficulty": "actor.butcher.difficulty",
-    "resistanceMax": 10,
+    "resistance": "",
+    "resistanceMax": "10",
     "protection": 3,
     "resources": [],
     "equipment": [],

@@ -5,24 +5,56 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.wretch.resources",
+      "name": "actor.wretch.resources.creatures_and_garbage",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "religion"
       },
       "_id": "16xbxtlnv5moijes",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!jvfjwtzift9yvi7f.16xbxtlnv5moijes"
     },
     {
       "type": "equipment",
-      "name": "actor.wretch.equipment",
+      "name": "actor.wretch.equipment.dirty_teeth_and_claws",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {
+          "nvHtj1lKPJNn8WUs": {
+            "name": "tag.degenerating.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.degenerating.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "nvHtj1lKPJNn8WUs",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.VucspR8kzdbcvmsD"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "g687cviyjklk2c0x",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!jvfjwtzift9yvi7f.g687cviyjklk2c0x"
     },
     {
@@ -40,6 +72,26 @@
       "flags": {},
       "effects": [],
       "_key": "!actors.items!jvfjwtzift9yvi7f.Y4na8c9sDcRVVH5q"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.wretch.equipment.retching_bile",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {},
+        "resistances": [
+          "supplies"
+        ],
+        "type": "kill",
+        "group": "core"
+      },
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "mFw93nBjBJUS9AgX",
+      "_key": "!actors.items!jvfjwtzift9yvi7f.mFw93nBjBJUS9AgX"
     }
   ],
   "name": "actor.wretch.name",

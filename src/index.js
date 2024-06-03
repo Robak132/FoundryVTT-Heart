@@ -182,8 +182,6 @@ function initialise() {
         }
     }
 
-
-
     window.localizeHeart = localizeHeart;
 
     Handlebars.registerHelper('localizeHeart', localizeHeart);
@@ -253,6 +251,18 @@ function sanitizeString(text) {
     const stop = text.endsWith("</p>") ? text.length - 4 : text.length
     return text.substring(start, stop)
 }
+
+Hooks.on('preCreateItem', function(document, data, options, userId) {
+    document.updateSource({
+        name: localizeHeart(document.name)
+    });
+});
+
+Hooks.on('preCreateActor', function(document, data, options, userId) {
+    document.updateSource({
+        name: localizeHeart(document.name)
+    });
+});
 
 Hooks.on('updateActor', function(document, data, options, userId) {
     let [key, value] = Object.entries(flattenObject({'system': data.system}))[0]

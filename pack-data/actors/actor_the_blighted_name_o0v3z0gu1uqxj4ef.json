@@ -1,6 +1,6 @@
 {
   "type": "adversary",
-  "img": "systems/heart/assets/high-punch.svg",
+  "img": "systems/heart/assets/art/the_blighted.png",
   "_id": "o0v3z0gu1uqxj4ef",
   "items": [
     {
@@ -17,7 +17,7 @@
               "description": "tag.dangerous.description",
               "limited_uses": -1
             },
-            "img": "icons/svg/item-bag.svg",
+            "img": "systems/heart/assets/ore.svg",
             "_id": "0aTFD8lSZcyYgfmY",
             "flags": {
               "core": {

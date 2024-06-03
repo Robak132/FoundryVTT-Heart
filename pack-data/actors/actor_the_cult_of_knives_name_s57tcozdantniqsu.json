@@ -28,16 +28,21 @@
   ],
   "name": "actor.the_cult_of_knives.name",
   "system": {
-    "description": "actor.the_cult_of_knives.description",
     "names": "actor.the_cult_of_knives.names",
+    "description": "actor.the_cult_of_knives.description",
     "descriptors": "actor.the_cult_of_knives.descriptors",
     "motivation": "actor.the_cult_of_knives.motivation",
     "difficulty": "actor.the_cult_of_knives.difficulty",
-    "resistanceMax": 12,
+    "resistance": "",
+    "resistanceMax": "12",
     "protection": 0,
+    "resources": [],
+    "equipment": [],
     "special": "actor.the_cult_of_knives.special",
+    "notes": "",
     "domains": "actor.the_cult_of_knives.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!s57tcozdantniqsu"
 }

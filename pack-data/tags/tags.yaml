@@ -46,9 +46,9 @@ fragile:
 taboo:
   name: tag.taboo.name
   description: tag.taboo.description
-limited(X):
-  name: tag.limited(X).name
-  description: tag.limited(X).description
+limited:
+  name: tag.limited.name
+  description: tag.limited.description
 loud:
   name: tag.loud.name
   description: tag.loud.description

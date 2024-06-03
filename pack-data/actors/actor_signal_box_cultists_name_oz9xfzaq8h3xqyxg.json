@@ -28,16 +28,21 @@
   ],
   "name": "actor.signal_box_cultists.name",
   "system": {
-    "description": "actor.signal_box_cultists.description",
     "names": "actor.signal_box_cultists.names",
+    "description": "actor.signal_box_cultists.description",
     "descriptors": "actor.signal_box_cultists.descriptors",
     "motivation": "actor.signal_box_cultists.motivation",
     "difficulty": "actor.signal_box_cultists.difficulty",
-    "resistanceMax": 4,
+    "resistance": "",
+    "resistanceMax": "4",
     "protection": 0,
+    "resources": [],
+    "equipment": [],
     "special": "actor.signal_box_cultists.special",
+    "notes": "",
     "domains": "actor.signal_box_cultists.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!oz9xfzaq8h3xqyxg"
 }
