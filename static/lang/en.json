@@ -2148,12 +2148,11 @@
                 "motivation": "To induct others into the cult, to trade for supplies, ortoslitthethroatofaVermissian Knight and have them bleed out overthesignalmachinery.",
                 "difficulty": "Standard",
                 "resources": {
-                    "awake": "AWAKE. [Minor, Blood/Fortune] The sounds of battle draw the half-asleep saint to full consciousness. Increase its difficulty to Risky and its resistance by 8.",
-                    "description": "AWAKE. [Minor, Blood/Fortune] The sounds of battle draw the half-asleep saint to full consciousness. Increase its difficulty to Risky and its resistance by 8."
+                    "description": "Rusted but still-functional machinery (D8, Niche)"
                 },
                 "equipment": {
                     "rustedbutstill__functional_machinery": "Rusted but still-functional machinery (D8, Niche)",
-                    "description": "Rustedbutstill- functional machinery(D8, Niche)"
+                    "description": "Rusted but still-functional machinery (D8, Niche)"
                 },
                 "special": "Levers, wrenches and bent rails (D6, Tiring); A fragment of the true nature of the Vermissian (D8, Ranged, One-Shot – inflicts Mind stress).",
                 "names": "Haslam, Levier, Forneau",
@@ -2161,9 +2160,9 @@
             },
             "skeleton_courtier": {
                 "name": "Skeleton Courtier",
-                "description": "<p>In the depths of the Heart, the ancient burial mound of an unnamed King sits beneath a tree. He lives out his afterlife here in a sort of skeletal heaven, completely off his head on narcotic tree sap drunk from the roots above him. His court, a selection of similarly dead weirdos and lackeys, fightoveraccesstotheintoxicatingsapinaneffort to put up with his interminably long war stories.</p>\n",
-                "descriptors": "<ul><li>Absolutely loaded on intoxicating tree sap and having problems holding it together</li><li>Bearing the crest of one of the noble houses of the City Above</li><li>Has arms and legs tied on with twine.</li></ul>",
-                "motivation": "To hear interesting stories and brutallymurderanyonewhotriestostealtheirsap.",
+                "description": "In the depths of the Heart, the ancient burial mound of an unnamed King sits beneath a tree. He lives out his afterlife here in a sort of skeletal heaven, completely off his head on narcotic tree sap drunk from the roots above him. His court, a selection of similarly dead weirdos and lackeys, fight over access to the intoxicating sap in an effort to put up with his interminably long war stories.",
+                "descriptors": "<ul><li>Absolutely loaded on intoxicating tree sap and having problems holding it together.</li>\n<li>Bearing the crest of one of the noble houses of the City Above.</li>\n<li>Has arms and legs tied on with twine.</li></ul>",
+                "motivation": "To hear interesting stories and brutally murder anyone who tries to steal their sap.",
                 "difficulty": "Standard",
                 "resources": {
                     "tarnished_but_beautiful_burial_goods": "Tarnished but beautiful burial goods (D8).",
@@ -2174,14 +2173,14 @@
                     "description": "Ancient and rusted weaponry (D8, Unreliable)"
                 },
                 "special": "Their bony bodies lower stress dice from edged weapons and bullets by 1 step, but increase the stress dice from blunt weapons by 1 step.",
-                "names": "Ser Ethelren, Ser Fenswith, Lady Arablast.",
+                "names": "Ser Ethelren, Ser Fenswith, Lady Arablast",
                 "protectionDesc": "0 to 2, depending on whether they were buried in diaphanous gowns or ancient platemail.",
                 "domains": "Warren"
             },
             "sourceborn_construct": {
                 "name": "Sourceborn Construct",
-                "description": "<p>These blurring storms of noise and steel are the guardians of the Source. On occasion one might creep out in search of supplies (rare metals or silicates), but it’s almost unheard of for one to leave their heavenly circuit.</p>\n",
-                "descriptors": "<ul><li>A flickering blur of steel and carbon dust that forms itself into hexagons</li><li>A box which appears motionless until razor- sharp filaments spiral forth to maim you</li><li>A hovering obsidian orb that telekinetically flings objects around it with terrifying precision.</li></ul>",
+                "description": "These blurring storms of noise and steel are the guardians of the Source. On occasion one might creep out in search of supplies (rare metals or silicates), but it’s almost unheard of for one to leave their heavenly circuit.",
+                "descriptors": "<ul><li>A flickering blur of steel and carbon dust that forms itself into hexagons</li>\n<li>A box which appears motionless until razor-sharp filaments spiral forth to maim you</li>\n<li>A hovering obsidian orb that telekinetically flings objects around it with terrifying precision.</li></ul>",
                 "motivation": "To protect and repair the mysterious sigils on the walls of the Source.",
                 "difficulty": "Risky",
                 "resources": {
@@ -2199,7 +2198,7 @@
             "the_blighted": {
                 "name": "The Blighted",
                 "description": "<p>There is a parasite that gives trees the gift of awakening and curses them to insanity. Burrowing and festering deep within the wood, the parasite changes the tree’s biology to allow it to move on creaking dirt-caked legs of root and bark. They can think as quickly as the short-lived creatures that flit around it in the forests of their home. But the parasite is hungry, and eats the wood of the tree in which it lives. Specimens have rents in theirbarklinedwithwrithingfleshygrowthswhere they’ve been ravaged by it. The tree feels this sensation as an irritation at first, but as the parasite grows in power and mass, it builds to a overwhelming, unscratchable itch that drives the tree insane. The only way of stopping the itch is to give the parasite something else to eat, and even then, it is only temporary. Plant matter doesn’t work fast enough and the trees don’t want to risk further infection, so they hunt and kill other creatures, pressing the corpses against their festering wounds to calm the ravening sensation a little. Those that have been infected the longest lope through the forests with their kills impaled on their upper branches, occasionally pausing to tear off a rotting limb and hold it against themselves as they visibly relax. If the trees don’t consume their kills immediately, they gain some measure of control over the flesh via the parasite. Hands can grasp and manipulate; horrifically, faces can speak in the voices of their original owners. A blighted who’s managed to learn to speak through a stolen mouth is rare, and acts as a caretaker for other, less fortunate infected trees. If the blighted weren’t all insane, they might be able to form a culture and somehow communicate with the other inhabitants of the Heart; in the moments when their minds calm down enough, they sometimes realise the horror of what they’re doing. But the clarity doesn’t last for long, and it brings a guilt that’s as bad as the itch itself.</p>\n",
-                "descriptors": "<ul><li>Carrying a twitching deer in its upper branches, letting the blood spill down over its wounds</li><li>Desperately trying to stand still amidst a copse of trees in ambush</li><li>Cradling a corpse to their “chest” as the parasite consumes it.</li></ul>",
+                "descriptors": "<ul><li>Carrying a twitching deer in its upper branches, letting the blood spill down over its wounds</li>\n<li>Desperately trying to stand still amidst a copse of trees in ambush</li>\n<li>Cradling a corpse to their “chest” as the parasite consumes it.</li></ul>",
                 "motivation": "To get the itching to stop.",
                 "difficulty": "Standard",
                 "resources": {
@@ -2218,8 +2217,8 @@
             },
             "the_carnival": {
                 "name": "The Carnival",
-                "description": "There are far worse ways to die down here. The Carnival is not the only brain-wyrm to enter the Heart. Mummer-Pox causes sufferers to act out a great aelfir play that can only be performed over millennia, and this was deemed to be the most effective method of staging it. The Labyrinth Curse compels the infected to construct complex mazes riddled with traps around things it deems “unsafe. ” Scrivener’s Lament forces those that carry it to write book after book, all attributed to the same author.</p>\n",
-                "descriptors": "<ul><li>Shaking a noise-maker made out of pebbles in a glass bottle</li><li>Carrying a severely malnourished (but uninfected) infant on their back</li><li>Daubing a shaky mural depicting the carnival onto the wall nearby in white paint.</li></ul>",
+                "description": "<p>The Carnival is eternal. Sometimes the dancers die – their feet battered and bloody, crawling through abandoned districts on hands and knees – but the Carnival itself endures. The Carnival is a brain-wyrm that makes sufferers dance, cavort and sing. It is a gift, a cruel reward, sung into the minds of the undercity by a misguided warrior-poet of the aelfir in the City Above.</p>\n<p>It is greater than the sufferers. Those who can write will scratch the words of it into walls, a word-salad nonsense that infects the reader. It hides in the choruses of folk songs, in the singsong games of children, in the graffiti on gang territory. Occasionally infection will come to a head and an entire\nhaven will take leave of their senses, drape themselves in colourful rags and skip through the Heart, singing the virus aloud to bewitch and lure in passers-by. There’s nothing malicious about them; honestly, even though they’re malnourished and their feet are ruined with blisters, they seem genuinely happy. There are far worse ways to die down here.</p>\n<p>There are far worse ways to die down here. The Carnival is not the only brain-wyrm to enter the Heart. Mummer-Pox causes sufferers to act out a great aelfir play that can only be performed over millennia, and this was deemed to be the most effective method of staging it. The Labyrinth Curse compels the infected to construct complex mazes riddled with traps around things it deems “unsafe”. Scrivener’s Lament forces those that carry it to write book after book, all attributed to the same author.</p>",
+                "descriptors": "<ul><li>Shaking a noise-maker made out of pebbles in a glass bottle.</li>\n<li>Carrying a severely malnourished (but uninfected) infant on their back.</li>\n<li>Daubing a shaky mural depicting the carnival onto the wall nearby in white paint.</li></ul>",
                 "motivation": "To dance! Occasionally they’ll come to their senses and scream in pain and hunger, so many troupes include a drummer among their number to keep the rhythm going.",
                 "difficulty": "Standard",
                 "resources": {
@@ -2230,14 +2229,14 @@
                     "most_carry_breakable_noise_makers__or_are_unarmed": "Most carry breakable noise-makers (D6, One-Shot) or are unarmed; none of them are really interested in fighting, though.",
                     "description": "Most carry breakable noise-makers (D6, One-Shot) or are unarmed; none of them are really interested in fighting, though."
                 },
-                "special": "Hearing the song of the carnival triggers an Endure+Occult check with D6 stress to Mind on a failure; getting up close (say, if you were rescuing someone) increases the stress to D8. You can overcome this by plugging your ears with wax or something similar, but this brings its own complications.",
+                "special": "Hearing the song of the carnival triggers an <b>Endure+Occult</b> check with D6 stress to Mind on a failure; getting up close (say, if you were rescuing someone) increases the stress to D8. You can overcome this by plugging your ears with wax or something similar, but this brings its own complications.",
                 "names": "Gregor, Yolande, Klimpt",
-                "domains": "Haven, Desolate."
+                "domains": "Haven, Desolate"
             },
             "the_cult_of_knives": {
-                "name": "The Cult Of Knives",
-                "description": "<p>There is a room where the knives that long for blood go. If a dagger is used in enough murders, it’ll get a taste for it. It will nudge and tweak the hand of its owner, begging to be plunged back into warm wet flesh and feel the shuaddering of a last breath. For a knife, a murder is heaven – an ecstatic joy, a sharp and sudden power, a sense of purpose fulfilled. Knives who kill enough people start to realise that it is they, the “tools, ” that hold the power – not the people who carry them. They begin their own crusades against those they hate, often changing hands several times throughout a string of murders. Even though they are incapable of moving under their own power, they will warp the minds of those that hold them and call out to others of the same kind. They will begin to plot; they will form a cult. ThisishowyouwillmeettheCultofKnives:inan unassumingbasementorattic, whilstsearchingfor something long thought lost, you will find a wide- eyed man or woman who has apparently stabbed themselves with thirteen or so knives and left them lodged inside their body. They are rendered senseless from the power of the knives. Within them, the cult of knives commune and whisper in a silent language of steel and blood and sharpness. As they notice you, they pluck one of the congregation from their thigh and lurch towards you, trailing blood, in an attempt to silence you. The following stats are for the current “bearer” of the congregation – the knives are unable to move or attack under their own power.</p>\n",
-                "descriptors": "<ul><li>Wearing bedraggled fancy clothing, like they walked here from the City Above</li><li>Calmly rearranging the knives in their torso as different cultists hold the floor</li><li>Coiled and ready to strike, assassin-like, eyes scanning the entrances.</li></ul>",
+                "name": "The Cult of Knives",
+                "description": "<p>There is a room where the knives that long for blood go.</p>\n<p>If a dagger is used in enough murders, it’ll get a taste for it. It will nudge and tweak the hand of its owner, begging to be plunged back into warm wet flesh and feel the shuddering of a last breath. For a knife, a murder is heaven – an ecstatic joy, a sharp and sudden power, a sense of purpose fulfilled.</p>\n<p>Knives who kill enough people start to realise that it is they, the “tools”, that hold the power – not the people who carry them. They begin their own crusades against those they hate, often changing hands several times throughout a string of murders. Even though they are incapable of moving under their own power, they will warp the minds of those that hold them and call out to others of the same kind. They will begin to plot; they will form a cult.</p>\n<p>This is how you will meet the Cult of Knives: in an unassuming basement or attic, whilst searching for something long thought lost, you will find a wide-eyed man or woman who has apparently stabbed themselves with thirteen or so knives and left them lodged inside their body. They are rendered senseless from the power of the knives. Within them, the cult of knives commune and whisper in a silent language of steel and blood and sharpness. As they notice you, they pluck one of the congregation from their thigh and lurch towards you, trailing blood, in an attempt to silence you.</p>\n<p>The following stats are for the current “bearer” of the congregation – the knives are unable to move or attack under their own power.</p>",
+                "descriptors": "<ul><li>Wearing bedraggled fancy clothing, like they walked here from the City Above</li>\n<li>Calmly rearranging the knives in their torso as different cultists hold the floor</li>\n<li>Coiled and ready to strike, assassin-like, eyes scanning the entrances.</li></ul>",
                 "motivation": "To stop any interruptions to the meeting.",
                 "difficulty": "Risky",
                 "resources": {
@@ -2250,14 +2249,14 @@
                 },
                 "special": "The Cult of Knives ignores all Protection.",
                 "names": "If you remove every knife, they’ll come to their senses and tell you their name (Theodora, Clovin, Wyst) before dying of blood loss.",
-                "domains": "Desolate, Warren, Haven."
+                "domains": "Desolate, Warren, Haven"
             },
             "the_walking_wounded": {
                 "name": "The Walking Wounded",
                 "description": "<p>Years ago – maybe even a century – the 33rd Regiment of the Allied Defence Force were sent into the City Below to pacify the Heart. Some of them went AWOL and would go on to form the Hounds as they are today; most weren’t that lucky. You hear tell of what happened as you work your way down a bottle of rotgut liquor and huddle around the trashfires for warmth. They are horror stories even for denizens of the Heart: legends of unimaginable cruelty on the part of the 33rd’s mad aelfir officers, themselves protected by shimmering wards and implanted saints’ bones, marching at the head of columns of deranged and mind-blasted soldiers. You hear whispers of doomed assaults on heartsblood enclaves and encroaching angels; of the walls of the City Beneath coming alive and crushing – chewing – the poor bastards to pulp; of the flesh and bone of the troopers coming untethered and rewriting itself in hideous new shapes. The worst thing, they say, is that the least fortunate of all never died. They can’t. In their final moments of torment and confusion and panic, they bonded with the eternal energy of the Heart.</p>\n",
-                "descriptors": "<ul><li>Somewhere in the depths of their minds they still remember their names, but their mouths are too twisted to pronounce them.</li></ul>",
+                "descriptors": "<ul><li>Medals fused into chest</li>\n<li>Bandages made of crumbling skin covering their sores</li>\n<li>Dragging a heavy jezail that’s melded with their arms.</li></ul>",
                 "motivation": "Medals fused into chest; Bandages made of crumbling skin covering their sores; Dragging a heavy jezail that’s melded with their arms.",
-                "difficulty": "To get home, which is a hopeless endeavour, becauseeveryonetheyknowdieddecades ago. Many believe they’re still at war with whoever they meet, but you might be able to convince them otherwise. Some, accompanied by their insane and undying aelfir officers, are still attemptingtofulfiltheiroriginalmissions.",
+                "difficulty": "To get home, which is a hopeless endeavour, because everyone they know died decades ago. Many believe they’re still at war with whoever they meet, but you might be able to convince them otherwise. Some, accompanied by their insane and undying aelfir officers, are still attempting to fulfil their original missions.",
                 "equipment": {
                     "description": "Nothing of value."
                 },
@@ -2265,11 +2264,11 @@
                 "names": "You’ll see them at the edge of a haven: rendered senseless, bandages over ruined eyes, hands on each others’ shoulders, limping in a line to Goddess knows where. If you’re brave enough to approach them, you’ll realise that they aren’t a line of soldiers – they’re all one mass of flesh, hand- stumps fused to shoulders, ancient iron pistols melded with puckered skin and twisting bone. Some are still following their original mission: to dig trenches, repel invaders or take enemy positions and slaughter everyone inside. Most are just trying, blind and broken, to get home.",
                 "resistanceDesc": "Standard – they can’t see or hear properly, but they can sense movement uncannily well.",
                 "protectionDesc": "4 for each “surviving” member of the squad; most have around resistance 20.",
-                "domains": "Cursed, Desolate."
+                "domains": "Cursed, Desolate"
             },
             "tunnel_brigands": {
                 "name": "Tunnel Brigands",
-                "description": "<p>Opportunistic thieves and killers who prey on vulnerable travellers for their valuables are most commonly found in the tunnels to the Home Nations, but there are no end of places where a gang of desperate people with guns and a lack of empathy can makeaquickbuck. They’renotupforaseriousfight, and are generally open to bargaining if you have somethingtoofferthattheycan’tjusttakefromyou.</p>\n",
+                "description": "Opportunistic thieves and killers who prey on vulnerable travellers for their valuables are most commonly found in the tunnels to the Home Nations, but there are no end of places where a gang of desperate people with guns and a lack of empathy can make a quick buck. They’re not up for a serious fight, and are generally open to bargaining if you have something to offer that they can’t just take from you.",
                 "descriptors": "<ul><li>Wearing stolen Yssian fashion, taken from refugees</li><li>Younger than they really oughttobeforthislineofwork;Chestboundtight withbandages, bracesholdinguptheirtrousers.</li></ul>",
                 "motivation": "To take money or valuables from folk using the tunnels to emigrate into the City Above; however, they’re boisterous and insecure, so some will take any opportunity to prove their cruelty and superiority.",
                 "difficulty": "Standard",
@@ -2286,8 +2285,8 @@
             },
             "wretch": {
                 "name": "Wretch",
-                "description": "<p>The Tunnels of Wet Filth are home to some of the most wretched and disgusting creatures that the Heart has to offer. A lot of the inhabitants keep them as pets, and an enthusiastic breeding/ surgery program has ensured a wide variety of absolutely horrible monstrosities.</p>\n",
-                "descriptors": "<ul><li>It was once four dogs, but now it’s melded together</li><li>A crocodilian shadow, barely seen</li><li>A snorting, finned piglike creature with a horrible wide mouth.</li></ul>",
+                "description": "<p>The Tunnels of Wet Filth are home to some of the most wretched and disgusting creatures that the Heart has to offer. A lot of the inhabitants keep them as pets, and an enthusiastic breeding/ surgery program has ensured a wide variety of absolutely horrible monstrosities.</p>",
+                "descriptors": "<ul><li>It was once four dogs, but now it’s melded together</li>\n<li>A crocodilian shadow, barely seen</li>\n<li>A snorting, finned piglike creature with a horrible wide mouth.</li></ul>",
                 "motivation": "To eat delicious legs poked under the surface of the filth, or to perform “tricks” (usually eating delicious legs) for their masters in exchange for treats (further delicious legs).",
                 "resources": {
                     "creatures_and_garbage": "Creatures and garbage",
