@@ -56,7 +56,7 @@
         "zenith-beat.multiple": "Battiti zenit",
         "zenith-beat.single": "Battito zenit",
         "startup.title": "Heart - The City Beneath (v{VERSION})",
-        "startup.description": "<h1>Welcome to Heart v{VERSION}</h1><h2>A Quick Intro</h2><p><b>Players</b>: you can make rolls from Chat when requested, or directly from your character sheet. Your GM will provide you with class/callings which you can drag & drop onto your sheet.</p><p><b>GMs:</b> the 'Prepare Rollout Request' macro will help your players make rolls more easily. You'll need to create classes and callings for your players by hand, but it should be more or less intuitive how to do this.</p>",
+        "startup.description": "<h1>Welcome to Heart v{VERSION}</h1><h2>A Quick Intro</h2><p><b>Players</b>: you can make rolls from Chat when requested, or directly from your character sheet. Your GM will provide you with class/callings which you can drag & drop onto your sheet.</p>\n<p><b>GMs:</b> the 'Prepare Rollout Request' macro will help your players make rolls more easily. You'll need to create classes and callings for your players by hand, but it should be more or less intuitive how to do this.</p>",
         "clear-stress.title": "Tira stress",
         "clear-stress.description": "Pick a resistance to set to 0 stress",
         "prepare-fallout-roll.description": "Scegli un personaggio con cui tirare complicazione.",
