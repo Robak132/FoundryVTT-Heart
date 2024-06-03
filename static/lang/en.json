@@ -1935,14 +1935,14 @@
                     "description": "Broken celestial blades (Kill D6, Brutal)."
                 },
                 "names": "Very few of them remember their names; some have adopted names that they have overheard whilst hiding in the City Beneath.",
-                "domains": "Religion, Desolate."
+                "domains": "Religion, Desolate"
             },
             "flightless_owl_hive": {
                 "name": "Flightless Owl Hive",
                 "description": "<p>There’s a folk story about how Owl, in his hubris, tried to court the Moon Goddess back when Spire was young. He claimed that he was king of the skies and that she should be honoured to be his bride. She cursed him and all his children to never fly again, and only the small owls were able to sneak away from her notice; even now, owls on the surface world will never land in a patch of moonlight. The larger owls were so ashamed that they learned the trick of burrowing so they could live beneath the earth and never have to set eyes on the moon ever again.</p>\n<p>That’s the story, anyway. The reality is that the Heart supports several hundred colonies of invasive, flightless owls. They operate in a hive structure like bees or ants, bringing back kills and regurgitating them into the mouths of scores of mewling, blind young. They’re larger than surface owls and more vicious: they work in packs to bring down a target many times their size, screeching and flapping dust into the air to confuse their prey.</p>\n<p>They’ll often set up shop beneath a settlement and start stealing food, then animals, then children and so on. It’s a fairly common first job for delvers to descend into the cramped tunnels beneath a haven and cull an owl hive. Some superstitious types believe that a feather or bone from the first owl they ever kill is a good luck charm, and even seasoned explorers will bear a dirty-white feather in their cap as a memento. It’s an easy enough job if you take out each group of guard owls quickly. Just don’t let them wake the hive; if they do, the guttural song of the queen will echo through the chambers, and the invaders should leave quickly unless they wish to be torn to pieces.</p>",
                 "descriptors": "<ul><li>Eating a weaker member of the hive whole</li>\n<li>Blind and operating by echo location</li>\n<li>Mangy, with yellowing skin and patchy feathers.</li></ul>",
                 "motivation": "To defend the Queen and ensure the safety of the hive.",
-                "difficulty": "Standard.",
+                "difficulty": "Standard",
                 "resources": {
                     "assorted_owl_bones": "Assorted owl bones",
                     "description": "Assorted owl bones"
@@ -2052,8 +2052,8 @@
             },
             "male_harpy": {
                 "name": "Male Harpy",
-                "description": "<p>Each male harpy is a magpie-like corvid about the size of a housecat, and they like to take sharp and shiny things from people. They tie the sharp things they take onto their beaks and talons to augment their dive-bombing method of catching prey. Older harpies have a wide array of knives, spear points, bayonets and cutlery attached to their pointed white beaks, and bent carpentry nails, fishing hooks and climbing pitons bound to their feet. One swooping from a cave roof can easily puncture the armour of an incautious delver. Harpies will gladly work in teams to dive-bomb a lone wanderer, quickly rendering them incapable of proper retaliation through pain and blood-loss. The shit-caked birds cackle and caw at their prey as it dies, and often imitate the sound of its death throes, as they are capable (and apparently cruel) mimics. They bring the shiny things back to their bowers: mating sites intended to attract the attention of a female. To a harpy, “shiny” seems to mean occult resonance – they have an instinctive attraction towards items that are used to augment magical spells. Necklaces bearing wicked sigils, black-wax candlesandtwo-headedgoatplacentahaveallbeen stolen from travellers and arranged around the harpy’s mating site in curious patterns. Once the harpy has gathered enough shiny things, it will kill smaller creatures – rats, mice, feral piglets, pitchkin – and drag their corpses back to its bower where it will mark summoning sigils in their blood on the stone floor. Then, working on instinct alone, the harpy will caw out a mating call using fragments of language that it does not understand, stolen from the throats of the dying. This draws the attention of a female. The female harpy is a different beast: a humanoid the height of a drow, with great wings where its hands would be, but no less filthy or callous than the male. The bowers act as summoning circles to draw them forth from whatever hellish dimensiontheydwellin.Theyemergethrougharift in the blood-soaked floor and mate with the male (an act which generally results in his death). Fromthere, theywillscreechforthandexperience the joys that the Heart has to offer: fresh prey, the terror on the faces of their victims, the feeling of flightaftereonsofconfinementintheirgrimdimension. They live on borrowed time, as the magic used to summon them is as bestial and instinctive as they are. Only more death and fear can keep them in the CityBeneath, orelsetheywillcrumbletodustastheir spiritsaredraggedbacktotheirotherworldlyprison. The female harpy will aim to slaughter her way to a haven, kill whoever she can inside and lay as many eggs as possible before her soul is claimed. In time, these grey-black orbs will hatch – always into a male – and they will start the cycle again.</p>\n",
-                "descriptors": "<ul><li>Imitating the voice of someone who went missing from your haven; Tying a fishing hook onto its talons with surprising dexterity</li><li>Swooping towards you in a glinting blur.</li></ul>",
+                "description": "<p>Each male harpy is a magpie-like corvid about the size of a housecat, and they like to take sharp and shiny things from people. They tie the sharp things they take onto their beaks and talons to augment their dive-bombing method of catching prey. Older harpies have a wide array of knives, spear points, bayonets and cutlery attached to their pointed white beaks, and bent carpentry nails, fishing hooks and climbing pitons bound to their feet. One swooping from a cave roof can easily puncture the armour of an incautious delver. Harpies will gladly work in teams to dive-bomb a lone wanderer, quickly rendering them incapable of proper retaliation through pain and blood-loss. The shit-caked birds cackle and caw at their prey as it dies, and often imitate the sound of its death throes, as they are capable (and apparently cruel) mimics. They bring the shiny things back to their bowers: mating sites intended to attract the attention of a female. To a harpy, “shiny” seems to mean occult resonance – they have an instinctive attraction towards items that are used to augment magical spells. Necklaces bearing wicked sigils, black-wax candlesandtwo-headedgoatplacentahaveallbeen stolen from travellers and arranged around the harpy’s mating site in curious patterns. Once the harpy has gathered enough shiny things, it will kill smaller creatures – rats, mice, feral piglets, pitchkin – and drag their corpses back to its bower where it will mark summoning sigils in their blood on the stone floor. Then, working on instinct alone, the harpy will caw out a mating call using fragments of language that it does not understand, stolen from the throats of the dying. This draws the attention of a female.</p>",
+                "descriptors": "<ul><li>Imitating the voice of someone who went missing from your haven</li>\n<li>Tying a fishing hook onto its talons with surprising dexterity</li>\n<li>Swooping towards you in a glinting blur.</li></ul>",
                 "motivation": "To take sharp or shiny things; if people are carrying the things and won’t give them up, they’ll try to kill the people before hand.",
                 "difficulty": "Risky if you attack them as they’re swooping from on high; if you can corner them, they’re Standard.",
                 "resources": {
@@ -2065,13 +2065,13 @@
                     "sharp_things_tied_to_their_beaks_and_claws": "Sharp things tied to their beaks and claws (D6; D6, Brutal when they’re swooping).",
                     "description": "Sharp things tied to their beaks and claws (D6; D6, Brutal when they’re swooping)."
                 },
-                "names": "Only those they’ve stolen from people who died nearby.",
+                "names": "Only those they’ve stolen from people who died nearby",
                 "domains": "Wild, Desolate, Occult"
             },
             "market_serf": {
                 "name": "Market Serf",
                 "description": "<p>In the twisting depths of the Red Market, gangs of followers devoted to their Incarnadine masters carve out territory with bludgeon, sword and shot. To these serfs, their master is a godlike figure; they were all riddled with debt, and the Incarnadine saved them and their family from ruin in exchange for service. There are many households living comfortably in the lower levels of the City Above thanks to the good work of the Incarnadines and the bloody empires of trade and murder protected by their loyal serfs.</p>\n",
-                "descriptors": "<ul><li>Pushing jagged shards of coins into their gums to act as teeth</li><li>Bears records of their master’s financial transactions like a banner</li><li>Chants price lists like sacred mantras.</li></ul>",
+                "descriptors": "<ul><li>Pushing jagged shards of coins into their gums to act as teeth.</li>\n<li>Bears records of their master’s financial transactions like a banner.</li>\n<li>Chants price lists like sacred mantras.</li></ul>",
                 "motivation": "To bring heaping bounties to the feet of their splendid and gracious lords.",
                 "difficulty": "Standard",
                 "resources": {
@@ -2082,14 +2082,14 @@
                     "rusted": "Rusted, jagged blades (D6, Unreliable); one per group will carry either a blessed coin-firing blunderbuss (D6, Point-blank, Spread, One-shot) or a heavy club studded with sacred transactions (D8, Tiring).",
                     "description": "Rusted, jagged blades (D6, Unreliable); one per group will carry either a blessed coin-firing blunderbuss (D6, Point-blank, Spread, One-shot) or a heavy club studded with sacred transactions (D8, Tiring)."
                 },
-                "names": "Nux Ab-Crowfer, Quin Ex-Hypatia, Boswell Of-Tennant (Serfs take their master’s given name as their surname, usually with a prefix).",
+                "names": "Nux Ab-Crowfer, Quin Ex-Hypatia, Boswell Of-Tennant (Serfs take their master’s given name as their surname, usually with a prefix)",
                 "protectionDesc": "0, or 1 for favoured serfs",
-                "domains": "Warren, Religion."
+                "domains": "Warren, Religion"
             },
             "mirror_spiders": {
                 "name": "Mirror Spiders",
                 "description": "<p>In the dim and distant past of the world, a god fled into the Heart, fatally wounded from a thousand cuts. Shattered and broken, it turned into a thousand spiders, each with a shard of mirror on its back in a unique shape. These spiders fled through the Heart to try to evade capture from the god’s enemies. It worked; the spiders were not found. Each is a godlinginitsownright, andeachcultivatesasectof zealously devoted spiders and other, lesser insects around itself. They know that they can eat each other to gain power, and thattheycannotdiefromoldage.The largest and most powerful mirror spider has eaten seventy or so of its kin, and is the size of a dinner plate. (It is in the possession of a High Matriarch of the Church of the Moon Beneath, who uses it to do her hair; the spider believes the relationship to be a sort of marriage). Mirror spiders themselves aren’t much of a threat, unless they’re huge. The real danger comes from their suicide cults of mad insects ready to give their lives for the living god that walks among them. That, and the fact that should they gather together, they’ll become a full- scale god once more.</p>\n",
-                "descriptors": "<ul><li>Residing in a tiny temple of discarded newspaper</li><li>Sitting beneath a miniature idealised portrait of themselves, created by their followers</li><li>Has stuck shards of mirror onto their back to look more impressive to other spiders.</li></ul>",
+                "descriptors": "<ul><li>Residing in a tiny temple of discarded newspaper.</li>\n<li>Sitting beneath a miniature idealised portrait of themselves, created by their followers.</li>\n<li>Has stuck shards of mirror onto their back to look more impressive to other spiders.</li></ul>",
                 "motivation": "To find and consume other mirror spiders. If you can find someone who can speak to them, they’re often willing to bargain.",
                 "difficulty": "Standard",
                 "resources": {
@@ -2107,8 +2107,8 @@
             },
             "pitchkin": {
                 "name": "Pitchkin",
-                "description": "<p>These poor individuals were kicked out of the factories in the City Above because they were too ill to work. Spireblack, the flammable tar-like substance that collects in the eaves of factories, got into their lungs and ravaged their bodies with a black-vein sickness. They fled to the Heart and were warped by its energy until they formed a symbiotic relationship with the poison. Instead of killing them, it made them stronger (and took away their higher reasoning).</p>\n",
-                "descriptors": "<ul><li>Clinging to the underside of the ceiling with long black talons</li><li>Pausing to cough and retch up lumps of tar</li><li>Huge, jet- black eyes glinting in the darkness.</li></ul>",
+                "description": "These poor individuals were kicked out of the factories in the City Above because they were too ill to work. Spireblack, the flammable tar-like substance that collects in the eaves of factories, got into their lungs and ravaged their bodies with a black-vein sickness. They fled to the Heart and were warped by its energy until they formed a symbiotic relationship with the poison. Instead of killing them, it made them stronger (and took away their higher reasoning).",
+                "descriptors": "<ul><li>Clinging to the underside of the ceiling with long black talons.</li>\n<li>Pausing to cough and retch up lumps of tar.</li>\n<li>Huge, jet-black eyes glinting in the darkness.</li></ul>",
                 "motivation": "The pitchkin only want spireblack; they won’t bother you unless you threaten their supply. On occasion, traders carrying spireblack are attacked by bands of pitchkin.",
                 "difficulty": "Standard",
                 "resources": {
@@ -2121,12 +2121,12 @@
                 },
                 "special": "Pitchkin are extremely flammable. Fire inflicts D8 damage minimum when used against them; however, once a pitchkin is on fire, its unarmed damage increases to D8. There is a martyr caste that sets themselves on fire to protect the stocks, but these are rare.",
                 "names": "Each has a word marked on them which they now use as a name in their heavy, sussurating tongue: Vulpine, Wrath, Serrate, Quill.",
-                "domains": "Technology, Cursed."
+                "domains": "Technology, Cursed"
             },
             "red_saint": {
                 "name": "Red Saint",
-                "description": "<p>These towering sentinels sit upon jagged thrones on the surface of the Red Moon and listen to the prayers of the faithful in their dreams. When roused from their slumber – usually by invasive delvers or rare incursions from rival heavens – they are terrifying to behold.</p>\n",
-                "descriptors": "<ul><li>Carrying their own skin to illustrate the way they were martyred</li><li>Wrenching huge and rusted greatswords out of the ground and discarding them when they break</li><li>Bearing two additional sets of arms that glitter with jewellery.</li></ul>",
+                "description": "These towering sentinels sit upon jagged thrones on the surface of the Red Moon and listen to the prayers of the faithful in their dreams. When roused from their slumber – usually by invasive delvers or rare incursions from rival heavens – they are terrifying to behold.",
+                "descriptors": "<ul><li>Carrying their own skin to illustrate the way they were martyred</li>\n<li>Wrenching huge and rusted greatswords out of the ground and discarding them when they break</li>\n<li>Bearing two additional sets of arms that glitter with jewellery.</li></ul>",
                 "motivation": "To be left alone that they might hear those who pray to them.",
                 "difficulty": "Standard, but see fallout below.",
                 "resources": {
@@ -2138,14 +2138,14 @@
                     "description": "Rusted blackiron blades (D8, Brutal, Tiring). sted blackiron blades (D8, Brutal, Tiring)."
                 },
                 "special": "You can’t kill a Red Saint without access to forbidden Rituals of Extinguishing – something that the Church of the Moon Beneath might possess. The worst you can do without is incapacitate them, but their wounds heal in minutes.",
-                "names": "Saint Hellisent, Hallow Magdelene, Hallow Prothadeus.",
-                "domains": "Religion, Desolate."
+                "names": "Saint Hellisent, Hallow Magdelene, Hallow Prothadeus",
+                "domains": "Religion, Desolate"
             },
             "signal_box_cultists": {
                 "name": "Signal-Box Cultists",
                 "description": "<p>The Vermissian still has functioning signal-boxes: tiny rooms with mechanisms and lights that stutter into life, attempting to direct a train network that long ago slipped into a parasite dimension. Most of the information they give out is nonsense, and Vermissian Knights steer clear of them with a wariness that borders on superstition. But tunnel-dwellers – the luckless souls who make their homes in the infrastructure – view them as blind oracles that whisper secret truths to those brave enough to listen. The most devoted of these cults guard the signal- boxes, drape themselves in tattered raiments of the Vermissian (mouldering curtains from first-class carriages, rivets hammered into their bodies, implanted glass lenses over their eyes) and offer gibberish wisdom to vagrants in exchange for service or supplies.</p>\n",
-                "descriptors": "<ul><li>Limbs reinforced with rusted pistons with weeping sores at the entry points</li><li>Chanting the names of Vermissian stations, some of which exist</li><li>Blind, carrying a legless cultist on their back who directs them</li></ul>",
-                "motivation": "To induct others into the cult, to trade for supplies, ortoslitthethroatofaVermissian Knight and have them bleed out overthesignalmachinery.",
+                "descriptors": "<ul><li>Limbs reinforced with rusted pistons with weeping sores at the entry points</li>\n<li>Chanting the names of Vermissian stations, some of which exist</li>\n<li>Blind, carrying a legless cultist on their back who directs them</li></ul>",
+                "motivation": "To induct others into the cult, to trade for supplies, or to slit the throat of a Vermissian Knight and have them bleed out over the signal machinery.",
                 "difficulty": "Standard",
                 "resources": {
                     "description": "Rusted but still-functional machinery (D8, Niche)"
