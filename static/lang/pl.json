@@ -1695,7 +1695,7 @@
             "beacon.description": "Przedmiot przyciąga coś niebezpiecznego ku sobie.",
             "block.name": "Tarcza",
             "block.description": "+1 Ochrona <b>Krwi</b>.",
-            "bloodbound.name": "Więź <b>Krwi</b>",
+            "bloodbound.name": "Więź Krwi",
             "bloodbound.description": "Ponieś D4 stresu <b>Krwi</b>, by rzucać z mistrzostwem podczas korzystania z tego przedmiotu przez resztę sytuacji.",
             "brutal.name": "Brutalny",
             "brutal.description": "Kiedy zadajesz stress przeciwnikowi podczas używania tego przedmiotu, rzuć dwiema kośćmi i wybierz najwyższą. Tagi kumulują się: jeśli uda Ci się go zdobyć trzy razy, rzucisz czterema kośćmi i wybierzesz najwyższą z nich podczas obliczania stresu.",

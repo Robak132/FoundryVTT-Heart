@@ -2306,7 +2306,7 @@
                 "changes": [
                     "Update to work with foundry v10 (thanks to whitespine)"
                 ],
-                "version": "v0.5. 0"
+                "version": "v0.5.0"
             },
             "0_6_0": {
                 "bug_fixes": [
@@ -2323,7 +2323,7 @@
                 "notes": [
                     "Existing equipment will not have any Resistances associated with them."
                 ],
-                "version": "v0.6. 0"
+                "version": "v0.6.0"
             },
             "0_7_0": {
                 "changes": [
