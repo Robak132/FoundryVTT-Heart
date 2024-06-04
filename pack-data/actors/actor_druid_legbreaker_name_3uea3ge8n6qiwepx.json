@@ -38,8 +38,8 @@
     "resistanceMax": "8",
     "protection": 1,
     "protectionDesc": "",
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.druid_legbreaker.resources.description",
+    "equipment": "actor.druid_legbreaker.equipment.description",
     "special": "",
     "notes": "",
     "domains": "actor.druid_legbreaker.domains"

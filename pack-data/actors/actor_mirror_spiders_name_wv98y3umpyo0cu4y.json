@@ -34,7 +34,9 @@
     "motivation": "actor.mirror_spiders.motivation",
     "difficulty": "actor.mirror_spiders.difficulty",
     "special": "",
-    "domains": "actor.mirror_spiders.domains"
+    "domains": "actor.mirror_spiders.domains",
+    "resources": "actor.mirror_spiders.resources.description",
+    "equipment": "actor.mirror_spiders.equipment.description"
   },
   "effects": [],
   "_key": "!actors!wv98y3umpyo0cu4y"

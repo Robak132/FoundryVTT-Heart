@@ -36,7 +36,9 @@
     "resistanceMax": 20,
     "protection": 2,
     "special": "",
-    "domains": "actor.sourceborn_construct.domains"
+    "domains": "actor.sourceborn_construct.domains",
+    "resources": "actor.sourceborn_construct.resources.description",
+    "equipment": "actor.sourceborn_construct.equipment.description"
   },
   "effects": [],
   "_key": "!actors!qdi07he42x6g26oc"

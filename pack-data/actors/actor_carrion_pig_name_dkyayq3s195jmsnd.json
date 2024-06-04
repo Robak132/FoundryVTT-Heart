@@ -36,7 +36,9 @@
     "resistanceMax": 15,
     "protection": 5,
     "special": "",
-    "domains": "actor.carrion_pig.domains"
+    "domains": "actor.carrion_pig.domains",
+    "resources": "actor.carrion_pig.resources.description",
+    "equipment": "actor.carrion_pig.equipment.description"
   },
   "effects": [],
   "_key": "!actors!dkyayq3s195jmsnd"

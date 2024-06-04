@@ -35,7 +35,9 @@
     "difficulty": "actor.heartsblood_beast.difficulty",
     "resistanceMax": 5,
     "special": "",
-    "domains": "actor.heartsblood_beast.domains"
+    "domains": "actor.heartsblood_beast.domains",
+    "resources": "actor.heartsblood_beast.resources.description",
+    "equipment": "actor.heartsblood_beast.equipment.description"
   },
   "effects": [],
   "_key": "!actors!rcd9si5gas442vld"

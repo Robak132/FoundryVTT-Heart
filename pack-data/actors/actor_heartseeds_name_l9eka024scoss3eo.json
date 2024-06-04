@@ -34,7 +34,9 @@
     "motivation": "",
     "difficulty": "",
     "special": "",
-    "domains": ""
+    "domains": "",
+    "resources": "actor.heartseeds.resources.description",
+    "equipment": "actor.heartseeds.equipment.description"
   },
   "effects": [],
   "_key": "!actors!l9eka024scoss3eo"

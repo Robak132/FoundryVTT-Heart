@@ -36,7 +36,9 @@
     "resistanceMax": 30,
     "protection": 3,
     "special": "",
-    "domains": "actor.godbeast.domains"
+    "domains": "actor.godbeast.domains",
+    "resources": "actor.godbeast.resources.description",
+    "equipment": "actor.godbeast.equipment.description"
   },
   "effects": [],
   "_key": "!actors!e6va05g1x3j1l7r8"

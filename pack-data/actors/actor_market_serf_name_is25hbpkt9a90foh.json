@@ -36,8 +36,8 @@
     "resistance": "",
     "resistanceMax": "5",
     "protection": "",
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.market_serf.resources.description",
+    "equipment": "actor.market_serf.equipment.description",
     "special": "",
     "notes": "",
     "domains": "actor.market_serf.domains"

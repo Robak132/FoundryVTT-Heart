@@ -35,7 +35,9 @@
     "difficulty": "actor.skeleton_courtier.difficulty",
     "resistanceMax": 12,
     "special": "actor.skeleton_courtier.special",
-    "domains": "actor.skeleton_courtier.domains"
+    "domains": "actor.skeleton_courtier.domains",
+    "resources": "actor.skeleton_courtier.resources.description",
+    "equipment": "actor.skeleton_courtier.equipment.description"
   },
   "effects": [],
   "_key": "!actors!cxn22pxgx8wdzrmh"

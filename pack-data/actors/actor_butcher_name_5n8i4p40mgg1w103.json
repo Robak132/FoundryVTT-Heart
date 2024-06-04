@@ -51,8 +51,8 @@
     "resistance": "",
     "resistanceMax": "10",
     "protection": 3,
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.butcher.resources.description",
+    "equipment": "actor.butcher.equipment.description",
     "special": "",
     "notes": "",
     "domains": "actor.butcher.domains"

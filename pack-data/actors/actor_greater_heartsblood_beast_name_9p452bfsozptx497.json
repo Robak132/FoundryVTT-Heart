@@ -36,8 +36,8 @@
     "resistance": "",
     "resistanceMax": "10",
     "protection": 2,
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.greater_heartsblood_beast.resources.description",
+    "equipment": "actor.greater_heartsblood_beast.equipment.description",
     "special": "",
     "notes": "",
     "domains": "actor.greater_heartsblood_beast.domains"

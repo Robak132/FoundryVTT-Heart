@@ -1,3 +1,4 @@
+import glob
 import json
 import re
 from collections.abc import MutableMapping
@@ -35,13 +36,11 @@ def unflatten_dict(d):
 
 
 if __name__ == '__main__':
-    en = json.load(open('static/lang/en.json', 'r', encoding="utf-8"))
-    for key, value in en["heart"]["actor"].items():
-        if "resources.description" in value.keys():
-            value["resources"]["description"] = value["resources.description"]
-            value.pop("resources.description")
-        if "equipment.description" in value.keys():
-            value["equipment"]["description"] = value["equipment.description"]
-            value.pop("equipment.description")
-
-    json.dump(en, open(f'static/lang/en.json', 'w+', encoding="utf-8"), ensure_ascii=False, indent=4)
+    for name in glob.glob("pack-data/actors/*"):
+        file = json.load(open(name, "r", encoding="utf-8"))
+        key = ".".join(file["name"].split(".")[:-1])
+        file["system"]["resources"] = f"{key}.resources.description"
+        file["system"]["equipment"] = f"{key}.equipment.description"
+        with open(name, "w", encoding="utf-8") as f:
+            json.dump(file, f, ensure_ascii=False, indent=2)
+            f.write("\n")

@@ -36,7 +36,9 @@
     "resistanceMax": 5,
     "protection": 2,
     "special": "",
-    "domains": "actor.gnoll_incursion_team.domains"
+    "domains": "actor.gnoll_incursion_team.domains",
+    "resources": "actor.gnoll_incursion_team.resources.description",
+    "equipment": "actor.gnoll_incursion_team.equipment.description"
   },
   "effects": [],
   "_key": "!actors!uvyr0qf4b8dwoecb"

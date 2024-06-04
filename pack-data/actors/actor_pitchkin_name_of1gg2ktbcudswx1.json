@@ -36,7 +36,9 @@
     "resistanceMax": 7,
     "protection": 0,
     "special": "actor.pitchkin.special",
-    "domains": "actor.pitchkin.domains"
+    "domains": "actor.pitchkin.domains",
+    "resources": "actor.pitchkin.resources.description",
+    "equipment": "actor.pitchkin.equipment.description"
   },
   "effects": [],
   "_key": "!actors!of1gg2ktbcudswx1"

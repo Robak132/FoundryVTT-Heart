@@ -36,7 +36,9 @@
     "resistanceMax": 13,
     "protection": 1,
     "special": "actor.female_harpy.special",
-    "domains": "actor.female_harpy.domains"
+    "domains": "actor.female_harpy.domains",
+    "resources": "actor.female_harpy.resources.description",
+    "equipment": "actor.female_harpy.equipment.description"
   },
   "effects": [],
   "_key": "!actors!wtoobmzvrerw6z8v"

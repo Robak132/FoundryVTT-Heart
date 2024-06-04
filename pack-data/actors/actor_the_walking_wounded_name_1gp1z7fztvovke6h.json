@@ -34,7 +34,9 @@
     "motivation": "actor.the_walking_wounded.motivation",
     "difficulty": "actor.the_walking_wounded.difficulty",
     "special": "actor.the_walking_wounded.special",
-    "domains": "actor.the_walking_wounded.domains"
+    "domains": "actor.the_walking_wounded.domains",
+    "resources": "actor.the_walking_wounded.resources.description",
+    "equipment": "actor.the_walking_wounded.equipment.description"
   },
   "effects": [],
   "_key": "!actors!1gp1z7fztvovke6h"

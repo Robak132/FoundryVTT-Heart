@@ -36,7 +36,9 @@
     "resistanceMax": 3,
     "protection": 0,
     "special": "",
-    "domains": "actor.flightless_owl_hive.domains"
+    "domains": "actor.flightless_owl_hive.domains",
+    "resources": "actor.flightless_owl_hive.resources.description",
+    "equipment": "actor.flightless_owl_hive.equipment.description"
   },
   "effects": [],
   "_key": "!actors!ag1ol73d9ph3i379"

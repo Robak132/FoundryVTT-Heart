@@ -36,7 +36,9 @@
     "resistanceMax": 7,
     "protection": 2,
     "special": "",
-    "domains": "actor.feral_psychopomp.domains"
+    "domains": "actor.feral_psychopomp.domains",
+    "resources": "actor.feral_psychopomp.resources.description",
+    "equipment": "actor.feral_psychopomp.equipment.description"
   },
   "effects": [],
   "_key": "!actors!uzs9im0yltz9atsn"

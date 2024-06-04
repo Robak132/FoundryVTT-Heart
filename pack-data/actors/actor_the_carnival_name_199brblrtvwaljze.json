@@ -36,7 +36,9 @@
     "resistanceMax": 4,
     "protection": 0,
     "special": "actor.the_carnival.special",
-    "domains": "actor.the_carnival.domains"
+    "domains": "actor.the_carnival.domains",
+    "resources": "actor.the_carnival.resources.description",
+    "equipment": "actor.the_carnival.equipment.description"
   },
   "effects": [],
   "_key": "!actors!199brblrtvwaljze"

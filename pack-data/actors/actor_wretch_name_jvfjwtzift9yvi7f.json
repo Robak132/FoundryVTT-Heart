@@ -104,8 +104,8 @@
     "resistance": "",
     "resistanceMax": "6",
     "protection": "",
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.wretch.resources.description",
+    "equipment": "actor.wretch.equipment.description",
     "special": "",
     "notes": "",
     "domains": "actor.wretch.domains"

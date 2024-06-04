@@ -68,8 +68,8 @@
     "resistanceMax": "4",
     "protection": 0,
     "protectionDesc": "",
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.signal_box_cultists.resources.description",
+    "equipment": "actor.signal_box_cultists.equipment.description",
     "special": "actor.signal_box_cultists.special",
     "notes": "",
     "domains": "actor.signal_box_cultists.domains"

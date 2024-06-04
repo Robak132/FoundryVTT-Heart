@@ -87,8 +87,8 @@
     "resistanceMax": "6",
     "protection": 0,
     "protectionDesc": "",
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.burnt_out_occultist.resources.description",
+    "equipment": "actor.burnt_out_occultist.equipment.description",
     "special": "actor.burnt_out_occultist.special",
     "notes": "",
     "domains": "actor.burnt_out_occultist.domains"

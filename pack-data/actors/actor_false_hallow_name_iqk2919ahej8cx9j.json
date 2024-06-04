@@ -36,7 +36,9 @@
     "resistanceMax": 8,
     "protection": 3,
     "special": "actor.false_hallow.special",
-    "domains": "actor.false_hallow.domains"
+    "domains": "actor.false_hallow.domains",
+    "resources": "actor.false_hallow.resources.description",
+    "equipment": "actor.false_hallow.equipment.description"
   },
   "effects": [],
   "_key": "!actors!iqk2919ahej8cx9j"

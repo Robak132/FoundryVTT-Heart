@@ -20,7 +20,7 @@
     </div>
     
     {{#if (and showTextboxesBelowItems description_path)}}
-    {{editor (lookup actor.system description_path) target=(join "." "system" description_path) button=true editable=editable owner=owner}}
+    {{editor (localizeHeart (lookup actor.system description_path)) target=(localizeHeart (join "." "system" description_path)) button=true editable=editable owner=owner}}
     {{/if}}
 </div>
 {{/inline}}

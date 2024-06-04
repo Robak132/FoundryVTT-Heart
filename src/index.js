@@ -252,22 +252,10 @@ function sanitizeString(text) {
     return text.substring(start, stop)
 }
 
-Hooks.on('preCreateItem', function(document, data, options, userId) {
-    document.updateSource({
-        name: localizeHeart(document.name)
-    });
-});
-
-Hooks.on('preCreateActor', function(document, data, options, userId) {
-    document.updateSource({
-        name: localizeHeart(document.name)
-    });
-});
-
 Hooks.on('updateActor', function(document, data, options, userId) {
     let [key, value] = Object.entries(flattenObject({'system': data.system}))[0]
-    console.log(key, value)
     if (value == null) return
+    console.log(key, value)
     let sanitizedString = sanitizeString(value)
     if (localizeHeart(sanitizedString) !== value) {
         console.log("updating", key, sanitizedString)
@@ -279,8 +267,8 @@ Hooks.on('updateActor', function(document, data, options, userId) {
 
 Hooks.on('updateItem', function(document, data, options, userId) {
     let [key, value] = Object.entries(flattenObject({'system': data.system}))[0]
-    console.log(key, value)
     if (value == null) return
+    console.log(key, value)
     let sanitizedString = sanitizeString(value)
     if (localizeHeart(sanitizedString) !== value) {
         console.log("updating", key, sanitizedString)

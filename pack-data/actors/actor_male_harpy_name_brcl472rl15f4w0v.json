@@ -36,7 +36,9 @@
     "resistanceMax": 4,
     "protection": 0,
     "special": "",
-    "domains": "actor.male_harpy.domains"
+    "domains": "actor.male_harpy.domains",
+    "resources": "actor.male_harpy.resources.description",
+    "equipment": "actor.male_harpy.equipment.description"
   },
   "effects": [],
   "_key": "!actors!brcl472rl15f4w0v"

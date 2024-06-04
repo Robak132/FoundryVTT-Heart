@@ -36,8 +36,8 @@
     "resistance": "",
     "resistanceMax": "12",
     "protection": 0,
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.the_cult_of_knives.resources.description",
+    "equipment": "actor.the_cult_of_knives.equipment.description",
     "special": "actor.the_cult_of_knives.special",
     "notes": "",
     "domains": "actor.the_cult_of_knives.domains"

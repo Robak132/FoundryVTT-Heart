@@ -36,8 +36,8 @@
     "resistance": "",
     "resistanceMax": "5",
     "protection": "",
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.ghost.resources.description",
+    "equipment": "actor.ghost.equipment.description",
     "special": "actor.ghost.special",
     "notes": "",
     "domains": "actor.ghost.domains"

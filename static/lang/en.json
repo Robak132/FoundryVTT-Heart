@@ -1,5 +1,7 @@
 {
     "heart": {
+        "name.multiple": "Names",
+        "name.single": "Name",
         "ability.multiple": "Abilities",
         "ability.single": "Ability",
         "active-beat.multiple": "Active Beats",
@@ -100,7 +102,6 @@
         "is-active": "Is Active?",
         "is-complete": "Is Complete?",
         "motivation": "Motivation",
-        "name": "Name",
         "none": "None",
         "notes": "Notes",
         "open-parent": "Open Parent",

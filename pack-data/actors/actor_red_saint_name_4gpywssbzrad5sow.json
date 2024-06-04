@@ -36,8 +36,8 @@
     "resistance": "",
     "resistanceMax": "16",
     "protection": 2,
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.red_saint.resources.description",
+    "equipment": "actor.red_saint.equipment.description",
     "special": "actor.red_saint.special",
     "notes": "",
     "domains": "actor.red_saint.domains"

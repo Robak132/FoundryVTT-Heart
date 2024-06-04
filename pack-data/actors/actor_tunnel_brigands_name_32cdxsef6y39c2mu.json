@@ -38,8 +38,8 @@
     "resistanceMax": "5",
     "protection": 1,
     "protectionDesc": "",
-    "resources": [],
-    "equipment": [],
+    "resources": "actor.tunnel_brigands.resources.description",
+    "equipment": "actor.tunnel_brigands.equipment.description",
     "special": "",
     "notes": "",
     "domains": "actor.tunnel_brigands.domains"
