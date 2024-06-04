@@ -37,12 +37,11 @@ def unflatten_dict(d):
 if __name__ == '__main__':
     en = json.load(open('static/lang/en.json', 'r', encoding="utf-8"))
     for key, value in en["heart"]["actor"].items():
-        replacer("Names", "names", value)
-        replacer("Resistance", "resistanceDesc", value)
-        replacer("Protection", "ProtectionDesc", value)
-        replacer("Resources", "resources.description", value)
-        replacer("Equipment", "equipment.description", value)
-        replacer("Domains", "domains", value)
+        if "resources.description" in value.keys():
+            value["resources"]["description"] = value["resources.description"]
+            value.pop("resources.description")
+        if "equipment.description" in value.keys():
+            value["equipment"]["description"] = value["equipment.description"]
+            value.pop("equipment.description")
 
-    en = unflatten_dict(en)
     json.dump(en, open(f'static/lang/en.json', 'w+', encoding="utf-8"), ensure_ascii=False, indent=4)

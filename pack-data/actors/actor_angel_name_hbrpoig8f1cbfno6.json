@@ -9,6 +9,8 @@
     "descriptors": "actor.angel.descriptors",
     "motivation": "actor.angel.motivation",
     "difficulty": "actor.angel.difficulty",
+    "resistanceDesc": "actor.angel.resistanceDesc",
+    "protectionDesc": "actor.angel.protectionDesc",
     "resistance": "",
     "resistanceMax": "20",
     "protection": "",

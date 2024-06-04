@@ -1777,7 +1777,7 @@
                 "special": "The first time you see a particular angel, roll <b>Endure+Cursed</b> and mark D10 stress to Mind on a failure.",
                 "names": "Crimsonian, Vulperine, Theolosian (anyone who witnesses an angel knows its name instinctively; indeed, they are unable to forget it)",
                 "resistanceDesc": "20. Reducing an angel’s resistance to 0 will render them unable to move or act; as their flesh rapidly putrefies, it will be born again in some distant stone womb.",
-                "ProtectionDesc": "Equal to the tier on which they are encountered. <b>PIERCING</b> weapons will not overcome this.",
+                "protectionDesc": "Equal to the tier on which they are encountered. <b>PIERCING</b> weapons will not overcome this.",
                 "resources.description": "Caul (D12, Occult; when worn, heartsblood creatures will treat you as kin)",
                 "equipment.description": "Unmaking hands (Damage D10, Piercing)",
                 "domains": "Cursed, Occult; but angels can be found in any domain if their mission takes them there, and few things can stop them."
@@ -1797,7 +1797,7 @@
                 },
                 "special": "If you acquire an Automaton of Burden, it functions as a (Delve D6) item.",
                 "names": "Bessie, Vyssos 3-X, Wrench",
-                "ProtectionDesc": "0, unless their owner has reinforced them to 1 or 2.",
+                "protectionDesc": "0, unless their owner has reinforced them to 1 or 2.",
                 "resources.description": "Frantic animal intelligence (D6, Occult); Spare parts (D8, Technology).",
                 "equipment.description": "Spindly legs (Kill D4).",
                 "domains": "Technology"
@@ -1968,7 +1968,7 @@
                 },
                 "special": "Consuming an appropriate resource with the OCCULT or RELIGION tags and a value of D6 or greater allows a character to ignore the ghosts’ protection value until the end of the situation (e.g. anointing your hammer with holy water, wrapping prayer flags around your fists, scattering sacred salt). Researching the specific item needed to affect a specific ghost allows the character to ignore the ghosts’ protection value and increases their stress inflicted by two steps (e.g. etching the ghost’s suicide note into your sword, wrapping their late husband’s hair around your wrists, trapping them in a room by pouring dirt from their grave into the keyholes).",
                 "names": "Old-fashioned names like Enriette, Gregorious, Burrage.",
-                "ProtectionDesc": "10 (Not ignored by Piercing, see below).",
+                "protectionDesc": "10 (Not ignored by Piercing, see below).",
                 "resources.description": "Nothing of import.",
                 "equipment.description": "Spectral claw (D6, Piercing); Otherworldly phenomena (D6, Spread, One- Shot).",
                 "domains": "Cursed, Occult, Religion."
@@ -2039,7 +2039,7 @@
                     "teeth_and_claws": "Teeth and claws"
                 },
                 "names": "None that they use themselves, but the townsfolk in the Heart will ascribe titles to particularly infamous beasts: Red-Tooth, Shadow, Fat Jack.",
-                "ProtectionDesc": "0, usually; 1 if it’s particularly fierce.",
+                "protectionDesc": "0, usually; 1 if it’s particularly fierce.",
                 "resources.description": "Often: Meat and fur (D6); Rarely: Curious and unique bones (D10, Niche).",
                 "equipment.description": "Teeth and claws (D6).",
                 "domains": "Wild, Warren"
@@ -2081,7 +2081,7 @@
                     "rusted": "Rusted, jagged blades (D6, Unreliable); one per group will carry either a blessed coin-firing blunderbuss (D6, Point-blank, Spread, One-shot) or a heavy club studded with sacred transactions (D8, Tiring)."
                 },
                 "names": "Nux Ab-Crowfer, Quin Ex-Hypatia, Boswell Of-Tennant (Serfs take their master’s given name as their surname, usually with a prefix).",
-                "ProtectionDesc": "0, or 1 for favoured serfs",
+                "protectionDesc": "0, or 1 for favoured serfs",
                 "resources.description": "Often: A few bloodied nail-like coins (D4, Haven); Rarely: Something you could use as leverage against their master (D10, Religion).",
                 "equipment.description": "Rusted, jagged blades (D6, Unreliable); one per group will carry either a blessed coin-firing blunderbuss (D6, Point-blank, Spread, One-shot) or a heavy club studded with sacred transactions (D8, Tiring).",
                 "domains": "Warren, Religion."
@@ -2100,7 +2100,7 @@
                 },
                 "names": "Each has a fragment of the true name of their original god; the sort of unwritable syllables that leave a bad taste in your mouth and smoke hanging in the air.",
                 "resistanceDesc": "6 per swarm – you can crush any individual member of it without bother.",
-                "ProtectionDesc": "4. Weapons that hit many insects at once (brooms, burning torches, etc) ignore this protection, but Piercing weapons don’t.",
+                "protectionDesc": "4. Weapons that hit many insects at once (brooms, burning torches, etc) ignore this protection, but Piercing weapons don’t.",
                 "resources.description": "Each mirror spider is worth between a D6 and D12 resource, depending on the size and complexity of the mirror on their back. The miniature holy books and devotional art pieces are of interest to collectors (D8, Niche) but worthless otherwise.",
                 "equipment.description": "Suicide Spiders that crawl into armour and down throats (D6, Piercing; each time it’s used, remove 1 resistance from the swarm).",
                 "domains": "Warren, Religion"
@@ -2173,7 +2173,7 @@
                 },
                 "special": "Their bony bodies lower stress dice from edged weapons and bullets by 1 step, but increase the stress dice from blunt weapons by 1 step.",
                 "names": "Ser Ethelren, Ser Fenswith, Lady Arablast.",
-                "ProtectionDesc": "0 to 2, depending on whether they were buried in diaphanous gowns or ancient platemail.",
+                "protectionDesc": "0 to 2, depending on whether they were buried in diaphanous gowns or ancient platemail.",
                 "resources.description": "Tarnished but beautiful burial goods (D8).",
                 "equipment.description": "Ancient and rusted weaponry (D8, Unreliable)",
                 "domains": "Warren"
@@ -2211,7 +2211,7 @@
                 },
                 "special": "Fire inflicts double stress when used against the Blighted.",
                 "names": "They don’t have, or really understand, names. Things are marked by their geographic location rather than a distinct moniker; where you are is what you are.",
-                "ProtectionDesc": "4 versus weapons that can’t chop down trees.",
+                "protectionDesc": "4 versus weapons that can’t chop down trees.",
                 "resources.description": "Parasite samples (D8, Cursed, Dangerous); Assorted equipment and bones from its kills (D6, Haven, Wild).",
                 "equipment.description": "Impaling branches (D8).",
                 "domains": "Wild"
@@ -2258,11 +2258,10 @@
                 "descriptors": "<ul><li>Somewhere in the depths of their minds they still remember their names, but their mouths are too twisted to pronounce them.</li></ul>",
                 "motivation": "Medals fused into chest; Bandages made of crumbling skin covering their sores; Dragging a heavy jezail that’s melded with their arms.",
                 "difficulty": "To get home, which is a hopeless endeavour, becauseeveryonetheyknowdieddecades ago. Many believe they’re still at war with whoever they meet, but you might be able to convince them otherwise. Some, accompanied by their insane and undying aelfir officers, are still attemptingtofulfiltheiroriginalmissions.",
-                "equipment": "Nothing of value.",
                 "special": "Jagged bone spurs and knives (D6); Rusted archaic firearms (D8, Ranged). Items removed from the walking wounded corrode completely within minutes, making them unusable by others.",
                 "names": "You’ll see them at the edge of a haven: rendered senseless, bandages over ruined eyes, hands on each others’ shoulders, limping in a line to Goddess knows where. If you’re brave enough to approach them, you’ll realise that they aren’t a line of soldiers – they’re all one mass of flesh, hand- stumps fused to shoulders, ancient iron pistols melded with puckered skin and twisting bone. Some are still following their original mission: to dig trenches, repel invaders or take enemy positions and slaughter everyone inside. Most are just trying, blind and broken, to get home.",
                 "resistanceDesc": "Standard – they can’t see or hear properly, but they can sense movement uncannily well.",
-                "ProtectionDesc": "4 for each “surviving” member of the squad; most have around resistance 20.",
+                "protectionDesc": "4 for each “surviving” member of the squad; most have around resistance 20.",
                 "equipment.description": "Nothing of value.",
                 "domains": "Cursed, Desolate."
             },
@@ -2296,7 +2295,7 @@
                     "retching_bile": "Retching bile"
                 },
                 "names": "Gronk, Chrysanth, Felice.",
-                "ProtectionDesc": "2 when they’re under the surface, but 0 if you can get them onto dry-ish land.",
+                "protectionDesc": "2 when they’re under the surface, but 0 if you can get them onto dry-ish land.",
                 "resources.description": "The creatures and the garbage they swim around in are useless outside of the tunnels, but inside it they’re praised with a reverence that makes them (D6, Religion) items.",
                 "domains": "Warren"
             }

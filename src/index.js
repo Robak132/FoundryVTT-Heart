@@ -267,19 +267,27 @@ Hooks.on('preCreateActor', function(document, data, options, userId) {
 Hooks.on('updateActor', function(document, data, options, userId) {
     let [key, value] = Object.entries(flattenObject({'system': data.system}))[0]
     console.log(key, value)
-    if (value === null) return
-    document.update({
-        [key]: sanitizeString(value)
-    })
+    if (value == null) return
+    let sanitizedString = sanitizeString(value)
+    if (localizeHeart(sanitizedString) !== value) {
+        console.log("updating", key, sanitizedString)
+        document.update({
+            [key]: sanitizedString
+        })
+    }
 });
 
 Hooks.on('updateItem', function(document, data, options, userId) {
     let [key, value] = Object.entries(flattenObject({'system': data.system}))[0]
     console.log(key, value)
-    if (value === null) return
-    document.update({
-        [key]: sanitizeString(value)
-    })
+    if (value == null) return
+    let sanitizedString = sanitizeString(value)
+    if (localizeHeart(sanitizedString) !== value) {
+        console.log("updating", key, sanitizedString)
+        document.update({
+            [key]: sanitizedString
+        })
+    }
 });
 
 if (module.hot) {
