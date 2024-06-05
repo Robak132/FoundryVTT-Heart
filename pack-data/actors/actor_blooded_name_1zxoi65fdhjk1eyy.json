@@ -5,14 +5,14 @@
   "items": [
     {
       "type": "resource",
-      "name": "Jewellery, keepsakes and valuables",
+      "name": "actor.blooded.resources.jewellery",
       "system": {
         "die_size": "d6",
         "description": "",
         "children": {},
         "active": true,
         "complete": false,
-        "domain": "desolate"
+        "domain": "misc"
       },
       "_id": "37q9ah8rvhs1k3aq",
       "img": "systems/heart/assets/ore.svg",
@@ -22,7 +22,7 @@
     },
     {
       "type": "equipment",
-      "name": "Knife, club or poor-quality sword",
+      "name": "actor.blooded.equipment.knife",
       "system": {
         "die_size": "d6",
         "description": "",
@@ -42,7 +42,7 @@
     },
     {
       "type": "equipment",
-      "name": "Whatever ranged weapons they could scare up",
+      "name": "actor.blooded.equipment.ranged_weapon",
       "system": {
         "die_size": "d8",
         "description": "",

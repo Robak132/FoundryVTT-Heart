@@ -84,6 +84,7 @@
     "resistance": "",
     "resistanceMax": "10",
     "protection": "",
+    "protectionDesc": "actor.automaton_of_burden.protectionDesc",
     "resources": [],
     "equipment": [],
     "special": "actor.automaton_of_burden.special",

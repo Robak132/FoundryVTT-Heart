@@ -61,7 +61,7 @@
       "type": "resource",
       "name": "actor.butcher.resources.victims_leavings_name",
       "system": {
-        "die_size": "d6",
+        "die_size": "d8",
         "description": "actor.butcher.resources.victims_leavings_description",
         "children": {},
         "active": true,

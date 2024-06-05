@@ -5,9 +5,10 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.the_carnival.resources",
+      "name": "actor.the_carnival.resources.whatever_they_were_carrying",
       "system": {
-        "active": true
+        "active": true,
+        "domain": "misc"
       },
       "_id": "jbf7ny03vkxtufdj",
       "img": "systems/heart/assets/ore.svg",
@@ -16,9 +17,15 @@
     },
     {
       "type": "equipment",
-      "name": "actor.the_carnival.equipment",
+      "name": "actor.the_carnival.equipment.breakable_noise_maker",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "active": true,
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "kdfr21520rn6hw1h",
       "img": "systems/heart/assets/battle-gear.svg",

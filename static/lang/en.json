@@ -1807,8 +1807,8 @@
                 "motivation": "To live in the Heart in peace, and not get killed thanks to some clueless delver unleashing hell.",
                 "difficulty": "Standard",
                 "resources": {
-                    "jewellery": "Their bodies, or body parts, can be sold as medical curiosities, but most havens in the Heart frown on this.",
-                    "description": "Jewellery, keepsakes and valuables (D6). Their bodies, or body parts, can be sold as medical curiosities, but most havens in the Heart frown on this."
+                    "jewellery": "Jewellery, keepsakes and valuables",
+                    "description": "Their bodies, or body parts, can be sold as medical curiosities, but most havens in the Heart frown on this."
                 },
                 "equipment": {
                     "knife": "Knife, club or poor-quality sword",
@@ -2192,8 +2192,7 @@
                     "assorted_equipment": "Assorted equipment and bones from its kills"
                 },
                 "equipment": {
-                    "impaling_branches": "Impaling branches",
-                    "description": "Impaling branches (D8)."
+                    "impaling_branches": "Impaling branches"
                 },
                 "special": "Fire inflicts double stress when used against the Blighted.",
                 "names": "They don’t have, or really understand, names. Things are marked by their geographic location rather than a distinct moniker; where you are is what you are.",
@@ -2207,11 +2206,19 @@
                 "motivation": "To dance! Occasionally they’ll come to their senses and scream in pain and hunger, so many troupes include a drummer among their number to keep the rhythm going.",
                 "difficulty": "Standard",
                 "resources": {
-                    "whatever_they_were_carrying_when_the_infection_took_hold": "Whatever they were carrying when the infection took hold"
+                    "whatever_they_were_carrying": "Whatever they were carrying when the infection took hold"
                 },
                 "equipment": {
-                    "most_carry_breakable_noise_makers__or_are_unarmed": "Most carry breakable noise-makers (D6, One-Shot) or are unarmed; none of them are really interested in fighting, though.",
-                    "description": "Most carry breakable noise-makers (D6, One-Shot) or are unarmed; none of them are really interested in fighting, though."
+                    "breakable_noise_maker": "Breakable noise-maker",
+                    "description": "Most carry breakable noise-makers  or are unarmed; none of them are really interested in fighting, though."
+                },
+                "fallout": {
+                    "stuck_in_your_head.name": "Stuck in Your Head",
+                    "stuck_in_your_head.description": "The carnival itches in the back of your mind. At the end of every session that you go without spreading the infection to others via singing it aloud, representing it in art, etc., mark D6 stress to Mind.",
+                    "dancer.name": "Dancer",
+                    "dancer.description": "The Carnival has you. You dance off into the darkness; your allies will be able to find you, as you and your new companions are certainly making enough noise. They’ll have to drag you out and tie you down until the feeling passes, or leave you to your death.",
+                    "damned.name": "Damned",
+                    "damned.description": "Feet broken and bloody, lips cracked and broken from dehydration, you cackle and spasm your last in some piss-stained back alley or godforsaken cave. You die."
                 },
                 "special": "Hearing the song of the carnival triggers an <b>Endure+Occult</b> check with D6 stress to Mind on a failure; getting up close (say, if you were rescuing someone) increases the stress to D8. You can overcome this by plugging your ears with wax or something similar, but this brings its own complications.",
                 "names": "Gregor, Yolande, Klimpt",

@@ -101,8 +101,9 @@
     "resistance": "",
     "resistanceMax": "10",
     "protection": "",
-    "resources": "actor.the_blighted.resources.description",
-    "equipment": "actor.the_blighted.equipment.description",
+    "protectionDesc": "actor.the_blighted.equipment.protectionDesc",
+    "resources": "",
+    "equipment": "",
     "special": "actor.the_blighted.special",
     "notes": "",
     "domains": "actor.the_blighted.domains"
