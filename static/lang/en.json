@@ -1967,8 +1967,7 @@
                 "motivation": "Standard. One gnoll per party is designated Protector and is Risky instead",
                 "difficulty": "Standard. One gnoll per party is designated Protector and is Risky instead",
                 "resources": {
-                    "arcanotechnological_detritus": "Arcanotechnological detritus, none of which you understand (D10, Technology, Occult, Dangerous).",
-                    "description": "Arcanotechnological detritus, none of which you understand (D10, Technology, Occult, Dangerous)."
+                    "arcanotechnological_detritus": "Arcanotechnological detritus, none of which you understand"
                 },
                 "equipment": {
                     "gilded_shotcannon__or_prey_hook": "Gilded shotcannon (D8, Point- blank, Reload, Expensive) or Prey-Hook (D6, Debilitating, Ranged); Arcanochemical bombs (D6, Ranged, Spread, One-Shot).",
@@ -2204,7 +2203,7 @@
                 "difficulty": "Standard",
                 "resources": {
                     "whatever_they_were_carrying_when_the_infection_took_hold": "Whatever they were carrying when the infection took hold (D4)",
-                    "description": "Whatever they were carrying when the infection took hold (D4)"
+                    "description": "Whatever they were carrying when the infection took hold"
                 },
                 "equipment": {
                     "most_carry_breakable_noise_makers__or_are_unarmed": "Most carry breakable noise-makers (D6, One-Shot) or are unarmed; none of them are really interested in fighting, though.",

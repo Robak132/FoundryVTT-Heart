@@ -1936,7 +1936,8 @@
                 "equipment": {
                     "beaks_and_claws": "Dzioby i pazury",
                     "description": "Dzioby i pazury"
-                }
+                },
+                "motivation": "Obrona królowej i zapewnienie bezpieczeństwa ulowi."
             },
             "greater_heartsblood_beast": {
                 "resources": {
@@ -2003,7 +2004,8 @@
                 "difficulty": "Standardowy",
                 "equipment": {
                     "heavy_bore_archaic_pistol": "Archaiczny wielkokalibrowy pistolet"
-                }
+                },
+                "domains": "Norowisko, choć bandytów można znaleźć wszędzie tam, gdzie są podróżnicy."
             },
             "the_cult_of_knives": {
                 "difficulty": "Ryzykowny",
@@ -2054,7 +2056,10 @@
             "gnoll_incursion_team": {
                 "name": "Gnollska Jednostka Taktyczna",
                 "domains": "Technologia",
-                "difficulty": "Standardowa. Jeden gnoll w drużynie jest Obrońcą o trudności Ryzykownej"
+                "difficulty": "Standardowa. Jeden gnoll w drużynie jest Obrońcą o trudności Ryzykownej",
+                "resources": {
+                    "arcanotechnological_detritus": "Niezrozumiałe arkanotechnologiczne szczątki"
+                }
             },
             "godbeast": {
                 "name": "Boska Bestia",
@@ -2104,7 +2109,10 @@
             "the_carnival": {
                 "name": "Karnawał",
                 "difficulty": "Standardowy",
-                "domains": "Schronienie, Odludzie"
+                "domains": "Schronienie, Odludzie",
+                "resources": {
+                    "description": "Cokolwiek mieli ze sobą, gdy infekcja się zaczęła"
+                }
             },
             "sourceborn_construct": {
                 "difficulty": "Ryzykowny",
