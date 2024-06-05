@@ -2084,7 +2084,8 @@
                 "motivation": "Spokój, by mogli usłyszeć tych, którzy się do nich modlą.",
                 "equipment": {
                     "rusted_blackiron_blades": "Zardzewiałe ostrza z czarnego żelaza"
-                }
+                },
+                "difficulty": "Standardowa, ale spójrz na konsekwencje."
             },
             "the_carnival": {
                 "name": "Karnawał",

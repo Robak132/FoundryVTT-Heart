@@ -2136,9 +2136,6 @@
                 "descriptors": "<ul><li>Limbs reinforced with rusted pistons with weeping sores at the entry points</li>\n<li>Chanting the names of Vermissian stations, some of which exist</li>\n<li>Blind, carrying a legless cultist on their back who directs them</li></ul>",
                 "motivation": "To induct others into the cult, to trade for supplies, or to slit the throat of a Vermissian Knight and have them bleed out over the signal machinery.",
                 "difficulty": "Standard",
-                "resources": {
-                    "description": "Rusted but still-functional machinery (D8, Niche)"
-                },
                 "equipment": {
                     "rustedbutstill__functional_machinery": "Rusted but still-functional machinery",
                     "description": "Rusted but still-functional machinery (D8, Niche)"
