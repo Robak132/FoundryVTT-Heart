@@ -1870,7 +1870,8 @@
                 "name": "Anioł",
                 "difficulty": "Niebezpieczny",
                 "resources": {
-                    "caul_name": "Pęcherz"
+                    "caul_name": "Pęcherz",
+                    "caul_description": "Kiedy go nosisz, sercokrwiste istoty traktują cię jak jednego ze swoich."
                 }
             },
             "automaton_of_burden": {
@@ -1897,7 +1898,8 @@
                     "nightmare_claws": "Koszmarne szpony"
                 },
                 "name": "Rzeźnik",
-                "domains": "Dzicz, Norowisko, Klątwa"
+                "domains": "Dzicz, Norowisko, Klątwa",
+                "motivation": "By zdobyć mięso (żywe, jeśli to możliwe) dla swojej jaskini."
             },
             "carrion_pig": {
                 "name": "Ścierwoświnia",
@@ -1992,7 +1994,9 @@
                     "assorted_equipment": "Różnorodny sprzęt i kości jego ofiar"
                 },
                 "domains": "Dzicz",
-                "motivation": "By swędzenie ustało."
+                "motivation": "By swędzenie ustało.",
+                "special": "Ogień zadaje podwójny stres, gdy jest używany przeciwko Zarażonym.",
+                "protectionDesc": "4 przeciwko broni, która nie może ścinać drzew."
             },
             "tunnel_brigands": {
                 "name": "Tunelowi Bandyci",
@@ -2036,7 +2040,8 @@
                 },
                 "equipment": {
                     "sickles": "Sierpy, kilofy i grzybowe haki"
-                }
+                },
+                "motivation": "By chronić interesy swoich panów: Wysokich Druidów."
             },
             "ghost": {
                 "name": "Duch",
@@ -2106,7 +2111,8 @@
                 "domains": "Technologia",
                 "motivation": "Chronić i naprawiać tajemnicze znaki na ścianach Źródła.",
                 "resources": {
-                    "machine_heart": "Serce maszyny"
+                    "machine_heart": "Serce maszyny",
+                    "impossibly_keen_metal": "Niemożliwie ostry metal do produkcji mieczy"
                 }
             },
             "the_walking_wounded": {
