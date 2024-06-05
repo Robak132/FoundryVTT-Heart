@@ -2006,6 +2006,9 @@
                 "resources": {
                     "ritual_gewgaws_and_tchotchkes_made_of_mushrooms_and_animal_bones": "Rytualne gadżety i bibeloty wykonane z grzybów i zwierzęcych kości",
                     "description": "Rytualne gadżety i bibeloty wykonane z grzybów i kości zwierząt (D6, Dzicz)."
+                },
+                "equipment": {
+                    "sickles": "Sierpy, kilofy i grzybowe haki"
                 }
             },
             "ghost": {

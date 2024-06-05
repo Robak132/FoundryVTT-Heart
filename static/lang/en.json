@@ -1890,8 +1890,7 @@
                 "motivation": "To foster a cult around them and grow in power; this might be for pious or selfish reasons, but it’s hard to tell the difference.",
                 "difficulty": "Dangerous",
                 "resources": {
-                    "unhallowed_relics": "Unhallowed relics",
-                    "description": "Unhallowed relics (D10, Occult)"
+                    "unhallowed_relics": "Unhallowed relics"
                 },
                 "equipment": {
                     "simple_work_tools_or_repurposed_ritual_items": "Simple work tools or repurposed ritual items (Kill D10 in their hands, Kill D6 for anyone else).",
@@ -1913,7 +1912,7 @@
                     "harpy_heart": "Harpy Heart"
                 },
                 "equipment": {
-                    "hideous_talons": "Hideous talons (D8, Brutal).",
+                    "hideous_talons": "Hideous talons",
                     "description": "Hideous talons (D8, Brutal)."
                 },
                 "special": "If the Harpy inflicts Minor Blood or Mind fallout, it restores D4 stamina; it restores D6 if it inflicts Major or Critical fallout.",
