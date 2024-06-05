@@ -1844,8 +1844,7 @@
                     "description": "Butcher entrails (D6, prized for making warding sigils); Antlers (D6-D10, depending on the number of points); Victims’ leavings if you can find their cave and deal with the smell (D8)."
                 },
                 "equipment": {
-                    "nightmare_claws": "Nightmare claws",
-                    "description": "Nightmare claws (D10)"
+                    "nightmare_claws": "Nightmare claws"
                 },
                 "names": "They don’t have names anymore; if they have to refer to each other, they do so in terms of their position, smell and deeds.",
                 "domains": "Wild, Warren, Cursed"
@@ -1865,7 +1864,7 @@
                     "description": "Crushing body and champing jaws (Kill D8, Brutal)."
                 },
                 "names": "Owners tend not to name carrion-pigs because they don’t want to empathize with them.",
-                "domains": "Haven, Wild."
+                "domains": "Haven, Wild"
             },
             "druid_legbreaker": {
                 "name": "Druid Legbreaker",
@@ -1882,7 +1881,7 @@
                     "description": "Sickles, picks and mushroom- hooks (Damage D6)."
                 },
                 "names": "Rhoz, Thorne, Pitch",
-                "domains": "Wild."
+                "domains": "Wild"
             },
             "false_hallow": {
                 "name": "False Hallow",
@@ -1988,7 +1987,7 @@
                     "description": "Gilded shotcannon (D8, Point- blank, Reload, Expensive) or Prey-Hook (D6, Debilitating, Ranged); Arcanochemical bombs (D6, Ranged, Spread, One-Shot)."
                 },
                 "names": "A blue-white searchlight stabbing through the darkness, illuminating you but leaving them in shadow; Screwing bulky lenses into place on their visor to observe a heartsblood creature; Tracing circuit- board patterns in blood around a humming battery to recharge it; Reinforcing subdermal shielding and limbic wards.",
-                "domains": "Technology."
+                "domains": "Technology"
             },
             "godbeast": {
                 "name": "Godbeast",
@@ -2023,7 +2022,7 @@
                     "description": "Massive claws, jagged teeth, suckered pseudopods (D8)."
                 },
                 "names": "None that they use themselves, but the townsfolk in the Heart will ascribe titles to particularly infamous beasts: Red-Tooth, Shadow, Fat Jack.",
-                "domains": "Wild, Warren."
+                "domains": "Wild, Warren"
             },
             "heartsblood_beast": {
                 "name": "Heartsblood Beast",
@@ -2130,7 +2129,7 @@
                 "motivation": "To be left alone that they might hear those who pray to them.",
                 "difficulty": "Standard, but see fallout below.",
                 "resources": {
-                    "burning_crown": "Burning Crown (D12)",
+                    "burning_crown": "Burning Crown",
                     "description": "Burning Crown (D12)"
                 },
                 "equipment": {
@@ -2207,7 +2206,7 @@
                     "description": "Parasite samples (D8, Cursed, Dangerous); Assorted equipment and bones from its kills (D6, Haven, Wild)."
                 },
                 "equipment": {
-                    "impaling_branches": "Impaling branches.",
+                    "impaling_branches": "Impaling branches",
                     "description": "Impaling branches (D8)."
                 },
                 "special": "Fire inflicts double stress when used against the Blighted.",

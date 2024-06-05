@@ -1867,7 +1867,184 @@
         },
         "actor": {
             "angel": {
-                "name": "Anioł"
+                "name": "Anioł",
+                "difficulty": "Niebezpieczny",
+                "resources": {
+                    "caul_name": "Pęcherz"
+                }
+            },
+            "automaton_of_burden": {
+                "resources": {
+                    "frantic_animal_intelligence": "Szalona zwierzęca inteligencja",
+                    "spare_parts": "Części zamienne"
+                },
+                "difficulty": "Standardowa",
+                "equipment": {
+                    "spindly_legs": "Wrzecionowate nogi"
+                },
+                "name": "Automat Pociągowy",
+                "domains": "Technologia"
+            },
+            "blooded": {
+                "name": "Skrwawiony",
+                "difficulty": "Standardowy",
+                "domains": "Dzicz, Klątwa"
+            },
+            "butcher": {
+                "difficulty": "Ryzykowny",
+                "equipment": {
+                    "nightmare_claws": "Koszmarne szpony"
+                },
+                "name": "Rzeźnik"
+            },
+            "carrion_pig": {
+                "name": "Ścierwoświnia",
+                "domains": "Schronienie, Dzicz"
+            },
+            "false_hallow": {
+                "difficulty": "Niebezpieczny",
+                "name": "Fałszywy Święty",
+                "domains": "Religia, Okultyzm"
+            },
+            "female_harpy": {
+                "name": "Samica harpii",
+                "difficulty": "Ryzykowny",
+                "domains": "Dzicz, Odludzie"
+            },
+            "feral_psychopomp": {
+                "name": "Dzika Psychopompa",
+                "difficulty": "Standardowy",
+                "domains": "Religia, Odludzie"
+            },
+            "flightless_owl_hive": {
+                "name": "Ul Sów Nielotów",
+                "difficulty": "Standardowy",
+                "equipment": {
+                    "beaks_and_claws": "Dzioby i pazury"
+                }
+            },
+            "greater_heartsblood_beast": {
+                "resources": {
+                    "meat_and_fur": "Mięso i futro"
+                },
+                "name": "Większa Sercokrwista Bestia",
+                "motivation": "Cień",
+                "domains": "Dzicz, Norowisko"
+            },
+            "male_harpy": {
+                "resources": {
+                    "scrap_metal": "Złom"
+                },
+                "name": "Samiec harpii"
+            },
+            "pitchkin": {
+                "name": "Smolak",
+                "resources": {
+                    "spireblack_reserves": "Rezerwy iglicadzy"
+                },
+                "difficulty": "Standardowy",
+                "domains": "Technologia, Klątwa"
+            },
+            "signal_box_cultists": {
+                "difficulty": "Standardowy"
+            },
+            "skeleton_courtier": {
+                "difficulty": "Standardowy",
+                "name": "Szkielet Dworzanin",
+                "domains": "Norowisko"
+            },
+            "the_blighted": {
+                "name": "Zarażony",
+                "equipment": {
+                    "impaling_branches": "Przebijające gałęzie"
+                },
+                "difficulty": "Standardowy",
+                "resources": {
+                    "parasite_samples": "Próbki pasożytów"
+                },
+                "domains": "Dzicz"
+            },
+            "tunnel_brigands": {
+                "name": "Tunelowi Bandyci",
+                "difficulty": "Standardowy"
+            },
+            "the_cult_of_knives": {
+                "difficulty": "Ryzykowny"
+            },
+            "wretch": {
+                "name": "Nieszczęśnik",
+                "resources": {
+                    "creatures_and_garbage": "Stworzenia i śmieci"
+                },
+                "domains": "Norowisko"
+            },
+            "burnt_out_occultist": {
+                "difficulty": "Standardowy",
+                "name": "Wypalony okultysta"
+            },
+            "druid_legbreaker": {
+                "name": "Druid Łamacz Nóg",
+                "difficulty": "Standardowy",
+                "domains": "Dzicz"
+            },
+            "ghost": {
+                "name": "Duch",
+                "resources": {
+                    "nothing_of_import": "Nic ważnego"
+                }
+            },
+            "gnoll_incursion_team": {
+                "name": "Gnollska Jednostka Taktyczna",
+                "domains": "Technologia"
+            },
+            "godbeast": {
+                "name": "Boska Bestia",
+                "resources": {
+                    "pelt": "Futro"
+                },
+                "domains": "Dzicz"
+            },
+            "heartsblood_beast": {
+                "name": "Sercokrwista Bestia",
+                "difficulty": "Standardowy",
+                "resources": {
+                    "meat_and_fur": "Mięso i futro"
+                },
+                "equipment": {
+                    "teeth_and_claws": "Zęby i pazury"
+                },
+                "domains": "Dzicz, Norowisko"
+            },
+            "heartseeds": {
+                "name": "Esencja Serca"
+            },
+            "market_serf": {
+                "difficulty": "Standardowy",
+                "domains": "Norowisko, Religia"
+            },
+            "mirror_spiders": {
+                "name": "Lustrzane Pająki",
+                "difficulty": "Standardowy",
+                "domains": "Norowisko, Religia"
+            },
+            "red_saint": {
+                "resources": {
+                    "burning_crown": "Płonąca Korona"
+                },
+                "name": "Czerwony Święty",
+                "domains": "Religia, Odludzie"
+            },
+            "the_carnival": {
+                "name": "Karnawał",
+                "difficulty": "Standardowy",
+                "domains": "Schronienie, Odludzie"
+            },
+            "sourceborn_construct": {
+                "difficulty": "Ryzykowny",
+                "domains": "Technologia"
+            },
+            "the_walking_wounded": {
+                "domains": "Klątwa, Odludzie"
             }
         }
     }
