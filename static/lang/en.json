@@ -2104,8 +2104,7 @@
                 "motivation": "The pitchkin only want spireblack; they won’t bother you unless you threaten their supply. On occasion, traders carrying spireblack are attacked by bands of pitchkin.",
                 "difficulty": "Standard",
                 "resources": {
-                    "spireblack_reserves": "Spireblack reserves",
-                    "description": "Spireblack reserves (D8, Technology)"
+                    "spireblack_reserves": "Spireblack reserves"
                 },
                 "equipment": {
                     "filthy_teeth_and_claws": "Filthy teeth and claws"
