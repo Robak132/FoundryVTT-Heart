@@ -2057,8 +2057,7 @@
                 "difficulty": "Risky if you attack them as they’re swooping from on high; if you can corner them, they’re Standard.",
                 "resources": {
                     "scrap_metal": "Scrap metal",
-                    "occult_gewgaws": "Occult gewgaws at their bower",
-                    "description": "Scrap metal (D4, Haven), Occult gewgaws at their bower (D6, Occult)."
+                    "occult_gewgaws": "Occult gewgaws at their bower"
                 },
                 "equipment": {
                     "sharp_things_tied_to_their_beaks_and_claws": "Sharp things tied to their beaks and claws (D6; D6, Brutal when they’re swooping).",

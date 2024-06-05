@@ -1969,7 +1969,10 @@
                 "difficulty": "Standardowy"
             },
             "the_cult_of_knives": {
-                "difficulty": "Ryzykowny"
+                "difficulty": "Ryzykowny",
+                "resources": {
+                    "barely_anything": "Prawie nic istotnego, chociaż może uda ci się sprzedać noże."
+                }
             },
             "wretch": {
                 "name": "Nieszczęśnik",
