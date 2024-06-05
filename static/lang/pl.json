@@ -1872,7 +1872,8 @@
                 "resources": {
                     "caul_name": "Pęcherz",
                     "caul_description": "Kiedy go nosisz, sercokrwiste istoty traktują cię jak jednego ze swoich."
-                }
+                },
+                "protectionDesc": "Równa poziomowi, na którym został napotkany. <b>PRZEBIJAJĄCE</b> bronie nie usuwają tej ochrony."
             },
             "automaton_of_burden": {
                 "resources": {
@@ -1890,7 +1891,10 @@
             "blooded": {
                 "name": "Skrwawiony",
                 "difficulty": "Standardowy",
-                "domains": "Dzicz, Klątwa"
+                "domains": "Dzicz, Klątwa",
+                "equipment": {
+                    "knife": "Nóż, pałka lub kiepskiej jakości miecz"
+                }
             },
             "butcher": {
                 "difficulty": "Ryzykowny",
@@ -1983,7 +1987,8 @@
                 },
                 "equipment": {
                     "ancient_and_rusted_weaponry": "Starożytna zardzewiała broń"
-                }
+                },
+                "protectionDesc": "Od 0 do 2, w zależności od tego, czy został pochowany w prześwitujących sukniach, czy starożytnych zbrojach."
             },
             "the_blighted": {
                 "name": "Zarażony",
@@ -2128,7 +2133,8 @@
                 "protectionDesc": "4 za każdego \"ocalałego\" członka oddziału; większość oddziałów ma około 20 odporności.",
                 "equipment": {
                     "description": "Nic wartościowego."
-                }
+                },
+                "resistanceDesc": "Standardowa, nie są w stanie prawidłowo widzieć i słyszeć, ale niewiarygodnie dobrze wyczuwać ruch."
             }
         }
     }

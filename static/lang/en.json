@@ -1810,7 +1810,7 @@
                     "description": "Jewellery, keepsakes and valuables (D6). Their bodies, or body parts, can be sold as medical curiosities, but most havens in the Heart frown on this."
                 },
                 "equipment": {
-                    "knife": "Knife, club or poor-quality sword (D6); whatever ranged weapons they could scare up (D8, Ranged, One-Shot)",
+                    "knife": "Knife, club or poor-quality sword",
                     "description": "Knife, club or poor-quality sword (D6); whatever ranged weapons they could scare up (D8, Ranged, One-Shot)"
                 },
                 "names": "Normal people names, perhaps about fifty years out of date: Versellian, Xandrix, Sewain, Brimner",
@@ -2165,7 +2165,10 @@
                     "impossibly_keen_metal": "Impossibly keen metal to make sword-blades from"
                 },
                 "equipment": {
-                    "ultrasharp_metal_shards": "Ultrasharp metal shards (D6, Brutal, Piercing, Ranged. When used by another, they gain the Dangerous tag).",
+                    "ultrasharp_metal_shards": {
+                        "description": "When used by another, gain the Dangerous tag.",
+                        "name": "Ultrasharp metal shards"
+                    },
                     "description": "Ultrasharp metal shards (D6, Brutal, Piercing, Ranged. When used by another, they gain the Dangerous tag)."
                 },
                 "names": "None in a language that you can understand or speak",
