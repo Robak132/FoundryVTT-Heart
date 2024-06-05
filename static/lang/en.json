@@ -1887,8 +1887,7 @@
                     "unhallowed_relics": "Unhallowed relics"
                 },
                 "equipment": {
-                    "simple_work_tools_or_repurposed_ritual_items": "Simple work tools or repurposed ritual items (Kill D10 in their hands, Kill D6 for anyone else).",
-                    "description": "Simple work tools or repurposed ritual items (Kill D10 in their hands, Kill D6 for anyone else)."
+                    "simple_work_tools_or_repurposed_ritual_items": "Simple work tools or repurposed ritual items (Kill D10 in their hands, Kill D6 for anyone else)."
                 },
                 "special": "False Hallows will often be surrounded by a cult of some kind; use the Signal-Box Cultist to represent them, but exchange the Technology domain for Religion.",
                 "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting",

@@ -2029,7 +2029,8 @@
                 "domains": "Norowisko",
                 "equipment": {
                     "dirty_teeth_and_claws": "Brudne zęby i pazury"
-                }
+                },
+                "protectionDesc": "2, gdy jest pod powierzchnią, ale 0, jeśli uda ci się go wyciągnąć na suchy ląd."
             },
             "burnt_out_occultist": {
                 "difficulty": "Standardowy",
