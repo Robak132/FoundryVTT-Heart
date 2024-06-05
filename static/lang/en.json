@@ -1809,8 +1809,7 @@
                     "description": "Jewellery, keepsakes and valuables (D6). Their bodies, or body parts, can be sold as medical curiosities, but most havens in the Heart frown on this."
                 },
                 "equipment": {
-                    "knife": "Knife, club or poor-quality sword",
-                    "description": "Knife, club or poor-quality sword (D6); whatever ranged weapons they could scare up (D8, Ranged, One-Shot)"
+                    "knife": "Knife, club or poor-quality sword"
                 },
                 "names": "Normal people names, perhaps about fifty years out of date: Versellian, Xandrix, Sewain, Brimner",
                 "domains": "Wild, Cursed"
