@@ -701,7 +701,7 @@
                     "zenith": {
                         "extinguish.description": "<i>Twoja śmierć przemawia do ciebie łagodnie i słodko: możesz zabić, co tylko zechcesz.</i> Wykorzystując swoją władzę nad życiem i śmiercią oraz wiążąc własną energię z zaklęciem, możesz przywołać dowolną osobę, istotę, miejsce lub koncepcję (poza samym Sercem) do fizycznego naczynia. Następnie możesz je zabić, niszcząc twój cel wraz ze sobą samym. Naczynie ma statystyki określone przez MG, nie musisz walczyć z nią sam. Możesz (nawet powinieneś) przechylić nieco szalę na swoją korzyść. Jeśli uda ci się je zabić, ty również zginiesz. <b>Zabijanie</b> miejsc powoduje ich zniszczenie. <b>Zabijanie</b> pojęć powoduje ich usunięcie z umysłów mieszkańców Serca. Istnieją granice tego, co można osiągnąć dzięki tej zdolności. Zabicie <b>oddychania</b>, nie sprawi, że ludzie nie będą oddychać, ale nie będą już wiedzieć, co robią i dlaczego jest to ważne.",
                         "extinguish.name": "Wygaszenie",
-                        "infernal_claws.description": "<i>You learn the secrets of the Dark Place.</i> You know the location of and the route to hell (or something close to it). You can also summon fallen angels and other agents of misrule to drag a target down there. Compared to hell, the Eight Heavens seem like pretty nice places to spend an eternity. This process traps the target there indefinitely, wracking it with torments and driving it insane. Dragging someone to hell in this way consumes your life essence, and your death embraces you for one final time before stopping your heart.",
+                        "infernal_claws.description": "<i>Poznajesz sekrety Mrocznego Miejsca.</i> Znasz lokalizację i drogę do piekła (lub czegoś podobnego). Możesz także przywoływać upadłe anioły i innych wysłanników zła, by zaciągnąć tam dowolny cel. W porównaniu z piekłem Osiem Niebios wydaje się całkiem przyjemnymi miejscami na spędzenie wieczności. Twój cel zostanie uwięziony na wieki w mękach, doprowadzających go do szaleństwa. Zaciągnięcie kogoś do piekła w ten sposób zużyje całą twoją esencję życiową, a twoja śmierć obejmie cię po raz ostatni, zanim zatrzyma twoje serce.",
                         "infernal_claws.name": "Piekielne Szpony",
                         "sunder_the_veil.description": "<i>Ostatnim tchnieniem otwierasz przejście do nieba, a jego energia zalewa okolicę, powodując spontaniczne cuda.</i> Musisz umrzeć, by aktywować tę zdolność. Wszyscy pobliscy sojusznicy usuwają wszystkie trwające konsekwencje, cały poniesiony stres i zyskują mistrzostwo we wszystkich rzutach do końca sytuacji.",
                         "sunder_the_veil.name": "Rozedrzyj Zasłonę"
@@ -1456,7 +1456,7 @@
                     "creepy.name": "Dziwny",
                     "creepy.description": "Reagujesz w dziwny sposób, który straszy twoich sojuszników. Opowiedz, jak to robisz. Każdy, kto to zobaczy, otrzymuje D4 stresu <b>Umysłu</b>. [Natychmiastowa]",
                     "collateral_magic.name": "Dzika Magia",
-                    "collateral_magic.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of blood and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. This fallout can be upgraded to <b>AETHERIC RESONANCE</b>. [Immediate]",
+                    "collateral_magic.description": "Twój spanikowany umysł pęka na sekundę i przekształca się według tajemnego wzoru. Tutaj, na dole, stara magia krwi i kości działa lepiej niż na powierzchni. Natychmiast rzucasz <b>ETERYCZNĄ ZMORĘ</b> na pobliskiego sojusznika, ale nie otrzymujesz za to żadnego stresu. Ta konsekwencja może zostać ulepszona do <b>ETERYCZNY REZONANS</b>. [Natychmiastowa]",
                     "fascination.name": "Fascynacja",
                     "fascination.description": "Stajesz się obsesyjnie zainteresowany dziwnym tematem, zazwyczaj tym, który wywołał konsekwencję. Musisz spróbować dowiedzieć się więcej na ten temat, jeśli to możliwe, z pierwszej ręki. Za każdym razem, gdy próbujesz dowiedzieć się więcej o swojej dziwnej fascynacji, rzuć z mistrzostwem. Jeśli będziesz mieć możliwość dowiedzenia się o niej i odmówisz, otrzymasz D4 stresu <b>Umysłu</b>. [Trwająca]",
                     "figment.name": "Wymysł",
@@ -1488,7 +1488,7 @@
                     "hex-eye.name": "Klątwa Wielowzroku",
                     "hex-eye.description": "Twój wzrok zmienia się i zaczynasz dostrzegać światy inne niż twój, ułożone jeden na drugim. Każda podjęta przez ciebie akcja wymagająca dokładnej oceny odległości (skok, strzał, bieg korytarzem) staje się Ryzykowna. Raz na sesję możesz zobaczyć coś przydatnego, zapytaj MG co to takiego. [Trwająca]",
                     "the_ravening_call.name": "Drapieżny Zew",
-                    "the_ravening_call.description": "Ta Konsekwencja nie daje żadnych efektów, ale pozostaje na twojej postaci i czasami objawia się jako urywany skowyt w ich umyśle. Konsekwencja może zostać ulepszona do DRAPIEŻNA <b>BESTIA</b>. [Trwająca]",
+                    "the_ravening_call.description": "Ta Konsekwencja nie daje żadnych efektów, ale pozostaje na twojej postaci i czasami objawia się jako urywany skowyt w ich umyśle. Konsekwencja może zostać ulepszona do <b>DRAPIEŻNA BESTIA</b>. [Trwająca]",
                     "strange_appetite.name": "Dziwny Apetyt",
                     "strange_appetite.description": "Pragniesz czegoś niezwykłego, tabu, zamiast dobrego, uczciwego mięsa i napoju: zardzewiałego metalu, żywych stworzeń, robactwa, ścieków, używanych ubrań, ukochanych zwierząt domowych itp. Następnym razem, gdy odwiedzisz miejsce odpoczynku i spróbujesz usunąć stres <b>Krwi</b> lub <b>Umysłu</b>, musisz szukać tych dziwactw i oddać się im. Jeśli tego nie zrobisz, nie będziesz w stanie usunąć stresu. Po oddaniu się dziwności usuń tę konsekwencję. Ta konsekwencja może zostać ulepszona do <b>MROCZNE PRAGNIENIA</b>. [Trwająca]",
                     "siren_song.name": "Syreni Śpiew",
@@ -1552,7 +1552,7 @@
                 },
                 "mind": {
                     "aetheric_resonance.name": "Eteryczny rezonans",
-                    "aetheric_resonance.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of blood and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. Also, you permanently learn <b>AETHERIC SCOURGE</b> and can cast it at will. [Ongoing]",
+                    "aetheric_resonance.description": "Twój spanikowany umysł pęka na sekundę i przekształca się według tajemnego wzoru. Tutaj, na dole, stara magia krwi i kości działa lepiej niż na powierzchni. Natychmiast rzucasz <b>ETERYCZNĄ ZMORĘ</b> na pobliskiego sojusznika, ale nie otrzymujesz za to żadnego stresu. Permanentnie uczysz się zaklęcia <b>ETERYCZNA ZMORA</b> i możesz je rzucać, kiedy chcesz. [Trwająca]",
                     "addict.name": "Uzależnienie",
                     "addict.description": "You realise that you have become reliant on drugs to keep yourself stable. When you're high (or drunk, or whatever) you take <b>Mind</b> stress normally, but all tasks that require extended concentration or fine manipulation become Risky. When you're not intoxicated and you suffer stress to <b>Mind</b>, roll twice and pick the higher dice. It takes a few minutes to get high and a few hours to sober up. [Ongoing]",
                     "delusion.name": "Złudzenie",
@@ -1564,7 +1564,7 @@
                     "phantasm.name": "Urojenie",
                     "phantasm.description": "Przestajesz rozróżniać, tego co jest prawdziwe, a co nie. MG wybiera Poważną Konsekwencję z innej odporności i mówi ci, że ją masz. Dopóki ta konsekwencja nie zostanie usunięta, jesteś przekonany, że cierpisz z jej powodu (bez względu na to, co mówią ci inni) i cierpisz z powodu wszystkich odpowiednich efektów. MG może poinformujesz gracza, że jest to złudzenie, lub tego nie robić. [Trwająca]",
                     "scarred.name": "Blizna",
-                    "scarred.description": "Your mind cracks and reforms in primal, instinctive patterns. The GM chooses one: Fight (attack the problem in an attempt to destroy it), Flight (get away from the problem by any means necessary) or Freeze (do not act, putting yourself in danger). In addition, every time you encounter the source of the fallout from now on, the GM can ask you to make an <b>Endure</b> check or suffer D8 stress to <b>Mind</b>. [Ongoing]",
+                    "scarred.description": "Twój umysł pęka i przyjmuje pierwotne wzorce oparte na instynkcie. MG wybiera jedno: Walcz (zaatakuj problem, próbując go zniszczyć), Uciekaj (ucieknij od problemu wszelkimi niezbędnymi środkami) lub Zastygnij (nie rób nic, narażając się na niebezpieczeństwo). Za każdym razem, gdy od tej pory napotkasz źródło konsekwencji, MG może poprosić cię o wykonanie testu <b>Odporności</b> lub otrzymanie D8 stresu <b>Umysłu</b>. [Trwająca]",
                     "unsettling.name": "Niepokojący",
                     "unsettling.description": "Zachowujesz się w dziwny sposób, powodując dyskomfort u swoich towarzyszy. MG wybiera jeden: Walcz (zaatakuj problem, próbując go zniszczyć), Uciekaj (ucieknij od problemu wszelkimi niezbędnymi środkami) lub Zastygnij (nie rób nic, narażając się na niebezpieczeństwo). Każda przyjazna postać, która cię widzi, otrzymuje D6 stresu <b>Umysłu</b>. Usuń tę Konsekwencję na koniec sytuacji. [Natychmiastowa]"
                 },
@@ -1572,7 +1572,7 @@
                     "blooded.name": "Skrwawiony",
                     "blooded.description": "Wykazujesz pewne znaki Serca w swojej fizycznej formie: skręcone, kruche poroże z kości, paznokcie zakrzywione w ostre fraktalne wzory, bioluminescencyjne żyły, dodatkowe stawy w kończynach i tak dalej. Twoja krucha śmiertelna forma nie została zaprojektowana do wykorzystywania w ten sposób. Dlatego, gdy otrzymujesz stres <b>Krwi</b>, rzuć dwiema kośćmi i wybierz wyższy wynik. [Trwająca]",
                     "cult.name": "Kult",
-                    "cult.description": "Your actions mark you as a true scion of the Heart, and weird people/creatures will trail around you, espousing your glories (whether real or imagined). This is nothing but trouble, and any attempt to take advantage of them will go wrong. Getting into a haven will be difficult with this many people around, so you'd best hope that some of them die along the way. [Ongoing]",
+                    "cult.description": "Twoje akcje powodują, że jesteś uważany za prawdziwego wysłannika Serca. Dziwni ludzie i stworzenia otaczają cię, opowiadając o twoich wyczynach (prawdziwych lub wyimaginowanych). Każda próba ich wykorzystania zakończy się niepowodzeniem, więc przynoszą tylko kłopoty. Przy takiej liczbie ludzi, dostanie się do schronienia będzie trudne, więc miejmy nadzieje, że część z nich zginie po drodze. [Trwająca]",
                     "darkcravings.name": "Mroczne Pragnienia",
                     "darkcravings.description": "Pragniesz czegoś niezwykłego, tabu, zamiast dobrego, uczciwego mięsa i napoju: zardzewiałego metalu, żywych stworzeń, robactwa, ścieków, używanych ubrań, ukochanych zwierząt domowych itp. Następnym razem, gdy odwiedzisz miejsce odpoczynku i spróbujesz usunąć stres <b>Krwi</b> lub <b>Umysłu</b>, musisz szukać tych dziwactw i oddać się im. Jeśli tego nie zrobisz, nie będziesz w stanie usunąć stresu. Efekt będzie trwały, dopóki ta konsekwencja nie zostanie usunięta. [Trwająca]",
                     "eyes.name": "Oczy",
@@ -1584,7 +1584,7 @@
                     "mirage.name": "Miraż",
                     "mirage.description": "Następnym miejsce, do którego docierasz to duplikat stworzony przez Serce, który ma zadanie dać ci dokładnie to czego, potrzebujesz. Wygląda na prawdziwe, ale im więcej odkrywasz, tym bardziej oczywiste jest, że wszystko: ulice, książki, ludzie jest tylko iluzją. To kunsztowna kopia wykonana z mięsa, kości i krwi. Wygląda na to, że istnieje tu od setek lat. Kiedy zdasz sobie sprawę, że miejsce nie jest prawdziwe, usuń tę konsekwencję. [Natychmiastowa]",
                     "the_ravening_beast.name": "Drapieżna Bestia",
-                    "the_ravening_beast.description": "Emerging from a patch of shadows, the Ravening Beast that has been hiding in your mind appears. It will attempt to maul others, but its primary motivation is to consume you utterly. Fighting off the beast does not remove this fallout, but it has no further effect unless you upgrade this fallout (see <b>THE RAVENING</b>). [Immediate]",
+                    "the_ravening_beast.description": "Drapieżna Bestia, która dotąd ukrywała się w twoim umyśle, wyłania się z plamy cienia. Będzie atakowała innych, ale jej głównym celem jest pochłonięcie ciebie. Pokonanie bestii nie usuwa tej konsekwencji, ale nie będzie miała ona żadnego efektu, o ile jej nie ulepszysz (patrz <b>POCHŁONIĘCIE</b>). [Natychmiastowa]",
                     "reconfigured_physiology.name": "Zmieniona Fizjologia",
                     "reconfigured_physiology.description": "Twoje organy i kości tracą sens. Nie możesz usuwać stresu, ani konsekwencji <b>Krwi</b> w miejscach odpoczynku lub za pomocą zestawów medycznych. W jakiś sposób objawia się to na zewnątrz: nietypowe narośle wybrzuszające się pod skórą, siniaki w kształcie słów, czarna krew i tym podobne. [Trwająca]",
                     "vanished.name": "Zniknięcie",
@@ -1873,7 +1873,10 @@
                     "caul_name": "Pęcherz",
                     "caul_description": "Kiedy go nosisz, sercokrwiste istoty traktują cię jak jednego ze swoich."
                 },
-                "protectionDesc": "Równa poziomowi, na którym został napotkany. <b>PRZEBIJAJĄCE</b> bronie nie usuwają tej ochrony."
+                "protectionDesc": "Równa poziomowi, na którym został napotkany. <b>PRZEBIJAJĄCE</b> bronie nie usuwają tej ochrony.",
+                "equipment": {
+                    "unmaking_hands": "Ręce rozkładu"
+                }
             },
             "automaton_of_burden": {
                 "resources": {
@@ -1918,7 +1921,8 @@
             "false_hallow": {
                 "difficulty": "Niebezpieczny",
                 "name": "Fałszywy Święty",
-                "domains": "Religia, Okultyzm"
+                "domains": "Religia, Okultyzm",
+                "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting"
             },
             "female_harpy": {
                 "name": "Samica harpii",
@@ -1928,12 +1932,18 @@
                     "description": "Jeśli zabijesz ją, zanim się rozpadnie: Serce Harpii.",
                     "harpy_heart": "Serce Harpii"
                 },
-                "motivation": "Zabijanie, picie krwi i składanie jaj w bezpiecznych miejscach, gdzie mogą się wykluć."
+                "motivation": "Zabijanie, picie krwi i składanie jaj w bezpiecznych miejscach, gdzie mogą się wykluć.",
+                "equipment": {
+                    "hideous_talons": "Ohydne szpony"
+                }
             },
             "feral_psychopomp": {
                 "name": "Dzika Psychopompa",
                 "difficulty": "Standardowy",
-                "domains": "Religia, Odludzie"
+                "domains": "Religia, Odludzie",
+                "resources": {
+                    "tattered_raiments": "Poszarpane szaty"
+                }
             },
             "flightless_owl_hive": {
                 "name": "Ul Sów Nielotów",
@@ -1942,7 +1952,10 @@
                     "beaks_and_claws": "Dzioby i pazury",
                     "description": "Dzioby i pazury"
                 },
-                "motivation": "Obrona królowej i zapewnienie bezpieczeństwa ulowi."
+                "motivation": "Obrona królowej i zapewnienie bezpieczeństwa ulowi.",
+                "resources": {
+                    "assorted_owl_bones": "Różnorodne kości sowy"
+                }
             },
             "greater_heartsblood_beast": {
                 "resources": {
@@ -2009,7 +2022,8 @@
                 "name": "Tunelowi Bandyci",
                 "difficulty": "Standardowy",
                 "equipment": {
-                    "heavy_bore_archaic_pistol": "Archaiczny wielkokalibrowy pistolet"
+                    "heavy_bore_archaic_pistol": "Archaiczny wielkokalibrowy pistolet",
+                    "wicked_looking_knives": "Ohydne noże"
                 },
                 "domains": "Norowisko, choć bandytów można znaleźć wszędzie tam, gdzie są podróżnicy."
             },
@@ -2028,7 +2042,8 @@
                 },
                 "domains": "Norowisko",
                 "equipment": {
-                    "dirty_teeth_and_claws": "Brudne zęby i pazury"
+                    "dirty_teeth_and_claws": "Brudne zęby i pazury",
+                    "retching_bile": "Wymiot żółci"
                 },
                 "protectionDesc": "2, gdy jest pod powierzchnią, ale 0, jeśli uda ci się go wyciągnąć na suchy ląd."
             },
@@ -2049,7 +2064,8 @@
                 "equipment": {
                     "sickles": "Sierpy, kilofy i grzybowe haki"
                 },
-                "motivation": "By chronić interesy swoich panów: Wysokich Druidów."
+                "motivation": "By chronić interesy swoich panów: Wysokich Druidów.",
+                "names": "Rhoz, Thorne, Pitch"
             },
             "ghost": {
                 "name": "Duch",
@@ -2127,7 +2143,8 @@
                 "resources": {
                     "machine_heart": "Serce maszyny",
                     "impossibly_keen_metal": "Niemożliwie ostry metal do produkcji mieczy"
-                }
+                },
+                "name": "Konstrukt Źródła"
             },
             "the_walking_wounded": {
                 "domains": "Klątwa, Odludzie",
