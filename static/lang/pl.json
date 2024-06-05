@@ -1,5 +1,7 @@
 {
     "heart": {
+        "name.single": "Nazwa",
+        "name.multiple": "Nazwy",
         "ability.multiple": "Zdolności",
         "ability.single": "Zdolność",
         "active-beat.multiple": "Aktywne takty",
@@ -100,7 +102,6 @@
         "is-active": "Czy aktywne?",
         "is-complete": "Czy zakończone?",
         "motivation": "Motywacja",
-        "name": "Nazwa",
         "none": "Brak",
         "notes": "Notatki",
         "open-parent": "Otwórz folder nadrzędny",
@@ -175,6 +176,7 @@
         "domain": {
             "multiple": "Domeny",
             "single": "Domena",
+            "misc": "Różne",
             "cursed": "Klątwa",
             "desolate": "Odludzie",
             "haven": "Schronienie",
@@ -2189,7 +2191,7 @@
                 "difficulty": "Standardowy",
                 "domains": "Schronienie, Odludzie",
                 "resources": {
-                    "whatever_they_were_carrying_when_the_infection_took_hold": "Cokolwiek mieli ze sobą, gdy infekcja się zaczęła"
+                    "whatever_they_were_carrying": "Cokolwiek mieli ze sobą, gdy infekcja się zaczęła"
                 },
                 "motivation": "Tańczyć! Od czasu do czasu opamiętują się i krzyczą z bólu i głodu, więc wiele grup ma w swoich szeregach bębniarza, który utrzymuje rytm."
             },
