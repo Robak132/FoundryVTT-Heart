@@ -1924,8 +1924,7 @@
                 "motivation": "To guide souls back to their respective underworlds, but the doorways are lost and the “souls” are whoever they find trespassing on their domains.",
                 "difficulty": "Standard",
                 "resources": {
-                    "tattered_raiments": "Tattered raiments (D6, Religion, Occult).",
-                    "description": "Tattered raiments (D6, Religion, Occult)."
+                    "tattered_raiments": "Tattered raiments"
                 },
                 "names": "Very few of them remember their names; some have adopted names that they have overheard whilst hiding in the City Beneath.",
                 "domains": "Religion, Desolate"
