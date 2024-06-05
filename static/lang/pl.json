@@ -1908,7 +1908,8 @@
                 "difficulty": "Ryzykowna, jeśli są w rui. W innych przypadkach Standardowa.",
                 "resources": {
                     "too_much_stinking_pig_fat": "Za dużo śmierdzącego świńskiego tłuszczu"
-                }
+                },
+                "names": "Właściciele zwykle nie nadają imion ścierwoświniom, ponieważ nie chcą się z nimi utożsamiać."
             },
             "false_hallow": {
                 "difficulty": "Niebezpieczny",

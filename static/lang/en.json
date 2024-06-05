@@ -2048,8 +2048,7 @@
                 "equipment": {
                     "sharp_things_tied_to_their_beaks_and_claws": {
                         "description": "Add Brutal when they’re swooping."
-                    },
-                    "description": "Sharp things tied to their beaks and claws (D6; D6, Brutal when they’re swooping)."
+                    }
                 },
                 "names": "Only those they’ve stolen from people who died nearby",
                 "domains": "Wild, Desolate, Occult"
