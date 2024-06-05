@@ -1794,8 +1794,7 @@
                     "description": "Frantic animal intelligence (D6, Occult); Spare parts (D8, Technology)."
                 },
                 "equipment": {
-                    "spindly_legs": "Spindly legs",
-                    "description": "Spindly legs (Kill D4)."
+                    "spindly_legs": "Spindly legs"
                 },
                 "special": "If you acquire an Automaton of Burden, it functions as a (Delve D6) item.",
                 "names": "Bessie, Vyssos 3-X, Wrench",
@@ -2183,7 +2182,7 @@
                 "motivation": "To protect and repair the mysterious sigils on the walls of the Source.",
                 "difficulty": "Risky",
                 "resources": {
-                    "machine_heart": "Machine heart (D12, Technology)",
+                    "machine_heart": "Machine heart",
                     "impossibly_keen_metal": "Impossibly keen metal to make sword-blades from (D8, Technology)",
                     "description": "Machine heart (D12, Technology); Impossibly keen metal to make sword-blades from (D8, Technology)."
                 },

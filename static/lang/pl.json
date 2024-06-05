@@ -1935,7 +1935,8 @@
             "greater_heartsblood_beast": {
                 "resources": {
                     "meat_and_fur": "Mięso i futro",
-                    "description": "Częste: Mięso i futro\nRzadkie: Ciekawe i unikalne kości"
+                    "description": "Częste: Mięso i futro\nRzadkie: Ciekawe i unikalne kości",
+                    "curious_and_unique_bones": "Ciekawe i unikalne kości"
                 },
                 "name": "Większa Sercokrwista Bestia",
                 "motivation": "Cień",
@@ -1954,7 +1955,10 @@
                     "spireblack_reserves": "Rezerwy iglicadzy"
                 },
                 "difficulty": "Standardowy",
-                "domains": "Technologia, Klątwa"
+                "domains": "Technologia, Klątwa",
+                "equipment": {
+                    "filthy_teeth_and_claws": "Brudne zęby i pazury"
+                }
             },
             "signal_box_cultists": {
                 "difficulty": "Standardowy"
@@ -1986,14 +1990,18 @@
                 "difficulty": "Ryzykowny",
                 "resources": {
                     "barely_anything": "Prawie nic istotnego, chociaż może uda ci się sprzedać noże."
-                }
+                },
+                "name": "Kult Noży"
             },
             "wretch": {
                 "name": "Nieszczęśnik",
                 "resources": {
                     "creatures_and_garbage": "Stworzenia i śmieci"
                 },
-                "domains": "Norowisko"
+                "domains": "Norowisko",
+                "equipment": {
+                    "dirty_teeth_and_claws": "Brudne zęby i pazury"
+                }
             },
             "burnt_out_occultist": {
                 "difficulty": "Standardowy",
@@ -2036,7 +2044,8 @@
                 "difficulty": "Standardowy",
                 "resources": {
                     "meat_and_fur": "Mięso i futro",
-                    "description": "Częste: Mięso i futro\nRzadkie: Ciekawe i unikalne kości"
+                    "description": "Częste: Mięso i futro\nRzadkie: Ciekawe i unikalne kości",
+                    "curious_and_unique_bones": "Ciekawe i unikalne kości"
                 },
                 "equipment": {
                     "teeth_and_claws": "Zęby i pazury"
@@ -2074,11 +2083,17 @@
             "sourceborn_construct": {
                 "difficulty": "Ryzykowny",
                 "domains": "Technologia",
-                "motivation": "Chronić i naprawiać tajemnicze znaki na ścianach Źródła."
+                "motivation": "Chronić i naprawiać tajemnicze znaki na ścianach Źródła.",
+                "resources": {
+                    "machine_heart": "Serce maszyny"
+                }
             },
             "the_walking_wounded": {
                 "domains": "Klątwa, Odludzie",
-                "protectionDesc": "4 za każdego \"ocalałego\" członka oddziału; większość oddziałów ma około 20 odporności."
+                "protectionDesc": "4 za każdego \"ocalałego\" członka oddziału; większość oddziałów ma około 20 odporności.",
+                "equipment": {
+                    "description": "Nic wartościowego."
+                }
             }
         }
     }
