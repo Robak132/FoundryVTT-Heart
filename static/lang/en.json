@@ -2114,8 +2114,7 @@
                     "description": "Spireblack reserves (D8, Technology)"
                 },
                 "equipment": {
-                    "filthy_teeth_and_claws": "Filthy teeth and claws",
-                    "description": "Filthy teeth and claws (D6)"
+                    "filthy_teeth_and_claws": "Filthy teeth and claws"
                 },
                 "special": "Pitchkin are extremely flammable. Fire inflicts D8 damage minimum when used against them; however, once a pitchkin is on fire, its unarmed damage increases to D8. There is a martyr caste that sets themselves on fire to protect the stocks, but these are rare.",
                 "names": "Each has a word marked on them which they now use as a name in their heavy, sussurating tongue: Vulpine, Wrath, Serrate, Quill.",

@@ -2037,7 +2037,8 @@
                 "resources": {
                     "pelt": "Futro"
                 },
-                "domains": "Dzicz"
+                "domains": "Dzicz",
+                "names": "Nic, co byś zrozumiał."
             },
             "heartsblood_beast": {
                 "name": "Sercokrwista Bestia",
