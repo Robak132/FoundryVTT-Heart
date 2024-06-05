@@ -1905,7 +1905,6 @@
                 "motivation": "To kill, taste blood and lay eggs in safe places where they can hatch.",
                 "difficulty": "Risky",
                 "resources": {
-                    "if_you_kill_it_before_it_crumbles": "If you kill it before it crumbles, a Harpy Heart (D10, Occult).",
                     "description": "If you kill it before it crumbles, a Harpy Heart.",
                     "harpy_heart": "Harpy Heart"
                 },
