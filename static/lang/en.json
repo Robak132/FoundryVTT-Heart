@@ -176,6 +176,7 @@
         "domain": {
             "multiple": "Domains",
             "single": "Domain",
+            "misc": "Miscellaneous",
             "cursed": "Cursed",
             "desolate": "Desolate",
             "haven": "Haven",
@@ -1810,13 +1811,15 @@
                     "description": "Jewellery, keepsakes and valuables (D6). Their bodies, or body parts, can be sold as medical curiosities, but most havens in the Heart frown on this."
                 },
                 "equipment": {
-                    "knife": "Knife, club or poor-quality sword"
+                    "knife": "Knife, club or poor-quality sword",
+                    "ranged_weapon": "Whatever ranged weapons they could scare up"
                 },
                 "names": "Normal people names, perhaps about fifty years out of date: Versellian, Xandrix, Sewain, Brimner",
                 "domains": "Wild, Cursed"
             },
             "burnt_out_occultist": {
                 "name": "Burnt-out Occultist",
+                "names": "Griz, Swent, Nox",
                 "description": "<p>The rush of power can leave you wanting more; sorcery can certainly be an easy route to getting what you want, but the bristling touch of other realities on the mind can intoxicate and bewitch the caster. Driven mad by want and out of other options, these desperate mages will form fractious gangs and rob or kill vulnerable travellers in search of scraps of magical power – or whatever resonance they can wring out of the poor individual’s blood.</p>\n<p>The real danger is that one of these wretches will get their hands on a serviceable book of demonology. They’re just smart enough to cast the spells and just tweaked-out enough to not take any of the proper precautions. More than one haven has been unmade in a scintillating blur when some reckless occultist created an incursion, willingly or not. The Hounds have a vested interest in stopping it from happening again.",
                 "descriptors": "<ul><li>Wearing a cracked porcelain mask, the last vestige of their life of luxury in the City Above</li>\n<li>Going through the bins outside a church looking for something with a vague hint of power</li>\n<li>Trailing a Junk Mage, their hands outstretched, begging for angel feathers or automaton dreams.</li></ul>",
                 "motivation": "To learn new spells; to gather occult resources and huff them to cast magic; to get high, and forget their troubles for a bit.",
@@ -1827,7 +1830,8 @@
                 "equipment": {
                     "black_market_black_magic": "Black market black magic"
                 },
-                "special": "If a Burnt-Out Occultist inflicts 7 or more stress on a single roll, they are taken out of action by the magical feedback."
+                "special": "If a Burnt-Out Occultist inflicts 7 or more stress on a single roll, they are taken out of action by the magical feedback.",
+                "domains": "Occult"
             },
             "butcher": {
                 "name": "Butcher",
@@ -1836,11 +1840,19 @@
                 "motivation": "To claim meat (living, if possible) for its cave.",
                 "difficulty": "Risky",
                 "resources": {
-                    "butcher_entrails": "Butcher entrails",
-                    "description": "Butcher entrails (D6, prized for making warding sigils); Antlers (D6-D10, depending on the number of points); Victims’ leavings if you can find their cave and deal with the smell (D8)."
+                    "butcher_entrails_name": "Butcher entrails",
+                    "butcher_entrails_description": "Prized for making warding sigils",
+                    "antlers_name": "Antlers",
+                    "antlers_description": "D6-D10, depending on the number of points",
+                    "victims_leavings_name": "Victims’ leavings",
+                    "victims_leavings_description": "If you can find their cave and deal with the smell"
                 },
                 "equipment": {
                     "nightmare_claws": "Nightmare claws"
+                },
+                "fallout": {
+                    "taken.name": "Taken",
+                    "taken.description": "You are injured, unable to properly move and dragged through the darkness to be forced into the wall of flesh that the butcher venerates as a mute idiot god."
                 },
                 "names": "They don’t have names anymore; if they have to refer to each other, they do so in terms of their position, smell and deeds.",
                 "domains": "Wild, Warren, Cursed"

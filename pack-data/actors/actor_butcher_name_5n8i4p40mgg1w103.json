@@ -5,14 +5,14 @@
   "items": [
     {
       "type": "resource",
-      "name": "Butcher entrails",
+      "name": "actor.butcher.resources.butcher_entrails_name",
       "system": {
         "die_size": "d6",
-        "description": "Prized for making warding sigils",
+        "description": "actor.butcher.resources.butcher_entrails_description",
         "children": {},
         "active": true,
         "complete": false,
-        "domain": "cursed"
+        "domain": "misc"
       },
       "_id": "dgdzvgpmm82i1lr3",
       "img": "systems/heart/assets/ore.svg",
@@ -39,6 +39,56 @@
       "effects": [],
       "flags": {},
       "_key": "!actors.items!5n8i4p40mgg1w103.pe29gd8afpk054nz"
+    },
+    {
+      "type": "resource",
+      "name": "actor.butcher.resources.antlers_name",
+      "system": {
+        "die_size": "d6",
+        "description": "actor.butcher.resources.antlers_description",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "misc"
+      },
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "ojzFgYiR5UlbqbPS",
+      "_key": "!actors.items!5n8i4p40mgg1w103.ojzFgYiR5UlbqbPS"
+    },
+    {
+      "type": "resource",
+      "name": "actor.butcher.resources.victims_leavings_name",
+      "system": {
+        "die_size": "d6",
+        "description": "actor.butcher.resources.victims_leavings_description",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "misc"
+      },
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "rVid4mBd82PiaWlv",
+      "_key": "!actors.items!5n8i4p40mgg1w103.rVid4mBd82PiaWlv"
+    },
+    {
+      "type": "fallout",
+      "name": "actor.butcher.fallout.taken.name",
+      "system": {
+        "description": "actor.butcher.fallout.taken.description",
+        "active": true,
+        "complete": false,
+        "type": "major",
+        "resistance": "blood"
+      },
+      "_id": "qoLV0N14L9RUqUPE",
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!5n8i4p40mgg1w103.qoLV0N14L9RUqUPE"
     }
   ],
   "name": "actor.butcher.name",
@@ -49,10 +99,12 @@
     "motivation": "actor.butcher.motivation",
     "difficulty": "actor.butcher.difficulty",
     "resistance": "",
+    "resistanceDesc": "",
     "resistanceMax": "10",
     "protection": 3,
-    "resources": "actor.butcher.resources.description",
-    "equipment": "actor.butcher.equipment.description",
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "",
     "notes": "",
     "domains": "actor.butcher.domains"

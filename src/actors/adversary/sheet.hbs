@@ -34,11 +34,15 @@
                 <h2 class="center">{{localizeHeart "resistance.single"}}</h2>
                 <input name="system.resistanceMax" value="{{localizeHeart system.resistanceMax}}"/>
             </div>
-            <h2 class="center">{{localizeHeart "protection.single"}}</h2>
+            <div class="grid-2 auto-first-col place-top">
+                <h2 class="center">{{localizeHeart "protection.single"}}</h2>
+            </div>
             <div class="red" data-target='system.resistance'>{{{ordered-checkable system.resistance system.resistanceMax}}}</div>
             <div class="red" data-target='system.protection'>{{{ordered-checkable system.protection 10}}}</div>
+            {{editor (localizeHeart system.resistanceDesc) target="system.resistanceDesc" button=true editable=editable owner=owner}}
+            {{editor (localizeHeart system.protectionDesc) target="system.protectionDesc" button=true editable=editable owner=owner}}
         </div>
-        
+
         <div class="section info">
             <div class="grid-2 auto-first-col place-center">
                 <h2>{{localizeHeart "name"}}</h2>
@@ -51,11 +55,9 @@
             {{editor (localizeHeart system.description) target="system.description" button=true editable=editable owner=owner}}
         </div>
 
-        <div class="section info">
-            <div class="grid-2 auto-first-col place-center">
-                <h2>{{localizeHeart "name.mulitple"}}</h2>
-                <input name="system.names" value="{{localizeHeart system.names}}"/>
-            </div>
+        <div class="section center wide">
+            <h2>{{localizeHeart "name.multiple"}}</h2>
+            {{editor (localizeHeart system.names) target="system.names" button=true editable=editable owner=owner}}
         </div>
 
         <div class="section center wide">
@@ -68,22 +70,9 @@
             {{editor (localizeHeart system.motivation) target="system.motivation" button=true editable=editable owner=owner}}
         </div>
 
-        <!--The dropdown for difficulty should be slapped in here, but I couldn't quite get it working-->
-        <div class="section info">
-            <div class="grid-2 auto-first-col place-center">
-                <h2>{{localizeHeart "difficulty.single"}}</h2>
-                <input name="system.difficulty" value="{{localizeHeart system.difficulty}}"/>
-            </div>
-        </div>
-
         <div class="section center wide">
-            <h2>{{localizeHeart "resistance.single"}}</h2>
-            {{editor (localizeHeart system.resistanceDesc) target="system.resistanceDesc" button=true editable=editable owner=owner}}
-        </div>
-
-        <div class="section center wide">
-            <h2>{{localizeHeart "protection.single"}}</h2>
-            {{editor (localizeHeart system.protectionDesc) target="system.protectionDesc" button=true editable=editable owner=owner}}
+            <h2>{{localizeHeart "difficulty.single"}}</h2>
+            {{editor (localizeHeart system.difficulty) target="system.difficulty" button=true editable=editable owner=owner}}
         </div>
 
         {{> itemListSection type="resource" list=actor.proxy.resources description_path="resources"}}
@@ -92,6 +81,11 @@
         <div class="section center wide">
             <h2>{{localizeHeart "special"}}</h2>
             {{editor (localizeHeart system.special) target="system.special" button=true editable=editable owner=owner}}
+        </div>
+
+        <div class="section center wide">
+            <h2>{{localizeHeart "domain.multiple"}}</h2>
+            {{editor (localizeHeart system.domains) target="system.domains" button=true editable=editable owner=owner}}
         </div>
 
         {{> itemListSection type="fallout" list=(lookup actor.itemTypes "fallout") description_path="fallout"}}

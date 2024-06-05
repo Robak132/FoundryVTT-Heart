@@ -103,7 +103,7 @@
     "resistanceMax": "6",
     "protection": "",
     "resources": "actor.blooded.resources.description",
-    "equipment": "actor.blooded.equipment.description",
+    "equipment": "",
     "special": "",
     "notes": "",
     "domains": "actor.blooded.domains"

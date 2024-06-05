@@ -7,8 +7,6 @@ def clean(dictionary):
     dictionary.pop("_stats", None)
     dictionary.pop("folder", None)
     dictionary.pop("sort", None)
-    dictionary.pop("protectionDesc", None)
-    dictionary.pop("resistanceDesc", None)
     dictionary.pop("prototypeToken", None)
 
 
@@ -28,7 +26,7 @@ def list_iterative_clean(item):
 
 
 if __name__ == '__main__':
-    for file in glob.glob("pack-data\\*.json", recursive=True):
+    for file in glob.glob("pack-data\\**\\*.json", recursive=True):
         j_file = json.load(open(file, 'r', encoding="utf-8"))
         iterative_clean(j_file)
         with open(file, 'w+', encoding="utf-8") as f:

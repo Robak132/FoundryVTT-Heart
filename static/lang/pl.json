@@ -1,5 +1,7 @@
 {
     "heart": {
+        "name.single": "Nazwa",
+        "name.multiple": "Nazwy",
         "ability.multiple": "Zdolności",
         "ability.single": "Zdolność",
         "active-beat.multiple": "Aktywne takty",
@@ -100,7 +102,6 @@
         "is-active": "Czy aktywne?",
         "is-complete": "Czy zakończone?",
         "motivation": "Motywacja",
-        "name": "Nazwa",
         "none": "Brak",
         "notes": "Notatki",
         "open-parent": "Otwórz folder nadrzędny",
@@ -175,6 +176,7 @@
         "domain": {
             "multiple": "Domeny",
             "single": "Domena",
+            "misc": "Różne",
             "cursed": "Klątwa",
             "desolate": "Odludzie",
             "haven": "Schronienie",

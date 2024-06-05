@@ -89,7 +89,7 @@ function initialise() {
         difficulties: ['standard', 'risky', 'dangerous', 'impossible'],
         resistances: ['blood', 'mind', 'echo', 'fortune', 'supplies'],
         skills: ['compel', 'delve', 'discern', 'endure', 'evade', 'hunt', 'kill', 'mend', 'sneak'],
-        domains: ['cursed', 'desolate', 'haven', 'occult', 'religion', 'technology', 'warren', 'wild'],
+        domains: ['misc', 'cursed', 'desolate', 'haven', 'occult', 'religion', 'technology', 'warren', 'wild'],
         stress_dice: ['d4', 'd6', 'd8', 'd10', 'd12'],
         die_sizes: ['d4', 'd6', 'd8', 'd10', 'd12'],
     };
@@ -251,6 +251,18 @@ function sanitizeString(text) {
     const stop = text.endsWith("</p>") ? text.length - 4 : text.length
     return text.substring(start, stop)
 }
+
+Hooks.on('preCreateItem', function(document, data, options, userId) {
+    document.updateSource({
+        name: localizeHeart(document.name)
+    });
+});
+
+Hooks.on('preCreateActor', function(document, data, options, userId) {
+    document.updateSource({
+        name: localizeHeart(document.name)
+    });
+});
 
 Hooks.on('updateActor', function(document, data, options, userId) {
     let [key, value] = Object.entries(flattenObject({'system': data.system}))[0]

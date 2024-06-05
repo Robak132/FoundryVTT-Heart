@@ -5,7 +5,6 @@
   "img": "systems/heart/assets/perspective-dice-six-faces-random.svg",
   "scope": "global",
   "command": "new game.heart.applications.PrepareRollRequestApplication().render(true)",
-  "folder": null,
   "permission": {
     "default": 0,
     "yVBR839ynJiV8vzd": 3
