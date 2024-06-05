@@ -2117,8 +2117,7 @@
                     "burning_crown": "Burning Crown"
                 },
                 "equipment": {
-                    "rusted_blackiron_blades": "Rusted blackiron blades",
-                    "description": "Rusted blackiron blades (D8, Brutal, Tiring). sted blackiron blades (D8, Brutal, Tiring)."
+                    "rusted_blackiron_blades": "Rusted blackiron blades"
                 },
                 "special": "You can’t kill a Red Saint without access to forbidden Rituals of Extinguishing – something that the Church of the Moon Beneath might possess. The worst you can do without is incapacitate them, but their wounds heal in minutes.",
                 "names": "Saint Hellisent, Hallow Magdelene, Hallow Prothadeus",
