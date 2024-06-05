@@ -1876,7 +1876,8 @@
                 "protectionDesc": "Równa poziomowi, na którym został napotkany. <b>PRZEBIJAJĄCE</b> bronie nie usuwają tej ochrony.",
                 "equipment": {
                     "unmaking_hands": "Ręce rozkładu"
-                }
+                },
+                "special": "Za pierwszym razem, gdy zobaczysz danego anioła, rzuć <b>Odporność+Klątwa</b> i ponieś D10 stresu Umysłu przy porażce."
             },
             "automaton_of_burden": {
                 "resources": {
@@ -1898,6 +1899,10 @@
                 "domains": "Dzicz, Klątwa",
                 "equipment": {
                     "knife": "Nóż, pałka lub kiepskiej jakości miecz"
+                },
+                "motivation": "Żyć w Sercu w spokoju i nie dać się zabić jakiemuś nieświadomemu poszukiwaczowi.",
+                "resources": {
+                    "jewellery": "Ich ciała lub ich części mogą być sprzedawane jako medyczne ciekawostki, ale większość schronień w Sercu patrzy na to krzywo."
                 }
             },
             "butcher": {
@@ -1923,7 +1928,10 @@
                 "difficulty": "Niebezpieczny",
                 "name": "Fałszywy Święty",
                 "domains": "Religia, Okultyzm",
-                "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting"
+                "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting",
+                "equipment": {
+                    "simple_work_tools_or_repurposed_ritual_items": "Proste narzędzia lub przerobione przedmioty rytualne"
+                }
             },
             "female_harpy": {
                 "name": "Samica harpii",
@@ -1957,7 +1965,8 @@
                 "motivation": "Obrona królowej i zapewnienie bezpieczeństwa ulowi.",
                 "resources": {
                     "assorted_owl_bones": "Różnorodne kości sowy"
-                }
+                },
+                "names": "Poszczególne sowy nie mają imion, a imię każdej królowej to minutowy skrzek, który może być wymówiony tylko przez inne sowy."
             },
             "greater_heartsblood_beast": {
                 "resources": {
@@ -2076,7 +2085,8 @@
                     "nothing_of_import": "Nic ważnego",
                     "description": "Nic ważnego"
                 },
-                "domains": "Klątwa, Okultyzm, Religia"
+                "domains": "Klątwa, Okultyzm, Religia",
+                "difficulty": "Standardowa, jeśli dobrze go widzisz, w przeciwnym razie Ryzykowna. Postać, która go widzi, może pomóc innej, która go nie widzi."
             },
             "gnoll_incursion_team": {
                 "name": "Gnollska Jednostka Taktyczna",
@@ -2093,7 +2103,8 @@
                 },
                 "domains": "Dzicz",
                 "names": "Nic, co byś zrozumiał.",
-                "difficulty": "Standardowa. Kiedy jego odporności jest poniżej 10, trudność wzrasta do Ryzykownej."
+                "difficulty": "Standardowa. Kiedy jego odporności jest poniżej 10, trudność wzrasta do Ryzykownej.",
+                "motivation": "By chronić swoje młode, które mogą, ale nie muszą znajdować się na tej samej płaszczyźnie rzeczywistości co oni."
             },
             "heartsblood_beast": {
                 "name": "Sercokrwista Bestia",
@@ -2119,7 +2130,8 @@
                 "name": "Lustrzane Pająki",
                 "difficulty": "Standardowy",
                 "domains": "Norowisko, Religia",
-                "resistanceDesc": "6 na rój, bez problemu możesz zmiażdżyć każdego pojedynczego członka roju."
+                "resistanceDesc": "6 na rój, bez problemu możesz zmiażdżyć każdego pojedynczego członka roju.",
+                "protectionDesc": "4. Bronie, które trafiają wiele owadów jednocześnie (miotły, płonące pochodnie itp.) ignorują tę ochronę, ale bronie Przebijające jej nie omijają."
             },
             "red_saint": {
                 "resources": {
