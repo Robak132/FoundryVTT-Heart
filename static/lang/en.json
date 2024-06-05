@@ -2179,8 +2179,7 @@
                 "difficulty": "Standard",
                 "resources": {
                     "parasite_samples": "Parasite samples",
-                    "assorted_equipment": "Assorted equipment and bones from its kills",
-                    "description": "Parasite samples (D8, Cursed, Dangerous); Assorted equipment and bones from its kills (D6, Haven, Wild)."
+                    "assorted_equipment": "Assorted equipment and bones from its kills"
                 },
                 "equipment": {
                     "impaling_branches": "Impaling branches",
