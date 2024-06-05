@@ -1871,8 +1871,7 @@
                     "ritual_gewgaws_and_tchotchkes_made_of_mushrooms_and_animal_bones": "Ritual gewgaws and tchotchkes made of mushrooms and animal bones"
                 },
                 "equipment": {
-                    "sickles": "Sickles, picks and mushroom-hooks",
-                    "description": "Sickles, picks and mushroom- hooks (Damage D6)."
+                    "sickles": "Sickles, picks and mushroom-hooks"
                 },
                 "names": "Rhoz, Thorne, Pitch",
                 "domains": "Wild"
