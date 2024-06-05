@@ -1873,7 +1873,7 @@
                 "motivation": "To protect the interests of their High Druid masters.",
                 "difficulty": "Standard",
                 "resources": {
-                    "ritual_gewgaws_and_tchotchkes_made_of_mushrooms_and_animal_bones": "Ritual gewgaws and tchotchkes made of mushrooms and animal bones (D6, Wild).",
+                    "ritual_gewgaws_and_tchotchkes_made_of_mushrooms_and_animal_bones": "Ritual gewgaws and tchotchkes made of mushrooms and animal bones",
                     "description": "Ritual gewgaws and tchotchkes made of mushrooms and animal bones (D6, Wild)."
                 },
                 "equipment": {
@@ -1898,7 +1898,7 @@
                     "description": "Simple work tools or repurposed ritual items (Kill D10 in their hands, Kill D6 for anyone else)."
                 },
                 "special": "False Hallows will often be surrounded by a cult of some kind; use the Signal-Box Cultist to represent them, but exchange the Technology domain for Religion.",
-                "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting.",
+                "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting",
                 "domains": "Religion, Occult"
             },
             "female_harpy": {
@@ -1909,7 +1909,8 @@
                 "difficulty": "Risky",
                 "resources": {
                     "if_you_kill_it_before_it_crumbles": "If you kill it before it crumbles, a Harpy Heart (D10, Occult).",
-                    "description": "If you kill it before it crumbles, a Harpy Heart (D10, Occult)."
+                    "description": "If you kill it before it crumbles, a Harpy Heart.",
+                    "harpy_heart": "Harpy Heart"
                 },
                 "equipment": {
                     "hideous_talons": "Hideous talons (D8, Brutal).",
@@ -1961,7 +1962,7 @@
                 "difficulty": "If you can see them properly, Standard; otherwise, Risky. A character who can see can aid another who can’t.",
                 "resources": {
                     "nothing_of_import": "Nothing of import",
-                    "description": "Nothing of import."
+                    "description": "Nothing of import"
                 },
                 "equipment": {
                     "spectral_claw": "Spectral claw (D6, Piercing); Otherworldly phenomena (D6, Spread, One- Shot).",
@@ -1970,7 +1971,7 @@
                 "special": "Consuming an appropriate resource with the OCCULT or RELIGION tags and a value of D6 or greater allows a character to ignore the ghosts’ protection value until the end of the situation (e.g. anointing your hammer with holy water, wrapping prayer flags around your fists, scattering sacred salt). Researching the specific item needed to affect a specific ghost allows the character to ignore the ghosts’ protection value and increases their stress inflicted by two steps (e.g. etching the ghost’s suicide note into your sword, wrapping their late husband’s hair around your wrists, trapping them in a room by pouring dirt from their grave into the keyholes).",
                 "names": "Old-fashioned names like Enriette, Gregorious, Burrage.",
                 "protectionDesc": "10 (Not ignored by Piercing, see below).",
-                "domains": "Cursed, Occult, Religion."
+                "domains": "Cursed, Occult, Religion"
             },
             "gnoll_incursion_team": {
                 "name": "Gnoll Incursion Team",
@@ -2015,7 +2016,7 @@
                 "resources": {
                     "meat_and_fur": "Meat and fur",
                     "curious_and_unique_bones": "Curious and unique bones",
-                    "description": "Often: Meat and fur (D8); Rarely: Curious and unique bones (D10, Niche)."
+                    "description": "Often: Meat and fur\nRarely: Curious and unique bones"
                 },
                 "equipment": {
                     "massive_claws": "Massive claws, jagged teeth, suckered pseudopods (D8).",
@@ -2033,7 +2034,7 @@
                 "resources": {
                     "meat_and_fur": "Meat and fur",
                     "curious_and_unique_bones": "Curious and unique bones",
-                    "description": "Often: Meat and fur (D6); Rarely: Curious and unique bones (D10, Niche)."
+                    "description": "Often: Meat and fur\nRarely: Curious and unique bones"
                 },
                 "equipment": {
                     "teeth_and_claws": "Teeth and claws",
@@ -2060,7 +2061,9 @@
                     "occult_gewgaws": "Occult gewgaws at their bower"
                 },
                 "equipment": {
-                    "sharp_things_tied_to_their_beaks_and_claws": "Sharp things tied to their beaks and claws (D6; D6, Brutal when they’re swooping).",
+                    "sharp_things_tied_to_their_beaks_and_claws": {
+                        "description": "Add Brutal when they’re swooping."
+                    },
                     "description": "Sharp things tied to their beaks and claws (D6; D6, Brutal when they’re swooping)."
                 },
                 "names": "Only those they’ve stolen from people who died nearby",
@@ -2128,11 +2131,10 @@
                 "motivation": "To be left alone that they might hear those who pray to them.",
                 "difficulty": "Standard, but see fallout below.",
                 "resources": {
-                    "burning_crown": "Burning Crown",
-                    "description": "Burning Crown (D12)"
+                    "burning_crown": "Burning Crown"
                 },
                 "equipment": {
-                    "rusted_blackiron_blades": "Rusted blackiron blades (D8, Brutal, Tiring). sted blackiron blades (D8, Brutal, Tiring).",
+                    "rusted_blackiron_blades": "Rusted blackiron blades",
                     "description": "Rusted blackiron blades (D8, Brutal, Tiring). sted blackiron blades (D8, Brutal, Tiring)."
                 },
                 "special": "You can’t kill a Red Saint without access to forbidden Rituals of Extinguishing – something that the Church of the Moon Beneath might possess. The worst you can do without is incapacitate them, but their wounds heal in minutes.",
@@ -2267,7 +2269,7 @@
             "tunnel_brigands": {
                 "name": "Tunnel Brigands",
                 "description": "Opportunistic thieves and killers who prey on vulnerable travellers for their valuables are most commonly found in the tunnels to the Home Nations, but there are no end of places where a gang of desperate people with guns and a lack of empathy can make a quick buck. They’re not up for a serious fight, and are generally open to bargaining if you have something to offer that they can’t just take from you.",
-                "descriptors": "<ul><li>Wearing stolen Yssian fashion, taken from refugees</li><li>Younger than they really oughttobeforthislineofwork;Chestboundtight withbandages, bracesholdinguptheirtrousers.</li></ul>",
+                "descriptors": "<ul><li>Wearing stolen Yssian fashion, taken from refugees</li>\n<li>Younger than they really ought to be for this line of work</li>\n<li>Chest bound tight with bandages, braces holding up their trousers.</li></ul>",
                 "motivation": "To take money or valuables from folk using the tunnels to emigrate into the City Above; however, they’re boisterous and insecure, so some will take any opportunity to prove their cruelty and superiority.",
                 "difficulty": "Standard",
                 "resources": {
@@ -2275,8 +2277,9 @@
                     "description": "Wedding rings, gold teeth, family heirlooms, silk scarves (D8, Taboo); a few doses of dagger, godsmoke or chum (D6, narcotic)."
                 },
                 "equipment": {
-                    "heavy_bore_archaic_pistol": "Heavy-bore archaic pistol (D8, Brutal, Ranged, Loud, One-Shot), Wicked-looking knives (D6, Brutal).",
-                    "description": "Heavy-bore archaic pistol (D8, Brutal, Ranged, Loud, One-Shot), Wicked-looking knives (D6, Brutal)."
+                    "heavy_bore_archaic_pistol": "Heavy-bore archaic pistol",
+                    "description": "Heavy-bore archaic pistol (D8, Brutal, Ranged, Loud, One-Shot), Wicked-looking knives (D6, Brutal).",
+                    "wicked_looking_knives": "Wicked-looking knives"
                 },
                 "names": "Jonjak, Pentekost, Mataline",
                 "domains": "Warren, but Brigands can be found anywhere there are travellers."

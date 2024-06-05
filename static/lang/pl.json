@@ -1883,7 +1883,8 @@
                     "spindly_legs": "Wrzecionowate nogi"
                 },
                 "name": "Automat Pociągowy",
-                "domains": "Technologia"
+                "domains": "Technologia",
+                "special": "Jeśli zdobędziesz Automat Pociągowy, działa on jak przedmiot (Wyprawa D6)."
             },
             "blooded": {
                 "name": "Skrwawiony",
@@ -1895,11 +1896,13 @@
                 "equipment": {
                     "nightmare_claws": "Koszmarne szpony"
                 },
-                "name": "Rzeźnik"
+                "name": "Rzeźnik",
+                "domains": "Dzicz, Norowisko, Klątwa"
             },
             "carrion_pig": {
                 "name": "Ścierwoświnia",
-                "domains": "Schronienie, Dzicz"
+                "domains": "Schronienie, Dzicz",
+                "motivation": "Jeść, kopulować, a jeśli będzie na to czas, zemścić się na swoich właścicielach."
             },
             "false_hallow": {
                 "difficulty": "Niebezpieczny",
@@ -1909,7 +1912,12 @@
             "female_harpy": {
                 "name": "Samica harpii",
                 "difficulty": "Ryzykowny",
-                "domains": "Dzicz, Odludzie"
+                "domains": "Dzicz, Odludzie",
+                "resources": {
+                    "description": "Jeśli zabijesz ją, zanim się rozpadnie: Serce Harpii.",
+                    "harpy_heart": "Serce Harpii"
+                },
+                "motivation": "Zabijanie, picie krwi i składanie jaj w bezpiecznych miejscach, gdzie mogą się wykluć."
             },
             "feral_psychopomp": {
                 "name": "Dzika Psychopompa",
@@ -1920,12 +1928,14 @@
                 "name": "Ul Sów Nielotów",
                 "difficulty": "Standardowy",
                 "equipment": {
-                    "beaks_and_claws": "Dzioby i pazury"
+                    "beaks_and_claws": "Dzioby i pazury",
+                    "description": "Dzioby i pazury"
                 }
             },
             "greater_heartsblood_beast": {
                 "resources": {
-                    "meat_and_fur": "Mięso i futro"
+                    "meat_and_fur": "Mięso i futro",
+                    "description": "Częste: Mięso i futro\nRzadkie: Ciekawe i unikalne kości"
                 },
                 "name": "Większa Sercokrwista Bestia",
                 "motivation": "Cień",
@@ -1935,7 +1945,8 @@
                 "resources": {
                     "scrap_metal": "Złom"
                 },
-                "name": "Samiec harpii"
+                "name": "Samiec harpii",
+                "domains": "Dzicz, Odludzie, Okultyzm"
             },
             "pitchkin": {
                 "name": "Smolak",
@@ -1966,7 +1977,10 @@
             },
             "tunnel_brigands": {
                 "name": "Tunelowi Bandyci",
-                "difficulty": "Standardowy"
+                "difficulty": "Standardowy",
+                "equipment": {
+                    "heavy_bore_archaic_pistol": "Archaiczny wielkokalibrowy pistolet"
+                }
             },
             "the_cult_of_knives": {
                 "difficulty": "Ryzykowny",
@@ -1988,17 +2002,24 @@
             "druid_legbreaker": {
                 "name": "Druid Łamacz Nóg",
                 "difficulty": "Standardowy",
-                "domains": "Dzicz"
+                "domains": "Dzicz",
+                "resources": {
+                    "ritual_gewgaws_and_tchotchkes_made_of_mushrooms_and_animal_bones": "Rytualne gadżety i bibeloty wykonane z grzybów i zwierzęcych kości",
+                    "description": "Rytualne gadżety i bibeloty wykonane z grzybów i kości zwierząt (D6, Dzicz)."
+                }
             },
             "ghost": {
                 "name": "Duch",
                 "resources": {
-                    "nothing_of_import": "Nic ważnego"
-                }
+                    "nothing_of_import": "Nic ważnego",
+                    "description": "Nic ważnego"
+                },
+                "domains": "Klątwa, Okultyzm, Religia"
             },
             "gnoll_incursion_team": {
                 "name": "Gnollska Jednostka Taktyczna",
-                "domains": "Technologia"
+                "domains": "Technologia",
+                "difficulty": "Standardowa. Jeden gnoll w drużynie jest Obrońcą o trudności Ryzykownej"
             },
             "godbeast": {
                 "name": "Boska Bestia",
@@ -2011,7 +2032,8 @@
                 "name": "Sercokrwista Bestia",
                 "difficulty": "Standardowy",
                 "resources": {
-                    "meat_and_fur": "Mięso i futro"
+                    "meat_and_fur": "Mięso i futro",
+                    "description": "Częste: Mięso i futro\nRzadkie: Ciekawe i unikalne kości"
                 },
                 "equipment": {
                     "teeth_and_claws": "Zęby i pazury"
@@ -2035,7 +2057,11 @@
                     "burning_crown": "Płonąca Korona"
                 },
                 "name": "Czerwony Święty",
-                "domains": "Religia, Odludzie"
+                "domains": "Religia, Odludzie",
+                "motivation": "Spokój, by mogli usłyszeć tych, którzy się do nich modlą.",
+                "equipment": {
+                    "rusted_blackiron_blades": "Zardzewiałe ostrza z czarnego żelaza"
+                }
             },
             "the_carnival": {
                 "name": "Karnawał",
@@ -2044,10 +2070,12 @@
             },
             "sourceborn_construct": {
                 "difficulty": "Ryzykowny",
-                "domains": "Technologia"
+                "domains": "Technologia",
+                "motivation": "Chronić i naprawiać tajemnicze znaki na ścianach Źródła."
             },
             "the_walking_wounded": {
-                "domains": "Klątwa, Odludzie"
+                "domains": "Klątwa, Odludzie",
+                "protectionDesc": "4 za każdego \"ocalałego\" członka oddziału; większość oddziałów ma około 20 odporności."
             }
         }
     }
