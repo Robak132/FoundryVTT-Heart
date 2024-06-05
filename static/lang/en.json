@@ -1824,18 +1824,18 @@
                     "almost_useless_scraps_of_occult_energy": "Almost-useless scraps of occult energy"
                 },
                 "equipment": {
-                    "black_market_black_magic": "Black market black magic (Kill D8, Brutal, Ranged. This can inflict Blood or Mind stress on the target; the GM chooses)."
+                    "black_market_black_magic": "Black market black magic"
                 },
                 "special": "If a Burnt-Out Occultist inflicts 7 or more stress on a single roll, they are taken out of action by the magical feedback."
             },
             "butcher": {
                 "name": "Butcher",
                 "description": "<p>These were once desperate people who, despite the warning songs and folk tales, ate the forbidden flesh that grows in secret places, making wet pulsing walls and beckoning with lipless mouths. Over time, it turned them into horrendous creatures of blight and bone.</p>\n<p>They are easily twice the height of a person, with rangy, pallid limbs that give them tremendous speed and strength. Each worships the cave that they eat from, and they are all hopelessly addicted to the heartsflesh. They drag back prey, or bits of prey, to push into the wall and replace what they have eaten.</p>\n<p>Butchers are famously territorial, and will viciously kill one another on sight.</p>",
-                "descriptors": "<ul><li>Bearing mighty antlers of rotting wood</li>\n<li>Scratching symbols into the walls and trees with stones</li>\n<li>Crouching on a rock and issuing forth a keening howl to others as a warning.</li></ul>",
+                "descriptors": "<ul><li>Bearing mighty antlers of rotting wood</li>\n<li>Scratching symbols into the walls and trees with stones</li>\n<li>Crouching on a rock and issuing forth a keening howl to others as a warning</li></ul>",
                 "motivation": "To claim meat (living, if possible) for its cave.",
                 "difficulty": "Risky",
                 "resources": {
-                    "butcher_entrails": "Butcher entrails; Antlers (D6-D10, depending on the number of points); Victims’ leavings if you can find their cave and deal with the smell (D8).",
+                    "butcher_entrails": "Butcher entrails",
                     "description": "Butcher entrails (D6, prized for making warding sigils); Antlers (D6-D10, depending on the number of points); Victims’ leavings if you can find their cave and deal with the smell (D8)."
                 },
                 "equipment": {
@@ -2008,8 +2008,8 @@
             "heartsblood_beast": {
                 "name": "Heartsblood Beast",
                 "description": "<p>These were animals once, but the energies of the Heart and generations of breeding have changed them into something protean and terrible. The smallest are the size of mice (they can shift their bodies into insubstantial shadowstuff, making them nearly impossible to hunt), but those that will pose a threat to delvers tend to be the size of stray dogs, feral pigs, or scavenging foxes. The Heart has no care for the original function of the creature’s limbs and organs. It’s common to see inverted creatures, their spines broken and bent, skittering crablike towards their prey. The limbs of others wither away, their ribcages blossoming out to form centipede-like legs that carry them forwards instead. A normal-looking deer might have, on closer inspection, no discernable mouth on its head; it’s only when it squats over food and disgorges its entire stomach from a ragged maw on its underbelly that it becomes apparent that something’s wrong. Some heartsblood creatures were never normal to start with. In the same way that the Heart is a collection of memories and fears made solid, these animals are flesh-echoes spun from the nightmares of the inhabitants. A bear has never made its way into the Heart, and yet there is one here – or a simulacrum of one, stitched together out of meat and dreams, a ragged imitation of a half-remembered glimpse. Folk stories persist of heartsblood creatures turning up to help injured travelers, especially if said travelers are favored of the Heart; these are mostly lies. There are two profiles here: one for smaller animals (dogs, cats, goats) and one for larger beasts (bears, deer, really big pigs).</p>\n",
-                "descriptors": "<ul><li>A skeleton shifting uneasily in an ambulatory sack of flesh</li><li>A dog with shark- like rows of teeth that undulate and spasm</li><li>An emaciated pig on unstable legs of bone.</li></ul>",
-                "motivation": "Mostly to survive and protect their young; but some have inscrutable motives implanted in their brains by the Heart, making them behave in unpredictablepatterns. HEARTSBLOOD BEAST:",
+                "descriptors": "<ul><li>A skeleton shifting uneasily in an ambulatory sack of flesh</li>\n<li>A dog with shark-like rows of teeth that undulate and spasm</li>\n<li>An emaciated pig on unstable legs of bone.</li></ul>",
+                "motivation": "Mostly to survive and protect their young; but some have inscrutable motives implanted in their brains by the Heart, making them behave in unpredictable patterns.",
                 "difficulty": "Standard",
                 "resources": {
                     "meat_and_fur": "Meat and fur",
@@ -2032,7 +2032,7 @@
             "male_harpy": {
                 "name": "Male Harpy",
                 "description": "<p>Each male harpy is a magpie-like corvid about the size of a housecat, and they like to take sharp and shiny things from people. They tie the sharp things they take onto their beaks and talons to augment their dive-bombing method of catching prey. Older harpies have a wide array of knives, spear points, bayonets and cutlery attached to their pointed white beaks, and bent carpentry nails, fishing hooks and climbing pitons bound to their feet. One swooping from a cave roof can easily puncture the armour of an incautious delver. Harpies will gladly work in teams to dive-bomb a lone wanderer, quickly rendering them incapable of proper retaliation through pain and blood-loss. The shit-caked birds cackle and caw at their prey as it dies, and often imitate the sound of its death throes, as they are capable (and apparently cruel) mimics. They bring the shiny things back to their bowers: mating sites intended to attract the attention of a female. To a harpy, “shiny” seems to mean occult resonance – they have an instinctive attraction towards items that are used to augment magical spells. Necklaces bearing wicked sigils, black-wax candlesandtwo-headedgoatplacentahaveallbeen stolen from travellers and arranged around the harpy’s mating site in curious patterns. Once the harpy has gathered enough shiny things, it will kill smaller creatures – rats, mice, feral piglets, pitchkin – and drag their corpses back to its bower where it will mark summoning sigils in their blood on the stone floor. Then, working on instinct alone, the harpy will caw out a mating call using fragments of language that it does not understand, stolen from the throats of the dying. This draws the attention of a female.</p>",
-                "descriptors": "<ul><li>Imitating the voice of someone who went missing from your haven</li>\n<li>Tying a fishing hook onto its talons with surprising dexterity</li>\n<li>Swooping towards you in a glinting blur.</li></ul>",
+                "descriptors": "<ul><li>Imitating the voice of someone who went missing from your haven</li>\n<li>Tying a fishing hook onto its talons with surprising dexterity</li>\n<li>Swooping towards you in a glinting blur</li></ul>",
                 "motivation": "To take sharp or shiny things; if people are carrying the things and won’t give them up, they’ll try to kill the people before hand.",
                 "difficulty": "Risky if you attack them as they’re swooping from on high; if you can corner them, they’re Standard.",
                 "resources": {
@@ -2050,12 +2050,12 @@
             "market_serf": {
                 "name": "Market Serf",
                 "description": "<p>In the twisting depths of the Red Market, gangs of followers devoted to their Incarnadine masters carve out territory with bludgeon, sword and shot. To these serfs, their master is a godlike figure; they were all riddled with debt, and the Incarnadine saved them and their family from ruin in exchange for service. There are many households living comfortably in the lower levels of the City Above thanks to the good work of the Incarnadines and the bloody empires of trade and murder protected by their loyal serfs.</p>\n",
-                "descriptors": "<ul><li>Pushing jagged shards of coins into their gums to act as teeth.</li>\n<li>Bears records of their master’s financial transactions like a banner.</li>\n<li>Chants price lists like sacred mantras.</li></ul>",
+                "descriptors": "<ul><li>Pushing jagged shards of coins into their gums to act as teeth</li>\n<li>Bears records of their master’s financial transactions like a banner</li>\n<li>Chants price lists like sacred mantras</li></ul>",
                 "motivation": "To bring heaping bounties to the feet of their splendid and gracious lords.",
                 "difficulty": "Standard",
                 "resources": {
                     "often:_a_few_bloodied_nail_like_coins": "Often: A few bloodied nail-like coins (D4, Haven); Rarely: Something you could use as leverage against their master (D10, Religion).",
-                    "description": "Often: A few bloodied nail-like coins (D4, Haven); Rarely: Something you could use as leverage against their master (D10, Religion)."
+                    "description": "Often: A few bloodied nail-like coins\nRarely: Something you could use as leverage against their master"
                 },
                 "equipment": {
                     "rusted": "Rusted, jagged blades (D6, Unreliable); one per group will carry either a blessed coin-firing blunderbuss (D6, Point-blank, Spread, One-shot) or a heavy club studded with sacred transactions (D8, Tiring).",
@@ -2151,7 +2151,7 @@
             "sourceborn_construct": {
                 "name": "Sourceborn Construct",
                 "description": "These blurring storms of noise and steel are the guardians of the Source. On occasion one might creep out in search of supplies (rare metals or silicates), but it’s almost unheard of for one to leave their heavenly circuit.",
-                "descriptors": "<ul><li>A flickering blur of steel and carbon dust that forms itself into hexagons</li>\n<li>A box which appears motionless until razor-sharp filaments spiral forth to maim you</li>\n<li>A hovering obsidian orb that telekinetically flings objects around it with terrifying precision.</li></ul>",
+                "descriptors": "<ul><li>A flickering blur of steel and carbon dust that forms itself into hexagons</li>\n<li>A box which appears motionless until razor-sharp filaments spiral forth to maim you</li>\n<li>A hovering obsidian orb that telekinetically flings objects around it with terrifying precision</li></ul>",
                 "motivation": "To protect and repair the mysterious sigils on the walls of the Source.",
                 "difficulty": "Risky",
                 "resources": {
@@ -2231,7 +2231,7 @@
                 "equipment": {
                     "description": "Nothing of value."
                 },
-                "special": "Jagged bone spurs and knives (D6); Rusted archaic firearms (D8, Ranged). Items removed from the walking wounded corrode completely within minutes, making them unusable by others.",
+                "special": "Items removed from the walking wounded corrode completely within minutes, making them unusable by others.",
                 "names": "You’ll see them at the edge of a haven: rendered senseless, bandages over ruined eyes, hands on each others’ shoulders, limping in a line to Goddess knows where. If you’re brave enough to approach them, you’ll realise that they aren’t a line of soldiers – they’re all one mass of flesh, hand- stumps fused to shoulders, ancient iron pistols melded with puckered skin and twisting bone. Some are still following their original mission: to dig trenches, repel invaders or take enemy positions and slaughter everyone inside. Most are just trying, blind and broken, to get home.",
                 "resistanceDesc": "Standard – they can’t see or hear properly, but they can sense movement uncannily well.",
                 "protectionDesc": "4 for each “surviving” member of the squad; most have around resistance 20.",
@@ -2267,7 +2267,7 @@
                     "dirty_teeth_and_claws": "Dirty teeth and claws",
                     "retching_bile": "Retching bile"
                 },
-                "names": "Gronk, Chrysanth, Felice.",
+                "names": "Gronk, Chrysanth, Felice",
                 "protectionDesc": "2 when they’re under the surface, but 0 if you can get them onto dry-ish land.",
                 "domains": "Warren"
             }

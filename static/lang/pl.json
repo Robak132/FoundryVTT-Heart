@@ -1877,7 +1877,9 @@
                 "equipment": {
                     "unmaking_hands": "Ręce rozkładu"
                 },
-                "special": "Za pierwszym razem, gdy zobaczysz danego anioła, rzuć <b>Odporność+Klątwa</b> i ponieś D10 stresu Umysłu przy porażce."
+                "special": "Za pierwszym razem, gdy zobaczysz danego anioła, rzuć <b>Odporność+Klątwa</b> i ponieś D10 stresu Umysłu przy porażce.",
+                "motivation": "Każdy anioł jest stworzony do wypełnienia określonego celu i nie może zrozumieć rzeczy, które nie są jego celem. Czasami nie są w stanie wykonać swojej misji, a ich umysł psuje się, czyniąc je jeszcze bardziej tajemniczymi.",
+                "domains": "Klątwa, Okultyzm, ale anioły można znaleźć w każdej domenie, jeśli poprowadzi tam ich misja. Niewiele rzeczy może je powstrzymać."
             },
             "automaton_of_burden": {
                 "resources": {
@@ -1912,7 +1914,12 @@
                 },
                 "name": "Rzeźnik",
                 "domains": "Dzicz, Norowisko, Klątwa",
-                "motivation": "By zdobyć mięso (żywe, jeśli to możliwe) dla swojej jaskini."
+                "motivation": "By zdobyć mięso (żywe, jeśli to możliwe) dla swojej jaskini.",
+                "descriptors": "<ul><li>Posiada potężne poroże z gnijącego drewna</li>\n<li>Wydrapuje kamieniem symbole na ścianach i drzewach</li>\n<li>Przykucnięty na skale, ostrzega innych jękliwym skowytem</li></ul>",
+                "resources": {
+                    "butcher_entrails": "Wnętrzności rzeźnika"
+                },
+                "names": "Nie mają już imion. Jeśli muszą się do siebie odnosić, robią to za pomocą swojej pozycji, zapachu i czynów."
             },
             "carrion_pig": {
                 "name": "Ścierwoświnia",
@@ -1945,7 +1952,9 @@
                 "equipment": {
                     "hideous_talons": "Ohydne szpony"
                 },
-                "names": "Żadnych, które byś zrozumiał lub był w stanie wymówić."
+                "names": "Żadnych, które byś zrozumiał lub był w stanie wymówić.",
+                "special": "Jeśli Harpia zada Pomniejszą Konsekwencję Krwi lub Umysłu, odzyska D4 wytrzymałości. Jeśli zda Poważną lub Krytyczną odzyska D6.",
+                "descriptors": "<ul><li>Odrywa głowę walczącemu z nią ogarowi</li>\n<li>Gdacze czterema lub pięcioma głosami jednocześnie</li>\n<li>Składa jaja na dachu opuszczonego domu</li></ul>"
             },
             "feral_psychopomp": {
                 "name": "Dzika Psychopompa",
@@ -1953,7 +1962,8 @@
                 "domains": "Religia, Odludzie",
                 "resources": {
                     "tattered_raiments": "Poszarpane szaty"
-                }
+                },
+                "descriptors": "<ul><li>Przyciska do piersi zardzewiałą niebiańską włócznię</li>\n<li>Naprawia poszarpane skrzydła ptasimi odchodami i piórami</li>\n<li>Zjada strony świętej księgi, jedna po drugiej</li></ul>"
             },
             "flightless_owl_hive": {
                 "name": "Ul Sów Nielotów",
@@ -1966,7 +1976,8 @@
                 "resources": {
                     "assorted_owl_bones": "Różnorodne kości sowy"
                 },
-                "names": "Poszczególne sowy nie mają imion, a imię każdej królowej to minutowy skrzek, który może być wymówiony tylko przez inne sowy."
+                "names": "Poszczególne sowy nie mają imion, a imię każdej królowej to minutowy skrzek, który może być wymówiony tylko przez inne sowy.",
+                "descriptors": "<ul><li>Zjada w całości słabszego członka roju</li>\n<li>Ślepy, ale działający za pomocą echa</li>\n<li>Grzywiasty, z żółknącą skórą i niejednolitymi piórami.</li></ul>"
             },
             "greater_heartsblood_beast": {
                 "resources": {
@@ -1983,7 +1994,9 @@
                     "scrap_metal": "Złom"
                 },
                 "name": "Samiec harpii",
-                "domains": "Dzicz, Odludzie, Okultyzm"
+                "domains": "Dzicz, Odludzie, Okultyzm",
+                "descriptors": "<ul><li>Naśladuje głos kogoś, kto zaginął w twoim schronieniu</li>\n<li>Zawiązuje haczyk wędkarski na swoich szponach z zaskakującą zręcznością</li>\n<li>Błyszcząca plama nurkuje ku tobie z nieba</li></ul>",
+                "motivation": "Zabieranie ostrych lub błyszczących rzeczy. Jeśli ludzie mają je przy sobie i nie chcą ich oddać, będą próbować ich zabić."
             },
             "pitchkin": {
                 "name": "Smolak",
@@ -1994,13 +2007,17 @@
                 "domains": "Technologia, Klątwa",
                 "equipment": {
                     "filthy_teeth_and_claws": "Brudne zęby i pazury"
-                }
+                },
+                "motivation": "Smolaki chcą tylko iglicadzy, nie będą cię niepokoić, chyba że zagrozisz ich zapasom. Czasami handlarze przewożący iglicadzę są atakowani przez bandy smolaków.",
+                "descriptors": "<ul><li>Przyczepiony do spodu sufitu długimi, czarnymi szponami</li>\n<li>Przerywa kaszel i wymiotuje grudkami smoły</li>\n<li>Ma ogromne, kruczoczarne oczy błyszczące w ciemności</li></ul>",
+                "special": "Smolaki są niezwykle łatwopalne. Ogień zadaje minimalne obrażenia D8, gdy zostanie użyty przeciwko nim. Jednak gdy smolak stanie w płomieniach, obrażenia jego broni naturalnej wzrastają do D8. Istnieje kasta męczenników, którzy podpalają się, by chronić zapasy, ale są oni rzadkością."
             },
             "signal_box_cultists": {
                 "difficulty": "Standardowy",
                 "equipment": {
                     "rustedbutstill__functional_machinery": "Zardzewiała, ale wciąż sprawna maszyneria"
-                }
+                },
+                "motivation": "Wcielić innych do kultu, handlować zapasami lub poderżnąć gardło Vermisiańskiemu Rycerzowi i sprawić, by wykrwawił się nad sygnałową maszynerią."
             },
             "skeleton_courtier": {
                 "difficulty": "Standardowy",
@@ -2012,7 +2029,8 @@
                 "equipment": {
                     "ancient_and_rusted_weaponry": "Starożytna zardzewiała broń"
                 },
-                "protectionDesc": "Od 0 do 2, w zależności od tego, czy został pochowany w prześwitujących sukniach, czy starożytnych zbrojach."
+                "protectionDesc": "Od 0 do 2, w zależności od tego, czy został pochowany w prześwitujących sukniach, czy starożytnych zbrojach.",
+                "special": "Ich kościste ciała obniżają kości stresu od broni ostrej i pocisków o 1 stopień, ale zwiększają kości stresu od tępej broni o 1 stopień."
             },
             "the_blighted": {
                 "name": "Zarażony",
@@ -2036,7 +2054,9 @@
                     "heavy_bore_archaic_pistol": "Archaiczny wielkokalibrowy pistolet",
                     "wicked_looking_knives": "Ohydne noże"
                 },
-                "domains": "Norowisko, choć bandytów można znaleźć wszędzie tam, gdzie są podróżnicy."
+                "domains": "Norowisko, choć bandytów można znaleźć wszędzie tam, gdzie są podróżnicy.",
+                "description": "Oportunistyczni złodzieje i zabójcy, którzy żerują na bezbronnych podróżnych dla ich kosztowności. Najczęściej można ich spotkać w tunelach prowadzących do Rodzinnych Krain, ale miejsc, w których gang zdesperowanych ludzi z bronią i brakiem empatii może szybko zarobić, jest bez liku. Nie są oni gotowi na poważną walkę i zazwyczaj są otwarci na negocjacje, jeśli masz coś do zaoferowania, czego nie mogą ci po prostu zabrać.",
+                "motivation": "Zabierać pieniądze lub kosztowności ludziom korzystającym z tuneli, by wyemigrować do Miasta Powyżej. Są jednak hałaśliwi i niepewni siebie, więc niektórzy wykorzystują każdą okazję, by udowodnić swoje okrucieństwo i wyższość nad innymi."
             },
             "the_cult_of_knives": {
                 "difficulty": "Ryzykowny",
@@ -2045,26 +2065,35 @@
                     "description": "Prawie nic istotnego, chociaż może uda ci się sprzedać noże."
                 },
                 "name": "Kult Noży",
-                "special": "Kult Noży ignoruje wszystkie Ochrony."
+                "special": "Kult Noży ignoruje wszystkie Ochrony.",
+                "names": "Jeśli zabierzesz im wszystkie noże, opamiętają się i powiedzą ci swoje imię (Theodora, Clovin, Wyst), zanim umrą z utraty krwi."
             },
             "wretch": {
                 "name": "Nieszczęśnik",
                 "resources": {
-                    "creatures_and_garbage": "Stworzenia i śmieci"
+                    "creatures_and_garbage": "Stworzenia i śmieci",
+                    "description": "Stworzenia i śmieci, w których pływają, są bezużyteczne poza tunelami, ale wewnątrz nich są wychwalane z czcią, która czyni z nich przedmioty (D6, Religia)."
                 },
                 "domains": "Norowisko",
                 "equipment": {
                     "dirty_teeth_and_claws": "Brudne zęby i pazury",
                     "retching_bile": "Wymiot żółci"
                 },
-                "protectionDesc": "2, gdy jest pod powierzchnią, ale 0, jeśli uda ci się go wyciągnąć na suchy ląd."
+                "protectionDesc": "2, gdy jest pod powierzchnią, ale 0, jeśli uda ci się go wyciągnąć na suchy ląd.",
+                "names": "Gronk, Chrysanth, Felice",
+                "descriptors": "<ul><li>Kiedyś były to cztery psy, ale teraz połączyły się ze sobą</li>\n<li>Ledwo widoczny krokodylowaty cień</li>\n<li>Prychająca, płetwiasta świniopodobna istota z przerażająco szeroką paszczą</li></ul>"
             },
             "burnt_out_occultist": {
                 "difficulty": "Standardowy",
                 "name": "Wypalony okultysta",
                 "resources": {
                     "almost_useless_scraps_of_occult_energy": "Prawie bezużyteczne skrawki okultystycznej energii"
-                }
+                },
+                "motivation": "Uczyć się nowych zaklęć, zbierać okultystyczne przedmioty i wykorzystywać je do rzucania czarów; naćpać się i choć na chwilę zapomnieć o kłopotach.",
+                "equipment": {
+                    "black_market_black_magic": "Czarna magia czarnego rynku"
+                },
+                "special": "Jeśli Wypalony Okultysta zada 7 lub więcej stresu w pojedynczym rzucie, zostanie wyłączony z akcji poprzez magiczne sprzężenie zwrotne."
             },
             "druid_legbreaker": {
                 "name": "Druid Łamacz Nóg",
@@ -2117,21 +2146,30 @@
                 "equipment": {
                     "teeth_and_claws": "Zęby i pazury"
                 },
-                "domains": "Dzicz, Norowisko"
+                "domains": "Dzicz, Norowisko",
+                "motivation": "Głównie, by przetrwać i chronić swoje młode, choć niektóre mają tajemnicze motywacje wszczepione w ich mózgi przez Serce, co sprawia, że zachowują się w nieprzewidywalny sposób."
             },
             "heartseeds": {
                 "name": "Esencja Serca"
             },
             "market_serf": {
                 "difficulty": "Standardowy",
-                "domains": "Norowisko, Religia"
+                "domains": "Norowisko, Religia",
+                "descriptors": "<ul><li>Wciska w dziąsła postrzępione odłamki monet, by działały jak zęby</li>\n<li>Nosi księgi finansowe swoich Panów jako sztandar</li>\n<li>Wyświewuje cenniki jako święte mantry</li></ul>",
+                "resources": {
+                    "description": "Często: Kilka zakrwawionych monet przypominających paznokcie\nRzadko: Coś, co można wykorzystać przeciwko ich Panom"
+                }
             },
             "mirror_spiders": {
                 "name": "Lustrzane Pająki",
                 "difficulty": "Standardowy",
                 "domains": "Norowisko, Religia",
                 "resistanceDesc": "6 na rój, bez problemu możesz zmiażdżyć każdego pojedynczego członka roju.",
-                "protectionDesc": "4. Bronie, które trafiają wiele owadów jednocześnie (miotły, płonące pochodnie itp.) ignorują tę ochronę, ale bronie Przebijające jej nie omijają."
+                "protectionDesc": "4. Bronie, które trafiają wiele owadów jednocześnie (miotły, płonące pochodnie itp.) ignorują tę ochronę, ale bronie Przebijające jej nie omijają.",
+                "resources": {
+                    "description": "Każdy lustrzany pająk jest wart od D6 do D12 zasobów, w zależności od rozmiaru i złożoności lustra na jego grzbiecie. Miniaturowe święte księgi i dewocjonalia są interesujące dla kolekcjonerów (D8, Niszowy), ale poza tym są bezwartościowe."
+                },
+                "motivation": "Znaleźć i zjeść inne lustrzane pająki. Jeśli znajdziesz kogoś, kto potrafi z nimi rozmawiać, często są skłonne się targować."
             },
             "red_saint": {
                 "resources": {
@@ -2143,7 +2181,8 @@
                 "equipment": {
                     "rusted_blackiron_blades": "Zardzewiałe ostrza z czarnego żelaza"
                 },
-                "difficulty": "Standardowa, ale spójrz na konsekwencje."
+                "difficulty": "Standardowa, ale spójrz na konsekwencje.",
+                "special": "Bez dostępu do zakazanych Rytuałów Wygaszania zabicie Czerwonego Świętego jest niemożliwe, a te może posiadać Kościół Księżyca Poniżej. Bez rytuałów, możesz jedynie go obezwładnić, ale jego rany uleczą się w ciągu paru minut."
             },
             "the_carnival": {
                 "name": "Karnawał",
@@ -2151,7 +2190,8 @@
                 "domains": "Schronienie, Odludzie",
                 "resources": {
                     "whatever_they_were_carrying_when_the_infection_took_hold": "Cokolwiek mieli ze sobą, gdy infekcja się zaczęła"
-                }
+                },
+                "motivation": "Tańczyć! Od czasu do czasu opamiętują się i krzyczą z bólu i głodu, więc wiele grup ma w swoich szeregach bębniarza, który utrzymuje rytm."
             },
             "sourceborn_construct": {
                 "difficulty": "Ryzykowny",
@@ -2162,7 +2202,8 @@
                     "impossibly_keen_metal": "Niemożliwie ostry metal do produkcji mieczy"
                 },
                 "name": "Konstrukt Źródła",
-                "names": "Brak w języku, który można zrozumieć lub którym można się posługiwać"
+                "names": "Brak w języku, który można zrozumieć lub którym można się posługiwać",
+                "descriptors": "<ul><li>Migocząca smuga stali i pyłu węglowego, która formuje się w sześciokąty</li>\n<li>Pudełko, które wydaje się nieruchome, dopóki ostre jak brzytwa włókna nie wystrzelą, by cię okaleczyć</li>\n<li>Unosząca się obsydianowa kula, która telekinetycznie rzuca obiektami wokół siebie z przerażającą precyzją</li></ul>"
             },
             "the_walking_wounded": {
                 "domains": "Klątwa, Odludzie",
