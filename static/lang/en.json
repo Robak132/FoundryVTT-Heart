@@ -2163,8 +2163,7 @@
                 "difficulty": "Risky",
                 "resources": {
                     "machine_heart": "Machine heart",
-                    "impossibly_keen_metal": "Impossibly keen metal to make sword-blades from",
-                    "description": "Machine heart (D12, Technology); Impossibly keen metal to make sword-blades from (D8, Technology)."
+                    "impossibly_keen_metal": "Impossibly keen metal to make sword-blades from"
                 },
                 "equipment": {
                     "ultrasharp_metal_shards": "Ultrasharp metal shards (D6, Brutal, Piercing, Ranged. When used by another, they gain the Dangerous tag).",
