@@ -40,7 +40,7 @@
         "minor-beat.single": "Pomniejszy takt",
         "potential-plot.multiple": "Potencjalne przygody",
         "potential-plot.single": "Potencjalna przygoda",
-        "protection.multiple": "Ochrona",
+        "protection.multiple": "Ochrony",
         "protection.single": "Ochrona",
         "resource.multiple": "Zasoby",
         "resource.single": "Zasób",
@@ -701,7 +701,7 @@
                     "zenith": {
                         "extinguish.description": "<i>Twoja śmierć przemawia do ciebie łagodnie i słodko: możesz zabić, co tylko zechcesz.</i> Wykorzystując swoją władzę nad życiem i śmiercią oraz wiążąc własną energię z zaklęciem, możesz przywołać dowolną osobę, istotę, miejsce lub koncepcję (poza samym Sercem) do fizycznego naczynia. Następnie możesz je zabić, niszcząc twój cel wraz ze sobą samym. Naczynie ma statystyki określone przez MG, nie musisz walczyć z nią sam. Możesz (nawet powinieneś) przechylić nieco szalę na swoją korzyść. Jeśli uda ci się je zabić, ty również zginiesz. <b>Zabijanie</b> miejsc powoduje ich zniszczenie. <b>Zabijanie</b> pojęć powoduje ich usunięcie z umysłów mieszkańców Serca. Istnieją granice tego, co można osiągnąć dzięki tej zdolności. Zabicie <b>oddychania</b>, nie sprawi, że ludzie nie będą oddychać, ale nie będą już wiedzieć, co robią i dlaczego jest to ważne.",
                         "extinguish.name": "Wygaszenie",
-                        "infernal_claws.description": "<i>You learn the secrets of the Dark Place.</i> You know the location of and the route to hell (or something close to it). You can also summon fallen angels and other agents of misrule to drag a target down there. Compared to hell, the Eight Heavens seem like pretty nice places to spend an eternity. This process traps the target there indefinitely, wracking it with torments and driving it insane. Dragging someone to hell in this way consumes your life essence, and your death embraces you for one final time before stopping your heart.",
+                        "infernal_claws.description": "<i>Poznajesz sekrety Mrocznego Miejsca.</i> Znasz lokalizację i drogę do piekła (lub czegoś podobnego). Możesz także przywoływać upadłe anioły i innych wysłanników zła, by zaciągnąć tam dowolny cel. W porównaniu z piekłem Osiem Niebios wydaje się całkiem przyjemnymi miejscami na spędzenie wieczności. Twój cel zostanie uwięziony na wieki w mękach, doprowadzających go do szaleństwa. Zaciągnięcie kogoś do piekła w ten sposób zużyje całą twoją esencję życiową, a twoja śmierć obejmie cię po raz ostatni, zanim zatrzyma twoje serce.",
                         "infernal_claws.name": "Piekielne Szpony",
                         "sunder_the_veil.description": "<i>Ostatnim tchnieniem otwierasz przejście do nieba, a jego energia zalewa okolicę, powodując spontaniczne cuda.</i> Musisz umrzeć, by aktywować tę zdolność. Wszyscy pobliscy sojusznicy usuwają wszystkie trwające konsekwencje, cały poniesiony stres i zyskują mistrzostwo we wszystkich rzutach do końca sytuacji.",
                         "sunder_the_veil.name": "Rozedrzyj Zasłonę"
@@ -1456,7 +1456,7 @@
                     "creepy.name": "Dziwny",
                     "creepy.description": "Reagujesz w dziwny sposób, który straszy twoich sojuszników. Opowiedz, jak to robisz. Każdy, kto to zobaczy, otrzymuje D4 stresu <b>Umysłu</b>. [Natychmiastowa]",
                     "collateral_magic.name": "Dzika Magia",
-                    "collateral_magic.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of blood and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. This fallout can be upgraded to <b>AETHERIC RESONANCE</b>. [Immediate]",
+                    "collateral_magic.description": "Twój spanikowany umysł pęka na sekundę i przekształca się według tajemnego wzoru. Tutaj, na dole, stara magia krwi i kości działa lepiej niż na powierzchni. Natychmiast rzucasz <b>ETERYCZNĄ ZMORĘ</b> na pobliskiego sojusznika, ale nie otrzymujesz za to żadnego stresu. Ta konsekwencja może zostać ulepszona do <b>ETERYCZNY REZONANS</b>. [Natychmiastowa]",
                     "fascination.name": "Fascynacja",
                     "fascination.description": "Stajesz się obsesyjnie zainteresowany dziwnym tematem, zazwyczaj tym, który wywołał konsekwencję. Musisz spróbować dowiedzieć się więcej na ten temat, jeśli to możliwe, z pierwszej ręki. Za każdym razem, gdy próbujesz dowiedzieć się więcej o swojej dziwnej fascynacji, rzuć z mistrzostwem. Jeśli będziesz mieć możliwość dowiedzenia się o niej i odmówisz, otrzymasz D4 stresu <b>Umysłu</b>. [Trwająca]",
                     "figment.name": "Wymysł",
@@ -1488,7 +1488,7 @@
                     "hex-eye.name": "Klątwa Wielowzroku",
                     "hex-eye.description": "Twój wzrok zmienia się i zaczynasz dostrzegać światy inne niż twój, ułożone jeden na drugim. Każda podjęta przez ciebie akcja wymagająca dokładnej oceny odległości (skok, strzał, bieg korytarzem) staje się Ryzykowna. Raz na sesję możesz zobaczyć coś przydatnego, zapytaj MG co to takiego. [Trwająca]",
                     "the_ravening_call.name": "Drapieżny Zew",
-                    "the_ravening_call.description": "Ta Konsekwencja nie daje żadnych efektów, ale pozostaje na twojej postaci i czasami objawia się jako urywany skowyt w ich umyśle. Konsekwencja może zostać ulepszona do DRAPIEŻNA <b>BESTIA</b>. [Trwająca]",
+                    "the_ravening_call.description": "Ta Konsekwencja nie daje żadnych efektów, ale pozostaje na twojej postaci i czasami objawia się jako urywany skowyt w ich umyśle. Konsekwencja może zostać ulepszona do <b>DRAPIEŻNA BESTIA</b>. [Trwająca]",
                     "strange_appetite.name": "Dziwny Apetyt",
                     "strange_appetite.description": "Pragniesz czegoś niezwykłego, tabu, zamiast dobrego, uczciwego mięsa i napoju: zardzewiałego metalu, żywych stworzeń, robactwa, ścieków, używanych ubrań, ukochanych zwierząt domowych itp. Następnym razem, gdy odwiedzisz miejsce odpoczynku i spróbujesz usunąć stres <b>Krwi</b> lub <b>Umysłu</b>, musisz szukać tych dziwactw i oddać się im. Jeśli tego nie zrobisz, nie będziesz w stanie usunąć stresu. Po oddaniu się dziwności usuń tę konsekwencję. Ta konsekwencja może zostać ulepszona do <b>MROCZNE PRAGNIENIA</b>. [Trwająca]",
                     "siren_song.name": "Syreni Śpiew",
@@ -1552,7 +1552,7 @@
                 },
                 "mind": {
                     "aetheric_resonance.name": "Eteryczny rezonans",
-                    "aetheric_resonance.description": "Your panicked mind breaks for a second and reforms in an arcane pattern; down here, the old magics of blood and bone work better than they do on the surface. You immediately cast <b>AETHERIC SCOURGE</b> on a nearby ally, but mark no stress for doing so. Also, you permanently learn <b>AETHERIC SCOURGE</b> and can cast it at will. [Ongoing]",
+                    "aetheric_resonance.description": "Twój spanikowany umysł pęka na sekundę i przekształca się według tajemnego wzoru. Tutaj, na dole, stara magia krwi i kości działa lepiej niż na powierzchni. Natychmiast rzucasz <b>ETERYCZNĄ ZMORĘ</b> na pobliskiego sojusznika, ale nie otrzymujesz za to żadnego stresu. Permanentnie uczysz się zaklęcia <b>ETERYCZNA ZMORA</b> i możesz je rzucać, kiedy chcesz. [Trwająca]",
                     "addict.name": "Uzależnienie",
                     "addict.description": "You realise that you have become reliant on drugs to keep yourself stable. When you're high (or drunk, or whatever) you take <b>Mind</b> stress normally, but all tasks that require extended concentration or fine manipulation become Risky. When you're not intoxicated and you suffer stress to <b>Mind</b>, roll twice and pick the higher dice. It takes a few minutes to get high and a few hours to sober up. [Ongoing]",
                     "delusion.name": "Złudzenie",
@@ -1564,7 +1564,7 @@
                     "phantasm.name": "Urojenie",
                     "phantasm.description": "Przestajesz rozróżniać, tego co jest prawdziwe, a co nie. MG wybiera Poważną Konsekwencję z innej odporności i mówi ci, że ją masz. Dopóki ta konsekwencja nie zostanie usunięta, jesteś przekonany, że cierpisz z jej powodu (bez względu na to, co mówią ci inni) i cierpisz z powodu wszystkich odpowiednich efektów. MG może poinformujesz gracza, że jest to złudzenie, lub tego nie robić. [Trwająca]",
                     "scarred.name": "Blizna",
-                    "scarred.description": "Your mind cracks and reforms in primal, instinctive patterns. The GM chooses one: Fight (attack the problem in an attempt to destroy it), Flight (get away from the problem by any means necessary) or Freeze (do not act, putting yourself in danger). In addition, every time you encounter the source of the fallout from now on, the GM can ask you to make an <b>Endure</b> check or suffer D8 stress to <b>Mind</b>. [Ongoing]",
+                    "scarred.description": "Twój umysł pęka i przyjmuje pierwotne wzorce oparte na instynkcie. MG wybiera jedno: Walcz (zaatakuj problem, próbując go zniszczyć), Uciekaj (ucieknij od problemu wszelkimi niezbędnymi środkami) lub Zastygnij (nie rób nic, narażając się na niebezpieczeństwo). Za każdym razem, gdy od tej pory napotkasz źródło konsekwencji, MG może poprosić cię o wykonanie testu <b>Odporności</b> lub otrzymanie D8 stresu <b>Umysłu</b>. [Trwająca]",
                     "unsettling.name": "Niepokojący",
                     "unsettling.description": "Zachowujesz się w dziwny sposób, powodując dyskomfort u swoich towarzyszy. MG wybiera jeden: Walcz (zaatakuj problem, próbując go zniszczyć), Uciekaj (ucieknij od problemu wszelkimi niezbędnymi środkami) lub Zastygnij (nie rób nic, narażając się na niebezpieczeństwo). Każda przyjazna postać, która cię widzi, otrzymuje D6 stresu <b>Umysłu</b>. Usuń tę Konsekwencję na koniec sytuacji. [Natychmiastowa]"
                 },
@@ -1572,7 +1572,7 @@
                     "blooded.name": "Skrwawiony",
                     "blooded.description": "Wykazujesz pewne znaki Serca w swojej fizycznej formie: skręcone, kruche poroże z kości, paznokcie zakrzywione w ostre fraktalne wzory, bioluminescencyjne żyły, dodatkowe stawy w kończynach i tak dalej. Twoja krucha śmiertelna forma nie została zaprojektowana do wykorzystywania w ten sposób. Dlatego, gdy otrzymujesz stres <b>Krwi</b>, rzuć dwiema kośćmi i wybierz wyższy wynik. [Trwająca]",
                     "cult.name": "Kult",
-                    "cult.description": "Your actions mark you as a true scion of the Heart, and weird people/creatures will trail around you, espousing your glories (whether real or imagined). This is nothing but trouble, and any attempt to take advantage of them will go wrong. Getting into a haven will be difficult with this many people around, so you'd best hope that some of them die along the way. [Ongoing]",
+                    "cult.description": "Twoje akcje powodują, że jesteś uważany za prawdziwego wysłannika Serca. Dziwni ludzie i stworzenia otaczają cię, opowiadając o twoich wyczynach (prawdziwych lub wyimaginowanych). Każda próba ich wykorzystania zakończy się niepowodzeniem, więc przynoszą tylko kłopoty. Przy takiej liczbie ludzi, dostanie się do schronienia będzie trudne, więc miejmy nadzieje, że część z nich zginie po drodze. [Trwająca]",
                     "darkcravings.name": "Mroczne Pragnienia",
                     "darkcravings.description": "Pragniesz czegoś niezwykłego, tabu, zamiast dobrego, uczciwego mięsa i napoju: zardzewiałego metalu, żywych stworzeń, robactwa, ścieków, używanych ubrań, ukochanych zwierząt domowych itp. Następnym razem, gdy odwiedzisz miejsce odpoczynku i spróbujesz usunąć stres <b>Krwi</b> lub <b>Umysłu</b>, musisz szukać tych dziwactw i oddać się im. Jeśli tego nie zrobisz, nie będziesz w stanie usunąć stresu. Efekt będzie trwały, dopóki ta konsekwencja nie zostanie usunięta. [Trwająca]",
                     "eyes.name": "Oczy",
@@ -1584,7 +1584,7 @@
                     "mirage.name": "Miraż",
                     "mirage.description": "Następnym miejsce, do którego docierasz to duplikat stworzony przez Serce, który ma zadanie dać ci dokładnie to czego, potrzebujesz. Wygląda na prawdziwe, ale im więcej odkrywasz, tym bardziej oczywiste jest, że wszystko: ulice, książki, ludzie jest tylko iluzją. To kunsztowna kopia wykonana z mięsa, kości i krwi. Wygląda na to, że istnieje tu od setek lat. Kiedy zdasz sobie sprawę, że miejsce nie jest prawdziwe, usuń tę konsekwencję. [Natychmiastowa]",
                     "the_ravening_beast.name": "Drapieżna Bestia",
-                    "the_ravening_beast.description": "Emerging from a patch of shadows, the Ravening Beast that has been hiding in your mind appears. It will attempt to maul others, but its primary motivation is to consume you utterly. Fighting off the beast does not remove this fallout, but it has no further effect unless you upgrade this fallout (see <b>THE RAVENING</b>). [Immediate]",
+                    "the_ravening_beast.description": "Drapieżna Bestia, która dotąd ukrywała się w twoim umyśle, wyłania się z plamy cienia. Będzie atakowała innych, ale jej głównym celem jest pochłonięcie ciebie. Pokonanie bestii nie usuwa tej konsekwencji, ale nie będzie miała ona żadnego efektu, o ile jej nie ulepszysz (patrz <b>POCHŁONIĘCIE</b>). [Natychmiastowa]",
                     "reconfigured_physiology.name": "Zmieniona Fizjologia",
                     "reconfigured_physiology.description": "Twoje organy i kości tracą sens. Nie możesz usuwać stresu, ani konsekwencji <b>Krwi</b> w miejscach odpoczynku lub za pomocą zestawów medycznych. W jakiś sposób objawia się to na zewnątrz: nietypowe narośle wybrzuszające się pod skórą, siniaki w kształcie słów, czarna krew i tym podobne. [Trwająca]",
                     "vanished.name": "Zniknięcie",
@@ -1695,7 +1695,7 @@
             "beacon.description": "Przedmiot przyciąga coś niebezpiecznego ku sobie.",
             "block.name": "Tarcza",
             "block.description": "+1 Ochrona <b>Krwi</b>.",
-            "bloodbound.name": "Więź <b>Krwi</b>",
+            "bloodbound.name": "Więź Krwi",
             "bloodbound.description": "Ponieś D4 stresu <b>Krwi</b>, by rzucać z mistrzostwem podczas korzystania z tego przedmiotu przez resztę sytuacji.",
             "brutal.name": "Brutalny",
             "brutal.description": "Kiedy zadajesz stress przeciwnikowi podczas używania tego przedmiotu, rzuć dwiema kośćmi i wybierz najwyższą. Tagi kumulują się: jeśli uda Ci się go zdobyć trzy razy, rzucisz czterema kośćmi i wybierzesz najwyższą z nich podczas obliczania stresu.",
@@ -1863,6 +1863,355 @@
                     "Przyciski na górze arkusza mają bardziej spójny rozmiar, dzięki czemu nie zamieniają się w jeden długi."
                 ],
                 "version": "v0.8.7"
+            }
+        },
+        "actor": {
+            "angel": {
+                "name": "Anioł",
+                "difficulty": "Niebezpieczny",
+                "resources": {
+                    "caul_name": "Pęcherz",
+                    "caul_description": "Kiedy go nosisz, sercokrwiste istoty traktują cię jak jednego ze swoich."
+                },
+                "protectionDesc": "Równa poziomowi, na którym został napotkany. <b>PRZEBIJAJĄCE</b> bronie nie usuwają tej ochrony.",
+                "equipment": {
+                    "unmaking_hands": "Ręce rozkładu"
+                },
+                "special": "Za pierwszym razem, gdy zobaczysz danego anioła, rzuć <b>Odporność+Klątwa</b> i ponieś D10 stresu Umysłu przy porażce.",
+                "motivation": "Każdy anioł jest stworzony do wypełnienia określonego celu i nie może zrozumieć rzeczy, które nie są jego celem. Czasami nie są w stanie wykonać swojej misji, a ich umysł psuje się, czyniąc je jeszcze bardziej tajemniczymi.",
+                "domains": "Klątwa, Okultyzm, ale anioły można znaleźć w każdej domenie, jeśli poprowadzi tam ich misja. Niewiele rzeczy może je powstrzymać."
+            },
+            "automaton_of_burden": {
+                "resources": {
+                    "frantic_animal_intelligence": "Szalona zwierzęca inteligencja",
+                    "spare_parts": "Części zamienne"
+                },
+                "difficulty": "Standardowa",
+                "equipment": {
+                    "spindly_legs": "Wrzecionowate nogi"
+                },
+                "name": "Automat Pociągowy",
+                "domains": "Technologia",
+                "special": "Jeśli zdobędziesz Automat Pociągowy, działa on jak przedmiot (Wyprawa D6).",
+                "protectionDesc": "0, chyba że ich właściciel wzmocnił je do 1 lub 2."
+            },
+            "blooded": {
+                "name": "Skrwawiony",
+                "difficulty": "Standardowy",
+                "domains": "Dzicz, Klątwa",
+                "equipment": {
+                    "knife": "Nóż, pałka lub kiepskiej jakości miecz"
+                },
+                "motivation": "Żyć w Sercu w spokoju i nie dać się zabić jakiemuś nieświadomemu poszukiwaczowi.",
+                "resources": {
+                    "jewellery": "Ich ciała lub ich części mogą być sprzedawane jako medyczne ciekawostki, ale większość schronień w Sercu patrzy na to krzywo."
+                }
+            },
+            "butcher": {
+                "difficulty": "Ryzykowny",
+                "equipment": {
+                    "nightmare_claws": "Koszmarne szpony"
+                },
+                "name": "Rzeźnik",
+                "domains": "Dzicz, Norowisko, Klątwa",
+                "motivation": "By zdobyć mięso (żywe, jeśli to możliwe) dla swojej jaskini.",
+                "descriptors": "<ul><li>Posiada potężne poroże z gnijącego drewna</li>\n<li>Wydrapuje kamieniem symbole na ścianach i drzewach</li>\n<li>Przykucnięty na skale, ostrzega innych jękliwym skowytem</li></ul>",
+                "resources": {
+                    "butcher_entrails": "Wnętrzności rzeźnika"
+                },
+                "names": "Nie mają już imion. Jeśli muszą się do siebie odnosić, robią to za pomocą swojej pozycji, zapachu i czynów."
+            },
+            "carrion_pig": {
+                "name": "Ścierwoświnia",
+                "domains": "Schronienie, Dzicz",
+                "motivation": "Jeść, kopulować, a jeśli będzie na to czas, zemścić się na swoich właścicielach.",
+                "difficulty": "Ryzykowna, jeśli są w rui. W innych przypadkach Standardowa.",
+                "resources": {
+                    "too_much_stinking_pig_fat": "Za dużo śmierdzącego świńskiego tłuszczu"
+                },
+                "names": "Właściciele zwykle nie nadają imion ścierwoświniom, ponieważ nie chcą się z nimi utożsamiać."
+            },
+            "false_hallow": {
+                "difficulty": "Niebezpieczny",
+                "name": "Fałszywy Święty",
+                "domains": "Religia, Okultyzm",
+                "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting",
+                "equipment": {
+                    "simple_work_tools_or_repurposed_ritual_items": "Proste narzędzia lub przerobione przedmioty rytualne"
+                }
+            },
+            "female_harpy": {
+                "name": "Samica harpii",
+                "difficulty": "Ryzykowny",
+                "domains": "Dzicz, Odludzie",
+                "resources": {
+                    "description": "Jeśli zabijesz ją, zanim się rozpadnie: Serce Harpii.",
+                    "harpy_heart": "Serce Harpii"
+                },
+                "motivation": "Zabijanie, picie krwi i składanie jaj w bezpiecznych miejscach, gdzie mogą się wykluć.",
+                "equipment": {
+                    "hideous_talons": "Ohydne szpony"
+                },
+                "names": "Żadnych, które byś zrozumiał lub był w stanie wymówić.",
+                "special": "Jeśli Harpia zada Pomniejszą Konsekwencję Krwi lub Umysłu, odzyska D4 wytrzymałości. Jeśli zda Poważną lub Krytyczną odzyska D6.",
+                "descriptors": "<ul><li>Odrywa głowę walczącemu z nią ogarowi</li>\n<li>Gdacze czterema lub pięcioma głosami jednocześnie</li>\n<li>Składa jaja na dachu opuszczonego domu</li></ul>"
+            },
+            "feral_psychopomp": {
+                "name": "Dzika Psychopompa",
+                "difficulty": "Standardowy",
+                "domains": "Religia, Odludzie",
+                "resources": {
+                    "tattered_raiments": "Poszarpane szaty"
+                },
+                "descriptors": "<ul><li>Przyciska do piersi zardzewiałą niebiańską włócznię</li>\n<li>Naprawia poszarpane skrzydła ptasimi odchodami i piórami</li>\n<li>Zjada strony świętej księgi, jedna po drugiej</li></ul>"
+            },
+            "flightless_owl_hive": {
+                "name": "Ul Sów Nielotów",
+                "difficulty": "Standardowy",
+                "equipment": {
+                    "beaks_and_claws": "Dzioby i pazury",
+                    "description": "Dzioby i pazury"
+                },
+                "motivation": "Obrona królowej i zapewnienie bezpieczeństwa ulowi.",
+                "resources": {
+                    "assorted_owl_bones": "Różnorodne kości sowy"
+                },
+                "names": "Poszczególne sowy nie mają imion, a imię każdej królowej to minutowy skrzek, który może być wymówiony tylko przez inne sowy.",
+                "descriptors": "<ul><li>Zjada w całości słabszego członka roju</li>\n<li>Ślepy, ale działający za pomocą echa</li>\n<li>Grzywiasty, z żółknącą skórą i niejednolitymi piórami.</li></ul>"
+            },
+            "greater_heartsblood_beast": {
+                "resources": {
+                    "meat_and_fur": "Mięso i futro",
+                    "description": "Częste: Mięso i futro\nRzadkie: Ciekawe i unikalne kości",
+                    "curious_and_unique_bones": "Ciekawe i unikalne kości"
+                },
+                "name": "Większa Sercokrwista Bestia",
+                "motivation": "Cień",
+                "domains": "Dzicz, Norowisko"
+            },
+            "male_harpy": {
+                "resources": {
+                    "scrap_metal": "Złom"
+                },
+                "name": "Samiec harpii",
+                "domains": "Dzicz, Odludzie, Okultyzm",
+                "descriptors": "<ul><li>Naśladuje głos kogoś, kto zaginął w twoim schronieniu</li>\n<li>Zawiązuje haczyk wędkarski na swoich szponach z zaskakującą zręcznością</li>\n<li>Błyszcząca plama nurkuje ku tobie z nieba</li></ul>",
+                "motivation": "Zabieranie ostrych lub błyszczących rzeczy. Jeśli ludzie mają je przy sobie i nie chcą ich oddać, będą próbować ich zabić."
+            },
+            "pitchkin": {
+                "name": "Smolak",
+                "resources": {
+                    "spireblack_reserves": "Rezerwy iglicadzy"
+                },
+                "difficulty": "Standardowy",
+                "domains": "Technologia, Klątwa",
+                "equipment": {
+                    "filthy_teeth_and_claws": "Brudne zęby i pazury"
+                },
+                "motivation": "Smolaki chcą tylko iglicadzy, nie będą cię niepokoić, chyba że zagrozisz ich zapasom. Czasami handlarze przewożący iglicadzę są atakowani przez bandy smolaków.",
+                "descriptors": "<ul><li>Przyczepiony do spodu sufitu długimi, czarnymi szponami</li>\n<li>Przerywa kaszel i wymiotuje grudkami smoły</li>\n<li>Ma ogromne, kruczoczarne oczy błyszczące w ciemności</li></ul>",
+                "special": "Smolaki są niezwykle łatwopalne. Ogień zadaje minimalne obrażenia D8, gdy zostanie użyty przeciwko nim. Jednak gdy smolak stanie w płomieniach, obrażenia jego broni naturalnej wzrastają do D8. Istnieje kasta męczenników, którzy podpalają się, by chronić zapasy, ale są oni rzadkością."
+            },
+            "signal_box_cultists": {
+                "difficulty": "Standardowy",
+                "equipment": {
+                    "rustedbutstill__functional_machinery": "Zardzewiała, ale wciąż sprawna maszyneria"
+                },
+                "motivation": "Wcielić innych do kultu, handlować zapasami lub poderżnąć gardło Vermisiańskiemu Rycerzowi i sprawić, by wykrwawił się nad sygnałową maszynerią."
+            },
+            "skeleton_courtier": {
+                "difficulty": "Standardowy",
+                "name": "Szkielet Dworzanin",
+                "domains": "Norowisko",
+                "resources": {
+                    "tarnished_but_beautiful_burial_goods": "Zniszczone, ale wciąż piękne dobra pogrzebowe"
+                },
+                "equipment": {
+                    "ancient_and_rusted_weaponry": "Starożytna zardzewiała broń"
+                },
+                "protectionDesc": "Od 0 do 2, w zależności od tego, czy został pochowany w prześwitujących sukniach, czy starożytnych zbrojach.",
+                "special": "Ich kościste ciała obniżają kości stresu od broni ostrej i pocisków o 1 stopień, ale zwiększają kości stresu od tępej broni o 1 stopień."
+            },
+            "the_blighted": {
+                "name": "Zarażony",
+                "equipment": {
+                    "impaling_branches": "Przebijające gałęzie"
+                },
+                "difficulty": "Standardowy",
+                "resources": {
+                    "parasite_samples": "Próbki pasożytów",
+                    "assorted_equipment": "Różnorodny sprzęt i kości jego ofiar"
+                },
+                "domains": "Dzicz",
+                "motivation": "By swędzenie ustało.",
+                "special": "Ogień zadaje podwójny stres, gdy jest używany przeciwko Zarażonym.",
+                "protectionDesc": "4 przeciwko broni, która nie może ścinać drzew."
+            },
+            "tunnel_brigands": {
+                "name": "Tunelowi Bandyci",
+                "difficulty": "Standardowy",
+                "equipment": {
+                    "heavy_bore_archaic_pistol": "Archaiczny wielkokalibrowy pistolet",
+                    "wicked_looking_knives": "Ohydne noże"
+                },
+                "domains": "Norowisko, choć bandytów można znaleźć wszędzie tam, gdzie są podróżnicy.",
+                "description": "Oportunistyczni złodzieje i zabójcy, którzy żerują na bezbronnych podróżnych dla ich kosztowności. Najczęściej można ich spotkać w tunelach prowadzących do Rodzinnych Krain, ale miejsc, w których gang zdesperowanych ludzi z bronią i brakiem empatii może szybko zarobić, jest bez liku. Nie są oni gotowi na poważną walkę i zazwyczaj są otwarci na negocjacje, jeśli masz coś do zaoferowania, czego nie mogą ci po prostu zabrać.",
+                "motivation": "Zabierać pieniądze lub kosztowności ludziom korzystającym z tuneli, by wyemigrować do Miasta Powyżej. Są jednak hałaśliwi i niepewni siebie, więc niektórzy wykorzystują każdą okazję, by udowodnić swoje okrucieństwo i wyższość nad innymi."
+            },
+            "the_cult_of_knives": {
+                "difficulty": "Ryzykowny",
+                "resources": {
+                    "barely_anything": "Prawie nic istotnego, chociaż może uda ci się sprzedać noże.",
+                    "description": "Prawie nic istotnego, chociaż może uda ci się sprzedać noże."
+                },
+                "name": "Kult Noży",
+                "special": "Kult Noży ignoruje wszystkie Ochrony.",
+                "names": "Jeśli zabierzesz im wszystkie noże, opamiętają się i powiedzą ci swoje imię (Theodora, Clovin, Wyst), zanim umrą z utraty krwi."
+            },
+            "wretch": {
+                "name": "Nieszczęśnik",
+                "resources": {
+                    "creatures_and_garbage": "Stworzenia i śmieci",
+                    "description": "Stworzenia i śmieci, w których pływają, są bezużyteczne poza tunelami, ale wewnątrz nich są wychwalane z czcią, która czyni z nich przedmioty (D6, Religia)."
+                },
+                "domains": "Norowisko",
+                "equipment": {
+                    "dirty_teeth_and_claws": "Brudne zęby i pazury",
+                    "retching_bile": "Wymiot żółci"
+                },
+                "protectionDesc": "2, gdy jest pod powierzchnią, ale 0, jeśli uda ci się go wyciągnąć na suchy ląd.",
+                "names": "Gronk, Chrysanth, Felice",
+                "descriptors": "<ul><li>Kiedyś były to cztery psy, ale teraz połączyły się ze sobą</li>\n<li>Ledwo widoczny krokodylowaty cień</li>\n<li>Prychająca, płetwiasta świniopodobna istota z przerażająco szeroką paszczą</li></ul>"
+            },
+            "burnt_out_occultist": {
+                "difficulty": "Standardowy",
+                "name": "Wypalony okultysta",
+                "resources": {
+                    "almost_useless_scraps_of_occult_energy": "Prawie bezużyteczne skrawki okultystycznej energii"
+                },
+                "motivation": "Uczyć się nowych zaklęć, zbierać okultystyczne przedmioty i wykorzystywać je do rzucania czarów; naćpać się i choć na chwilę zapomnieć o kłopotach.",
+                "equipment": {
+                    "black_market_black_magic": "Czarna magia czarnego rynku"
+                },
+                "special": "Jeśli Wypalony Okultysta zada 7 lub więcej stresu w pojedynczym rzucie, zostanie wyłączony z akcji poprzez magiczne sprzężenie zwrotne."
+            },
+            "druid_legbreaker": {
+                "name": "Druid Łamacz Nóg",
+                "difficulty": "Standardowy",
+                "domains": "Dzicz",
+                "resources": {
+                    "ritual_gewgaws_and_tchotchkes_made_of_mushrooms_and_animal_bones": "Rytualne gadżety i bibeloty wykonane z grzybów i zwierzęcych kości"
+                },
+                "equipment": {
+                    "sickles": "Sierpy, kilofy i grzybowe haki"
+                },
+                "motivation": "By chronić interesy swoich panów: Wysokich Druidów.",
+                "names": "Rhoz, Thorne, Pitch"
+            },
+            "ghost": {
+                "name": "Duch",
+                "resources": {
+                    "nothing_of_import": "Nic ważnego",
+                    "description": "Nic ważnego"
+                },
+                "domains": "Klątwa, Okultyzm, Religia",
+                "difficulty": "Standardowa, jeśli dobrze go widzisz, w przeciwnym razie Ryzykowna. Postać, która go widzi, może pomóc innej, która go nie widzi."
+            },
+            "gnoll_incursion_team": {
+                "name": "Gnollska Jednostka Taktyczna",
+                "domains": "Technologia",
+                "difficulty": "Standardowa. Jeden gnoll w drużynie jest Obrońcą o trudności Ryzykownej",
+                "resources": {
+                    "arcanotechnological_detritus": "Niezrozumiałe arkanotechnologiczne szczątki"
+                }
+            },
+            "godbeast": {
+                "name": "Boska Bestia",
+                "resources": {
+                    "pelt": "Futro"
+                },
+                "domains": "Dzicz",
+                "names": "Nic, co byś zrozumiał.",
+                "difficulty": "Standardowa. Kiedy jego odporności jest poniżej 10, trudność wzrasta do Ryzykownej.",
+                "motivation": "By chronić swoje młode, które mogą, ale nie muszą znajdować się na tej samej płaszczyźnie rzeczywistości co oni."
+            },
+            "heartsblood_beast": {
+                "name": "Sercokrwista Bestia",
+                "difficulty": "Standardowy",
+                "resources": {
+                    "meat_and_fur": "Mięso i futro",
+                    "description": "Częste: Mięso i futro\nRzadkie: Ciekawe i unikalne kości",
+                    "curious_and_unique_bones": "Ciekawe i unikalne kości"
+                },
+                "equipment": {
+                    "teeth_and_claws": "Zęby i pazury"
+                },
+                "domains": "Dzicz, Norowisko",
+                "motivation": "Głównie, by przetrwać i chronić swoje młode, choć niektóre mają tajemnicze motywacje wszczepione w ich mózgi przez Serce, co sprawia, że zachowują się w nieprzewidywalny sposób."
+            },
+            "heartseeds": {
+                "name": "Esencja Serca"
+            },
+            "market_serf": {
+                "difficulty": "Standardowy",
+                "domains": "Norowisko, Religia",
+                "descriptors": "<ul><li>Wciska w dziąsła postrzępione odłamki monet, by działały jak zęby</li>\n<li>Nosi księgi finansowe swoich Panów jako sztandar</li>\n<li>Wyświewuje cenniki jako święte mantry</li></ul>",
+                "resources": {
+                    "description": "Często: Kilka zakrwawionych monet przypominających paznokcie\nRzadko: Coś, co można wykorzystać przeciwko ich Panom"
+                }
+            },
+            "mirror_spiders": {
+                "name": "Lustrzane Pająki",
+                "difficulty": "Standardowy",
+                "domains": "Norowisko, Religia",
+                "resistanceDesc": "6 na rój, bez problemu możesz zmiażdżyć każdego pojedynczego członka roju.",
+                "protectionDesc": "4. Bronie, które trafiają wiele owadów jednocześnie (miotły, płonące pochodnie itp.) ignorują tę ochronę, ale bronie Przebijające jej nie omijają.",
+                "resources": {
+                    "description": "Każdy lustrzany pająk jest wart od D6 do D12 zasobów, w zależności od rozmiaru i złożoności lustra na jego grzbiecie. Miniaturowe święte księgi i dewocjonalia są interesujące dla kolekcjonerów (D8, Niszowy), ale poza tym są bezwartościowe."
+                },
+                "motivation": "Znaleźć i zjeść inne lustrzane pająki. Jeśli znajdziesz kogoś, kto potrafi z nimi rozmawiać, często są skłonne się targować."
+            },
+            "red_saint": {
+                "resources": {
+                    "burning_crown": "Płonąca Korona"
+                },
+                "name": "Czerwony Święty",
+                "domains": "Religia, Odludzie",
+                "motivation": "Spokój, by mogli usłyszeć tych, którzy się do nich modlą.",
+                "equipment": {
+                    "rusted_blackiron_blades": "Zardzewiałe ostrza z czarnego żelaza"
+                },
+                "difficulty": "Standardowa, ale spójrz na konsekwencje.",
+                "special": "Bez dostępu do zakazanych Rytuałów Wygaszania zabicie Czerwonego Świętego jest niemożliwe, a te może posiadać Kościół Księżyca Poniżej. Bez rytuałów, możesz jedynie go obezwładnić, ale jego rany uleczą się w ciągu paru minut."
+            },
+            "the_carnival": {
+                "name": "Karnawał",
+                "difficulty": "Standardowy",
+                "domains": "Schronienie, Odludzie",
+                "resources": {
+                    "whatever_they_were_carrying_when_the_infection_took_hold": "Cokolwiek mieli ze sobą, gdy infekcja się zaczęła"
+                },
+                "motivation": "Tańczyć! Od czasu do czasu opamiętują się i krzyczą z bólu i głodu, więc wiele grup ma w swoich szeregach bębniarza, który utrzymuje rytm."
+            },
+            "sourceborn_construct": {
+                "difficulty": "Ryzykowny",
+                "domains": "Technologia",
+                "motivation": "Chronić i naprawiać tajemnicze znaki na ścianach Źródła.",
+                "resources": {
+                    "machine_heart": "Serce maszyny",
+                    "impossibly_keen_metal": "Niemożliwie ostry metal do produkcji mieczy"
+                },
+                "name": "Konstrukt Źródła",
+                "names": "Brak w języku, który można zrozumieć lub którym można się posługiwać",
+                "descriptors": "<ul><li>Migocząca smuga stali i pyłu węglowego, która formuje się w sześciokąty</li>\n<li>Pudełko, które wydaje się nieruchome, dopóki ostre jak brzytwa włókna nie wystrzelą, by cię okaleczyć</li>\n<li>Unosząca się obsydianowa kula, która telekinetycznie rzuca obiektami wokół siebie z przerażającą precyzją</li></ul>"
+            },
+            "the_walking_wounded": {
+                "domains": "Klątwa, Odludzie",
+                "protectionDesc": "4 za każdego \"ocalałego\" członka oddziału; większość oddziałów ma około 20 odporności.",
+                "equipment": {
+                    "description": "Nic wartościowego."
+                },
+                "resistanceDesc": "Standardowa, nie są w stanie prawidłowo widzieć i słyszeć, ale niewiarygodnie dobrze wyczuwać ruch."
             }
         }
     }
