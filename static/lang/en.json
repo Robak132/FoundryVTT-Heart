@@ -2019,8 +2019,7 @@
                     "description": "Often: Meat and fur\nRarely: Curious and unique bones"
                 },
                 "equipment": {
-                    "teeth_and_claws": "Teeth and claws",
-                    "description": "Teeth and claws (D6)."
+                    "teeth_and_claws": "Teeth and claws"
                 },
                 "names": "None that they use themselves, but the townsfolk in the Heart will ascribe titles to particularly infamous beasts: Red-Tooth, Shadow, Fat Jack.",
                 "protectionDesc": "0, usually; 1 if it’s particularly fierce.",
