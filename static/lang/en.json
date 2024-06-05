@@ -1769,8 +1769,7 @@
                 "difficulty": "Dangerous",
                 "resources": {
                     "caul_name": "Caul",
-                    "caul_description": "When worn, heartsblood creatures will treat you as kin.",
-                    "description": "Caul (D12, Occult; when worn, heartsblood creatures will treat you as kin)"
+                    "caul_description": "When worn, heartsblood creatures will treat you as kin."
                 },
                 "equipment": {
                     "unmaking_hands": "Unmaking hands"
