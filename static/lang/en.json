@@ -2196,8 +2196,7 @@
                 "motivation": "To dance! Occasionally they’ll come to their senses and scream in pain and hunger, so many troupes include a drummer among their number to keep the rhythm going.",
                 "difficulty": "Standard",
                 "resources": {
-                    "whatever_they_were_carrying_when_the_infection_took_hold": "Whatever they were carrying when the infection took hold (D4)",
-                    "description": "Whatever they were carrying when the infection took hold"
+                    "whatever_they_were_carrying_when_the_infection_took_hold": "Whatever they were carrying when the infection took hold"
                 },
                 "equipment": {
                     "most_carry_breakable_noise_makers__or_are_unarmed": "Most carry breakable noise-makers (D6, One-Shot) or are unarmed; none of them are really interested in fighting, though.",

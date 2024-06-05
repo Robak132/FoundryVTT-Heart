@@ -40,7 +40,7 @@
         "minor-beat.single": "Pomniejszy takt",
         "potential-plot.multiple": "Potencjalne przygody",
         "potential-plot.single": "Potencjalna przygoda",
-        "protection.multiple": "Ochrona",
+        "protection.multiple": "Ochrony",
         "protection.single": "Ochrona",
         "resource.multiple": "Zasoby",
         "resource.single": "Zasób",
@@ -2089,7 +2089,8 @@
                     "pelt": "Futro"
                 },
                 "domains": "Dzicz",
-                "names": "Nic, co byś zrozumiał."
+                "names": "Nic, co byś zrozumiał.",
+                "difficulty": "Standardowa. Kiedy jego odporności jest poniżej 10, trudność wzrasta do Ryzykownej."
             },
             "heartsblood_beast": {
                 "name": "Sercokrwista Bestia",
@@ -2133,7 +2134,7 @@
                 "difficulty": "Standardowy",
                 "domains": "Schronienie, Odludzie",
                 "resources": {
-                    "description": "Cokolwiek mieli ze sobą, gdy infekcja się zaczęła"
+                    "whatever_they_were_carrying_when_the_infection_took_hold": "Cokolwiek mieli ze sobą, gdy infekcja się zaczęła"
                 }
             },
             "sourceborn_construct": {
