@@ -1961,12 +1961,21 @@
                 }
             },
             "signal_box_cultists": {
-                "difficulty": "Standardowy"
+                "difficulty": "Standardowy",
+                "equipment": {
+                    "rustedbutstill__functional_machinery": "Zardzewiała, ale wciąż sprawna maszyneria"
+                }
             },
             "skeleton_courtier": {
                 "difficulty": "Standardowy",
                 "name": "Szkielet Dworzanin",
-                "domains": "Norowisko"
+                "domains": "Norowisko",
+                "resources": {
+                    "tarnished_but_beautiful_burial_goods": "Zniszczone, ale wciąż piękne dobra pogrzebowe"
+                },
+                "equipment": {
+                    "ancient_and_rusted_weaponry": "Starożytna zardzewiała broń"
+                }
             },
             "the_blighted": {
                 "name": "Zarażony",
@@ -1977,7 +1986,8 @@
                 "resources": {
                     "parasite_samples": "Próbki pasożytów"
                 },
-                "domains": "Dzicz"
+                "domains": "Dzicz",
+                "motivation": "By swędzenie ustało."
             },
             "tunnel_brigands": {
                 "name": "Tunelowi Bandyci",

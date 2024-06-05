@@ -1927,9 +1927,6 @@
                     "tattered_raiments": "Tattered raiments (D6, Religion, Occult).",
                     "description": "Tattered raiments (D6, Religion, Occult)."
                 },
-                "equipment": {
-                    "description": "Broken celestial blades (Kill D6, Brutal)."
-                },
                 "names": "Very few of them remember their names; some have adopted names that they have overheard whilst hiding in the City Beneath.",
                 "domains": "Religion, Desolate"
             },
@@ -2146,7 +2143,7 @@
                     "description": "Rusted but still-functional machinery (D8, Niche)"
                 },
                 "equipment": {
-                    "rustedbutstill__functional_machinery": "Rusted but still-functional machinery (D8, Niche)",
+                    "rustedbutstill__functional_machinery": "Rusted but still-functional machinery",
                     "description": "Rusted but still-functional machinery (D8, Niche)"
                 },
                 "special": "Levers, wrenches and bent rails (D6, Tiring); A fragment of the true nature of the Vermissian (D8, Ranged, One-Shot – inflicts Mind stress).",
@@ -2160,11 +2157,11 @@
                 "motivation": "To hear interesting stories and brutally murder anyone who tries to steal their sap.",
                 "difficulty": "Standard",
                 "resources": {
-                    "tarnished_but_beautiful_burial_goods": "Tarnished but beautiful burial goods (D8).",
+                    "tarnished_but_beautiful_burial_goods": "Tarnished but beautiful burial goods",
                     "description": "Tarnished but beautiful burial goods (D8)."
                 },
                 "equipment": {
-                    "ancient_and_rusted_weaponry": "Ancient and rusted weaponry (D8, Unreliable)",
+                    "ancient_and_rusted_weaponry": "Ancient and rusted weaponry",
                     "description": "Ancient and rusted weaponry (D8, Unreliable)"
                 },
                 "special": "Their bony bodies lower stress dice from edged weapons and bullets by 1 step, but increase the stress dice from blunt weapons by 1 step.",
