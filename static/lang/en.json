@@ -1773,8 +1773,7 @@
                     "description": "Caul (D12, Occult; when worn, heartsblood creatures will treat you as kin)"
                 },
                 "equipment": {
-                    "unmaking_hands": "Unmaking hands",
-                    "description": "Unmaking hands (Damage D10, Piercing)"
+                    "unmaking_hands": "Unmaking hands"
                 },
                 "special": "The first time you see a particular angel, roll <b>Endure+Cursed</b> and mark D10 stress to Mind on a failure.",
                 "names": "Crimsonian, Vulperine, Theolosian (anyone who witnesses an angel knows its name instinctively; indeed, they are unable to forget it)",
