@@ -1868,8 +1868,7 @@
                 "motivation": "To protect the interests of their High Druid masters.",
                 "difficulty": "Standard",
                 "resources": {
-                    "ritual_gewgaws_and_tchotchkes_made_of_mushrooms_and_animal_bones": "Ritual gewgaws and tchotchkes made of mushrooms and animal bones",
-                    "description": "Ritual gewgaws and tchotchkes made of mushrooms and animal bones (D6, Wild)."
+                    "ritual_gewgaws_and_tchotchkes_made_of_mushrooms_and_animal_bones": "Ritual gewgaws and tchotchkes made of mushrooms and animal bones"
                 },
                 "equipment": {
                     "sickles": "Sickles, picks and mushroom-hooks",
