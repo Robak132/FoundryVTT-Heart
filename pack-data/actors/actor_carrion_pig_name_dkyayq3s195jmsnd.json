@@ -45,8 +45,10 @@
             }
           }
         },
-        "resistances": [],
-        "type": "miscellaneous",
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
         "group": "core"
       },
       "_id": "zhpcf07uqnupqzit",

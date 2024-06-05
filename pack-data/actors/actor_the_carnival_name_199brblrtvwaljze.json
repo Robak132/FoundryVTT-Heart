@@ -21,6 +21,24 @@
       "system": {
         "die_size": "d6",
         "active": true,
+        "children": {
+          "CX2gCSz6xbeRTJtV": {
+            "name": "tag.one_shot.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.one_shot.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "CX2gCSz6xbeRTJtV",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.IvSI5IufmZsa8NnU"
+              }
+            }
+          }
+        },
         "resistances": [
           "blood"
         ],
@@ -30,23 +48,77 @@
       "_id": "kdfr21520rn6hw1h",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!199brblrtvwaljze.kdfr21520rn6hw1h"
+    },
+    {
+      "type": "fallout",
+      "name": "actor.the_carnival.fallout.stuck_in_your_head.name",
+      "system": {
+        "description": "actor.the_carnival.fallout.stuck_in_your_head.description",
+        "active": true,
+        "complete": false,
+        "type": "minor",
+        "resistance": "mind"
+      },
+      "_id": "fICa2bM1vtCDl2oz",
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!199brblrtvwaljze.fICa2bM1vtCDl2oz"
+    },
+    {
+      "type": "fallout",
+      "name": "actor.the_carnival.fallout.dancer.name",
+      "system": {
+        "description": "actor.the_carnival.fallout.dancer.description",
+        "active": true,
+        "complete": false,
+        "type": "major",
+        "resistance": "mind"
+      },
+      "_id": "XVmKX70NlmGq7WqV",
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!199brblrtvwaljze.XVmKX70NlmGq7WqV"
+    },
+    {
+      "type": "fallout",
+      "name": "actor.the_carnival.fallout.damned.name",
+      "system": {
+        "description": "actor.the_carnival.fallout.damned.description",
+        "active": true,
+        "complete": false,
+        "type": "critical",
+        "resistance": "mind"
+      },
+      "_id": "ChPAlutQhj0PK9Uy",
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!199brblrtvwaljze.ChPAlutQhj0PK9Uy"
     }
   ],
   "name": "actor.the_carnival.name",
   "system": {
-    "description": "actor.the_carnival.description",
     "names": "actor.the_carnival.names",
+    "description": "actor.the_carnival.description",
     "descriptors": "actor.the_carnival.descriptors",
     "motivation": "actor.the_carnival.motivation",
     "difficulty": "actor.the_carnival.difficulty",
+    "resistance": "",
+    "resistanceDesc": "",
     "resistanceMax": 4,
     "protection": 0,
-    "special": "actor.the_carnival.special",
-    "domains": "actor.the_carnival.domains",
+    "protectionDesc": "",
     "resources": "actor.the_carnival.resources.description",
-    "equipment": "actor.the_carnival.equipment.description"
+    "equipment": "actor.the_carnival.equipment.description",
+    "special": "actor.the_carnival.special",
+    "notes": "",
+    "domains": "actor.the_carnival.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!199brblrtvwaljze"
 }
