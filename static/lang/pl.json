@@ -1902,7 +1902,11 @@
             "carrion_pig": {
                 "name": "Ścierwoświnia",
                 "domains": "Schronienie, Dzicz",
-                "motivation": "Jeść, kopulować, a jeśli będzie na to czas, zemścić się na swoich właścicielach."
+                "motivation": "Jeść, kopulować, a jeśli będzie na to czas, zemścić się na swoich właścicielach.",
+                "difficulty": "Ryzykowna, jeśli są w rui. W innych przypadkach Standardowa.",
+                "resources": {
+                    "too_much_stinking_pig_fat": "Za dużo śmierdzącego świńskiego tłuszczu"
+                }
             },
             "false_hallow": {
                 "difficulty": "Niebezpieczny",
@@ -1984,7 +1988,8 @@
                 },
                 "difficulty": "Standardowy",
                 "resources": {
-                    "parasite_samples": "Próbki pasożytów"
+                    "parasite_samples": "Próbki pasożytów",
+                    "assorted_equipment": "Różnorodny sprzęt i kości jego ofiar"
                 },
                 "domains": "Dzicz",
                 "motivation": "By swędzenie ustało."
@@ -2001,7 +2006,8 @@
                 "resources": {
                     "barely_anything": "Prawie nic istotnego, chociaż może uda ci się sprzedać noże."
                 },
-                "name": "Kult Noży"
+                "name": "Kult Noży",
+                "special": "Kult Noży ignoruje wszystkie Ochrony."
             },
             "wretch": {
                 "name": "Nieszczęśnik",
@@ -2015,7 +2021,10 @@
             },
             "burnt_out_occultist": {
                 "difficulty": "Standardowy",
-                "name": "Wypalony okultysta"
+                "name": "Wypalony okultysta",
+                "resources": {
+                    "almost_useless_scraps_of_occult_energy": "Prawie bezużyteczne skrawki okultystycznej energii"
+                }
             },
             "druid_legbreaker": {
                 "name": "Druid Łamacz Nóg",

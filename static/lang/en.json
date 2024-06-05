@@ -1824,7 +1824,7 @@
                 "motivation": "To learn new spells; to gather occult resources and huff them to cast magic; to get high, and forget their troubles for a bit.",
                 "difficulty": "Standard",
                 "resources": {
-                    "almost_useless_scraps_of_occult_energy": "Almost-useless scraps of occult energy (D4, Occult)"
+                    "almost_useless_scraps_of_occult_energy": "Almost-useless scraps of occult energy"
                 },
                 "equipment": {
                     "black_market_black_magic": "Black market black magic (Kill D8, Brutal, Ranged. This can inflict Blood or Mind stress on the target; the GM chooses)."
@@ -1854,8 +1854,7 @@
                 "motivation": "To eat, mate and, if it’s got time, gain revenge on its owners.",
                 "difficulty": "Risky, if they’re in heat; Standard otherwise.",
                 "resources": {
-                    "too_much_stinking_pig_fat": "Too much stinking pig fat (D8, Heavy).",
-                    "description": "Too much stinking pig fat (D8, Heavy)."
+                    "too_much_stinking_pig_fat": "Too much stinking pig fat"
                 },
                 "equipment": {
                     "crushing_body_and_champing_jaws": "Crushing body and champing jaws (Kill D8, Brutal).",
