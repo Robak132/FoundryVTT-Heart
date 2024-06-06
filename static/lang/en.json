@@ -2171,8 +2171,7 @@
                     "ultrasharp_metal_shards": {
                         "description": "When used by another, gain the Dangerous tag.",
                         "name": "Ultrasharp metal shards"
-                    },
-                    "description": "Ultrasharp metal shards (D6, Brutal, Piercing, Ranged. When used by another, they gain the Dangerous tag)."
+                    }
                 },
                 "names": "None in a language that you can understand or speak",
                 "domains": "Technology"

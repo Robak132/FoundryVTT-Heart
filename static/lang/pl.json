@@ -2149,7 +2149,8 @@
                 "equipment": {
                     "spectral_claw": "Widmowy pazur"
                 },
-                "names": "Staromodne imiona, takie jak Enriette, Gregorious, Burrage."
+                "names": "Staromodne imiona, takie jak Enriette, Gregorious, Burrage.",
+                "motivation": "Różni się w zależności od ducha, ale większość z nich jest pomiędzy skrajną samotnością a bezkierunkową wściekłością."
             },
             "gnoll_incursion_team": {
                 "name": "Gnollska Jednostka Taktyczna",
@@ -2193,7 +2194,8 @@
                 "descriptors": "<ul><li>Wciska w dziąsła postrzępione odłamki monet, by działały jak zęby</li>\n<li>Nosi księgi finansowe swoich Panów jako sztandar</li>\n<li>Wyświewuje cenniki jako święte mantry</li></ul>",
                 "resources": {
                     "description": "Często: Kilka zakrwawionych monet przypominających paznokcie\nRzadko: Coś, co można wykorzystać przeciwko ich Panom"
-                }
+                },
+                "motivation": "Przynieść obfite dary swoim wspaniałym i łaskawym panom."
             },
             "mirror_spiders": {
                 "name": "Lustrzane Pająki",
