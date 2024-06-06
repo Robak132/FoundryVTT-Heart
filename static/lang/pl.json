@@ -1923,7 +1923,9 @@
                     "butcher_entrails": "Wnętrzności rzeźnika",
                     "antlers_name": "Poroże",
                     "butcher_entrails_name": "Wnętrzności rzeźnika",
-                    "victims_leavings_name": "Pozostałości po ofiarach"
+                    "victims_leavings_name": "Pozostałości po ofiarach",
+                    "antlers_description": "D6-D10, w zależności od liczby rogów",
+                    "victims_leavings_description": "Jeśli uda ci się znaleźć jego jaskinię i poradzić sobie z zapachem"
                 },
                 "names": "Nie mają już imion. Jeśli muszą się do siebie odnosić, robią to za pomocą swojej pozycji, zapachu i czynów.",
                 "fallout": {
@@ -2005,7 +2007,8 @@
                 "name": "Samiec harpii",
                 "domains": "Dzicz, Odludzie, Okultyzm",
                 "descriptors": "<ul><li>Naśladuje głos kogoś, kto zaginął w twoim schronieniu</li>\n<li>Zawiązuje haczyk wędkarski na swoich szponach z zaskakującą zręcznością</li>\n<li>Błyszcząca plama nurkuje ku tobie z nieba</li></ul>",
-                "motivation": "Zabieranie ostrych lub błyszczących rzeczy. Jeśli ludzie mają je przy sobie i nie chcą ich oddać, będą próbować ich zabić."
+                "motivation": "Zabieranie ostrych lub błyszczących rzeczy. Jeśli ludzie mają je przy sobie i nie chcą ich oddać, będą próbować ich zabić.",
+                "names": "Tylko te, które ukradli ludziom, którzy zginęli w pobliżu"
             },
             "pitchkin": {
                 "name": "Smolak",
@@ -2129,7 +2132,11 @@
                     "description": "Nic ważnego"
                 },
                 "domains": "Klątwa, Okultyzm, Religia",
-                "difficulty": "Standardowa, jeśli dobrze go widzisz, w przeciwnym razie Ryzykowna. Postać, która go widzi, może pomóc innej, która go nie widzi."
+                "difficulty": "Standardowa, jeśli dobrze go widzisz, w przeciwnym razie Ryzykowna. Postać, która go widzi, może pomóc innej, która go nie widzi.",
+                "protectionDesc": "10 (nieignorowana przez etykietę Przebijający)",
+                "equipment": {
+                    "spectral_claw": "Widmowy pazur"
+                }
             },
             "gnoll_incursion_team": {
                 "name": "Gnollska Jednostka Taktyczna",
@@ -2161,7 +2168,8 @@
                     "teeth_and_claws": "Zęby i pazury"
                 },
                 "domains": "Dzicz, Norowisko",
-                "motivation": "Głównie, by przetrwać i chronić swoje młode, choć niektóre mają tajemnicze motywacje wszczepione w ich mózgi przez Serce, co sprawia, że zachowują się w nieprzewidywalny sposób."
+                "motivation": "Głównie, by przetrwać i chronić swoje młode, choć niektóre mają tajemnicze motywacje wszczepione w ich mózgi przez Serce, co sprawia, że zachowują się w nieprzewidywalny sposób.",
+                "protectionDesc": "Zazwyczaj 0, 1 jeśli bestia jest szczególnie zaciekła."
             },
             "heartseeds": {
                 "name": "Esencja Serca"
@@ -2225,7 +2233,8 @@
                 "descriptors": "<ul><li>Migocząca smuga stali i pyłu węglowego, która formuje się w sześciokąty</li>\n<li>Pudełko, które wydaje się nieruchome, dopóki ostre jak brzytwa włókna nie wystrzelą, by cię okaleczyć</li>\n<li>Unosząca się obsydianowa kula, która telekinetycznie rzuca obiektami wokół siebie z przerażającą precyzją</li></ul>",
                 "equipment": {
                     "ultrasharp_metal_shards": {
-                        "name": "Niezwykle ostre odłamki metalu"
+                        "name": "Niezwykle ostre odłamki metalu",
+                        "description": "Gdy jest używana przez kogoś innego, zyskuje etykietę Niebezpieczny."
                     }
                 }
             },
