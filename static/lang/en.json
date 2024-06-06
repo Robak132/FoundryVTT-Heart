@@ -1993,8 +1993,7 @@
                     "description": "Pelt (D10, Religion, Wild. Counts as a Mend Blood D6, Block item when worn)."
                 },
                 "equipment": {
-                    "trampling_hooves_or_gnashing_teeth": "Trampling hooves or gnashing teeth",
-                    "description": "Trampling hooves or gnashing teeth (D8, Brutal)."
+                    "trampling_hooves_or_gnashing_teeth": "Trampling hooves or gnashing teeth"
                 },
                 "names": "None that you would understand.",
                 "domains": "Wild"
