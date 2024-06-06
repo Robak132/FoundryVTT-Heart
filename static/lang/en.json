@@ -2135,7 +2135,7 @@
                 "motivation": "To induct others into the cult, to trade for supplies, or to slit the throat of a Vermissian Knight and have them bleed out over the signal machinery.",
                 "difficulty": "Standard",
                 "equipment": {
-                    "rustedbutstill__functional_machinery": "Rusted but still-functional machinery",
+                    "rusted_machinery": "Rusted but still-functional machinery",
                     "description": "Rusted but still-functional machinery (D8, Niche)"
                 },
                 "special": "Levers, wrenches and bent rails (D6, Tiring); A fragment of the true nature of the Vermissian (D8, Ranged, One-Shot – inflicts Mind stress).",
