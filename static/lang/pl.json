@@ -603,7 +603,7 @@
                     },
                     "zenith": {
                         "angelic.description": "<i>Przechodzisz ostateczną sercokrwistą transformację. Stajesz się agentem samego Serca, czerwonym i potężnym aniołem, chodzącym wcieleniem zniszczenia.</i> Po transformacji, która jest albo niepokojąco nagła, albo boleśnie powolna, twoje ciało i kości pękają, przekształcając cię w górującego nad wszystkimi Anioła. Jesteś tak potężny i niszczycielski jak każdy inny Anioł, ale zachowujesz swoją wolę, przynajmniej do końca obecnej sytuacji. Później zostajesz wchłonięty z powrotem do ciała Serca i stajesz się kolejnym czynnikiem nierzeczywistości, który będzie nękał poszukiwaczy w nadchodzących stuleciach.",
-                        "angelic.name": "Anioł",
+                        "angelic.name": "Anielska",
                         "legendary_beast.description": "<p><i>Zrzucasz to, co pozostało z twojej ludzkiej postaci i stajesz się czegoś wieloramiennym i majestatycznym.</i> Uzyskując dostęp do tej zdolności, rozpoczynasz polowanie na Bestię. Bestię przez duże B, starożytną istotę stworzoną z kamienia, mięśni i skamieniałego drewna. Zabijając Bestię, a w trakcie tego doskonale ją zrozumiesz. Staniesz się nową Bestią, uosobieniem bestialskiej siły i legendą Miasta Poniżej.</p>\n<p>Stajesz się częścią dziczy Serca, rośnie ona wokół ciebie bardziej niż kiedykolwiek, rozkwitając we wzorach, o których marzysz w odbijających się echem zakamarkach swojego starożytnego umysłu. Stwórz nowe znane miejsce, które będzie twoim terytorium. Tutaj jesteś panem i władcą, ale nie możesz już odejść. Pewnego dnia inny Tasak znajdzie cię, zabije i stanie się tobą.</p>",
                         "legendary_beast.name": "Legendarna Bestia",
                         "weald_and_woe.description": "<p><i>Czasem po śmierci legendarnego łowcy, Las, pradawny raj dla bezsłownych myśliwych i ściganych przez nich gigantycznych bestii, wdziera się do Serca, by odebrać jego ciało jako trofeum.</i></p>\n<p>Musisz umrzeć, by aktywować tę zdolność.</p>\n<p>Znane miejsce, w którym obecnie się znajdujesz, zostaje przejęte przez Las. Jeśli jesteś na wyprawie, natychmiast utworzy to nowe znane miejsce. Święte drzewa uderzają i przedzierają się przez ściany rzeczywistości, roje wielkich bestii roztrzaskują otaczający je świat, a twoje ciało zostaje pochłonięte przez czarną, urodzajną glebę, by cię odrodzić. Ta wyrwa pozostanie połączona ze znanym miejscem przez kilka godzin, zanim się zamknie, a drzewa skamienieją w martwy las z błyszczącego opalu, odwiedzany tylko przez zmarłych.</p>\n<p>Po śmierci odrodzisz się w lesie, gdzie czeka cię wieczne polowanie, ucztowanie i wycie do dziwnych, obojętnych gwiazd.</p>",
@@ -2263,6 +2263,16 @@
                     "description": "Nic wartościowego."
                 },
                 "resistanceDesc": "Standardowa, nie są w stanie prawidłowo widzieć i słyszeć, ale niewiarygodnie dobrze wyczuwać ruch."
+            }
+        },
+        "landmarks": {
+            "derelictus_the_city_between": {
+                "domains": "Schronienie",
+                "tier": "0",
+                "stress_dice": "D4"
+            },
+            "grip_station": {
+                "stress_dice": "D6"
             }
         }
     }
