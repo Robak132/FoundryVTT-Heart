@@ -1771,7 +1771,7 @@
                 "difficulty": "Dangerous",
                 "resources": {
                     "caul_name": "Caul",
-                    "caul_description": "When worn, heartsblood creatures will treat you as kin"
+                    "caul_description": "When worn, heartsblood creatures will treat you as kin."
                 },
                 "equipment": {
                     "unmaking_hands": "Unmaking hands"
@@ -1914,8 +1914,7 @@
                     "harpy_heart": "Harpy Heart"
                 },
                 "equipment": {
-                    "hideous_talons": "Hideous talons",
-                    "description": "Hideous talons (D8, Brutal)."
+                    "hideous_talons": "Hideous talons"
                 },
                 "special": "If the Harpy inflicts Minor Blood or Mind fallout, it restores D4 stamina; it restores D6 if it inflicts Major or Critical fallout.",
                 "names": "None that you would understand or be able to pronounce.",

@@ -1895,7 +1895,8 @@
                 "name": "Automat Pociągowy",
                 "domains": "Technologia",
                 "special": "Jeśli zdobędziesz Automat Pociągowy, działa on jak przedmiot (Wyprawa D6).",
-                "protectionDesc": "0, chyba że ich właściciel wzmocnił je do 1 lub 2."
+                "protectionDesc": "0, chyba że ich właściciel wzmocnił je do 1 lub 2.",
+                "names": "Bessie, Vyssos 3-X, Wrench"
             },
             "blooded": {
                 "name": "Skrwawiony",
@@ -1906,7 +1907,7 @@
                 },
                 "motivation": "Żyć w Sercu w spokoju i nie dać się zabić jakiemuś nieświadomemu poszukiwaczowi.",
                 "resources": {
-                    "jewellery": "Ich ciała lub ich części mogą być sprzedawane jako medyczne ciekawostki, ale większość schronień w Sercu patrzy na to krzywo."
+                    "jewellery": "Biżuteria, pamiątki i kosztowności"
                 }
             },
             "butcher": {
@@ -1919,9 +1920,15 @@
                 "motivation": "By zdobyć mięso (żywe, jeśli to możliwe) dla swojej jaskini.",
                 "descriptors": "<ul><li>Posiada potężne poroże z gnijącego drewna</li>\n<li>Wydrapuje kamieniem symbole na ścianach i drzewach</li>\n<li>Przykucnięty na skale, ostrzega innych jękliwym skowytem</li></ul>",
                 "resources": {
-                    "butcher_entrails": "Wnętrzności rzeźnika"
+                    "butcher_entrails": "Wnętrzności rzeźnika",
+                    "antlers_name": "Poroże",
+                    "butcher_entrails_name": "Wnętrzności rzeźnika",
+                    "victims_leavings_name": "Pozostałości po ofiarach"
                 },
-                "names": "Nie mają już imion. Jeśli muszą się do siebie odnosić, robią to za pomocą swojej pozycji, zapachu i czynów."
+                "names": "Nie mają już imion. Jeśli muszą się do siebie odnosić, robią to za pomocą swojej pozycji, zapachu i czynów.",
+                "fallout": {
+                    "taken.name": "Porwany"
+                }
             },
             "carrion_pig": {
                 "name": "Ścierwoświnia",
@@ -2019,7 +2026,8 @@
                 "equipment": {
                     "rustedbutstill__functional_machinery": "Zardzewiała, ale wciąż sprawna maszyneria"
                 },
-                "motivation": "Wcielić innych do kultu, handlować zapasami lub poderżnąć gardło Vermisiańskiemu Rycerzowi i sprawić, by wykrwawił się nad sygnałową maszynerią."
+                "motivation": "Wcielić innych do kultu, handlować zapasami lub poderżnąć gardło Vermisiańskiemu Rycerzowi i sprawić, by wykrwawił się nad sygnałową maszynerią.",
+                "names": "Haslam, Levier, Forneau"
             },
             "skeleton_courtier": {
                 "difficulty": "Standardowy",
@@ -2058,7 +2066,8 @@
                 },
                 "domains": "Norowisko, choć bandytów można znaleźć wszędzie tam, gdzie są podróżnicy.",
                 "description": "Oportunistyczni złodzieje i zabójcy, którzy żerują na bezbronnych podróżnych dla ich kosztowności. Najczęściej można ich spotkać w tunelach prowadzących do Rodzinnych Krain, ale miejsc, w których gang zdesperowanych ludzi z bronią i brakiem empatii może szybko zarobić, jest bez liku. Nie są oni gotowi na poważną walkę i zazwyczaj są otwarci na negocjacje, jeśli masz coś do zaoferowania, czego nie mogą ci po prostu zabrać.",
-                "motivation": "Zabierać pieniądze lub kosztowności ludziom korzystającym z tuneli, by wyemigrować do Miasta Powyżej. Są jednak hałaśliwi i niepewni siebie, więc niektórzy wykorzystują każdą okazję, by udowodnić swoje okrucieństwo i wyższość nad innymi."
+                "motivation": "Zabierać pieniądze lub kosztowności ludziom korzystającym z tuneli, by wyemigrować do Miasta Powyżej. Są jednak hałaśliwi i niepewni siebie, więc niektórzy wykorzystują każdą okazję, by udowodnić swoje okrucieństwo i wyższość nad innymi.",
+                "names": "Jonjak, Pentekost, Mataline"
             },
             "the_cult_of_knives": {
                 "difficulty": "Ryzykowny",
@@ -2068,7 +2077,8 @@
                 },
                 "name": "Kult Noży",
                 "special": "Kult Noży ignoruje wszystkie Ochrony.",
-                "names": "Jeśli zabierzesz im wszystkie noże, opamiętają się i powiedzą ci swoje imię (Theodora, Clovin, Wyst), zanim umrą z utraty krwi."
+                "names": "Jeśli zabierzesz im wszystkie noże, opamiętają się i powiedzą ci swoje imię (Theodora, Clovin, Wyst), zanim umrą z utraty krwi.",
+                "domains": "Odludzie, Norowisko, Schronienie"
             },
             "wretch": {
                 "name": "Nieszczęśnik",
@@ -2095,7 +2105,9 @@
                 "equipment": {
                     "black_market_black_magic": "Czarna magia czarnego rynku"
                 },
-                "special": "Jeśli Wypalony Okultysta zada 7 lub więcej stresu w pojedynczym rzucie, zostanie wyłączony z akcji poprzez magiczne sprzężenie zwrotne."
+                "special": "Jeśli Wypalony Okultysta zada 7 lub więcej stresu w pojedynczym rzucie, zostanie wyłączony z akcji poprzez magiczne sprzężenie zwrotne.",
+                "domains": "Okultyzm",
+                "names": "Griz, Swent, Nox"
             },
             "druid_legbreaker": {
                 "name": "Druid Łamacz Nóg",
@@ -2193,7 +2205,12 @@
                 "resources": {
                     "whatever_they_were_carrying": "Cokolwiek mieli ze sobą, gdy infekcja się zaczęła"
                 },
-                "motivation": "Tańczyć! Od czasu do czasu opamiętują się i krzyczą z bólu i głodu, więc wiele grup ma w swoich szeregach bębniarza, który utrzymuje rytm."
+                "motivation": "Tańczyć! Od czasu do czasu opamiętują się i krzyczą z bólu i głodu, więc wiele grup ma w swoich szeregach bębniarza, który utrzymuje rytm.",
+                "names": "Gregor, Yolande, Klimpt",
+                "fallout": {
+                    "dancer.name": "Tancerz",
+                    "damned.name": "Przeklęty"
+                }
             },
             "sourceborn_construct": {
                 "difficulty": "Ryzykowny",
@@ -2205,7 +2222,12 @@
                 },
                 "name": "Konstrukt Źródła",
                 "names": "Brak w języku, który można zrozumieć lub którym można się posługiwać",
-                "descriptors": "<ul><li>Migocząca smuga stali i pyłu węglowego, która formuje się w sześciokąty</li>\n<li>Pudełko, które wydaje się nieruchome, dopóki ostre jak brzytwa włókna nie wystrzelą, by cię okaleczyć</li>\n<li>Unosząca się obsydianowa kula, która telekinetycznie rzuca obiektami wokół siebie z przerażającą precyzją</li></ul>"
+                "descriptors": "<ul><li>Migocząca smuga stali i pyłu węglowego, która formuje się w sześciokąty</li>\n<li>Pudełko, które wydaje się nieruchome, dopóki ostre jak brzytwa włókna nie wystrzelą, by cię okaleczyć</li>\n<li>Unosząca się obsydianowa kula, która telekinetycznie rzuca obiektami wokół siebie z przerażającą precyzją</li></ul>",
+                "equipment": {
+                    "ultrasharp_metal_shards": {
+                        "name": "Niezwykle ostre odłamki metalu"
+                    }
+                }
             },
             "the_walking_wounded": {
                 "domains": "Klątwa, Odludzie",
