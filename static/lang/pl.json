@@ -1881,7 +1881,8 @@
                 },
                 "special": "Za pierwszym razem, gdy zobaczysz danego anioła, rzuć <b>Odporność+Klątwa</b> i ponieś D10 stresu Umysłu przy porażce.",
                 "motivation": "Każdy anioł jest stworzony do wypełnienia określonego celu i nie może zrozumieć rzeczy, które nie są jego celem. Czasami nie są w stanie wykonać swojej misji, a ich umysł psuje się, czyniąc je jeszcze bardziej tajemniczymi.",
-                "domains": "Klątwa, Okultyzm, ale anioły można znaleźć w każdej domenie, jeśli poprowadzi tam ich misja. Niewiele rzeczy może je powstrzymać."
+                "domains": "Klątwa, Okultyzm, ale anioły można znaleźć w każdej domenie, jeśli poprowadzi tam ich misja. Niewiele rzeczy może je powstrzymać.",
+                "names": "Crimsonian, Vulperine, Theolosian (każdy, kto zobaczy anioła, instynktownie zna jego imię. Nie będzie go już w stanie zapomnieć)"
             },
             "automaton_of_burden": {
                 "resources": {
