@@ -2150,8 +2150,7 @@
                     "tarnished_but_beautiful_burial_goods": "Tarnished but beautiful burial goods"
                 },
                 "equipment": {
-                    "ancient_and_rusted_weaponry": "Ancient and rusted weaponry",
-                    "description": "Ancient and rusted weaponry (D8, Unreliable)"
+                    "ancient_and_rusted_weaponry": "Ancient and rusted weaponry"
                 },
                 "special": "Their bony bodies lower stress dice from edged weapons and bullets by 1 step, but increase the stress dice from blunt weapons by 1 step.",
                 "names": "Ser Ethelren, Ser Fenswith, Lady Arablast",

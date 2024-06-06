@@ -1882,7 +1882,8 @@
                 "special": "Za pierwszym razem, gdy zobaczysz danego anioła, rzuć <b>Odporność+Klątwa</b> i ponieś D10 stresu Umysłu przy porażce.",
                 "motivation": "Każdy anioł jest stworzony do wypełnienia określonego celu i nie może zrozumieć rzeczy, które nie są jego celem. Czasami nie są w stanie wykonać swojej misji, a ich umysł psuje się, czyniąc je jeszcze bardziej tajemniczymi.",
                 "domains": "Klątwa, Okultyzm, ale anioły można znaleźć w każdej domenie, jeśli poprowadzi tam ich misja. Niewiele rzeczy może je powstrzymać.",
-                "names": "Crimsonian, Vulperine, Theolosian (każdy, kto zobaczy anioła, instynktownie zna jego imię. Nie będzie go już w stanie zapomnieć)"
+                "names": "Crimsonian, Vulperine, Theolosian (każdy, kto zobaczy anioła, instynktownie zna jego imię. Nie będzie go już w stanie zapomnieć)",
+                "resistanceDesc": "20. Zmniejszenie odporności anioła do 0 sprawi, że nie będzie mógł się poruszać ani działać, jego ciało szybko zgnije, a on narodzi się ponownie w jakimś odległym kamiennym łonie."
             },
             "automaton_of_burden": {
                 "resources": {
@@ -1908,8 +1909,10 @@
                 },
                 "motivation": "Żyć w Sercu w spokoju i nie dać się zabić jakiemuś nieświadomemu poszukiwaczowi.",
                 "resources": {
-                    "jewellery": "Biżuteria, pamiątki i kosztowności"
-                }
+                    "jewellery": "Biżuteria, pamiątki i kosztowności",
+                    "description": "Ciała lub ich części mogą być sprzedawane jako ciekawostki medyczne, ale większość schronień w Sercu patrzy na to krzywo."
+                },
+                "names": "Imiona zwykłych ludzi, być może przestarzałe o jakieś pięćdziesiąt lat: Versellian, Xandrix, Sewain, Brimner"
             },
             "butcher": {
                 "difficulty": "Ryzykowny",
@@ -1926,7 +1929,8 @@
                     "butcher_entrails_name": "Wnętrzności rzeźnika",
                     "victims_leavings_name": "Pozostałości po ofiarach",
                     "antlers_description": "D6-D10, w zależności od liczby rogów",
-                    "victims_leavings_description": "Jeśli uda ci się znaleźć jego jaskinię i poradzić sobie z zapachem"
+                    "victims_leavings_description": "Jeśli uda ci się znaleźć jego jaskinię i poradzić sobie z zapachem",
+                    "butcher_entrails_description": "Często wykorzystywany w znakach ochronnych"
                 },
                 "names": "Nie mają już imion. Jeśli muszą się do siebie odnosić, robią to za pomocą swojej pozycji, zapachu i czynów.",
                 "fallout": {
@@ -2009,7 +2013,12 @@
                 "domains": "Dzicz, Odludzie, Okultyzm",
                 "descriptors": "<ul><li>Naśladuje głos kogoś, kto zaginął w twoim schronieniu</li>\n<li>Zawiązuje haczyk wędkarski na swoich szponach z zaskakującą zręcznością</li>\n<li>Błyszcząca plama nurkuje ku tobie z nieba</li></ul>",
                 "motivation": "Zabieranie ostrych lub błyszczących rzeczy. Jeśli ludzie mają je przy sobie i nie chcą ich oddać, będą próbować ich zabić.",
-                "names": "Tylko te, które ukradli ludziom, którzy zginęli w pobliżu"
+                "names": "Tylko te, które ukradli ludziom, którzy zginęli w pobliżu",
+                "equipment": {
+                    "sharp_things_tied_to_their_beaks_and_claws": {
+                        "description": "Zyskuje etykietę Brutalny, gdy nurkuje."
+                    }
+                }
             },
             "pitchkin": {
                 "name": "Smolak",
@@ -2028,7 +2037,8 @@
             "signal_box_cultists": {
                 "difficulty": "Standardowy",
                 "equipment": {
-                    "rustedbutstill__functional_machinery": "Zardzewiała, ale wciąż sprawna maszyneria"
+                    "rustedbutstill__functional_machinery": "Zardzewiała, ale wciąż sprawna maszyneria",
+                    "description": "Zardzewiałe, ale wciąż sprawne maszyny (D8, Niszowy)"
                 },
                 "motivation": "Wcielić innych do kultu, handlować zapasami lub poderżnąć gardło Vermisiańskiemu Rycerzowi i sprawić, by wykrwawił się nad sygnałową maszynerią.",
                 "names": "Haslam, Levier, Forneau"
@@ -2044,7 +2054,8 @@
                     "ancient_and_rusted_weaponry": "Starożytna zardzewiała broń"
                 },
                 "protectionDesc": "Od 0 do 2, w zależności od tego, czy został pochowany w prześwitujących sukniach, czy starożytnych zbrojach.",
-                "special": "Ich kościste ciała obniżają kości stresu od broni ostrej i pocisków o 1 stopień, ale zwiększają kości stresu od tępej broni o 1 stopień."
+                "special": "Ich kościste ciała obniżają kości stresu od broni ostrej i pocisków o 1 stopień, ale zwiększają kości stresu od tępej broni o 1 stopień.",
+                "names": "Ser Ethelren, Ser Fenswith,Lady Arablast"
             },
             "the_blighted": {
                 "name": "Zarażony",
@@ -2137,7 +2148,8 @@
                 "protectionDesc": "10 (nieignorowana przez etykietę Przebijający)",
                 "equipment": {
                     "spectral_claw": "Widmowy pazur"
-                }
+                },
+                "names": "Staromodne imiona, takie jak Enriette, Gregorious, Burrage."
             },
             "gnoll_incursion_team": {
                 "name": "Gnollska Jednostka Taktyczna",
@@ -2205,7 +2217,8 @@
                     "rusted_blackiron_blades": "Zardzewiałe ostrza z czarnego żelaza"
                 },
                 "difficulty": "Standardowa, ale spójrz na konsekwencje.",
-                "special": "Bez dostępu do zakazanych Rytuałów Wygaszania zabicie Czerwonego Świętego jest niemożliwe, a te może posiadać Kościół Księżyca Poniżej. Bez rytuałów, możesz jedynie go obezwładnić, ale jego rany uleczą się w ciągu paru minut."
+                "special": "Bez dostępu do zakazanych Rytuałów Wygaszania zabicie Czerwonego Świętego jest niemożliwe, a te może posiadać Kościół Księżyca Poniżej. Bez rytuałów, możesz jedynie go obezwładnić, ale jego rany uleczą się w ciągu paru minut.",
+                "names": "Święty Hellisent, Święta Magdalena, Święty Prothadeus"
             },
             "the_carnival": {
                 "name": "Karnawał",
