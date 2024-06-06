@@ -2195,7 +2195,9 @@
                 "resources": {
                     "description": "Często: Kilka zakrwawionych monet przypominających paznokcie\nRzadko: Coś, co można wykorzystać przeciwko ich Panom"
                 },
-                "motivation": "Przynieść obfite dary swoim wspaniałym i łaskawym panom."
+                "motivation": "Przynieść obfite dary swoim wspaniałym i łaskawym panom.",
+                "names": "Nux Ab-Crowfer, Quin Ex-Hypatia, Boswell Of-Tennant (Słudzy przyjmują imię swojego pana jako nazwisko, zwykle z przedrostkiem)",
+                "name": "Sługa-handlarz"
             },
             "mirror_spiders": {
                 "name": "Lustrzane Pająki",
