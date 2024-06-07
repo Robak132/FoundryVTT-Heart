@@ -213,7 +213,7 @@
             "single": "Pochodzenie",
             "drow": {
                 "name": "Drow",
-                "description": "Monochromatic elves with a strong sensitivity to sunlight. The lands surrounding the Heart are predominantly populated by dark elves, including the towering city of Spire (where they are subjugated by the aelfir) and the rolling desert caravan city of Aliquam. Drow live to around a hundred years of age, but the cruel conditions of Spire means that few of them reach 50. Drow do not give birth to viable young – instead, they lay fist-sized fleshy eggs that must be tended to for months until they develop into an infant. Drow regularly find their way into the Heart, either actively fleeing Spire or trying to find someone or something to call their own in the depths. Some are pilgrims tracing fragmented maps to find the Moon Beneath, tired of the state-mandated religions in Spire. The Drow of Spire predominantly worship Our Glorious Lady, a facet of their on ce-tripartite moon goddess; venerating the other two facets is forbidden. This religion focuses on six primary virtues, and it is considered good and proper for a drow to live their life in accordance with them: Community, Sagacity, Fury, Grace, Tenacity and Vigilance.",
+                "description": "<p>Monochromatyczne elfy z silną wrażliwością na światło słoneczne. Ziemie otaczające Serce są zamieszkane głównie przez mroczne elfy. Włączając w to górującą nad nimi Iglicę (gdzie są zniewolone przez aelfirów) i Aliquam, pustynne miasto karawan. Drowy dożywają około stu lat, ale okrutne warunki panujące w Iglicy sprawiają, że niewiele z nich osiąga 50. Są jajorodne, składają mięsiste jaja wielkości pięści, które muszą być pielęgnowane przez miesiące, zanim rozwiną się w niemowlę.</p>\n<p>Regularnie trafiają do Serca, albo aktywnie uciekając z Iglicy, albo próbując wykroić sobie dla siebie fragment w głębinach. Niektórzy z nich są pielgrzymami podążający za fragmentami map w poszukiwaniu Księżyca Poniżej, zmęczeni państwowymi religiami w Iglicy.</p>\n<p>Drowy z Iglicy czczą głównie Naszą Chwalebną Panią, aspekt ich trójdzielnej bogini księżyca. Czczenie pozostałych dwóch aspektów jest zabronione. Religia ta skupia się na sześciu podstawowych cnotach, które każdy drow powinien zachowywać: Wspólnota, Zuchwałość, Wściekłość, Łaska, Nieustępliwość i Czujność.</p>",
                 "question.0": "Urodziłeś się w Mieście Powyżej i odsłużyłeś pańszczyznę, cztery lata przymusowej służby dla okrutnego aelfira. Do czego byłeś zmuszany?",
                 "question.1": "Urodziłeś się w Mieście Poniżej. Gdzie mieszka twoja rodzina i kogo lub co czczą?",
                 "question.2": "Jesteś podróżnikiem z odległej krainy: pustyni Aliquam, zdradzieckich podnóży Nujab lub Rodzinnych Krain. Skąd pochodzisz i dlaczego stamtąd wyjechałeś?"
@@ -234,7 +234,7 @@
             },
             "gnoll": {
                 "name": "Gnoll",
-                "description": "Hyena-headed people from the south with fur that covers their bodies. The gnolls are at war with the aelfir, and are forbidden from entering the city of Spire; many have gone into hiding in the City Beneath. The gnollish empire (and its capital city Al’Marah) is founded on their advanced demonological and mechanical abilities; there are tales of djinn being bound into brass spheres to power uncanny devices. In the confines of the Heart, where the gaps between realities are thin, they can achieve unthought-of results in mechanoccultism – and great machines from ages past thrum and whirr in the hidden depths, just waiting to be found. Gnolls have a reputation for being angry, bestial warriors – but a lot of this is propaganda on the part of the aelfir, and they’re no more warlike than any other people. Some gnolls try to use their public image to their advantage and cultivate fearsome visages, but the majority are keen to be left to their own devices.",
+                "description": "<p>Hienogłowe futrzaste istoty z południa. Gnolle są w stanie wojny z aelfami i mają zakaz wstępu do Iglicy, dlatego wielu z nich ukrywa się w Mieście Poniżej. Imperium gnolli (wraz z jego stolicą Al'Marah) opiera się na ich naturalnym zdolnościach demonologicznych i mechanicznych. Znane są opowieści o djinnach spętanych przez mosiężne kule zasilające niesamowite urządzenia. W granicach Serca, gdzie szczeliny między rzeczywistościami są cienkie, można osiągać niespotykane rezultaty w mechanokultyzmie, a wielkie maszyny z minionych wieków brzęczą i warczą w ukrytych głębinach, czekając tylko na odnalezienie. Gnolle mają reputację wściekłych, bestialskich wojowników, choć w dużej mierze jest to propaganda aelfirów i nie są one bardziej wojownicze niż inne ludy.</p>\n<p>Niektórzy z nich starają się wykorzystać swój publiczny wizerunek na swoją korzyść i utrzymują wokół siebie aurę strachu, ale większość z nich wolałaby być pozostawiona sama sobie.</p>",
                 "question.0": "Udałeś się do Serca w poszukiwaniu czegoś konkretnego. Czy byłeś częścią jakiejś wyprawy, czy działałeś na własną rękę? Czy znalazłeś to, czego szukałeś?",
                 "question.1": "Uciekłeś z Iglicy, jesteś zbiegłym jeńcem wojennym, uchodźcą lub agentem wykonującym tajną misję. Za jakim elementem świata na powierzchni najbardziej tęsknisz?",
                 "question.2": "Urodziłeś się tutaj, na dole. Jaki wizerunek prezentujesz, by zaskoczyć, zastraszyć lub zaimponować ludziom?"
@@ -603,7 +603,7 @@
                     },
                     "zenith": {
                         "angelic.description": "<i>Przechodzisz ostateczną sercokrwistą transformację. Stajesz się agentem samego Serca, czerwonym i potężnym aniołem, chodzącym wcieleniem zniszczenia.</i> Po transformacji, która jest albo niepokojąco nagła, albo boleśnie powolna, twoje ciało i kości pękają, przekształcając cię w górującego nad wszystkimi Anioła. Jesteś tak potężny i niszczycielski jak każdy inny Anioł, ale zachowujesz swoją wolę, przynajmniej do końca obecnej sytuacji. Później zostajesz wchłonięty z powrotem do ciała Serca i stajesz się kolejnym czynnikiem nierzeczywistości, który będzie nękał poszukiwaczy w nadchodzących stuleciach.",
-                        "angelic.name": "Anioł",
+                        "angelic.name": "Anielska",
                         "legendary_beast.description": "<p><i>Zrzucasz to, co pozostało z twojej ludzkiej postaci i stajesz się czegoś wieloramiennym i majestatycznym.</i> Uzyskując dostęp do tej zdolności, rozpoczynasz polowanie na Bestię. Bestię przez duże B, starożytną istotę stworzoną z kamienia, mięśni i skamieniałego drewna. Zabijając Bestię, a w trakcie tego doskonale ją zrozumiesz. Staniesz się nową Bestią, uosobieniem bestialskiej siły i legendą Miasta Poniżej.</p>\n<p>Stajesz się częścią dziczy Serca, rośnie ona wokół ciebie bardziej niż kiedykolwiek, rozkwitając we wzorach, o których marzysz w odbijających się echem zakamarkach swojego starożytnego umysłu. Stwórz nowe znane miejsce, które będzie twoim terytorium. Tutaj jesteś panem i władcą, ale nie możesz już odejść. Pewnego dnia inny Tasak znajdzie cię, zabije i stanie się tobą.</p>",
                         "legendary_beast.name": "Legendarna Bestia",
                         "weald_and_woe.description": "<p><i>Czasem po śmierci legendarnego łowcy, Las, pradawny raj dla bezsłownych myśliwych i ściganych przez nich gigantycznych bestii, wdziera się do Serca, by odebrać jego ciało jako trofeum.</i></p>\n<p>Musisz umrzeć, by aktywować tę zdolność.</p>\n<p>Znane miejsce, w którym obecnie się znajdujesz, zostaje przejęte przez Las. Jeśli jesteś na wyprawie, natychmiast utworzy to nowe znane miejsce. Święte drzewa uderzają i przedzierają się przez ściany rzeczywistości, roje wielkich bestii roztrzaskują otaczający je świat, a twoje ciało zostaje pochłonięte przez czarną, urodzajną glebę, by cię odrodzić. Ta wyrwa pozostanie połączona ze znanym miejscem przez kilka godzin, zanim się zamknie, a drzewa skamienieją w martwy las z błyszczącego opalu, odwiedzany tylko przez zmarłych.</p>\n<p>Po śmierci odrodzisz się w lesie, gdzie czeka cię wieczne polowanie, ucztowanie i wycie do dziwnych, obojętnych gwiazd.</p>",
@@ -998,7 +998,7 @@
                     },
                     "zenith": {
                         "everlasting_stand.name": "Wieczna Służba",
-                        "everlasting_stand.description": "<i>As you feel your identity slipping away into the gestalt consciousness of the 33rd, you give everything you have to protect the people of the City Beneath.</i> When a landmark you are in is under threat from outside powers (which is pretty much always true), activate this ability. You become the original owner of your badge – it might be an instantaneous process, it might take several weeks – as you prepare to defend the landmark. Once your preparations are complete, you are subsumed into the Hounds completely. The 33rd will watch the landmark you designated as safe indefinitely – nothing short of another zenith ability will put it in danger.",
+                        "everlasting_stand.description": "<i>Czujesz, że twoja tożsamość znika w połączonej świadomości regimentu 33, a ty dajesz z siebie wszystko, by chronić ludzi Miesta Poniżej.</i> Możesz użyć tej zdolności, gdy znane miejsce, w którym się znajdujesz, zostanie zagrożone przez zewnętrzne siły (czyli prawie zawsze). Przygotowując się do obrony schronienia, przemieniasz się w pierwotnego właściciela swojej odznaki: może być to natychmiastowe, a może zająć kilka tygodni. Po zakończeniu procesu zostaniesz włączony do Ogarów. Trzydziesty trzeci będzie zawsze pilnować miejsca, które wyznaczyłeś. Nic poza inną zdolnością zenitu nie zdoła mu zagrozić.",
                         "fulcrum.name": "Sedno Sprawy",
                         "fulcrum.description": "<i>Twoje działania przyniosły ci ostateczną nagrodę, twoje imię zastąpi to wytłoczone na twojej odznace, a ty zostajesz oficjalnie wcielony do regimentu 33.</i> Zostajesz wypełniony nadziejami i obawami każdej przerażonej, zdesperowanej osoby w Sercu. Do końca bieżącej sytuacji możesz rzucać pięcioma kośćmi i wybierać najwyższą z nich za każdym razem, gdy wykonujesz akcję. Gdy sytuacja dobiegnie końca, udajesz się w głębiny Serca, by toczyć metafizyczne bitwy, których śmiertelnicy nie są w stanie zrozumieć.",
                         "incursion.name": "Wtargnięcie",
@@ -1214,7 +1214,7 @@
                     },
                     "zenith": {
                         "the_herald_of_the_red_king.name": "Herold Czerwonego Króla",
-                        "the_herald_of_the_red_king.description": "<i>You conjure forth a door to the King of Want, and his approach is terrible.</i> You can only cast this spell once, but you do so automatically without needing to roll. The Red King appears, a writhing town-sized knot of jealousy and fire and iron- hard scales, and breathes flame so hot that it can destroy anyone and anything it touches. You can direct his attack. When you cast the spell, roll <b>Endure+Occult</b>. On a success, you become the new Red King, a furious engine of desire, and can be summoned by other Junk Mages. On a failure, you are added to his hoard. Either way, there's no coming back.",
+                        "the_herald_of_the_red_king.description": "<i>Otworzyłeś drzwi Królowi Pragnienia, a jego nadejście będzie straszne.</i> Możesz rzucić to zaklęcie tylko raz, ale zrobisz to automatycznie, bez konieczności wykonywania rzutu. Pojawi się wtedy Czerwony Król, wielki jak miasto, wijący się węzeł zazdrości, ognia i twardych jak żelazo łusek, ziejący płomieniem tak gorącym, że zniszczy wszystko, co dotknie. A ty, możesz zadecydować, na co skieruje swoją złość. Po rzuceniu zaklęcia wykonaj test <b>Odporność+Okultyzm</b>, w przypadku sukcesu staniesz się nowym Czerwonym Królem, wściekłym silnikiem pragnienia, przywołanym przez innych narkomagów. Jeśli ci się nie uda, zostaniesz dodany do jego skarbca. Tak czy inaczej, po tej decyzji nie będzie powrotu.",
                         "the_herald_of_the_drowned_queen.name": "Herold Królowej Topielców",
                         "the_herald_of_the_drowned_queen.description": "<i>Dajesz Królowej to, czego pragnie najbardziej: poddanych.</i> Możesz rzucić to zaklęcie tylko raz, ale zrobisz to automatycznie, bez konieczności wykonywania rzutu. Znane miejsce, w którym się znajdujesz, zostaje zalane wodą, a w jego centrum z głębin wyłania się sala tronowa otoczona nieśmiertelnym majestatem Królowej Topielców. Od teraz będzie to część jej królestwa, a ty staniesz się jej najbardziej zaufanym doradcą. Miejsce przechodzi całkowicie pod kontrolą ciebie i Królowej. Możesz w ciągu kilku najbliższych sesji uzyskać to, czego potrzebujesz, zanim utracisz postać: doprowadzony do szaleństwa z powodu okultyzmu, zamordowany przez agentów konkurencyjnego schronienia lub zaręczony z Królową, by utwierdzić przejęcie miejsca.",
                         "the_herald_of_the_stone_chorus.name": "Herold Kamiennego Chóru",
@@ -1556,9 +1556,9 @@
                     "aetheric_resonance.name": "Eteryczny rezonans",
                     "aetheric_resonance.description": "Twój spanikowany umysł pęka na sekundę i przekształca się według tajemnego wzoru. Tutaj, na dole, stara magia krwi i kości działa lepiej niż na powierzchni. Natychmiast rzucasz <b>ETERYCZNĄ ZMORĘ</b> na pobliskiego sojusznika, ale nie otrzymujesz za to żadnego stresu. Permanentnie uczysz się zaklęcia <b>ETERYCZNA ZMORA</b> i możesz je rzucać, kiedy chcesz. [Trwająca]",
                     "addict.name": "Uzależnienie",
-                    "addict.description": "You realise that you have become reliant on drugs to keep yourself stable. When you're high (or drunk, or whatever) you take <b>Mind</b> stress normally, but all tasks that require extended concentration or fine manipulation become Risky. When you're not intoxicated and you suffer stress to <b>Mind</b>, roll twice and pick the higher dice. It takes a few minutes to get high and a few hours to sober up. [Ongoing]",
+                    "addict.description": "Zdajesz sobie sprawę, że uzależniłeś się od narkotyków, które pomagają cię utrzymać w ryzach. Gdy jesteś naćpany (lub pijany itd.) ponosisz normalny <b>Umysłu</b>, ale wszystkie zadania wymagające zwiększonej koncentracji lub precyzyjnych ruchów stają się Ryzykowne. Jeśli nie jesteś odurzony i ponosisz stres <b>Umysłu</b>, rzuć dwukrotnie i wybierz wyższą kostkę. Odurzenie się zajmie tylko kilka minut, ale powrócenie do normalnego stanu potrwa kilka godzin. [Trwająca]",
                     "delusion.name": "Złudzenie",
-                    "delusion.description": "Something you believe to be true is in fact false. While you step outside, or during downtime, all the other players work with the GM to determine what you are deluded about. For example: you're not an orphan, and you've got a family back in High Rise; there's no such group as the Hounds, and your uniform doesn't mean anything; etc. Next time you encounter the subject, reality (and the other characters) behave appropriately, leaving you confused and shaken.",
+                    "delusion.description": "Coś, co dotąd uważałeś za prawdziwe, w istocie takie nie jest. Kiedy będziesz nieobecny, lub gdzieś pomiędzy sesjami, pozostali gracze razem z MG ustalą, do czego masz błędne wspomnienia. Na przykład: nie jesteś sierotą i masz rodzinę w High Rise; nie ma takiej grupy jak Ogary, a twój mundur tak naprawdę nic nie znaczy itp. Następnym razem, gdy poruszysz ten temat, rzeczywistość (i inne postacie) zachowają się inaczej, niż się spodziewasz, pozostawiając cię zdezorientowanego i wstrząśniętego.",
                     "despair.name": "Rozpacz",
                     "despair.description": "Your mind races with the implications of what you've seen; your life before seems unreal and distant. The MG picks a domain that you have access to and you no longer have access to that domain. [Ongoing]",
                     "memory_holes.name": "Dziury w Pamięci",
@@ -1881,7 +1881,9 @@
                 },
                 "special": "Za pierwszym razem, gdy zobaczysz danego anioła, rzuć <b>Odporność+Klątwa</b> i ponieś D10 stresu Umysłu przy porażce.",
                 "motivation": "Każdy anioł jest stworzony do wypełnienia określonego celu i nie może zrozumieć rzeczy, które nie są jego celem. Czasami nie są w stanie wykonać swojej misji, a ich umysł psuje się, czyniąc je jeszcze bardziej tajemniczymi.",
-                "domains": "Klątwa, Okultyzm, ale anioły można znaleźć w każdej domenie, jeśli poprowadzi tam ich misja. Niewiele rzeczy może je powstrzymać."
+                "domains": "Klątwa, Okultyzm, ale anioły można znaleźć w każdej domenie, jeśli poprowadzi tam ich misja. Niewiele rzeczy może je powstrzymać.",
+                "names": "Crimsonian, Vulperine, Theolosian (każdy, kto zobaczy anioła, instynktownie zna jego imię. Nie będzie go już w stanie zapomnieć)",
+                "resistanceDesc": "20. Zmniejszenie odporności anioła do 0 sprawi, że nie będzie mógł się poruszać ani działać, jego ciało szybko zgnije, a on narodzi się ponownie w jakimś odległym kamiennym łonie."
             },
             "automaton_of_burden": {
                 "resources": {
@@ -1895,7 +1897,8 @@
                 "name": "Automat Pociągowy",
                 "domains": "Technologia",
                 "special": "Jeśli zdobędziesz Automat Pociągowy, działa on jak przedmiot (Wyprawa D6).",
-                "protectionDesc": "0, chyba że ich właściciel wzmocnił je do 1 lub 2."
+                "protectionDesc": "0, chyba że ich właściciel wzmocnił je do 1 lub 2.",
+                "names": "Bessie, Vyssos 3-X, Wrench"
             },
             "blooded": {
                 "name": "Skrwawiony",
@@ -1906,8 +1909,10 @@
                 },
                 "motivation": "Żyć w Sercu w spokoju i nie dać się zabić jakiemuś nieświadomemu poszukiwaczowi.",
                 "resources": {
-                    "jewellery": "Ich ciała lub ich części mogą być sprzedawane jako medyczne ciekawostki, ale większość schronień w Sercu patrzy na to krzywo."
-                }
+                    "jewellery": "Biżuteria, pamiątki i kosztowności",
+                    "description": "Ciała lub ich części mogą być sprzedawane jako ciekawostki medyczne, ale większość schronień w Sercu patrzy na to krzywo."
+                },
+                "names": "Imiona zwykłych ludzi, być może przestarzałe o jakieś pięćdziesiąt lat: Versellian, Xandrix, Sewain, Brimner"
             },
             "butcher": {
                 "difficulty": "Ryzykowny",
@@ -1919,9 +1924,18 @@
                 "motivation": "By zdobyć mięso (żywe, jeśli to możliwe) dla swojej jaskini.",
                 "descriptors": "<ul><li>Posiada potężne poroże z gnijącego drewna</li>\n<li>Wydrapuje kamieniem symbole na ścianach i drzewach</li>\n<li>Przykucnięty na skale, ostrzega innych jękliwym skowytem</li></ul>",
                 "resources": {
-                    "butcher_entrails": "Wnętrzności rzeźnika"
+                    "butcher_entrails": "Wnętrzności rzeźnika",
+                    "antlers_name": "Poroże",
+                    "butcher_entrails_name": "Wnętrzności rzeźnika",
+                    "victims_leavings_name": "Pozostałości po ofiarach",
+                    "antlers_description": "D6-D10, w zależności od liczby rogów",
+                    "victims_leavings_description": "Jeśli uda ci się znaleźć jego jaskinię i poradzić sobie z zapachem",
+                    "butcher_entrails_description": "Często wykorzystywany w znakach ochronnych"
                 },
-                "names": "Nie mają już imion. Jeśli muszą się do siebie odnosić, robią to za pomocą swojej pozycji, zapachu i czynów."
+                "names": "Nie mają już imion. Jeśli muszą się do siebie odnosić, robią to za pomocą swojej pozycji, zapachu i czynów.",
+                "fallout": {
+                    "taken.name": "Porwany"
+                }
             },
             "carrion_pig": {
                 "name": "Ścierwoświnia",
@@ -1931,7 +1945,8 @@
                 "resources": {
                     "too_much_stinking_pig_fat": "Za dużo śmierdzącego świńskiego tłuszczu"
                 },
-                "names": "Właściciele zwykle nie nadają imion ścierwoświniom, ponieważ nie chcą się z nimi utożsamiać."
+                "names": "Właściciele zwykle nie nadają imion ścierwoświniom, ponieważ nie chcą się z nimi utożsamiać.",
+                "descriptors": "<ul><li>Przebija się przez pobliską ścianę</li>\n<li>Piszczy tak głośno, że masz wrażenie, że pękną ci bębenki</li>\n<li>Ucztuje łapczywie na zwłokach swojego właściciela</li></ul>"
             },
             "false_hallow": {
                 "difficulty": "Niebezpieczny",
@@ -1979,7 +1994,8 @@
                     "assorted_owl_bones": "Różnorodne kości sowy"
                 },
                 "names": "Poszczególne sowy nie mają imion, a imię każdej królowej to minutowy skrzek, który może być wymówiony tylko przez inne sowy.",
-                "descriptors": "<ul><li>Zjada w całości słabszego członka roju</li>\n<li>Ślepy, ale działający za pomocą echa</li>\n<li>Grzywiasty, z żółknącą skórą i niejednolitymi piórami.</li></ul>"
+                "descriptors": "<ul><li>Zjada w całości słabszego członka roju</li>\n<li>Ślepy, ale działający za pomocą echa</li>\n<li>Grzywiasty, z żółknącą skórą i niejednolitymi piórami.</li></ul>",
+                "domains": "Dzicz, chociaż tamtejsze sowy nie są problemem. Można je znaleźć również w domenach Norowiska, Odludzia i Schronienia, gdzie często wchodzą w konflikty z ludźmi."
             },
             "greater_heartsblood_beast": {
                 "resources": {
@@ -1989,7 +2005,10 @@
                 },
                 "name": "Większa Sercokrwista Bestia",
                 "motivation": "Cień",
-                "domains": "Dzicz, Norowisko"
+                "domains": "Dzicz, Norowisko",
+                "equipment": {
+                    "massive_claws": "Wielkie pazury, postrzępione zęby, nibynóżki z przyssawkami"
+                }
             },
             "male_harpy": {
                 "resources": {
@@ -1998,7 +2017,14 @@
                 "name": "Samiec harpii",
                 "domains": "Dzicz, Odludzie, Okultyzm",
                 "descriptors": "<ul><li>Naśladuje głos kogoś, kto zaginął w twoim schronieniu</li>\n<li>Zawiązuje haczyk wędkarski na swoich szponach z zaskakującą zręcznością</li>\n<li>Błyszcząca plama nurkuje ku tobie z nieba</li></ul>",
-                "motivation": "Zabieranie ostrych lub błyszczących rzeczy. Jeśli ludzie mają je przy sobie i nie chcą ich oddać, będą próbować ich zabić."
+                "motivation": "Zabieranie ostrych lub błyszczących rzeczy. Jeśli ludzie mają je przy sobie i nie chcą ich oddać, będą próbować ich zabić.",
+                "names": "Tylko te, które ukradli ludziom, którzy zginęli w pobliżu",
+                "equipment": {
+                    "sharp_things_tied_to_their_beaks_and_claws": {
+                        "description": "Zyskuje etykietę Brutalny, gdy nurkuje."
+                    }
+                },
+                "difficulty": "Ryzykowna, jeśli atakujesz je podczas pikowania w dół. Standardowa, jeśli uda ci się je osaczyć."
             },
             "pitchkin": {
                 "name": "Smolak",
@@ -2017,9 +2043,12 @@
             "signal_box_cultists": {
                 "difficulty": "Standardowy",
                 "equipment": {
-                    "rustedbutstill__functional_machinery": "Zardzewiała, ale wciąż sprawna maszyneria"
+                    "rustedbutstill__functional_machinery": "Zardzewiała, ale wciąż sprawna maszyneria",
+                    "description": "Zardzewiałe, ale wciąż sprawne maszyny (D8, Niszowy)",
+                    "rusted_machinery": "Zardzewiałe, ale wciąż sprawne maszyny"
                 },
-                "motivation": "Wcielić innych do kultu, handlować zapasami lub poderżnąć gardło Vermisiańskiemu Rycerzowi i sprawić, by wykrwawił się nad sygnałową maszynerią."
+                "motivation": "Wcielić innych do kultu, handlować zapasami lub poderżnąć gardło Vermisiańskiemu Rycerzowi i sprawić, by wykrwawił się nad sygnałową maszynerią.",
+                "names": "Haslam, Levier, Forneau"
             },
             "skeleton_courtier": {
                 "difficulty": "Standardowy",
@@ -2032,7 +2061,8 @@
                     "ancient_and_rusted_weaponry": "Starożytna zardzewiała broń"
                 },
                 "protectionDesc": "Od 0 do 2, w zależności od tego, czy został pochowany w prześwitujących sukniach, czy starożytnych zbrojach.",
-                "special": "Ich kościste ciała obniżają kości stresu od broni ostrej i pocisków o 1 stopień, ale zwiększają kości stresu od tępej broni o 1 stopień."
+                "special": "Ich kościste ciała obniżają kości stresu od broni ostrej i pocisków o 1 stopień, ale zwiększają kości stresu od tępej broni o 1 stopień.",
+                "names": "Ser Ethelren, Ser Fenswith,Lady Arablast"
             },
             "the_blighted": {
                 "name": "Zarażony",
@@ -2058,7 +2088,8 @@
                 },
                 "domains": "Norowisko, choć bandytów można znaleźć wszędzie tam, gdzie są podróżnicy.",
                 "description": "Oportunistyczni złodzieje i zabójcy, którzy żerują na bezbronnych podróżnych dla ich kosztowności. Najczęściej można ich spotkać w tunelach prowadzących do Rodzinnych Krain, ale miejsc, w których gang zdesperowanych ludzi z bronią i brakiem empatii może szybko zarobić, jest bez liku. Nie są oni gotowi na poważną walkę i zazwyczaj są otwarci na negocjacje, jeśli masz coś do zaoferowania, czego nie mogą ci po prostu zabrać.",
-                "motivation": "Zabierać pieniądze lub kosztowności ludziom korzystającym z tuneli, by wyemigrować do Miasta Powyżej. Są jednak hałaśliwi i niepewni siebie, więc niektórzy wykorzystują każdą okazję, by udowodnić swoje okrucieństwo i wyższość nad innymi."
+                "motivation": "Zabierać pieniądze lub kosztowności ludziom korzystającym z tuneli, by wyemigrować do Miasta Powyżej. Są jednak hałaśliwi i niepewni siebie, więc niektórzy wykorzystują każdą okazję, by udowodnić swoje okrucieństwo i wyższość nad innymi.",
+                "names": "Jonjak, Pentekost, Mataline"
             },
             "the_cult_of_knives": {
                 "difficulty": "Ryzykowny",
@@ -2068,7 +2099,8 @@
                 },
                 "name": "Kult Noży",
                 "special": "Kult Noży ignoruje wszystkie Ochrony.",
-                "names": "Jeśli zabierzesz im wszystkie noże, opamiętają się i powiedzą ci swoje imię (Theodora, Clovin, Wyst), zanim umrą z utraty krwi."
+                "names": "Jeśli zabierzesz im wszystkie noże, opamiętają się i powiedzą ci swoje imię (Theodora, Clovin, Wyst), zanim umrą z utraty krwi.",
+                "domains": "Odludzie, Norowisko, Schronienie"
             },
             "wretch": {
                 "name": "Nieszczęśnik",
@@ -2095,7 +2127,9 @@
                 "equipment": {
                     "black_market_black_magic": "Czarna magia czarnego rynku"
                 },
-                "special": "Jeśli Wypalony Okultysta zada 7 lub więcej stresu w pojedynczym rzucie, zostanie wyłączony z akcji poprzez magiczne sprzężenie zwrotne."
+                "special": "Jeśli Wypalony Okultysta zada 7 lub więcej stresu w pojedynczym rzucie, zostanie wyłączony z akcji poprzez magiczne sprzężenie zwrotne.",
+                "domains": "Okultyzm",
+                "names": "Griz, Swent, Nox"
             },
             "druid_legbreaker": {
                 "name": "Druid Łamacz Nóg",
@@ -2117,7 +2151,13 @@
                     "description": "Nic ważnego"
                 },
                 "domains": "Klątwa, Okultyzm, Religia",
-                "difficulty": "Standardowa, jeśli dobrze go widzisz, w przeciwnym razie Ryzykowna. Postać, która go widzi, może pomóc innej, która go nie widzi."
+                "difficulty": "Standardowa, jeśli dobrze go widzisz, w przeciwnym razie Ryzykowna. Postać, która go widzi, może pomóc innej, która go nie widzi.",
+                "protectionDesc": "10 (nieignorowana przez etykietę Przebijający)",
+                "equipment": {
+                    "spectral_claw": "Widmowy pazur"
+                },
+                "names": "Staromodne imiona, takie jak Enriette, Gregorious, Burrage.",
+                "motivation": "Różni się w zależności od ducha, ale większość z nich jest pomiędzy skrajną samotnością a bezkierunkową wściekłością."
             },
             "gnoll_incursion_team": {
                 "name": "Gnollska Jednostka Taktyczna",
@@ -2125,6 +2165,11 @@
                 "difficulty": "Standardowa. Jeden gnoll w drużynie jest Obrońcą o trudności Ryzykownej",
                 "resources": {
                     "arcanotechnological_detritus": "Niezrozumiałe arkanotechnologiczne szczątki"
+                },
+                "motivation": "Katalogować dziwność Serca i przesłać dane do Al'Marah oraz uniknąć wykrycia.",
+                "equipment": {
+                    "gilded_shotcannon": "Pozłacane działo",
+                    "arcanochemical_bombs": "Bomby arcanochemiczne"
                 }
             },
             "godbeast": {
@@ -2135,7 +2180,8 @@
                 "domains": "Dzicz",
                 "names": "Nic, co byś zrozumiał.",
                 "difficulty": "Standardowa. Kiedy jego odporności jest poniżej 10, trudność wzrasta do Ryzykownej.",
-                "motivation": "By chronić swoje młode, które mogą, ale nie muszą znajdować się na tej samej płaszczyźnie rzeczywistości co oni."
+                "motivation": "By chronić swoje młode, które mogą, ale nie muszą znajdować się na tej samej płaszczyźnie rzeczywistości co oni.",
+                "descriptors": "<ul><li>Przebija się przez drzewa</li>\n<li>Zaciekle chroni swoje młode, które same są wielkości w opancerzonego drowa</li>\n<li>Ucieka przed przybyciem czegoś jeszcze większego i bardziej niebezpiecznego</li></ul>"
             },
             "heartsblood_beast": {
                 "name": "Sercokrwista Bestia",
@@ -2149,7 +2195,8 @@
                     "teeth_and_claws": "Zęby i pazury"
                 },
                 "domains": "Dzicz, Norowisko",
-                "motivation": "Głównie, by przetrwać i chronić swoje młode, choć niektóre mają tajemnicze motywacje wszczepione w ich mózgi przez Serce, co sprawia, że zachowują się w nieprzewidywalny sposób."
+                "motivation": "Głównie, by przetrwać i chronić swoje młode, choć niektóre mają tajemnicze motywacje wszczepione w ich mózgi przez Serce, co sprawia, że zachowują się w nieprzewidywalny sposób.",
+                "protectionDesc": "Zazwyczaj 0, 1 jeśli bestia jest szczególnie zaciekła."
             },
             "heartseeds": {
                 "name": "Esencja Serca"
@@ -2160,6 +2207,13 @@
                 "descriptors": "<ul><li>Wciska w dziąsła postrzępione odłamki monet, by działały jak zęby</li>\n<li>Nosi księgi finansowe swoich Panów jako sztandar</li>\n<li>Wyświewuje cenniki jako święte mantry</li></ul>",
                 "resources": {
                     "description": "Często: Kilka zakrwawionych monet przypominających paznokcie\nRzadko: Coś, co można wykorzystać przeciwko ich Panom"
+                },
+                "motivation": "Przynieść obfite dary swoim wspaniałym i łaskawym panom.",
+                "names": "Nux Ab-Crowfer, Quin Ex-Hypatia, Boswell Of-Tennant (Słudzy przyjmują imię swojego pana jako nazwisko, zwykle z przedrostkiem)",
+                "name": "Sługa-handlarz",
+                "protectionDesc": "0 lub 1 dla ulubionych poddanych",
+                "equipment": {
+                    "description": "Zardzewiałe, postrzępione ostrza; jeden w grupie będzie miał przy sobie albo błogosławiony garłacz strzelający monetami lub ciężką maczugę nabijaną świętymi transakcjami."
                 }
             },
             "mirror_spiders": {
@@ -2184,7 +2238,8 @@
                     "rusted_blackiron_blades": "Zardzewiałe ostrza z czarnego żelaza"
                 },
                 "difficulty": "Standardowa, ale spójrz na konsekwencje.",
-                "special": "Bez dostępu do zakazanych Rytuałów Wygaszania zabicie Czerwonego Świętego jest niemożliwe, a te może posiadać Kościół Księżyca Poniżej. Bez rytuałów, możesz jedynie go obezwładnić, ale jego rany uleczą się w ciągu paru minut."
+                "special": "Bez dostępu do zakazanych Rytuałów Wygaszania zabicie Czerwonego Świętego jest niemożliwe, a te może posiadać Kościół Księżyca Poniżej. Bez rytuałów, możesz jedynie go obezwładnić, ale jego rany uleczą się w ciągu paru minut.",
+                "names": "Święty Hellisent, Święta Magdalena, Święty Prothadeus"
             },
             "the_carnival": {
                 "name": "Karnawał",
@@ -2193,7 +2248,15 @@
                 "resources": {
                     "whatever_they_were_carrying": "Cokolwiek mieli ze sobą, gdy infekcja się zaczęła"
                 },
-                "motivation": "Tańczyć! Od czasu do czasu opamiętują się i krzyczą z bólu i głodu, więc wiele grup ma w swoich szeregach bębniarza, który utrzymuje rytm."
+                "motivation": "Tańczyć! Od czasu do czasu opamiętują się i krzyczą z bólu i głodu, więc wiele grup ma w swoich szeregach bębniarza, który utrzymuje rytm.",
+                "names": "Gregor, Yolande, Klimpt",
+                "fallout": {
+                    "dancer.name": "Tancerz",
+                    "damned.name": "Przeklęty"
+                },
+                "equipment": {
+                    "description": "Większość z nich ma przy sobie łatwo-zniszczalne instrumenty lub jest nieuzbrojona, ale żaden z nich nie jest jednak tak naprawdę zainteresowany walką."
+                }
             },
             "sourceborn_construct": {
                 "difficulty": "Ryzykowny",
@@ -2205,7 +2268,13 @@
                 },
                 "name": "Konstrukt Źródła",
                 "names": "Brak w języku, który można zrozumieć lub którym można się posługiwać",
-                "descriptors": "<ul><li>Migocząca smuga stali i pyłu węglowego, która formuje się w sześciokąty</li>\n<li>Pudełko, które wydaje się nieruchome, dopóki ostre jak brzytwa włókna nie wystrzelą, by cię okaleczyć</li>\n<li>Unosząca się obsydianowa kula, która telekinetycznie rzuca obiektami wokół siebie z przerażającą precyzją</li></ul>"
+                "descriptors": "<ul><li>Migocząca smuga stali i pyłu węglowego, która formuje się w sześciokąty</li>\n<li>Pudełko, które wydaje się nieruchome, dopóki ostre jak brzytwa włókna nie wystrzelą, by cię okaleczyć</li>\n<li>Unosząca się obsydianowa kula, która telekinetycznie rzuca obiektami wokół siebie z przerażającą precyzją</li></ul>",
+                "equipment": {
+                    "ultrasharp_metal_shards": {
+                        "name": "Niezwykle ostre odłamki metalu",
+                        "description": "Gdy jest używana przez kogoś innego, zyskuje etykietę Niebezpieczny."
+                    }
+                }
             },
             "the_walking_wounded": {
                 "domains": "Klątwa, Odludzie",
@@ -2213,7 +2282,228 @@
                 "equipment": {
                     "description": "Nic wartościowego."
                 },
-                "resistanceDesc": "Standardowa, nie są w stanie prawidłowo widzieć i słyszeć, ale niewiarygodnie dobrze wyczuwać ruch."
+                "resistanceDesc": "Standardowa, nie są w stanie prawidłowo widzieć i słyszeć, ale niewiarygodnie dobrze wyczuwać ruch.",
+                "special": "Przedmioty zabrane the walking wounded korodują całkowicie w ciągu kilku minut, czyniąc je bezużytecznymi.",
+                "motivation": "Wrócić do domu, co jest bezcelowe, ponieważ wszyscy, których znali, zginęli dziesiątki lat temu. Wielu z nich wierzy, że nadal są w stanie wojny, z kimkolwiek się spotkają, ale może będziesz w stanie przekonać ich, że jest inaczej. Niektórzy, w towarzystwie swoich szalonych i nieśmiertelnych aelfirskich oficerów, wciąż próbują wypełniać swoje pierwotne misje.",
+                "descriptors": "<ul><li>W ich klatkę piersiową wtopione są medale</li>\n<li>Ich rany pokrywają bandaże wykonane z kruszącej się skóry</li>\n<li>Ciągną ciężki dżezail, który wtopił się w ich ramiona</li></ul>"
+            }
+        },
+        "landmarks": {
+            "derelictus_the_city_between": {
+                "domains": "Schronienie",
+                "tier": "0",
+                "stress_dice": "D4",
+                "haunts": "Dowolny, D10",
+                "name": "DERELICTUS – MIASTO POMIĘDZY"
+            },
+            "grip_station": {
+                "stress_dice": "D6",
+                "tier": "1",
+                "domains": "Schronienie, Technologia",
+                "haunts": "Frumious, alchemik i technicznie lekarz (D8 Krwi, D8 Echa)\nŚpiew w krystalicznych jaskiniach (D6 Umysł, D4 Szczęście)\nHandel z mędrcami (D4 Zapasy)",
+                "name": "GRIP STATION"
+            },
+            "the_god_of_corpses": {
+                "tier": "1",
+                "stress_dice": "D4",
+                "domains": "Schronienie, Religia",
+                "name": "BÓG TRUPÓW"
+            },
+            "labyrinth": {
+                "name": "Labirynt",
+                "domains": "Norowisko",
+                "stress_dice": "D6",
+                "tier": "1",
+                "haunts": "<ul><li>Boreal, lekarz, którego gabinet został tu uwięziony (D8 Krwi)</li>\n<li>Schody Penrose’a, zaskakująco dobry pub (D8 Umysłu)</li>\n<li>Dovetail Market, na obrzeżach (D6 Zapasy)</li></ul>"
+            },
+            "redcap_grove": {
+                "domains": "Dzicz",
+                "stress_dice": "D6",
+                "tier": "1",
+                "name": "REDCAP GROVE"
+            },
+            "resonance_chamber_five": {
+                "domains": "Okultyzm",
+                "tier": "1",
+                "haunts": "Obcowanie z obcą świadomością (D4 Umysł)",
+                "name": "KOMORA REZONANSOWA 5"
+            },
+            "the_temple_of_the_moon_beneath": {
+                "name": "ŚWIĄTYNIA KSIĘŻYCA PONIŻEJ",
+                "haunts": "Klinika Siostry Griswold (D10 Krew)\nOłtarz Wielu Matek (D8 Szczęście)\nKomnaty Oczyszczenia (D6 Echo)",
+                "domains": "Schronienie, Religia"
+            },
+            "sonderwood_the_temple_of_community": {
+                "domains": "Schronienie, Religia",
+                "name": "SONDERWOOD – ŚWIĄTYNIA WSPÓLNOTY"
+            },
+            "tunnels_of_wet_filth": {
+                "domains": "Religia, Norowisko",
+                "name": "TUNELE MOKREGO BRUDU"
+            },
+            "sightless_the_temple_of_grace": {
+                "name": "SIGHTLESS – ŚWIĄTYNIA ŁASKI",
+                "domains": "Religia, Norowisko"
+            },
+            "trypogenesis_chamber": {
+                "domains": "Okultyzm",
+                "name": "KOMORA TRYPOGENEZY"
+            },
+            "well_station": {
+                "domains": "Technologia"
+            },
+            "the_bunker": {
+                "name": "BUNKIER",
+                "domains": "Norowisko, Odludzie (okolice)"
+            },
+            "ghastling_plain": {
+                "domains": "Odludzie"
+            },
+            "the_maw": {
+                "domains": "Klątwa, Odludzie",
+                "name": "PASZCZA",
+                "stress_dice": "D6; D8 w samej paszczy"
+            },
+            "the_moon_grove": {
+                "domains": "Religia",
+                "name": "KSIĘŻYCOWY LAS"
+            },
+            "the_dark_city": {
+                "name": "MROCZNE MIASTO",
+                "domains": "Odludzie, Religia, Norowisko",
+                "tier": "Wyrwa"
+            },
+            "the_moon_garden": {
+                "domains": "Schronienie, Religia",
+                "name": "KSIĘŻYCOWY OGRÓD",
+                "tier": "Wyrwa"
+            },
+            "the_red_moon": {
+                "name": "CZERWONY KSIĘŻYC",
+                "domains": "Odludzie, Religia",
+                "tier": "Wyrwa"
+            },
+            "chollerous_the_temple_of_fury": {
+                "name": "CHOLLEROUS – ŚWIĄTYNIA FURII",
+                "domains": "Religia"
+            },
+            "the_hoard": {
+                "domains": "Klątwa, Okultyzm",
+                "tier": "2 lub 3",
+                "name": "SKARB"
+            },
+            "the_grey": {
+                "domains": "Odludzie",
+                "name": "SZAROŚĆ",
+                "tier": "Wyrwa"
+            },
+            "the_slumbering_depths": {
+                "domains": "Religia, Dzicz",
+                "tier": "Wyrwa"
+            },
+            "sump_station": {
+                "domains": "Technologia, Norowisko",
+                "name": "SUMP STATION"
+            },
+            "ranvess_the_temple_of_vigilance": {
+                "domains": "Religia",
+                "name": "RANVESS – ŚWIĄTYNIA CZUJNOŚCI"
+            },
+            "hallow": {
+                "name": "HALLOW",
+                "domains": "Schronienie, Okultyzm",
+                "stress_dice": "D4, D8 jeśli wiedźmy wejdą w Prawdziwą Naturę (patrz niżej)"
+            },
+            "highrise": {
+                "domains": "Schronienie, Odludzie",
+                "name": "HIGHRISE"
+            },
+            "the_room": {
+                "domains": "Norowisko",
+                "name": "POKÓJ"
+            },
+            "the_forest": {
+                "domains": "Dzicz",
+                "name": "LAS",
+                "tier": "Wyrwa"
+            },
+            "the_palace_multifaceted": {
+                "domains": "Religia, Okultyzm",
+                "tier": "Wyrwa"
+            },
+            "athane_the_temple_of_sagacity": {
+                "domains": "Schronienie, Religia",
+                "name": "ATHANE – ŚWIĄTYNIA MĄDROŚCI"
+            },
+            "the_tower": {
+                "name": "WIEŻA",
+                "domains": "Schronienie, Norowisko"
+            },
+            "grin_station": {
+                "domains": "Technologia",
+                "name": "GRIN STATION"
+            },
+            "the_harvest_bazaar": {
+                "domains": "Klątwa"
+            },
+            "the_machines_of_dust": {
+                "domains": "Klątwa, Technologia",
+                "name": "MASZYNY PYŁU"
+            },
+            "the_red_market": {
+                "domains": "Norowisko, Schronienie",
+                "name": "CZERWONY RYNEK"
+            },
+            "cairnmor": {
+                "domains": "Schronienie, Dzicz",
+                "name": "CAIRNMOR"
+            },
+            "the_plaza_of_silicate_flowers_misallocated": {
+                "domains": "Schronienie, Technologia"
+            },
+            "terminus": {
+                "domains": "Technologia",
+                "name": "TERMINUS"
+            },
+            "wardstone_nasonov": {
+                "domains": "Okultyzm"
+            },
+            "the_salvatious_gryndel_hunting_club": {
+                "domains": "Schronienie"
+            },
+            "papilious_both": {
+                "domains": "Religia, Okultyzm",
+                "tier": "Wyrwa"
+            },
+            "unspire": {
+                "domains": "Okultyzm",
+                "tier": "Wyrwa",
+                "name": "UNSPIRE"
+            },
+            "the_grail_road": {
+                "domains": "Odludzie, Religia",
+                "tier": "Wyrwa"
+            },
+            "soufri_the_temple_of_tenacity": {
+                "domains": "Klątwa, Religia",
+                "name": "SOUFRI – ŚWIĄTYNIA WYTRWAŁOŚCI"
+            },
+            "hang_station": {
+                "domains": "Technologia",
+                "name": "HANG STATION"
+            },
+            "last_orders": {
+                "domains": "Klątwa",
+                "tier": "2 lub 3"
+            },
+            "swinefall": {
+                "domains": "Norowisko",
+                "name": "SWINEFALL"
+            },
+            "the_source": {
+                "name": "ŹRÓDŁO",
+                "domains": "Okultyzm, Technologia",
+                "tier": "Wyrwa"
             }
         }
     }
