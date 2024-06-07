@@ -1970,7 +1970,7 @@
                 "name": "Gnoll Incursion Team",
                 "description": "<p>The Heart is of particular interest to occultists, theologists and fringe scientists from all over the world. Some of them even manage to reach and explore it within their lifetimes rather than just reading about it in books. As the gnolls who dwell in the deserts to the south are officially at war with the rulers of the City Above, the only way they can get their demonomechanical experts inside the City Beneath is to sneak in and hope they don’t get caught. Wearing special suits of sandwalker leather designed to withstand the wild energy of the Heart, teams of between six and ten gnolls explore the strangeness around them and document it on curious devices: shimmering spheres, light as soap-bubbles but strong as iron, that they say contain bound djinn of remembrance. Most of the inhabitants of the Heart let them get on with it, since they keep themselves to themselves for the most part. But each new moon, there is a standing bounty paid for the heads of gnolls delivered to the Derelictus central square each, which is doled out by serious-looking drow administrants from the City Above. The exploration teams do their best to keep their existence a secret and to silence anyone who might report them to the authorities. NAME: Doctor Pitchwood, First Assistant Sareth, Protector Bahram.</p>\n",
                 "descriptors": "<ul><li>A blue-white searchlight stabbing through the darkness, illuminating you but leaving them in shadow</li>\n<li>Screwing bulky lenses into place on their visor to observe a heartsblood creature</li>\n<li>Tracing circuit-board patterns in blood around a humming battery to recharge it</li>\n<li>Reinforcing subdermal shielding and limbic wards.</li></ul>",
-                "motivation": "Standard. One gnoll per party is designated Protector and is Risky instead",
+                "motivation": "To catalogue the weirdness of the Heart and send back data to Al’Marah; to evade detection.",
                 "difficulty": "Standard. One gnoll per party is designated Protector and is Risky instead",
                 "resources": {
                     "arcanotechnological_detritus": "Arcanotechnological detritus, none of which you understand"
@@ -2008,7 +2008,7 @@
                     "description": "Often: Meat and fur\nRarely: Curious and unique bones"
                 },
                 "equipment": {
-                    "massive_claws": "Massive claws, jagged teeth, suckered pseudopods (D8)."
+                    "massive_claws": "Massive claws, jagged teeth, suckered pseudopods"
                 },
                 "domains": "Wild, Warren"
             },
@@ -2060,7 +2060,6 @@
                 "motivation": "To bring heaping bounties to the feet of their splendid and gracious lords.",
                 "difficulty": "Standard",
                 "resources": {
-                    "often:_a_few_bloodied_nail_like_coins": "Often: A few bloodied nail-like coins (D4, Haven); Rarely: Something you could use as leverage against their master (D10, Religion).",
                     "description": "Often: A few bloodied nail-like coins\nRarely: Something you could use as leverage against their master"
                 },
                 "equipment": {
@@ -2201,7 +2200,7 @@
                 },
                 "equipment": {
                     "breakable_noise_maker": "Breakable noise-maker",
-                    "description": "Most carry breakable noise-makers  or are unarmed; none of them are really interested in fighting, though."
+                    "description": "Most carry breakable noise-makers or are unarmed; none of them are really interested in fighting, though."
                 },
                 "fallout": {
                     "stuck_in_your_head.name": "Stuck in Your Head",

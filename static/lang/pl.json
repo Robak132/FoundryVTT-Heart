@@ -1214,7 +1214,7 @@
                     },
                     "zenith": {
                         "the_herald_of_the_red_king.name": "Herold Czerwonego Króla",
-                        "the_herald_of_the_red_king.description": "<i>You conjure forth a door to the King of Want, and his approach is terrible.</i> You can only cast this spell once, but you do so automatically without needing to roll. The Red King appears, a writhing town-sized knot of jealousy and fire and iron- hard scales, and breathes flame so hot that it can destroy anyone and anything it touches. You can direct his attack. When you cast the spell, roll <b>Endure+Occult</b>. On a success, you become the new Red King, a furious engine of desire, and can be summoned by other Junk Mages. On a failure, you are added to his hoard. Either way, there's no coming back.",
+                        "the_herald_of_the_red_king.description": "<i>Otworzyłeś drzwi Królowi Pragnienia, a jego nadejście będzie straszne.</i> Możesz rzucić to zaklęcie tylko raz, ale zrobisz to automatycznie, bez konieczności wykonywania rzutu. Pojawi się wtedy Czerwony Król, wielki jak miasto, wijący się węzeł zazdrości, ognia i twardych jak żelazo łusek, ziejący płomieniem tak gorącym, że zniszczy wszystko, co dotknie. A ty, możesz zadecydować, na co skieruje swoją złość. Po rzuceniu zaklęcia wykonaj test <b>Odporność+Okultyzm</b>, w przypadku sukcesu staniesz się nowym Czerwonym Królem, wściekłym silnikiem pragnienia, przywołanym przez innych narkomagów. Jeśli ci się nie uda, zostaniesz dodany do jego skarbca. Tak czy inaczej, po tej decyzji nie będzie powrotu.",
                         "the_herald_of_the_drowned_queen.name": "Herold Królowej Topielców",
                         "the_herald_of_the_drowned_queen.description": "<i>Dajesz Królowej to, czego pragnie najbardziej: poddanych.</i> Możesz rzucić to zaklęcie tylko raz, ale zrobisz to automatycznie, bez konieczności wykonywania rzutu. Znane miejsce, w którym się znajdujesz, zostaje zalane wodą, a w jego centrum z głębin wyłania się sala tronowa otoczona nieśmiertelnym majestatem Królowej Topielców. Od teraz będzie to część jej królestwa, a ty staniesz się jej najbardziej zaufanym doradcą. Miejsce przechodzi całkowicie pod kontrolą ciebie i Królowej. Możesz w ciągu kilku najbliższych sesji uzyskać to, czego potrzebujesz, zanim utracisz postać: doprowadzony do szaleństwa z powodu okultyzmu, zamordowany przez agentów konkurencyjnego schronienia lub zaręczony z Królową, by utwierdzić przejęcie miejsca.",
                         "the_herald_of_the_stone_chorus.name": "Herold Kamiennego Chóru",
@@ -2003,7 +2003,10 @@
                 },
                 "name": "Większa Sercokrwista Bestia",
                 "motivation": "Cień",
-                "domains": "Dzicz, Norowisko"
+                "domains": "Dzicz, Norowisko",
+                "equipment": {
+                    "massive_claws": "Wielkie pazury, postrzępione zęby, nibynóżki z przyssawkami"
+                }
             },
             "male_harpy": {
                 "resources": {
@@ -2018,7 +2021,8 @@
                     "sharp_things_tied_to_their_beaks_and_claws": {
                         "description": "Zyskuje etykietę Brutalny, gdy nurkuje."
                     }
-                }
+                },
+                "difficulty": "Ryzykowna, jeśli atakujesz je podczas pikowania w dół. Standardowa, jeśli uda ci się je osaczyć."
             },
             "pitchkin": {
                 "name": "Smolak",
@@ -2038,7 +2042,8 @@
                 "difficulty": "Standardowy",
                 "equipment": {
                     "rustedbutstill__functional_machinery": "Zardzewiała, ale wciąż sprawna maszyneria",
-                    "description": "Zardzewiałe, ale wciąż sprawne maszyny (D8, Niszowy)"
+                    "description": "Zardzewiałe, ale wciąż sprawne maszyny (D8, Niszowy)",
+                    "rusted_machinery": "Zardzewiałe, ale wciąż sprawne maszyny"
                 },
                 "motivation": "Wcielić innych do kultu, handlować zapasami lub poderżnąć gardło Vermisiańskiemu Rycerzowi i sprawić, by wykrwawił się nad sygnałową maszynerią.",
                 "names": "Haslam, Levier, Forneau"
@@ -2158,6 +2163,11 @@
                 "difficulty": "Standardowa. Jeden gnoll w drużynie jest Obrońcą o trudności Ryzykownej",
                 "resources": {
                     "arcanotechnological_detritus": "Niezrozumiałe arkanotechnologiczne szczątki"
+                },
+                "motivation": "Katalogować dziwność Serca i przesłać dane do Al'Marah oraz uniknąć wykrycia.",
+                "equipment": {
+                    "gilded_shotcannon": "Pozłacane działo",
+                    "arcanochemical_bombs": "Bomby arcanochemiczne"
                 }
             },
             "godbeast": {
@@ -2197,7 +2207,8 @@
                 },
                 "motivation": "Przynieść obfite dary swoim wspaniałym i łaskawym panom.",
                 "names": "Nux Ab-Crowfer, Quin Ex-Hypatia, Boswell Of-Tennant (Słudzy przyjmują imię swojego pana jako nazwisko, zwykle z przedrostkiem)",
-                "name": "Sługa-handlarz"
+                "name": "Sługa-handlarz",
+                "protectionDesc": "0 lub 1 dla ulubionych poddanych"
             },
             "mirror_spiders": {
                 "name": "Lustrzane Pająki",
@@ -2262,22 +2273,28 @@
                 "equipment": {
                     "description": "Nic wartościowego."
                 },
-                "resistanceDesc": "Standardowa, nie są w stanie prawidłowo widzieć i słyszeć, ale niewiarygodnie dobrze wyczuwać ruch."
+                "resistanceDesc": "Standardowa, nie są w stanie prawidłowo widzieć i słyszeć, ale niewiarygodnie dobrze wyczuwać ruch.",
+                "special": "Przedmioty zabrane the walking wounded korodują całkowicie w ciągu kilku minut, czyniąc je bezużytecznymi."
             }
         },
         "landmarks": {
             "derelictus_the_city_between": {
                 "domains": "Schronienie",
                 "tier": "0",
-                "stress_dice": "D4"
+                "stress_dice": "D4",
+                "haunts": "Dowolny, D10",
+                "name": "DERELICTUS – MIASTO POMIĘDZY"
             },
             "grip_station": {
                 "stress_dice": "D6",
-                "tier": "1"
+                "tier": "1",
+                "domains": "Schronienie, Technologia"
             },
             "the_god_of_corpses": {
                 "tier": "1",
-                "stress_dice": "D4"
+                "stress_dice": "D4",
+                "domains": "Schronienie, Religia",
+                "name": "BÓG TRUPÓW"
             },
             "labyrinth": {
                 "name": "Labirynt",
@@ -2292,7 +2309,165 @@
             },
             "resonance_chamber_five": {
                 "domains": "Okultyzm",
-                "tier": "1"
+                "tier": "1",
+                "haunts": "Obcowanie z obcą świadomością (D4 Umysł)",
+                "name": "KOMORA REZONANSOWA 5"
+            },
+            "the_temple_of_the_moon_beneath": {
+                "name": "ŚWIĄTYNIA KSIĘŻYCA PONIŻEJ",
+                "haunts": "Klinika Siostry Griswold (D10 Krew)\nOłtarz Wielu Matek (D8 Szczęście)\nKomnaty Oczyszczenia (D6 Echo)",
+                "domains": "Schronienie, Religia"
+            },
+            "sonderwood_the_temple_of_community": {
+                "domains": "Schronienie, Religia",
+                "name": "SONDERWOOD – ŚWIĄTYNIA WSPÓLNOTY"
+            },
+            "tunnels_of_wet_filth": {
+                "domains": "Religia, Norowisko",
+                "name": "TUNELE MOKREGO BRUDU"
+            },
+            "sightless_the_temple_of_grace": {
+                "name": "SIGHTLESS – ŚWIĄTYNIA ŁASKI",
+                "domains": "Religia, Norowisko"
+            },
+            "trypogenesis_chamber": {
+                "domains": "Okultyzm",
+                "name": "KOMORA TRYPOGENEZY"
+            },
+            "well_station": {
+                "domains": "Technologia"
+            },
+            "the_bunker": {
+                "name": "BUNKIER",
+                "domains": "Norowisko, Odludzie (okolice)"
+            },
+            "ghastling_plain": {
+                "domains": "Odludzie"
+            },
+            "the_maw": {
+                "domains": "Klątwa, Odludzie",
+                "name": "PASZCZA",
+                "stress_dice": "D6; D8 w samej paszczy"
+            },
+            "the_moon_grove": {
+                "domains": "Religia",
+                "name": "KSIĘŻYCOWY LAS"
+            },
+            "the_dark_city": {
+                "name": "MROCZNE MIASTO",
+                "domains": "Odludzie, Religia, Norowisko"
+            },
+            "the_moon_garden": {
+                "domains": "Schronienie, Religia",
+                "name": "KSIĘŻYCOWY OGRÓD"
+            },
+            "the_red_moon": {
+                "name": "CZERWONY KSIĘŻYC",
+                "domains": "Odludzie, Religia"
+            },
+            "chollerous_the_temple_of_fury": {
+                "name": "CHOLLEROUS – ŚWIĄTYNIA FURII",
+                "domains": "Religia"
+            },
+            "the_hoard": {
+                "domains": "Klątwa, Okultyzm",
+                "tier": "2 lub 3"
+            },
+            "the_grey": {
+                "domains": "Odludzie",
+                "name": "SZAROŚĆ"
+            },
+            "the_slumbering_depths": {
+                "domains": "Religia, Dzicz"
+            },
+            "sump_station": {
+                "domains": "Technologia, Norowisko"
+            },
+            "ranvess_the_temple_of_vigilance": {
+                "domains": "Religia",
+                "name": "RANVESS – ŚWIĄTYNIA CZUJNOŚCI"
+            },
+            "hallow": {
+                "name": "HALLOW",
+                "domains": "Schronienie, Okultyzm",
+                "stress_dice": "D4, D8 jeśli wiedźmy wejdą w Prawdziwą Naturę (patrz niżej)"
+            },
+            "highrise": {
+                "domains": "Schronienie, Odludzie"
+            },
+            "the_room": {
+                "domains": "Norowisko",
+                "name": "POKÓJ"
+            },
+            "the_forest": {
+                "domains": "Dzicz",
+                "name": "LAS"
+            },
+            "the_palace_multifaceted": {
+                "domains": "Religia, Okultyzm"
+            },
+            "athane_the_temple_of_sagacity": {
+                "domains": "Schronienie, Religia",
+                "name": "ATHANE – ŚWIĄTYNIA MĄDROŚCI"
+            },
+            "the_tower": {
+                "name": "WIEŻA",
+                "domains": "Schronienie, Norowisko"
+            },
+            "grin_station": {
+                "domains": "Technologia"
+            },
+            "the_harvest_bazaar": {
+                "domains": "Klątwa"
+            },
+            "the_machines_of_dust": {
+                "domains": "Klątwa, Technologia"
+            },
+            "the_red_market": {
+                "domains": "Norowisko, Schronienie",
+                "name": "CZERWONY RYNEK"
+            },
+            "cairnmor": {
+                "domains": "Schronienie, Dzicz"
+            },
+            "the_plaza_of_silicate_flowers_misallocated": {
+                "domains": "Schronienie, Technologia"
+            },
+            "terminus": {
+                "domains": "Technologia"
+            },
+            "wardstone_nasonov": {
+                "domains": "Okultyzm"
+            },
+            "the_salvatious_gryndel_hunting_club": {
+                "domains": "Schronienie"
+            },
+            "papilious_both": {
+                "domains": "Religia, Okultyzm"
+            },
+            "unspire": {
+                "domains": "Okultyzm"
+            },
+            "the_grail_road": {
+                "domains": "Odludzie, Religia"
+            },
+            "soufri_the_temple_of_tenacity": {
+                "domains": "Klątwa, Religia",
+                "name": "SOUFRI – ŚWIĄTYNIA WYTRWAŁOŚCI"
+            },
+            "hang_station": {
+                "domains": "Technologia"
+            },
+            "last_orders": {
+                "domains": "Klątwa",
+                "tier": "2 lub 3"
+            },
+            "swinefall": {
+                "domains": "Norowisko"
+            },
+            "the_source": {
+                "name": "ŹRÓDŁO",
+                "domains": "Okultyzm, Technologia"
             }
         }
     }
