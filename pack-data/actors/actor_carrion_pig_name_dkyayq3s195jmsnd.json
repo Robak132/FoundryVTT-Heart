@@ -70,8 +70,8 @@
     "resistanceMax": "15",
     "protection": 5,
     "protectionDesc": "",
-    "resources": "actor.carrion_pig.resources.description",
-    "equipment": "actor.carrion_pig.equipment.description",
+    "resources": "",
+    "equipment": "",
     "special": "",
     "notes": "",
     "domains": "actor.carrion_pig.domains"

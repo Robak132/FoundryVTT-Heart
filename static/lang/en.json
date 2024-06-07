@@ -1879,10 +1879,14 @@
                 "motivation": "To protect the interests of their High Druid masters.",
                 "difficulty": "Standard",
                 "resources": {
-                    "ritual_gewgaws_and_tchotchkes_made_of_mushrooms_and_animal_bones": "Ritual gewgaws and tchotchkes made of mushrooms and animal bones"
+                    "ritual_gewgaws": "Ritual gewgaws and tchotchkes made of mushrooms and animal bones"
                 },
                 "equipment": {
                     "sickles": "Sickles, picks and mushroom-hooks"
+                },
+                "fallout": {
+                    "beast_form.name": "Beast Form",
+                    "beast_form.description": "The druids channel the twisting power&nbsp;of nature within their bodies and transform&nbsp;into lank, pallid cave-creatures. Their protection increases to 3, and their unarmed damage&nbsp;increases to D8.",
                 },
                 "names": "Rhoz, Thorne, Pitch",
                 "domains": "Wild"
@@ -1897,7 +1901,8 @@
                     "unhallowed_relics": "Unhallowed relics"
                 },
                 "equipment": {
-                    "simple_work_tools_or_repurposed_ritual_items": "Simple work tools or repurposed ritual items"
+                    "simple_work_tools.name": "Simple work tools or repurposed ritual items",
+                    "simple_work_tools.description": "Kill D10 in their hands, Kill D6 for anyone else."
                 },
                 "special": "False Hallows will often be surrounded by a cult of some kind; use the Signal-Box Cultist to represent them, but exchange the Technology domain for Religion.",
                 "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting",
@@ -1910,8 +1915,8 @@
                 "motivation": "To kill, taste blood and lay eggs in safe places where they can hatch.",
                 "difficulty": "Risky",
                 "resources": {
-                    "description": "If you kill it before it crumbles, a Harpy Heart.",
-                    "harpy_heart": "Harpy Heart"
+                    "harpy_heart.description": "If you kill it before it crumbles.",
+                    "harpy_heart.name": "Harpy Heart"
                 },
                 "equipment": {
                     "hideous_talons": "Hideous talons"

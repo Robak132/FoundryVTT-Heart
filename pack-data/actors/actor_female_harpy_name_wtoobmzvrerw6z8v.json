@@ -5,41 +5,78 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.female_harpy.resources",
+      "name": "actor.female_harpy.resources.harpy_heart.name",
       "system": {
-        "active": true
+        "die_size": "d10",
+        "description": "actor.female_harpy.resources.harpy_heart.description",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "occult"
       },
       "_id": "bhqlqcg1wu16hymq",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!wtoobmzvrerw6z8v.bhqlqcg1wu16hymq"
     },
     {
       "type": "equipment",
-      "name": "actor.female_harpy.equipment",
+      "name": "actor.female_harpy.equipment.hideous_talons",
       "system": {
-        "active": true
+        "die_size": "d8",
+        "description": "",
+        "active": true,
+        "children": {
+          "5vh1NaOYC9VNuhYl": {
+            "name": "tag.brutal.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.brutal.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "5vh1NaOYC9VNuhYl",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.98t7d89d8YnsJaMm"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "c1a78mx1evuht6t0",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!wtoobmzvrerw6z8v.c1a78mx1evuht6t0"
     }
   ],
   "name": "actor.female_harpy.name",
   "system": {
-    "description": "actor.female_harpy.description",
     "names": "actor.female_harpy.names",
+    "description": "actor.female_harpy.description",
     "descriptors": "actor.female_harpy.descriptors",
     "motivation": "actor.female_harpy.motivation",
     "difficulty": "actor.female_harpy.difficulty",
-    "resistanceMax": 13,
+    "resistance": "",
+    "resistanceDesc": "",
+    "resistanceMax": "13",
     "protection": 1,
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "actor.female_harpy.special",
-    "domains": "actor.female_harpy.domains",
-    "resources": "actor.female_harpy.resources.description",
-    "equipment": "actor.female_harpy.equipment.description"
+    "notes": "",
+    "domains": "actor.female_harpy.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!wtoobmzvrerw6z8v"
 }

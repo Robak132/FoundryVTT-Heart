@@ -5,41 +5,61 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.false_hallow.resources",
+      "name": "actor.false_hallow.resources.unhallowed_relics",
       "system": {
-        "active": true
+        "die_size": "d10",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "occult"
       },
       "_id": "1ictxcwnpgw90jpk",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!iqk2919ahej8cx9j.1ictxcwnpgw90jpk"
     },
     {
       "type": "equipment",
-      "name": "actor.false_hallow.equipment",
+      "name": "actor.false_hallow.equipment.simple_work_tools.name",
       "system": {
-        "active": true
+        "die_size": "d10",
+        "description": "actor.false_hallow.equipment.simple_work_tools.description",
+        "active": true,
+        "children": {},
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "l0blv0prkgyc4om3",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!iqk2919ahej8cx9j.l0blv0prkgyc4om3"
     }
   ],
   "name": "actor.false_hallow.name",
   "system": {
-    "description": "actor.false_hallow.description",
     "names": "actor.false_hallow.names",
+    "description": "actor.false_hallow.description",
     "descriptors": "actor.false_hallow.descriptors",
     "motivation": "actor.false_hallow.motivation",
     "difficulty": "actor.false_hallow.difficulty",
-    "resistanceMax": 8,
+    "resistance": "",
+    "resistanceDesc": "",
+    "resistanceMax": "8",
     "protection": 3,
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "actor.false_hallow.special",
-    "domains": "actor.false_hallow.domains",
-    "resources": "actor.false_hallow.resources.description",
-    "equipment": "actor.false_hallow.equipment.description"
+    "notes": "",
+    "domains": "actor.false_hallow.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!iqk2919ahej8cx9j"
 }

@@ -5,25 +5,56 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.druid_legbreaker.resources",
+      "name": "actor.druid_legbreaker.resources.ritual_gewgaws",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "wild"
       },
       "_id": "sk28t7a9tgiqhg9j",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!3uea3ge8n6qiwepx.sk28t7a9tgiqhg9j"
     },
     {
       "type": "equipment",
-      "name": "actor.druid_legbreaker.equipment",
+      "name": "actor.druid_legbreaker.equipment.sickles",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {},
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "rsnvnq65qdf1rcav",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!3uea3ge8n6qiwepx.rsnvnq65qdf1rcav"
+    },
+    {
+      "type": "fallout",
+      "name": "actor.druid_legbreaker.fallout.beast_form.name",
+      "system": {
+        "description": "actor.druid_legbreaker.fallout.beast_form.description",
+        "active": true,
+        "complete": false,
+        "type": "minor",
+        "resistance": "blood"
+      },
+      "_id": "H7cvGSgLSul9h6yY",
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!3uea3ge8n6qiwepx.H7cvGSgLSul9h6yY"
     }
   ],
   "name": "actor.druid_legbreaker.name",
@@ -38,8 +69,8 @@
     "resistanceMax": "8",
     "protection": 1,
     "protectionDesc": "",
-    "resources": "actor.druid_legbreaker.resources.description",
-    "equipment": "actor.druid_legbreaker.equipment.description",
+    "resources": "",
+    "equipment": "",
     "special": "",
     "notes": "",
     "domains": "actor.druid_legbreaker.domains"
