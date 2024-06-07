@@ -2272,7 +2272,27 @@
                 "stress_dice": "D4"
             },
             "grip_station": {
-                "stress_dice": "D6"
+                "stress_dice": "D6",
+                "tier": "1"
+            },
+            "the_god_of_corpses": {
+                "tier": "1",
+                "stress_dice": "D4"
+            },
+            "labyrinth": {
+                "name": "Labirynt",
+                "domains": "Norowisko",
+                "stress_dice": "D6",
+                "tier": "1"
+            },
+            "redcap_grove": {
+                "domains": "Dzicz",
+                "stress_dice": "D6",
+                "tier": "1"
+            },
+            "resonance_chamber_five": {
+                "domains": "Okultyzm",
+                "tier": "1"
             }
         }
     }
