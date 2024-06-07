@@ -1945,7 +1945,8 @@
                 "resources": {
                     "too_much_stinking_pig_fat": "Za dużo śmierdzącego świńskiego tłuszczu"
                 },
-                "names": "Właściciele zwykle nie nadają imion ścierwoświniom, ponieważ nie chcą się z nimi utożsamiać."
+                "names": "Właściciele zwykle nie nadają imion ścierwoświniom, ponieważ nie chcą się z nimi utożsamiać.",
+                "descriptors": "<ul><li>Przebija się przez pobliską ścianę</li>\n<li>Piszczy tak głośno, że masz wrażenie, że pękną ci bębenki</li>\n<li>Ucztuje łapczywie na zwłokach swojego właściciela</li></ul>"
             },
             "false_hallow": {
                 "difficulty": "Niebezpieczny",
@@ -1993,7 +1994,8 @@
                     "assorted_owl_bones": "Różnorodne kości sowy"
                 },
                 "names": "Poszczególne sowy nie mają imion, a imię każdej królowej to minutowy skrzek, który może być wymówiony tylko przez inne sowy.",
-                "descriptors": "<ul><li>Zjada w całości słabszego członka roju</li>\n<li>Ślepy, ale działający za pomocą echa</li>\n<li>Grzywiasty, z żółknącą skórą i niejednolitymi piórami.</li></ul>"
+                "descriptors": "<ul><li>Zjada w całości słabszego członka roju</li>\n<li>Ślepy, ale działający za pomocą echa</li>\n<li>Grzywiasty, z żółknącą skórą i niejednolitymi piórami.</li></ul>",
+                "domains": "Dzicz, chociaż tamtejsze sowy nie są problemem. Można je znaleźć również w domenach Norowiska, Odludzia i Schronienia, gdzie często wchodzą w konflikty z ludźmi."
             },
             "greater_heartsblood_beast": {
                 "resources": {
@@ -2178,7 +2180,8 @@
                 "domains": "Dzicz",
                 "names": "Nic, co byś zrozumiał.",
                 "difficulty": "Standardowa. Kiedy jego odporności jest poniżej 10, trudność wzrasta do Ryzykownej.",
-                "motivation": "By chronić swoje młode, które mogą, ale nie muszą znajdować się na tej samej płaszczyźnie rzeczywistości co oni."
+                "motivation": "By chronić swoje młode, które mogą, ale nie muszą znajdować się na tej samej płaszczyźnie rzeczywistości co oni.",
+                "descriptors": "<ul><li>Przebija się przez drzewa</li>\n<li>Zaciekle chroni swoje młode, które same są wielkości w opancerzonego drowa</li>\n<li>Ucieka przed przybyciem czegoś jeszcze większego i bardziej niebezpiecznego</li></ul>"
             },
             "heartsblood_beast": {
                 "name": "Sercokrwista Bestia",
@@ -2208,7 +2211,10 @@
                 "motivation": "Przynieść obfite dary swoim wspaniałym i łaskawym panom.",
                 "names": "Nux Ab-Crowfer, Quin Ex-Hypatia, Boswell Of-Tennant (Słudzy przyjmują imię swojego pana jako nazwisko, zwykle z przedrostkiem)",
                 "name": "Sługa-handlarz",
-                "protectionDesc": "0 lub 1 dla ulubionych poddanych"
+                "protectionDesc": "0 lub 1 dla ulubionych poddanych",
+                "equipment": {
+                    "description": "Zardzewiałe, postrzępione ostrza; jeden w grupie będzie miał przy sobie albo błogosławiony garłacz strzelający monetami lub ciężką maczugę nabijaną świętymi transakcjami."
+                }
             },
             "mirror_spiders": {
                 "name": "Lustrzane Pająki",
@@ -2247,6 +2253,9 @@
                 "fallout": {
                     "dancer.name": "Tancerz",
                     "damned.name": "Przeklęty"
+                },
+                "equipment": {
+                    "description": "Większość z nich ma przy sobie łatwo-zniszczalne instrumenty lub jest nieuzbrojona, ale żaden z nich nie jest jednak tak naprawdę zainteresowany walką."
                 }
             },
             "sourceborn_construct": {
@@ -2274,7 +2283,9 @@
                     "description": "Nic wartościowego."
                 },
                 "resistanceDesc": "Standardowa, nie są w stanie prawidłowo widzieć i słyszeć, ale niewiarygodnie dobrze wyczuwać ruch.",
-                "special": "Przedmioty zabrane the walking wounded korodują całkowicie w ciągu kilku minut, czyniąc je bezużytecznymi."
+                "special": "Przedmioty zabrane the walking wounded korodują całkowicie w ciągu kilku minut, czyniąc je bezużytecznymi.",
+                "motivation": "Wrócić do domu, co jest bezcelowe, ponieważ wszyscy, których znali, zginęli dziesiątki lat temu. Wielu z nich wierzy, że nadal są w stanie wojny, z kimkolwiek się spotkają, ale może będziesz w stanie przekonać ich, że jest inaczej. Niektórzy, w towarzystwie swoich szalonych i nieśmiertelnych aelfirskich oficerów, wciąż próbują wypełniać swoje pierwotne misje.",
+                "descriptors": "<ul><li>W ich klatkę piersiową wtopione są medale</li>\n<li>Ich rany pokrywają bandaże wykonane z kruszącej się skóry</li>\n<li>Ciągną ciężki dżezail, który wtopił się w ich ramiona</li></ul>"
             }
         },
         "landmarks": {
@@ -2288,7 +2299,9 @@
             "grip_station": {
                 "stress_dice": "D6",
                 "tier": "1",
-                "domains": "Schronienie, Technologia"
+                "domains": "Schronienie, Technologia",
+                "haunts": "Frumious, alchemik i technicznie lekarz (D8 Krwi, D8 Echa)\nŚpiew w krystalicznych jaskiniach (D6 Umysł, D4 Szczęście)\nHandel z mędrcami (D4 Zapasy)",
+                "name": "GRIP STATION"
             },
             "the_god_of_corpses": {
                 "tier": "1",
@@ -2300,12 +2313,14 @@
                 "name": "Labirynt",
                 "domains": "Norowisko",
                 "stress_dice": "D6",
-                "tier": "1"
+                "tier": "1",
+                "haunts": "<ul><li>Boreal, lekarz, którego gabinet został tu uwięziony (D8 Krwi)</li>\n<li>Schody Penrose’a, zaskakująco dobry pub (D8 Umysłu)</li>\n<li>Dovetail Market, na obrzeżach (D6 Zapasy)</li></ul>"
             },
             "redcap_grove": {
                 "domains": "Dzicz",
                 "stress_dice": "D6",
-                "tier": "1"
+                "tier": "1",
+                "name": "REDCAP GROVE"
             },
             "resonance_chamber_five": {
                 "domains": "Okultyzm",
@@ -2355,15 +2370,18 @@
             },
             "the_dark_city": {
                 "name": "MROCZNE MIASTO",
-                "domains": "Odludzie, Religia, Norowisko"
+                "domains": "Odludzie, Religia, Norowisko",
+                "tier": "Wyrwa"
             },
             "the_moon_garden": {
                 "domains": "Schronienie, Religia",
-                "name": "KSIĘŻYCOWY OGRÓD"
+                "name": "KSIĘŻYCOWY OGRÓD",
+                "tier": "Wyrwa"
             },
             "the_red_moon": {
                 "name": "CZERWONY KSIĘŻYC",
-                "domains": "Odludzie, Religia"
+                "domains": "Odludzie, Religia",
+                "tier": "Wyrwa"
             },
             "chollerous_the_temple_of_fury": {
                 "name": "CHOLLEROUS – ŚWIĄTYNIA FURII",
@@ -2371,17 +2389,21 @@
             },
             "the_hoard": {
                 "domains": "Klątwa, Okultyzm",
-                "tier": "2 lub 3"
+                "tier": "2 lub 3",
+                "name": "SKARB"
             },
             "the_grey": {
                 "domains": "Odludzie",
-                "name": "SZAROŚĆ"
+                "name": "SZAROŚĆ",
+                "tier": "Wyrwa"
             },
             "the_slumbering_depths": {
-                "domains": "Religia, Dzicz"
+                "domains": "Religia, Dzicz",
+                "tier": "Wyrwa"
             },
             "sump_station": {
-                "domains": "Technologia, Norowisko"
+                "domains": "Technologia, Norowisko",
+                "name": "SUMP STATION"
             },
             "ranvess_the_temple_of_vigilance": {
                 "domains": "Religia",
@@ -2393,7 +2415,8 @@
                 "stress_dice": "D4, D8 jeśli wiedźmy wejdą w Prawdziwą Naturę (patrz niżej)"
             },
             "highrise": {
-                "domains": "Schronienie, Odludzie"
+                "domains": "Schronienie, Odludzie",
+                "name": "HIGHRISE"
             },
             "the_room": {
                 "domains": "Norowisko",
@@ -2401,10 +2424,12 @@
             },
             "the_forest": {
                 "domains": "Dzicz",
-                "name": "LAS"
+                "name": "LAS",
+                "tier": "Wyrwa"
             },
             "the_palace_multifaceted": {
-                "domains": "Religia, Okultyzm"
+                "domains": "Religia, Okultyzm",
+                "tier": "Wyrwa"
             },
             "athane_the_temple_of_sagacity": {
                 "domains": "Schronienie, Religia",
@@ -2415,26 +2440,30 @@
                 "domains": "Schronienie, Norowisko"
             },
             "grin_station": {
-                "domains": "Technologia"
+                "domains": "Technologia",
+                "name": "GRIN STATION"
             },
             "the_harvest_bazaar": {
                 "domains": "Klątwa"
             },
             "the_machines_of_dust": {
-                "domains": "Klątwa, Technologia"
+                "domains": "Klątwa, Technologia",
+                "name": "MASZYNY PYŁU"
             },
             "the_red_market": {
                 "domains": "Norowisko, Schronienie",
                 "name": "CZERWONY RYNEK"
             },
             "cairnmor": {
-                "domains": "Schronienie, Dzicz"
+                "domains": "Schronienie, Dzicz",
+                "name": "CAIRNMOR"
             },
             "the_plaza_of_silicate_flowers_misallocated": {
                 "domains": "Schronienie, Technologia"
             },
             "terminus": {
-                "domains": "Technologia"
+                "domains": "Technologia",
+                "name": "TERMINUS"
             },
             "wardstone_nasonov": {
                 "domains": "Okultyzm"
@@ -2443,31 +2472,38 @@
                 "domains": "Schronienie"
             },
             "papilious_both": {
-                "domains": "Religia, Okultyzm"
+                "domains": "Religia, Okultyzm",
+                "tier": "Wyrwa"
             },
             "unspire": {
-                "domains": "Okultyzm"
+                "domains": "Okultyzm",
+                "tier": "Wyrwa",
+                "name": "UNSPIRE"
             },
             "the_grail_road": {
-                "domains": "Odludzie, Religia"
+                "domains": "Odludzie, Religia",
+                "tier": "Wyrwa"
             },
             "soufri_the_temple_of_tenacity": {
                 "domains": "Klątwa, Religia",
                 "name": "SOUFRI – ŚWIĄTYNIA WYTRWAŁOŚCI"
             },
             "hang_station": {
-                "domains": "Technologia"
+                "domains": "Technologia",
+                "name": "HANG STATION"
             },
             "last_orders": {
                 "domains": "Klątwa",
                 "tier": "2 lub 3"
             },
             "swinefall": {
-                "domains": "Norowisko"
+                "domains": "Norowisko",
+                "name": "SWINEFALL"
             },
             "the_source": {
                 "name": "ŹRÓDŁO",
-                "domains": "Okultyzm, Technologia"
+                "domains": "Okultyzm, Technologia",
+                "tier": "Wyrwa"
             }
         }
     }
