@@ -1154,7 +1154,7 @@
                         "mark_of_the_weaver.name": "Znak Tkacza",
                         "mark_of_the_weaver.description": "<i>Twoje dłonie pokryte są pajęczynowym atramentem. Potrafisz zszywać, naprawiać i wiązać za pomocą myśli.</i> Zyskujesz umiejętność <b>Łączenie</b>. Raz na sesję możesz naprawić kogoś lub coś w ciągu kilku sekund, nawet jeśli zwykle wymagałoby to godzin starannej pracy.",
                         "rust_and_iron.name": "Rdza i Żelazo",
-                        "rust_and_iron.description": "<i>You know of pathways that are clockwork and galvanic, shifting and malevolent, and were built by no mortal hand.</i> Gain the <b>Technology</b> domain. Learn the following spell: roll <b>Mend+Technology</b> to improve a piece of equipment that has moving parts using a ritual that takes around half an hour. On a success, increase the equipment's quality by 1 step (standard becomes good, good becomes excellent) and give it the Dangerous and Unreliable tags. Once you have improved a piece of equipment with this spell, you can't improve it again.",
+                        "rust_and_iron.description": "<i>Wiesz o pewnych ścieżkach, które są mechaniczne i galwaniczne, zmienne i złowrogie, i nie zostały zbudowane ręką śmiertelnika.</i> Zyskujesz domenę <b>Technologia</b>. Uczysz się następującego zaklęcia: rzuć <b>Łączenie+Technologia</b>, by wykonać półgodzinny rytuał, który ulepszy ekwipunek posiadający ruchome części. Jeśli powiedzie się, jakość sprzętu wzrośnie o 1 stopień (standardowy stanie się dobry, a dobry zmieni się w doskonały), ale otrzyma etykiety Niebezpieczny i Zawodny. Po ulepszeniu sprzętu za pomocą tego zaklęcia nie można go ulepszyć ponownie.",
                         "siphon_of_fortune.name": "Szczęśliwiec",
                         "siphon_of_fortune.description": "<i>Istnieją miejsca, w których możesz obstawić coś więcej niż tylko gotówkę przy grze w karty. Twoją stawką jest szczęście.</i> +2 Ochrony <b>Szczęścia</b>.",
                         "warding_spells.name": "Zaklęcia Ochronne",
@@ -1210,7 +1210,7 @@
                         "kiss_of_the_drowned_queen.name": "Pocałunek Królowej Topielców",
                         "kiss_of_the_drowned_queen.description": "<i>Ujrzałeś zatopiony Dwór Królowej Topielców, gdzie śpi i oczekuje na odrodzenie swojego rodu.</i> Jednym dotknięciem możesz wyczarować słoną wodę w płucach tych, którzy Ci się sprzeciwiają. To zaklęcie działa jako broń: (Broń D6, Przebijająca). Jeśli cel znajduje się co najmniej po pas w wodzie, zadajesz D8 obrażeń.",
                         "sanctum_of_the_stone_chorus.name": "Sanctum Kamiennego Chóru",
-                        "sanctum_of_the_stone_chorus.description": "<i>They claim, in a hundred voices like the scraping of tectonic plates, that they are the Old Gods, imprisoned in the Heart by upstart deities.</i> Roll <b>Discern+Religion</b> to cast this spell. On a success, you find (or spontaneously create) a path to one of the parasitic temples of the Old Gods, which sucks existence from the world like ticks. When you meditate here, remove D6 stress from <b>Echo</b>; your allies may use the temple in the same way. You may not open more than one path to a temple at any one time. After an hour or so, the path will seal shut – but not without warning, so you'll have time to leave."
+                        "sanctum_of_the_stone_chorus.description": "<i>Setki głosów niczym przesuwanie się płyt tektonicznych twierdzą, że są Starszymi Bogami, uwięzionymi w Sercu przez nowopowstałe bóstwa.</i> Rzuć <b>Obserwacja+Religia</b>, by znaleźć (lub spontanicznie stworzyć) ścieżkę do jednej z pasożytniczych świątyń Starych Bogów, która wysysa istnienie ze świata niczym kleszcze. Kiedy medytujesz w tym miejscu, usuwasz D6 stresu <b>Echo</b>, a twoi sojusznicy mogą korzystać ze świątyni razem z tobą. Nie możesz otworzyć więcej niż jednej ścieżki do świątyni w tym samym czasie. Po godzinie ścieżka zostanie zamknięta, ale zostaniesz ostrzeżony i będziesz miał czas na opuszczenie świątyni."
                     },
                     "zenith": {
                         "the_herald_of_the_red_king.name": "Herold Czerwonego Króla",
@@ -1905,7 +1905,8 @@
                 "difficulty": "Standardowy",
                 "domains": "Dzicz, Klątwa",
                 "equipment": {
-                    "knife": "Nóż, pałka lub kiepskiej jakości miecz"
+                    "knife": "Nóż, pałka lub kiepskiej jakości miecz",
+                    "ranged_weapon": "Broń zasięgowa, którą udało im się zebrać"
                 },
                 "motivation": "Żyć w Sercu w spokoju i nie dać się zabić jakiemuś nieświadomemu poszukiwaczowi.",
                 "resources": {
@@ -1946,7 +1947,10 @@
                     "too_much_stinking_pig_fat": "Za dużo śmierdzącego świńskiego tłuszczu"
                 },
                 "names": "Właściciele zwykle nie nadają imion ścierwoświniom, ponieważ nie chcą się z nimi utożsamiać.",
-                "descriptors": "<ul><li>Przebija się przez pobliską ścianę</li>\n<li>Piszczy tak głośno, że masz wrażenie, że pękną ci bębenki</li>\n<li>Ucztuje łapczywie na zwłokach swojego właściciela</li></ul>"
+                "descriptors": "<ul><li>Przebija się przez pobliską ścianę</li>\n<li>Piszczy tak głośno, że masz wrażenie, że pękną ci bębenki</li>\n<li>Ucztuje łapczywie na zwłokach swojego właściciela</li></ul>",
+                "equipment": {
+                    "crushing_body_and_champing_jaws": "Miażdżący korpus i głodne szczęki"
+                }
             },
             "false_hallow": {
                 "difficulty": "Niebezpieczny",
@@ -1954,7 +1958,10 @@
                 "domains": "Religia, Okultyzm",
                 "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting",
                 "equipment": {
-                    "simple_work_tools": "Proste narzędzia lub przerobione przedmioty rytualne"
+                    "simple_work_tools_or_repurposed_ritual_items": "Proste narzędzia lub przerobione przedmioty rytualne",
+                },
+                "resources": {
+                    "unhallowed_relics": "Przeklęte relikwie"
                 }
             },
             "female_harpy": {
@@ -2012,7 +2019,8 @@
             },
             "male_harpy": {
                 "resources": {
-                    "scrap_metal": "Złom"
+                    "scrap_metal": "Złom",
+                    "occult_gewgaws": "Okultystyczne drobiazgi w ich altanie"
                 },
                 "name": "Samiec harpii",
                 "domains": "Dzicz, Odludzie, Okultyzm",
@@ -2048,7 +2056,8 @@
                     "rusted_machinery": "Zardzewiałe, ale wciąż sprawne maszyny"
                 },
                 "motivation": "Wcielić innych do kultu, handlować zapasami lub poderżnąć gardło Vermisiańskiemu Rycerzowi i sprawić, by wykrwawił się nad sygnałową maszynerią.",
-                "names": "Haslam, Levier, Forneau"
+                "names": "Haslam, Levier, Forneau",
+                "name": "Kultyści Semaforu"
             },
             "skeleton_courtier": {
                 "difficulty": "Standardowy",
@@ -2062,7 +2071,8 @@
                 },
                 "protectionDesc": "Od 0 do 2, w zależności od tego, czy został pochowany w prześwitujących sukniach, czy starożytnych zbrojach.",
                 "special": "Ich kościste ciała obniżają kości stresu od broni ostrej i pocisków o 1 stopień, ale zwiększają kości stresu od tępej broni o 1 stopień.",
-                "names": "Ser Ethelren, Ser Fenswith,Lady Arablast"
+                "names": "Ser Ethelren, Ser Fenswith,Lady Arablast",
+                "motivation": "Słuchać ciekawych historii i brutalnie mordować każdego, kto spróbuje ukraść im sok."
             },
             "the_blighted": {
                 "name": "Zarażony",
@@ -2169,7 +2179,8 @@
                 "motivation": "Katalogować dziwność Serca i przesłać dane do Al'Marah oraz uniknąć wykrycia.",
                 "equipment": {
                     "gilded_shotcannon": "Pozłacane działo",
-                    "arcanochemical_bombs": "Bomby arcanochemiczne"
+                    "arcanochemical_bombs": "Bomby arcanochemiczne",
+                    "prey_hook": "Hak na ofiary"
                 }
             },
             "godbeast": {
@@ -2181,7 +2192,10 @@
                 "names": "Nic, co byś zrozumiał.",
                 "difficulty": "Standardowa. Kiedy jego odporności jest poniżej 10, trudność wzrasta do Ryzykownej.",
                 "motivation": "By chronić swoje młode, które mogą, ale nie muszą znajdować się na tej samej płaszczyźnie rzeczywistości co oni.",
-                "descriptors": "<ul><li>Przebija się przez drzewa</li>\n<li>Zaciekle chroni swoje młode, które same są wielkości w opancerzonego drowa</li>\n<li>Ucieka przed przybyciem czegoś jeszcze większego i bardziej niebezpiecznego</li></ul>"
+                "descriptors": "<ul><li>Przebija się przez drzewa</li>\n<li>Zaciekle chroni swoje młode, które same są wielkości w opancerzonego drowa</li>\n<li>Ucieka przed przybyciem czegoś jeszcze większego i bardziej niebezpiecznego</li></ul>",
+                "equipment": {
+                    "trampling_hooves_or_gnashing_teeth": "Deptanie kopytami lub zgrzytanie zębami"
+                }
             },
             "heartsblood_beast": {
                 "name": "Sercokrwista Bestia",
@@ -2252,10 +2266,12 @@
                 "names": "Gregor, Yolande, Klimpt",
                 "fallout": {
                     "dancer.name": "Tancerz",
-                    "damned.name": "Przeklęty"
+                    "damned.name": "Przeklęty",
+                    "stuck_in_your_head.name": "Utkniecie w głowie"
                 },
                 "equipment": {
-                    "description": "Większość z nich ma przy sobie łatwo-zniszczalne instrumenty lub jest nieuzbrojona, ale żaden z nich nie jest jednak tak naprawdę zainteresowany walką."
+                    "description": "Większość z nich ma przy sobie łatwo-zniszczalne instrumenty lub jest nieuzbrojona, ale żaden z nich nie jest jednak tak naprawdę zainteresowany walką.",
+                    "breakable_noise_maker": "Łamliwy instrument"
                 }
             },
             "sourceborn_construct": {
@@ -2285,7 +2301,8 @@
                 "resistanceDesc": "Standardowa, nie są w stanie prawidłowo widzieć i słyszeć, ale niewiarygodnie dobrze wyczuwać ruch.",
                 "special": "Przedmioty zabrane the walking wounded korodują całkowicie w ciągu kilku minut, czyniąc je bezużytecznymi.",
                 "motivation": "Wrócić do domu, co jest bezcelowe, ponieważ wszyscy, których znali, zginęli dziesiątki lat temu. Wielu z nich wierzy, że nadal są w stanie wojny, z kimkolwiek się spotkają, ale może będziesz w stanie przekonać ich, że jest inaczej. Niektórzy, w towarzystwie swoich szalonych i nieśmiertelnych aelfirskich oficerów, wciąż próbują wypełniać swoje pierwotne misje.",
-                "descriptors": "<ul><li>W ich klatkę piersiową wtopione są medale</li>\n<li>Ich rany pokrywają bandaże wykonane z kruszącej się skóry</li>\n<li>Ciągną ciężki dżezail, który wtopił się w ich ramiona</li></ul>"
+                "descriptors": "<ul><li>W ich klatkę piersiową wtopione są medale</li>\n<li>Ich rany pokrywają bandaże wykonane z kruszącej się skóry</li>\n<li>Ciągną ciężki dżezail, który wtopił się w ich ramiona</li></ul>",
+                "name": "Chodzący Ranni"
             }
         },
         "landmarks": {
@@ -2320,7 +2337,8 @@
                 "domains": "Dzicz",
                 "stress_dice": "D6",
                 "tier": "1",
-                "name": "REDCAP GROVE"
+                "name": "REDCAP GROVE",
+                "haunts": "Legowisko wypalonego druida (D6 Krew/Umysł)"
             },
             "resonance_chamber_five": {
                 "domains": "Okultyzm",
@@ -2350,7 +2368,8 @@
                 "name": "KOMORA TRYPOGENEZY"
             },
             "well_station": {
-                "domains": "Technologia"
+                "domains": "Technologia",
+                "name": "STACJA DOSKONAŁOŚĆ"
             },
             "the_bunker": {
                 "name": "BUNKIER",
@@ -2399,7 +2418,8 @@
             },
             "the_slumbering_depths": {
                 "domains": "Religia, Dzicz",
-                "tier": "Wyrwa"
+                "tier": "Wyrwa",
+                "name": "UŚPIONE GŁĘBINY"
             },
             "sump_station": {
                 "domains": "Technologia, Norowisko",
@@ -2420,7 +2440,8 @@
             },
             "the_room": {
                 "domains": "Norowisko",
-                "name": "POKÓJ"
+                "name": "POKÓJ",
+                "tier": "Dziki"
             },
             "the_forest": {
                 "domains": "Dzicz",
@@ -2482,7 +2503,8 @@
             },
             "the_grail_road": {
                 "domains": "Odludzie, Religia",
-                "tier": "Wyrwa"
+                "tier": "Wyrwa",
+                "name": "DROGA GRAALA"
             },
             "soufri_the_temple_of_tenacity": {
                 "domains": "Klątwa, Religia",
@@ -2494,7 +2516,8 @@
             },
             "last_orders": {
                 "domains": "Klątwa",
-                "tier": "2 lub 3"
+                "tier": "2 lub 3",
+                "name": "OSTATNIE ROZKAZY"
             },
             "swinefall": {
                 "domains": "Norowisko",
