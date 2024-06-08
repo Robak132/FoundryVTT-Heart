@@ -5,41 +5,78 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.feral_psychopomp.resources",
+      "name": "actor.feral_psychopomp.resources.tattered_raiments",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "religion"
       },
       "_id": "1u322n64kfs6vfpt",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!uzs9im0yltz9atsn.1u322n64kfs6vfpt"
     },
     {
       "type": "equipment",
-      "name": "actor.feral_psychopomp.equipment",
+      "name": "actor.feral_psychopomp.equipment.broken_celestial_blades",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {
+          "IdJmP8MuOcMLpRg1": {
+            "name": "tag.brutal.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.brutal.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "IdJmP8MuOcMLpRg1",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.98t7d89d8YnsJaMm"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "omjbcp4e30my5zpj",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!uzs9im0yltz9atsn.omjbcp4e30my5zpj"
     }
   ],
   "name": "actor.feral_psychopomp.name",
   "system": {
-    "description": "actor.feral_psychopomp.description",
     "names": "actor.feral_psychopomp.names",
+    "description": "actor.feral_psychopomp.description",
     "descriptors": "actor.feral_psychopomp.descriptors",
     "motivation": "actor.feral_psychopomp.motivation",
     "difficulty": "actor.feral_psychopomp.difficulty",
-    "resistanceMax": 7,
+    "resistance": "",
+    "resistanceDesc": "",
+    "resistanceMax": "7",
     "protection": 2,
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "",
-    "domains": "actor.feral_psychopomp.domains",
-    "resources": "actor.feral_psychopomp.resources.description",
-    "equipment": "actor.feral_psychopomp.equipment.description"
+    "notes": "",
+    "domains": "actor.feral_psychopomp.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!uzs9im0yltz9atsn"
 }

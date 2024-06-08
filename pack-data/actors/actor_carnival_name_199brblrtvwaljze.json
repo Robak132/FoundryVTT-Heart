@@ -5,7 +5,7 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.the_carnival.resources.whatever_they_were_carrying",
+      "name": "actor.carnival.resources.whatever_they_were_carrying",
       "system": {
         "active": true,
         "domain": "misc"
@@ -17,7 +17,7 @@
     },
     {
       "type": "equipment",
-      "name": "actor.the_carnival.equipment.breakable_noise_maker",
+      "name": "actor.carnival.equipment.breakable_noise_maker",
       "system": {
         "die_size": "d6",
         "active": true,
@@ -53,9 +53,9 @@
     },
     {
       "type": "fallout",
-      "name": "actor.the_carnival.fallout.stuck_in_your_head.name",
+      "name": "actor.carnival.fallout.stuck_in_your_head.name",
       "system": {
-        "description": "actor.the_carnival.fallout.stuck_in_your_head.description",
+        "description": "actor.carnival.fallout.stuck_in_your_head.description",
         "active": true,
         "complete": false,
         "type": "minor",
@@ -69,9 +69,9 @@
     },
     {
       "type": "fallout",
-      "name": "actor.the_carnival.fallout.dancer.name",
+      "name": "actor.carnival.fallout.dancer.name",
       "system": {
-        "description": "actor.the_carnival.fallout.dancer.description",
+        "description": "actor.carnival.fallout.dancer.description",
         "active": true,
         "complete": false,
         "type": "major",
@@ -85,9 +85,9 @@
     },
     {
       "type": "fallout",
-      "name": "actor.the_carnival.fallout.damned.name",
+      "name": "actor.carnival.fallout.damned.name",
       "system": {
-        "description": "actor.the_carnival.fallout.damned.description",
+        "description": "actor.carnival.fallout.damned.description",
         "active": true,
         "complete": false,
         "type": "critical",
@@ -100,23 +100,23 @@
       "_key": "!actors.items!199brblrtvwaljze.ChPAlutQhj0PK9Uy"
     }
   ],
-  "name": "actor.the_carnival.name",
+  "name": "actor.carnival.name",
   "system": {
-    "names": "actor.the_carnival.names",
-    "description": "actor.the_carnival.description",
-    "descriptors": "actor.the_carnival.descriptors",
-    "motivation": "actor.the_carnival.motivation",
-    "difficulty": "actor.the_carnival.difficulty",
+    "names": "actor.carnival.names",
+    "description": "actor.carnival.description",
+    "descriptors": "actor.carnival.descriptors",
+    "motivation": "actor.carnival.motivation",
+    "difficulty": "actor.carnival.difficulty",
     "resistance": "",
     "resistanceDesc": "",
     "resistanceMax": 4,
     "protection": 0,
     "protectionDesc": "",
-    "resources": "actor.the_carnival.resources.description",
-    "equipment": "actor.the_carnival.equipment.description",
-    "special": "actor.the_carnival.special",
+    "resources": "",
+    "equipment": "actor.carnival.equipment.description",
+    "special": "actor.carnival.special",
     "notes": "",
-    "domains": "actor.the_carnival.domains"
+    "domains": "actor.carnival.domains"
   },
   "effects": [],
   "flags": {},

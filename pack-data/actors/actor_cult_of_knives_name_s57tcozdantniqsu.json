@@ -1,0 +1,38 @@
+{
+  "type": "adversary",
+  "img": "systems/heart/assets/high-punch.svg",
+  "_id": "s57tcozdantniqsu",
+  "items": [
+    {
+      "type": "equipment",
+      "name": "actor.cult_of_knives.equipment.upwards_of_13_knives",
+      "system": {
+        "active": true,
+        "description": "actor.cult_of_knives.equipment.upwards_of_13_knives.description"
+      },
+      "_id": "b3eu1z0shzbuk3xf",
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "_key": "!actors.items!s57tcozdantniqsu.b3eu1z0shzbuk3xf"
+    }
+  ],
+  "name": "actor.cult_of_knives.name",
+  "system": {
+    "names": "actor.cult_of_knives.names",
+    "description": "actor.cult_of_knives.description",
+    "descriptors": "actor.cult_of_knives.descriptors",
+    "motivation": "actor.cult_of_knives.motivation",
+    "difficulty": "actor.cult_of_knives.difficulty",
+    "resistance": "",
+    "resistanceMax": "12",
+    "protection": 0,
+    "resources": "actor.cult_of_knives.resources.description",
+    "equipment": "",
+    "special": "actor.cult_of_knives.special",
+    "notes": "",
+    "domains": "actor.cult_of_knives.domains"
+  },
+  "effects": [],
+  "flags": {},
+  "_key": "!actors!s57tcozdantniqsu"
+}

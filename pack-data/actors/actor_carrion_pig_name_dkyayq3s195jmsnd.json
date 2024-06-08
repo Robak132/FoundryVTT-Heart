@@ -22,7 +22,7 @@
     },
     {
       "type": "equipment",
-      "name": "actor.carrion_pig.crushing_body_and_champing_jaws",
+      "name": "actor.carrion_pig.equipment.crushing_body_and_champing_jaws",
       "system": {
         "die_size": "d8",
         "description": "",

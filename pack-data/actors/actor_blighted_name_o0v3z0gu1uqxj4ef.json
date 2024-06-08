@@ -1,6 +1,6 @@
 {
   "type": "adversary",
-  "img": "systems/heart/assets/art/the_blighted.png",
+  "img": "systems/heart/assets/art/blighted.png",
   "_id": "o0v3z0gu1uqxj4ef",
   "items": [
     {
@@ -91,22 +91,22 @@
       "_key": "!actors.items!o0v3z0gu1uqxj4ef.kCZ6pGjON2mDzUpc"
     }
   ],
-  "name": "actor.the_blighted.name",
+  "name": "actor.blighted.name",
   "system": {
-    "names": "actor.the_blighted.names",
-    "description": "actor.the_blighted.description",
-    "descriptors": "actor.the_blighted.descriptors",
-    "motivation": "actor.the_blighted.motivation",
-    "difficulty": "actor.the_blighted.difficulty",
+    "names": "actor.blighted.names",
+    "description": "actor.blighted.description",
+    "descriptors": "actor.blighted.descriptors",
+    "motivation": "actor.blighted.motivation",
+    "difficulty": "actor.blighted.difficulty",
     "resistance": "",
     "resistanceMax": "10",
     "protection": "",
-    "protectionDesc": "actor.the_blighted.equipment.protectionDesc",
+    "protectionDesc": "actor.blighted.equipment.protectionDesc",
     "resources": "",
     "equipment": "",
-    "special": "actor.the_blighted.special",
+    "special": "actor.blighted.special",
     "notes": "",
-    "domains": "actor.the_blighted.domains"
+    "domains": "actor.blighted.domains"
   },
   "flags": {},
   "effects": [],

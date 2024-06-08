@@ -5,41 +5,61 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.flightless_owl_hive.resources",
+      "name": "actor.flightless_owl_hive.resources.assorted_owl_bones",
       "system": {
-        "active": true
+        "die_size": "d4",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": "occult"
       },
       "_id": "u26192k42qpr75pr",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!ag1ol73d9ph3i379.u26192k42qpr75pr"
     },
     {
       "type": "equipment",
-      "name": "actor.flightless_owl_hive.equipment",
+      "name": "actor.flightless_owl_hive.equipment.beaks_and_claws",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {},
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "2esprvu8fijoyjne",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!ag1ol73d9ph3i379.2esprvu8fijoyjne"
     }
   ],
   "name": "actor.flightless_owl_hive.name",
   "system": {
-    "description": "actor.flightless_owl_hive.description",
     "names": "actor.flightless_owl_hive.names",
+    "description": "actor.flightless_owl_hive.description",
     "descriptors": "actor.flightless_owl_hive.descriptors",
     "motivation": "actor.flightless_owl_hive.motivation",
     "difficulty": "actor.flightless_owl_hive.difficulty",
-    "resistanceMax": 3,
+    "resistance": "",
+    "resistanceDesc": "",
+    "resistanceMax": "3",
     "protection": 0,
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "",
-    "domains": "actor.flightless_owl_hive.domains",
-    "resources": "actor.flightless_owl_hive.resources.description",
-    "equipment": "actor.flightless_owl_hive.equipment.description"
+    "notes": "",
+    "domains": "actor.flightless_owl_hive.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!ag1ol73d9ph3i379"
 }

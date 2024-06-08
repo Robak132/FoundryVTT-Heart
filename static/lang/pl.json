@@ -1958,7 +1958,7 @@
                 "domains": "Religia, Okultyzm",
                 "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting",
                 "equipment": {
-                    "simple_work_tools_or_repurposed_ritual_items": "Proste narzędzia lub przerobione przedmioty rytualne",
+                    "simple_work_tools_or_repurposed_ritual_items": "Proste narzędzia lub przerobione przedmioty rytualne"
                 },
                 "resources": {
                     "unhallowed_relics": "Przeklęte relikwie"
@@ -2074,7 +2074,7 @@
                 "names": "Ser Ethelren, Ser Fenswith,Lady Arablast",
                 "motivation": "Słuchać ciekawych historii i brutalnie mordować każdego, kto spróbuje ukraść im sok."
             },
-            "the_blighted": {
+            "blighted": {
                 "name": "Zarażony",
                 "equipment": {
                     "impaling_branches": "Przebijające gałęzie"
@@ -2101,7 +2101,7 @@
                 "motivation": "Zabierać pieniądze lub kosztowności ludziom korzystającym z tuneli, by wyemigrować do Miasta Powyżej. Są jednak hałaśliwi i niepewni siebie, więc niektórzy wykorzystują każdą okazję, by udowodnić swoje okrucieństwo i wyższość nad innymi.",
                 "names": "Jonjak, Pentekost, Mataline"
             },
-            "the_cult_of_knives": {
+            "cult_of_knives": {
                 "difficulty": "Ryzykowny",
                 "resources": {
                     "barely_anything": "Prawie nic istotnego, chociaż może uda ci się sprzedać noże.",
@@ -2255,7 +2255,7 @@
                 "special": "Bez dostępu do zakazanych Rytuałów Wygaszania zabicie Czerwonego Świętego jest niemożliwe, a te może posiadać Kościół Księżyca Poniżej. Bez rytuałów, możesz jedynie go obezwładnić, ale jego rany uleczą się w ciągu paru minut.",
                 "names": "Święty Hellisent, Święta Magdalena, Święty Prothadeus"
             },
-            "the_carnival": {
+            "carnival": {
                 "name": "Karnawał",
                 "difficulty": "Standardowy",
                 "domains": "Schronienie, Odludzie",
@@ -2292,7 +2292,7 @@
                     }
                 }
             },
-            "the_walking_wounded": {
+            "walking_wounded": {
                 "domains": "Klątwa, Odludzie",
                 "protectionDesc": "4 za każdego \"ocalałego\" członka oddziału; większość oddziałów ma około 20 odporności.",
                 "equipment": {
