@@ -6,7 +6,9 @@
     "active": false,
     "complete": false,
     "type": "critical",
-    "resistance": "mind"
+    "resistances": [
+      "mind"
+    ]
   },
   "effects": [],
   "img": "icons/svg/item-bag.svg",

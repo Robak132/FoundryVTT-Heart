@@ -8,7 +8,7 @@
       "name": "actor.carnival.resources.whatever_they_were_carrying",
       "system": {
         "active": true,
-        "domain": "misc"
+        "domain": []
       },
       "_id": "jbf7ny03vkxtufdj",
       "img": "systems/heart/assets/ore.svg",
@@ -59,7 +59,9 @@
         "active": true,
         "complete": false,
         "type": "minor",
-        "resistance": "mind"
+        "resistances": [
+          "mind"
+        ]
       },
       "_id": "fICa2bM1vtCDl2oz",
       "img": "systems/heart/assets/fallout-shelter.svg",
@@ -75,7 +77,9 @@
         "active": true,
         "complete": false,
         "type": "major",
-        "resistance": "mind"
+        "resistances": [
+          "mind"
+        ]
       },
       "_id": "XVmKX70NlmGq7WqV",
       "img": "systems/heart/assets/fallout-shelter.svg",
@@ -91,7 +95,9 @@
         "active": true,
         "complete": false,
         "type": "critical",
-        "resistance": "mind"
+        "resistances": [
+          "mind"
+        ]
       },
       "_id": "ChPAlutQhj0PK9Uy",
       "img": "systems/heart/assets/fallout-shelter.svg",

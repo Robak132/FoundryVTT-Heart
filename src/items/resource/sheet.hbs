@@ -1,20 +1,19 @@
 {{#> "heart:items/base/sheet.hbs" type="resource"}}
-<div class="grid-2 auto-first-col">
-
-    <label>
-        {{localizeHeart "domain.single"}}
-    </label>
-    {{#if editable}}
-        <select name="system.domain">
-            {{selectOptions domains selected=system.domain}}
-        </select>
-    {{else}}
-        {{localizeHeart "domain" system.domain}}
-    {{/if}}
+<div class="equipment resistances red">
+    {{#with (getHeartDomains) as |domain|}}
+        {{#each domain}}
+            <div style="width: 25%">
+                <h3>{{localizeHeart "domain" this}}</h3>
+                <div data-target='system.domain' data-value="{{this}}">
+                    {{{ordered-checkable (includes ../../system.domain this) 1}}}
+                </div>
+            </div>
+        {{/each}}
+    {{/with}}
 </div>
-
 <div>
     <h2>
+        <span class="fas fa-tag"></span>
         {{localizeHeart "tag.multiple"}}
         {{#if user.isGM }}
         <a class="right" data-action="add-child" data-type="tag"><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>

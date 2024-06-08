@@ -10,6 +10,10 @@
         "name": "class.hound.resource.bottle_of_rotgut_liquor",
         "system": {
           "active": true,
+          "die_size": "d6",
+          "domain": [
+            "haven"
+          ],
           "children": {}
         }
       },

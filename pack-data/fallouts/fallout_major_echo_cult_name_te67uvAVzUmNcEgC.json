@@ -6,7 +6,9 @@
     "active": false,
     "complete": false,
     "type": "major",
-    "resistance": "echo"
+    "resistances": [
+      "echo"
+    ]
   },
   "effects": [],
   "img": "icons/svg/item-bag.svg",

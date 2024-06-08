@@ -12,7 +12,9 @@
         "children": {},
         "active": true,
         "complete": false,
-        "domain": "occult"
+        "domain": [
+          "occult"
+        ]
       },
       "_id": "u26192k42qpr75pr",
       "img": "systems/heart/assets/ore.svg",

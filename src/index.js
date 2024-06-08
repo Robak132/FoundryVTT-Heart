@@ -89,7 +89,7 @@ function initialise() {
         difficulties: ['standard', 'risky', 'dangerous', 'impossible'],
         resistances: ['blood', 'mind', 'echo', 'fortune', 'supplies'],
         skills: ['compel', 'delve', 'discern', 'endure', 'evade', 'hunt', 'kill', 'mend', 'sneak'],
-        domains: ['misc', 'cursed', 'desolate', 'haven', 'occult', 'religion', 'technology', 'warren', 'wild'],
+        domains: ['cursed', 'desolate', 'haven', 'occult', 'religion', 'technology', 'warren', 'wild'],
         stress_dice: ['d4', 'd6', 'd8', 'd10', 'd12'],
         die_sizes: ['d4', 'd6', 'd8', 'd10', 'd12'],
     };
@@ -164,6 +164,15 @@ function initialise() {
 
     Handlebars.registerHelper('getHeartResistances', function () {
       return game.heart.resistances;
+    });
+
+    Handlebars.registerHelper('getHeartDomains', function () {
+        return game.heart.domains;
+    });
+
+    Handlebars.registerHelper('localizeListHeart', function (separator, prefix, list) {
+        let localizedList = list.map(item => localizeHeart(`${prefix}.${item}`))
+        return localizedList.join(separator);
     });
 
     function localizeHeart(...args) {

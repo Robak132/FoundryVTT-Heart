@@ -12,7 +12,9 @@
         "children": {},
         "active": true,
         "complete": false,
-        "domain": "religion"
+        "domain": [
+          "religion"
+        ]
       },
       "_id": "16xbxtlnv5moijes",
       "img": "systems/heart/assets/ore.svg",
@@ -65,7 +67,9 @@
         "active": true,
         "complete": false,
         "type": "minor",
-        "resistance": "blood"
+        "resistances": [
+          "blood"
+        ]
       },
       "_id": "Y4na8c9sDcRVVH5q",
       "img": "systems/heart/assets/fallout-shelter.svg",

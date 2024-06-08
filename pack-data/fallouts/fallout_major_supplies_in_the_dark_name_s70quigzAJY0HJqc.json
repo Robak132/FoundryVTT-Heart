@@ -6,7 +6,9 @@
     "active": false,
     "complete": false,
     "type": "major",
-    "resistance": "supplies"
+    "resistances": [
+      "supplies"
+    ]
   },
   "effects": [],
   "img": "systems/heart/assets/fallout-shelter.svg",

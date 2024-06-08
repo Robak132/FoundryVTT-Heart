@@ -4,26 +4,113 @@
   "_id": "00v830dn0yby4awt",
   "items": [
     {
-      "type": "resource",
-      "name": "actor.ghost.resources",
-      "system": {
-        "active": true
-      },
-      "_id": "y088o5or15byvzk3",
-      "img": "systems/heart/assets/ore.svg",
-      "effects": [],
-      "_key": "!actors.items!00v830dn0yby4awt.y088o5or15byvzk3"
-    },
-    {
       "type": "equipment",
-      "name": "actor.ghost.equipment",
+      "name": "actor.ghost.equipment.spectral_claw",
       "system": {
-        "active": true
+        "die_size": "d4",
+        "description": "",
+        "active": true,
+        "children": {
+          "5AqpAu8Vpjb6UtGs": {
+            "name": "tag.piercing.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.piercing.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "5AqpAu8Vpjb6UtGs",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.QwD6r9FqyhMmp7SJ"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "i8bzbf1i3ldqyun3",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!00v830dn0yby4awt.i8bzbf1i3ldqyun3"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.ghost.equipment.otherworldly_phenomena",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {
+          "gNxRZlSVXpUq6rUt": {
+            "name": "tag.spread.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.spread.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "gNxRZlSVXpUq6rUt",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.1NyxCv6YzhWNt3a6"
+              }
+            }
+          },
+          "L2TRRGcTAUWKg8Kd": {
+            "name": "tag.one_shot.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.one_shot.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "L2TRRGcTAUWKg8Kd",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.IvSI5IufmZsa8NnU"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
+      },
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "Q32ZdZGwjZyT3ALA",
+      "_key": "!actors.items!00v830dn0yby4awt.Q32ZdZGwjZyT3ALA"
+    },
+    {
+      "type": "fallout",
+      "name": "actor.ghost.fallout.possessed.name",
+      "system": {
+        "description": "actor.ghost.fallout.possessed.description",
+        "active": true,
+        "complete": false,
+        "type": "major",
+        "resistances": [
+          "mind",
+          "echo"
+        ]
+      },
+      "_id": "ujcK77F8gWSUvsvt",
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!00v830dn0yby4awt.ujcK77F8gWSUvsvt"
     }
   ],
   "name": "actor.ghost.name",
@@ -34,10 +121,12 @@
     "motivation": "actor.ghost.motivation",
     "difficulty": "actor.ghost.difficulty",
     "resistance": "",
+    "resistanceDesc": "",
     "resistanceMax": "5",
     "protection": "",
+    "protectionDesc": "",
     "resources": "actor.ghost.resources.description",
-    "equipment": "actor.ghost.equipment.description",
+    "equipment": "",
     "special": "actor.ghost.special",
     "notes": "",
     "domains": "actor.ghost.domains"

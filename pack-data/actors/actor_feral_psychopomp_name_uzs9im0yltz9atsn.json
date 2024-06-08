@@ -12,7 +12,10 @@
         "children": {},
         "active": true,
         "complete": false,
-        "domain": "religion"
+        "domain": [
+          "religion",
+          "occult"
+        ]
       },
       "_id": "1u322n64kfs6vfpt",
       "img": "systems/heart/assets/ore.svg",

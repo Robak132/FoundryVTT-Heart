@@ -6,7 +6,9 @@
     "active": false,
     "complete": false,
     "type": "major",
-    "resistance": "fortune"
+    "resistances": [
+      "fortune"
+    ]
   },
   "effects": [],
   "img": "icons/svg/item-bag.svg",

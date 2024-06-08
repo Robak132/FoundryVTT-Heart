@@ -11,7 +11,9 @@
         "system": {
           "active": true,
           "die_size": "d6",
-          "domain": "occult",
+          "domain": [
+            "occult"
+          ],
           "children": {
             "10xy8e6lw8bgcyxb": {
               "_id": "10xy8e6lw8bgcyxb",

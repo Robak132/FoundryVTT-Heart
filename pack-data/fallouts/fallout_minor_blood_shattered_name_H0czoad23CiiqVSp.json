@@ -6,7 +6,10 @@
     "active": false,
     "complete": false,
     "type": "minor",
-    "resistance": "blood"
+    "resistances": [
+      "blood",
+      "supplies"
+    ]
   },
   "effects": [],
   "img": "icons/svg/item-bag.svg",

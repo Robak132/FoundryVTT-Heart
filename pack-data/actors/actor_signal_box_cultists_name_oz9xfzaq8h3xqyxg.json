@@ -33,7 +33,9 @@
         "active": true,
         "complete": false,
         "type": "minor",
-        "resistance": "blood"
+        "resistances": [
+          "blood"
+        ]
       },
       "_id": "AlnuhgbWi9bIacYx",
       "img": "systems/heart/assets/fallout-shelter.svg",

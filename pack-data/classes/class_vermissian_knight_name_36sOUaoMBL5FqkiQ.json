@@ -11,7 +11,9 @@
         "system": {
           "active": true,
           "die_size": "d6",
-          "domain": "technology",
+          "domain": [
+            "technology"
+          ],
           "children": {}
         }
       },

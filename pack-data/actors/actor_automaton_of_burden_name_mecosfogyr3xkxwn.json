@@ -12,7 +12,9 @@
         "children": {},
         "active": true,
         "complete": false,
-        "domain": "occult"
+        "domain": [
+          "occult"
+        ]
       },
       "_id": "rek8pk3yr9oudocu",
       "img": "systems/heart/assets/ore.svg",
@@ -48,7 +50,9 @@
         "children": {},
         "active": true,
         "complete": false,
-        "domain": "technology"
+        "domain": [
+          "technology"
+        ]
       },
       "img": "systems/heart/assets/ore.svg",
       "_id": "57UKKZFLZzLLKhQk",

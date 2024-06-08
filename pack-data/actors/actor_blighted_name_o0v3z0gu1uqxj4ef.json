@@ -28,7 +28,9 @@
         },
         "active": true,
         "complete": false,
-        "domain": "cursed"
+        "domain": [
+          "cursed"
+        ]
       },
       "_id": "ff1gxi9d99vh0w1d",
       "img": "systems/heart/assets/ore.svg",
@@ -65,24 +67,10 @@
         "children": {},
         "active": true,
         "complete": false,
-        "domain": "haven"
-      },
-      "img": "systems/heart/assets/ore.svg",
-      "flags": {},
-      "_id": "8XzxCjuOTkpEl7BA",
-      "effects": [],
-      "_key": "!actors.items!o0v3z0gu1uqxj4ef.8XzxCjuOTkpEl7BA"
-    },
-    {
-      "type": "resource",
-      "name": "Assorted equipment and bones from its kills",
-      "system": {
-        "die_size": "d6",
-        "description": "",
-        "children": {},
-        "active": true,
-        "complete": false,
-        "domain": "wild"
+        "domain": [
+          "haven",
+          "wild"
+        ]
       },
       "img": "systems/heart/assets/ore.svg",
       "flags": {},

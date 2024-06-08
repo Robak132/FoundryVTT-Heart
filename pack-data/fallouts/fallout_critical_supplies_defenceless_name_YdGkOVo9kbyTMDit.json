@@ -6,7 +6,9 @@
     "active": false,
     "complete": false,
     "type": "critical",
-    "resistance": "supplies"
+    "resistances": [
+      "supplies"
+    ]
   },
   "effects": [],
   "img": "icons/svg/item-bag.svg",

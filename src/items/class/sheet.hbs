@@ -58,7 +58,7 @@
             
             {{#if user.isGM }}
             {{/if}}
-          <a class="right" data-action="add-child" data-type="resource" data-data='{"name": "New Resource", "domain": "cursed", "active": true}'><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>
+          <a class="right" data-action="add-child" data-type="resource" data-data='{"name": "New Resource", "domain": [], "active": true}'><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>
         </div>
         <div class="wide">
         </div>
@@ -86,7 +86,7 @@
                     {{/each}}
                     {{#if ../user.isGM }}
                     <div class="flexcol">
-                        <a class="right" data-action="add-child" data-type="equipment" data-data='{"name": "New Resource", "domain": "cursed", "group": "{{groupId}}"}'><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>
+                        <a class="right" data-action="add-child" data-type="equipment" data-data='{"name": "New Resource", "domain": [], "group": "{{groupId}}"}'><span class="fas fa-plus"></span> {{localizeHeart "add"}}</a>
                         <a class="right" data-action="delete-equipment-group"><span class="fas fa-trash"></span> {{localizeHeart "delete-equipment-group"}}</a>
                     </div>
                     {{/if}}

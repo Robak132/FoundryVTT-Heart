@@ -5,41 +5,252 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.gnoll_incursion_team.resources",
+      "name": "actor.gnoll_incursion_team.resources.arcanotechnological_detritus",
       "system": {
-        "active": true
+        "die_size": "d10",
+        "description": "",
+        "children": {
+          "Jqz6MpPuuP2bSe1S": {
+            "name": "tag.dangerous.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.dangerous.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "Jqz6MpPuuP2bSe1S",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.2LSFSsVUiorlh64y"
+              }
+            }
+          }
+        },
+        "active": true,
+        "complete": false,
+        "domain": [
+          "technology",
+          "occult"
+        ]
       },
       "_id": "pmbjpi4hn3qxkhkt",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!uvyr0qf4b8dwoecb.pmbjpi4hn3qxkhkt"
     },
     {
       "type": "equipment",
-      "name": "actor.gnoll_incursion_team.equipment",
+      "name": "actor.gnoll_incursion_team.equipment.gilded_shotcannon",
       "system": {
-        "active": true
+        "die_size": "d8",
+        "description": "",
+        "active": true,
+        "children": {
+          "3DaWIOZdyIsyQrjx": {
+            "name": "tag.point_blank.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.point_blank.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "3DaWIOZdyIsyQrjx",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.wBbywunrJX2kv7O7"
+              }
+            }
+          },
+          "yrVBj1R63fFMjOJ3": {
+            "name": "tag.reload.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.reload.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "yrVBj1R63fFMjOJ3",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.lL3kAIeTvMrTQNp0"
+              }
+            }
+          },
+          "my3sDJi0UjtH0kHX": {
+            "name": "tag.expensive.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.expensive.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "my3sDJi0UjtH0kHX",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.UUMzjvGGlxLEZYaV"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "gbtyzmepgthcw81x",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!uvyr0qf4b8dwoecb.gbtyzmepgthcw81x"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.gnoll_incursion_team.equipment.prey_hook",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {
+          "hBtmxZlmmmA3ZEp6": {
+            "name": "tag.debilitating.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.debilitating.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "hBtmxZlmmmA3ZEp6",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.NyhIHOYIwsbqwpKm"
+              }
+            }
+          },
+          "RY1S4JZhEZGzYbQS": {
+            "name": "tag.ranged.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.ranged.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "RY1S4JZhEZGzYbQS",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.rZrU1P1jMqp2lYnu"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
+      },
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "ioNHHSizLlmfnwvo",
+      "_key": "!actors.items!uvyr0qf4b8dwoecb.ioNHHSizLlmfnwvo"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.gnoll_incursion_team.equipment.arcanochemical_bombs",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {
+          "iUNH6aEvZu3lomVM": {
+            "name": "tag.ranged.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.ranged.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "iUNH6aEvZu3lomVM",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.rZrU1P1jMqp2lYnu"
+              }
+            }
+          },
+          "jAJsrLV20Tq1oSIt": {
+            "name": "tag.spread.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.spread.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "jAJsrLV20Tq1oSIt",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.1NyxCv6YzhWNt3a6"
+              }
+            }
+          },
+          "cce9EUGP8FBFxLWc": {
+            "name": "tag.one_shot.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.one_shot.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "cce9EUGP8FBFxLWc",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.IvSI5IufmZsa8NnU"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
+      },
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "rRZX4j9fhww1xdNa",
+      "_key": "!actors.items!uvyr0qf4b8dwoecb.rRZX4j9fhww1xdNa"
     }
   ],
   "name": "actor.gnoll_incursion_team.name",
   "system": {
-    "description": "actor.gnoll_incursion_team.description",
     "names": "actor.gnoll_incursion_team.names",
+    "description": "actor.gnoll_incursion_team.description",
     "descriptors": "actor.gnoll_incursion_team.descriptors",
     "motivation": "actor.gnoll_incursion_team.motivation",
     "difficulty": "actor.gnoll_incursion_team.difficulty",
-    "resistanceMax": 5,
+    "resistance": "",
+    "resistanceDesc": "",
+    "resistanceMax": "5",
     "protection": 2,
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "",
-    "domains": "actor.gnoll_incursion_team.domains",
-    "resources": "actor.gnoll_incursion_team.resources.description",
-    "equipment": "actor.gnoll_incursion_team.equipment.description"
+    "notes": "",
+    "domains": "actor.gnoll_incursion_team.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!uvyr0qf4b8dwoecb"
 }

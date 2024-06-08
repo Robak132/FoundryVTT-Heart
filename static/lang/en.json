@@ -1886,7 +1886,7 @@
                 },
                 "fallout": {
                     "beast_form.name": "Beast Form",
-                    "beast_form.description": "The druids channel the twisting power&nbsp;of nature within their bodies and transform&nbsp;into lank, pallid cave-creatures. Their protection increases to 3, and their unarmed damage&nbsp;increases to D8."
+                    "beast_form.description": "The druids channel the twisting power of nature within their bodies and transform into lank, pallid cave-creatures. Their protection increases to 3, and their unarmed damage increases to D8."
                 },
                 "names": "Rhoz, Thorne, Pitch",
                 "domains": "Wild"
@@ -1962,11 +1962,15 @@
                 "motivation": "It differs from ghost to ghost, but most are caught between abject loneliness and directionless rage.",
                 "difficulty": "If you can see them properly, Standard; otherwise, Risky. A character who can see can aid another who can’t.",
                 "resources": {
-                    "nothing_of_import": "Nothing of import",
                     "description": "Nothing of import"
                 },
                 "equipment": {
-                    "spectral_claw": "Spectral claw"
+                    "spectral_claw": "Spectral claw",
+                    "otherworldly_phenomena": "Otherworldly phenomena"
+                },
+                "fallout": {
+                    "possessed.name": "Possessed",
+                    "possessed.description": "You are possessed by a ghost and your body becomes a grim marionette. Until the end of the current situation you are trapped as a passenger behind your eyes, and the ghost has full control over your actions."
                 },
                 "special": "Consuming an appropriate resource with the OCCULT or RELIGION tags and a value of D6 or greater allows a character to ignore the ghosts’ protection value until the end of the situation (e.g. anointing your hammer with holy water, wrapping prayer flags around your fists, scattering sacred salt). Researching the specific item needed to affect a specific ghost allows the character to ignore the ghosts’ protection value and increases their stress inflicted by two steps (e.g. etching the ghost’s suicide note into your sword, wrapping their late husband’s hair around your wrists, trapping them in a room by pouring dirt from their grave into the keyholes).",
                 "names": "Old-fashioned names like Enriette, Gregorious, Burrage.",
@@ -1986,9 +1990,8 @@
                     "gilded_shotcannon": "Gilded shotcannon",
                     "prey_hook": "Prey-Hook",
                     "arcanochemical_bombs": "Arcanochemical bombs",
-                    "description": "Gilded shotcannon (D8, Point- blank, Reload, Expensive) or Prey-Hook (D6, Debilitating, Ranged); Arcanochemical bombs (D6, Ranged, Spread, One-Shot)."
                 },
-                "names": "A blue-white searchlight stabbing through the darkness, illuminating you but leaving them in shadow; Screwing bulky lenses into place on their visor to observe a heartsblood creature; Tracing circuit- board patterns in blood around a humming battery to recharge it; Reinforcing subdermal shielding and limbic wards.",
+                "names": "Doctor Pitchwood, First Assistant Sareth, Protector Bahram",
                 "domains": "Technology"
             },
             "godbeast": {

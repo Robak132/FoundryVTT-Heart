@@ -1,2 +1,51 @@
-{{#> "heart:items/base/sheet.hbs" type="fallout"}}
-{{/ "heart:items/base/sheet.hbs" }}
+{{#> "heart:common/sheet.hbs" documentName="item" type="fallout"}}
+    <div class="grid-2 auto-first-col place-center" style="flex: auto 0 0">
+    {{#if system.die_size}}
+        <label>
+            {{localizeHeart "dice-size.single"}}
+        </label>
+        {{#if editable}}
+            <select name="system.die_size">
+                {{selectOptions die_sizes selected=system.die_size}}
+            </select>
+
+        {{else}}
+            {{system.die_size}}
+        {{/if}}
+    {{/if}}
+    {{#if item.isOwner }}
+        {{#if (not (undef system.active))}}
+            <label>
+                {{localizeHeart "is-active"}}
+            </label>
+            <input type="checkbox" value="system.active" {{checked system.active}}/>
+        {{/if}}
+
+        {{#if (not (undef system.complete))}}
+            <label>
+                {{localizeHeart "is-complete"}}
+            </label>
+            <input type="checkbox" value="system.complete" {{checked system.complete}}/>
+        {{/if}}
+        <label>
+            {{localizeHeart "level"}}
+        </label>
+        <select name="system.type">
+            {{selectOptions fallout_levels selected=system.type}}
+        </select>
+    {{/if}}
+    </div>
+    <div class="equipment resistances red">
+        {{#with (getHeartResistances) as |resistances|}}
+            {{#each resistances}}
+                <div>
+                    <h3>{{localizeHeart "resistance" this}}</h3>
+                    <div data-target='system.resistances' data-value="{{this}}">
+                        {{{ordered-checkable (includes ../../system.resistances this) 1}}}
+                    </div>
+                </div>
+            {{/each}}
+        {{/with}}
+    </div>
+    {{editor (localizeHeart system.description) target="system.description" button=true editable=editable owner=owner}}
+{{/ "heart:common/sheet.hbs" }}

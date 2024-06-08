@@ -1,5 +1,5 @@
 {{#> "heart:items/base/preview.hbs" }}
-    <h4>{{localizeHeart item.name}} ({{localizeHeart item.system.type}} {{localizeHeart item.system.resistance}})</h4>
+    <h4>{{localizeHeart item.name}} ({{localizeHeart "fallout-level" item.system.type}} {{localizeListHeart '/' 'resistance' item.system.resistances}})</h4>
     <div>
         {{{localizeHeart item.system.description}}}
     </div>

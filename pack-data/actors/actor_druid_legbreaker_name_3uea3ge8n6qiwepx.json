@@ -12,7 +12,9 @@
         "children": {},
         "active": true,
         "complete": false,
-        "domain": "wild"
+        "domain": [
+          "wild"
+        ]
       },
       "_id": "sk28t7a9tgiqhg9j",
       "img": "systems/heart/assets/ore.svg",
@@ -48,7 +50,10 @@
         "active": true,
         "complete": false,
         "type": "minor",
-        "resistance": "blood"
+        "resistances": [
+          "blood",
+          "fortune"
+        ]
       },
       "_id": "H7cvGSgLSul9h6yY",
       "img": "systems/heart/assets/fallout-shelter.svg",

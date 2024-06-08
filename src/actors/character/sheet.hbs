@@ -7,9 +7,11 @@
         {{localizeHeart type "multiple"}}
         {{/if}}
         {{#if actor.isOwner}}
+        {{#if editable}}
         <div class="right">
             <a data-action="add" data-type="{{type}}" data-data='{"active": true}'><span class="fas fa-plus"></span></a>
         </div>
+        {{/if}}
         {{/if}}
     </h2>
 
