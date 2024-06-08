@@ -1989,7 +1989,7 @@
                 "equipment": {
                     "gilded_shotcannon": "Gilded shotcannon",
                     "prey_hook": "Prey-Hook",
-                    "arcanochemical_bombs": "Arcanochemical bombs",
+                    "arcanochemical_bombs": "Arcanochemical bombs"
                 },
                 "names": "Doctor Pitchwood, First Assistant Sareth, Protector Bahram",
                 "domains": "Technology"
@@ -2001,7 +2001,8 @@
                 "motivation": "To protect its young, which may or may not be on the same plane of reality as them.",
                 "difficulty": "Standard. Once below resistance 10, their difficulty increases to Risky.",
                 "resources": {
-                    "pelt": "Pelt"
+                    "pelt.name": "Pelt",
+                    "pelt.description": "Counts as a Mend Blood D6, Block item when worn"
                 },
                 "equipment": {
                     "trampling_hooves_or_gnashing_teeth": "Trampling hooves or gnashing teeth"
@@ -2010,16 +2011,7 @@
                 "domains": "Wild"
             },
             "greater_heartsblood_beast": {
-                "name": "Greater Heartsblood Beast",
-                "resources": {
-                    "meat_and_fur": "Meat and fur",
-                    "curious_and_unique_bones": "Curious and unique bones",
-                    "description": "Often: Meat and fur\nRarely: Curious and unique bones"
-                },
-                "equipment": {
-                    "massive_claws": "Massive claws, jagged teeth, suckered pseudopods"
-                },
-                "domains": "Wild, Warren"
+                "name": "Greater Heartsblood Beast"
             },
             "heartsblood_beast": {
                 "name": "Heartsblood Beast",
@@ -2050,9 +2042,8 @@
                     "occult_gewgaws": "Occult gewgaws at their bower"
                 },
                 "equipment": {
-                    "sharp_things_tied_to_their_beaks_and_claws": {
-                        "description": "Add Brutal when they’re swooping."
-                    }
+                    "sharp_things.name": "Sharp things tied to their beaks and claws",
+                    "sharp_things.description": "Add Brutal when they’re swooping."
                 },
                 "names": "Only those they’ve stolen from people who died nearby",
                 "domains": "Wild, Desolate, Occult"

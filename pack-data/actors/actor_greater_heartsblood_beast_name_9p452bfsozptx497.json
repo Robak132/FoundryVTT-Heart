@@ -5,7 +5,7 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.greater_heartsblood_beast.resources",
+      "name": "actor.heartsblood_beast.resources.curious_and_unique_bones",
       "system": {
         "active": true
       },
@@ -16,7 +16,7 @@
     },
     {
       "type": "equipment",
-      "name": "actor.greater_heartsblood_beast.equipment",
+      "name": "actor.heartsblood_beast.equipment.teeth_and_claws",
       "system": {
         "active": true
       },
@@ -28,19 +28,19 @@
   ],
   "name": "actor.greater_heartsblood_beast.name",
   "system": {
-    "names": "actor.greater_heartsblood_beast.names",
-    "description": "actor.greater_heartsblood_beast.description",
-    "descriptors": "actor.greater_heartsblood_beast.descriptors",
-    "motivation": "actor.greater_heartsblood_beast.motivation",
-    "difficulty": "actor.greater_heartsblood_beast.difficulty",
+    "names": "actor.heartsblood_beast.names",
+    "description": "actor.heartsblood_beast.description",
+    "descriptors": "actor.heartsblood_beast.descriptors",
+    "motivation": "actor.heartsblood_beast.motivation",
+    "difficulty": "actor.heartsblood_beast.difficulty",
     "resistance": "",
     "resistanceMax": "10",
     "protection": 2,
-    "resources": "actor.greater_heartsblood_beast.resources.description",
-    "equipment": "actor.greater_heartsblood_beast.equipment.description",
+    "resources": "actor.heartsblood_beast.resources.description",
+    "equipment": "",
     "special": "",
     "notes": "",
-    "domains": "actor.greater_heartsblood_beast.domains"
+    "domains": "actor.heartsblood_beast.domains"
   },
   "flags": {},
   "effects": [],

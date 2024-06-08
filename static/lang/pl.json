@@ -2028,7 +2028,7 @@
                 "motivation": "Zabieranie ostrych lub błyszczących rzeczy. Jeśli ludzie mają je przy sobie i nie chcą ich oddać, będą próbować ich zabić.",
                 "names": "Tylko te, które ukradli ludziom, którzy zginęli w pobliżu",
                 "equipment": {
-                    "sharp_things_tied_to_their_beaks_and_claws": {
+                    "sharp_things": {
                         "description": "Zyskuje etykietę Brutalny, gdy nurkuje."
                     }
                 },

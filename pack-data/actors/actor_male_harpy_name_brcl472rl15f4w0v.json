@@ -5,41 +5,99 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.male_harpy.resources",
+      "name": "actor.male_harpy.resources.scrap_metal",
       "system": {
-        "active": true
+        "die_size": "d4",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": [
+          "haven"
+        ]
       },
       "_id": "ugkv05sz9c3fuquh",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!brcl472rl15f4w0v.ugkv05sz9c3fuquh"
     },
     {
       "type": "equipment",
-      "name": "actor.male_harpy.equipment",
+      "name": "actor.male_harpy.equipment.sharp_things.name",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "actor.male_harpy.equipment.sharp_things.description",
+        "active": true,
+        "children": {
+          "sAGvDEjVxgm7VFWr": {
+            "name": "tag.brutal.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.brutal.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "sAGvDEjVxgm7VFWr",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.98t7d89d8YnsJaMm"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "z6a830dm7x52dnr9",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!brcl472rl15f4w0v.z6a830dm7x52dnr9"
+    },
+    {
+      "type": "resource",
+      "name": "actor.male_harpy.resources.occult_gewgaws",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": [
+          "occult"
+        ]
+      },
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "OZUDdyNyketRKbJw",
+      "_key": "!actors.items!brcl472rl15f4w0v.OZUDdyNyketRKbJw"
     }
   ],
   "name": "actor.male_harpy.name",
   "system": {
-    "description": "actor.male_harpy.description",
     "names": "actor.male_harpy.names",
+    "description": "actor.male_harpy.description",
     "descriptors": "actor.male_harpy.descriptors",
     "motivation": "actor.male_harpy.motivation",
     "difficulty": "actor.male_harpy.difficulty",
-    "resistanceMax": 4,
+    "resistance": "",
+    "resistanceDesc": "",
+    "resistanceMax": "4",
     "protection": 0,
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "",
-    "domains": "actor.male_harpy.domains",
-    "resources": "actor.male_harpy.resources.description",
-    "equipment": "actor.male_harpy.equipment.description"
+    "notes": "",
+    "domains": "actor.male_harpy.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!brcl472rl15f4w0v"
 }

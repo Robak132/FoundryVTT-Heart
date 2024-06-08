@@ -5,40 +5,95 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.heartsblood_beast.resources",
+      "name": "actor.heartsblood_beast.resources.meat_and_fur",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": []
       },
       "_id": "q4hez5edjjtfph90",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!rcd9si5gas442vld.q4hez5edjjtfph90"
     },
     {
       "type": "equipment",
-      "name": "actor.heartsblood_beast.equipment",
+      "name": "actor.heartsblood_beast.equipment.teeth_and_claws",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {},
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "o7y22t1tdgnnqfkp",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!rcd9si5gas442vld.o7y22t1tdgnnqfkp"
+    },
+    {
+      "type": "resource",
+      "name": "actor.heartsblood_beast.resources.meat_and_fur",
+      "system": {
+        "die_size": "d10",
+        "description": "",
+        "children": {
+          "Ox1mHkAPIit061NW": {
+            "name": "tag.niche.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.niche.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "Ox1mHkAPIit061NW",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.NdthGHytVSEiNHoA"
+              }
+            }
+          }
+        },
+        "active": true,
+        "complete": false,
+        "domain": []
+      },
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "scXgDyqryJdBsTRU",
+      "_key": "!actors.items!rcd9si5gas442vld.scXgDyqryJdBsTRU"
     }
   ],
   "name": "actor.heartsblood_beast.name",
   "system": {
-    "description": "actor.heartsblood_beast.description",
     "names": "actor.heartsblood_beast.names",
+    "description": "actor.heartsblood_beast.description",
     "descriptors": "actor.heartsblood_beast.descriptors",
     "motivation": "actor.heartsblood_beast.motivation",
     "difficulty": "actor.heartsblood_beast.difficulty",
-    "resistanceMax": 5,
-    "special": "",
-    "domains": "actor.heartsblood_beast.domains",
+    "resistance": "",
+    "resistanceDesc": "",
+    "resistanceMax": "5",
+    "protection": "",
+    "protectionDesc": "",
     "resources": "actor.heartsblood_beast.resources.description",
-    "equipment": "actor.heartsblood_beast.equipment.description"
+    "equipment": "",
+    "special": "",
+    "notes": "",
+    "domains": "actor.heartsblood_beast.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!rcd9si5gas442vld"
 }

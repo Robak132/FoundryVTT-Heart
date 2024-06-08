@@ -5,41 +5,81 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.godbeast.resources",
+      "name": "actor.godbeast.resources.pelt.name",
       "system": {
-        "active": true
+        "die_size": "d10",
+        "description": "actor.godbeast.resources.pelt.description",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": [
+          "religion",
+          "wild"
+        ]
       },
       "_id": "431rupfr2p3yvb5u",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!e6va05g1x3j1l7r8.431rupfr2p3yvb5u"
     },
     {
       "type": "equipment",
-      "name": "actor.godbeast.equipment",
+      "name": "actor.godbeast.equipment.trampling_hooves_or_gnashing_teeth",
       "system": {
-        "active": true
+        "die_size": "d8",
+        "description": "",
+        "active": true,
+        "children": {
+          "AQZfoO9Rj0fPfsyd": {
+            "name": "tag.brutal.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.brutal.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "AQZfoO9Rj0fPfsyd",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.98t7d89d8YnsJaMm"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "l5nwqvrr9a7mfp05",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!e6va05g1x3j1l7r8.l5nwqvrr9a7mfp05"
     }
   ],
   "name": "actor.godbeast.name",
   "system": {
-    "description": "actor.godbeast.description",
     "names": "actor.godbeast.names",
+    "description": "actor.godbeast.description",
     "descriptors": "actor.godbeast.descriptors",
     "motivation": "actor.godbeast.motivation",
     "difficulty": "actor.godbeast.difficulty",
-    "resistanceMax": 30,
+    "resistance": "",
+    "resistanceDesc": "",
+    "resistanceMax": "30",
     "protection": 3,
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "",
-    "domains": "actor.godbeast.domains",
-    "resources": "actor.godbeast.resources.description",
-    "equipment": "actor.godbeast.equipment.description"
+    "notes": "",
+    "domains": "actor.godbeast.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!e6va05g1x3j1l7r8"
 }
