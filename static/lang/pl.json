@@ -1958,7 +1958,7 @@
                 "domains": "Religia, Okultyzm",
                 "names": "Vasselin, Solipsus, Autumn-Storms-Curdle-the-Sky-and-We-Are-Found-Wanting",
                 "equipment": {
-                    "simple_work_tools_or_repurposed_ritual_items": "Proste narzędzia lub przerobione przedmioty rytualne"
+                    "simple_work_tools_or_repurposed_ritual_items": "Proste narzędzia lub przerobione przedmioty rytualne",
                 },
                 "resources": {
                     "unhallowed_relics": "Przeklęte relikwie"
@@ -2146,7 +2146,7 @@
                 "difficulty": "Standardowy",
                 "domains": "Dzicz",
                 "resources": {
-                    "ritual_gewgaws_and_tchotchkes_made_of_mushrooms_and_animal_bones": "Rytualne gadżety i bibeloty wykonane z grzybów i zwierzęcych kości"
+                    "ritual_gewgaws": "Rytualne gadżety i bibeloty wykonane z grzybów i zwierzęcych kości"
                 },
                 "equipment": {
                     "sickles": "Sierpy, kilofy i grzybowe haki"
