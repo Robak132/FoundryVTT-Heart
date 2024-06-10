@@ -2022,10 +2022,14 @@
                 "resources": {
                     "meat_and_fur": "Meat and fur",
                     "curious_and_unique_bones": "Curious and unique bones",
-                    "description": "Often: Meat and fur\nRarely: Curious and unique bones"
+                    "description": "<p>Often: Meat and fur</p>\n<p>Rarely: Curious and unique bones</p>"
                 },
                 "equipment": {
                     "teeth_and_claws": "Teeth and claws"
+                },
+                "fallout": {
+                    "companion.name": "Companion",
+                    "companion.description": "Seeing you as a fellow creature of the Heart, the beast comes to your aid. While this might be<br>useful in the short-term (as it defends you from&nbsp;attackers, feeds you from its breast/regurgit‐<br>ates food into your mouth, leads you to safety,&nbsp;etc.) it will be a problem in the long term.<br>Unless you or a friend kills it (and it will be very<br>upset if you try), it will break into havens to kill<br>people and pets,then bring you their mutilated<br>corpses as gifts."
                 },
                 "names": "None that they use themselves, but the townsfolk in the Heart will ascribe titles to particularly infamous beasts: Red-Tooth, Shadow, Fat Jack.",
                 "protectionDesc": "0, usually; 1 if it’s particularly fierce.",
@@ -2055,10 +2059,13 @@
                 "motivation": "To bring heaping bounties to the feet of their splendid and gracious lords.",
                 "difficulty": "Standard",
                 "resources": {
-                    "description": "Often: A few bloodied nail-like coins\nRarely: Something you could use as leverage against their master"
+                    "bloodied_nail_like_coins": "A few bloodied nail-like coins",
+                    "something_you_could_use": "Something you could use as leverage against their master"
                 },
                 "equipment": {
-                    "rusted": "Rusted, jagged blades (D6, Unreliable); one per group will carry either a blessed coin-firing blunderbuss (D6, Point-blank, Spread, One-shot) or a heavy club studded with sacred transactions (D8, Tiring).",
+                    "rusted_blades": "Rusted, jagged blades",
+                    "blessed_coin_firing_blunderbuss": "Blessed coin-firing blunderbuss",
+                    "heavy_club": "Heavy club studded with sacred transactions",
                     "description": "Rusted, jagged blades; one per group will carry either a blessed coin-firing blunderbuss or a heavy club studded with sacred transactions."
                 },
                 "names": "Nux Ab-Crowfer, Quin Ex-Hypatia, Boswell Of-Tennant (Serfs take their master’s given name as their surname, usually with a prefix)",

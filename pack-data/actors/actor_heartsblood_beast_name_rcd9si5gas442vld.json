@@ -73,6 +73,24 @@
       "flags": {},
       "_id": "scXgDyqryJdBsTRU",
       "_key": "!actors.items!rcd9si5gas442vld.scXgDyqryJdBsTRU"
+    },
+    {
+      "type": "fallout",
+      "name": "actor.heartsblood_beast.fallout.companion.name",
+      "system": {
+        "description": "actor.heartsblood_beast.fallout.companion.description",
+        "active": true,
+        "complete": false,
+        "type": "minor",
+        "resistances": [
+          "echo"
+        ]
+      },
+      "_id": "eQwEJUHv4ccE6txC",
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!rcd9si5gas442vld.eQwEJUHv4ccE6txC"
     }
   ],
   "name": "actor.heartsblood_beast.name",

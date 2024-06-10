@@ -5,25 +5,178 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.market_serf.resources",
+      "name": "actor.market_serf.resources.bloodied_nail_like_coins",
       "system": {
-        "active": true
+        "die_size": "d4",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": [
+          "haven"
+        ]
       },
       "_id": "3hj5s6r044p39jym",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!is25hbpkt9a90foh.3hj5s6r044p39jym"
     },
     {
       "type": "equipment",
-      "name": "actor.market_serf.equipment",
+      "name": "actor.market_serf.equipment.rusted_blades",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {
+          "QjwjHHc4fXerv403": {
+            "name": "tag.unreliable.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.unreliable.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "QjwjHHc4fXerv403",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.cOjHP2FxGdNfJmGV"
+              }
+            }
+          }
+        },
+        "resistances": [],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "6ier0v6rast5j284",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!is25hbpkt9a90foh.6ier0v6rast5j284"
+    },
+    {
+      "type": "resource",
+      "name": "actor.market_serf.resources.something_you_could_use",
+      "system": {
+        "die_size": "d10",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": [
+          "religion"
+        ]
+      },
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "ifJQA6T23bG3WHgP",
+      "_key": "!actors.items!is25hbpkt9a90foh.ifJQA6T23bG3WHgP"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.market_serf.equipment.blessed_coin_firing_blunderbuss",
+      "system": {
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {
+          "oObR0utnoIuHx6RA": {
+            "name": "tag.point_blank.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.point_blank.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "oObR0utnoIuHx6RA",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.wBbywunrJX2kv7O7"
+              }
+            }
+          },
+          "knWaikBJzIsHVPNS": {
+            "name": "tag.spread.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.spread.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "knWaikBJzIsHVPNS",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.1NyxCv6YzhWNt3a6"
+              }
+            }
+          },
+          "GGa3XDbfFugkm1FE": {
+            "name": "tag.one_shot.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.one_shot.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "GGa3XDbfFugkm1FE",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.IvSI5IufmZsa8NnU"
+              }
+            }
+          }
+        },
+        "resistances": [],
+        "type": "kill",
+        "group": "core"
+      },
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "d52gkZmo7On5RLIZ",
+      "_key": "!actors.items!is25hbpkt9a90foh.d52gkZmo7On5RLIZ"
+    },
+    {
+      "type": "equipment",
+      "name": "actor.market_serf.equipment.heavy_club",
+      "system": {
+        "die_size": "d8",
+        "description": "",
+        "active": true,
+        "children": {
+          "VbYRM3tg151QQ7Pu": {
+            "name": "tag.tiring.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.tiring.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "VbYRM3tg151QQ7Pu",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.ZrEmXetXIGG0RyuL"
+              }
+            }
+          }
+        },
+        "resistances": [],
+        "type": "kill",
+        "group": "core"
+      },
+      "img": "systems/heart/assets/battle-gear.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "gKl6m62qmR4jHSxG",
+      "_key": "!actors.items!is25hbpkt9a90foh.gKl6m62qmR4jHSxG"
     }
   ],
   "name": "actor.market_serf.name",
@@ -34,8 +187,10 @@
     "motivation": "actor.market_serf.motivation",
     "difficulty": "actor.market_serf.difficulty",
     "resistance": "",
+    "resistanceDesc": "",
     "resistanceMax": "5",
     "protection": "",
+    "protectionDesc": "",
     "resources": "actor.market_serf.resources.description",
     "equipment": "actor.market_serf.equipment.description",
     "special": "",

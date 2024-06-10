@@ -2007,7 +2007,7 @@
             "greater_heartsblood_beast": {
                 "resources": {
                     "meat_and_fur": "Mięso i futro",
-                    "description": "Częste: Mięso i futro\nRzadkie: Ciekawe i unikalne kości",
+                    "description": "<p>Częste: Mięso i futro</p><p>Rzadkie: Ciekawe i unikalne kości</p>",
                     "curious_and_unique_bones": "Ciekawe i unikalne kości"
                 },
                 "name": "Większa Sercokrwista Bestia",
@@ -2020,7 +2020,7 @@
             "male_harpy": {
                 "resources": {
                     "scrap_metal": "Złom",
-                    "occult_gewgaws": "Okultystyczne drobiazgi w ich altanie"
+                    "occult_gewgaws": "Okultystyczne drobiazgi w ich gnieździe"
                 },
                 "name": "Samiec harpii",
                 "domains": "Dzicz, Odludzie, Okultyzm",

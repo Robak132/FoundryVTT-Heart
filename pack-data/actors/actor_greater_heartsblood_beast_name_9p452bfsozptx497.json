@@ -24,6 +24,24 @@
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
       "_key": "!actors.items!9p452bfsozptx497.mn4r7sgmsoxlta8i"
+    },
+    {
+      "type": "fallout",
+      "name": "actor.heartsblood_beast.fallout.companion.name",
+      "system": {
+        "description": "actor.heartsblood_beast.fallout.companion.description",
+        "active": true,
+        "complete": false,
+        "type": "major",
+        "resistances": [
+          "echo"
+        ]
+      },
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "I9mW7ZELR0zliLkJ",
+      "_key": "!actors.items!9p452bfsozptx497.I9mW7ZELR0zliLkJ"
     }
   ],
   "name": "actor.greater_heartsblood_beast.name",
@@ -34,8 +52,10 @@
     "motivation": "actor.heartsblood_beast.motivation",
     "difficulty": "actor.heartsblood_beast.difficulty",
     "resistance": "",
+    "resistanceDesc": "",
     "resistanceMax": "10",
     "protection": 2,
+    "protectionDesc": "",
     "resources": "actor.heartsblood_beast.resources.description",
     "equipment": "",
     "special": "",

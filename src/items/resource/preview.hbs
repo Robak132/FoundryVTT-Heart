@@ -1,7 +1,7 @@
 {{#> "heart:items/base/preview.hbs" showActivate=true showComplete=false}}
     <h4>{{localizeHeart item.name}}</h4>
     <div>
-        {{localizeHeart "resource.single"}}(<a data-action="item-roll"><span class="fas fa-dice"></span> {{item.system.die_size}}</a>
+        {{localizeHeart "resource.single"}} (<a data-action="item-roll"><span class="fas fa-dice"></span> {{item.system.die_size}}</a>
         {{#each item.system.domain}}
             {{localizeHeart "domain" this}}{{#unless @last}}, {{/unless}}
         {{/each}}
