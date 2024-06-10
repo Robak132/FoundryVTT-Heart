@@ -141,8 +141,8 @@
     "protection": 0,
     "protectionDesc": "",
     "resources": "",
-    "equipment": "actor.signal_box_cultists.equipment.description",
-    "special": "actor.signal_box_cultists.special",
+    "equipment": "",
+    "special": "",
     "notes": "",
     "domains": "actor.signal_box_cultists.domains"
   },

@@ -59,10 +59,10 @@
     },
     {
       "type": "resource",
-      "name": "actor.mirror_spiders.resources",
+      "name": "actor.mirror_spiders.resources.miniature_holy_books.name",
       "system": {
         "die_size": "d8",
-        "description": "",
+        "description": "actor.mirror_spiders.resources.miniature_holy_books.description",
         "children": {
           "faxfZ0ysOvR4euoC": {
             "name": "tag.niche.name",
