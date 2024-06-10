@@ -5,25 +5,92 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.red_saint.resources",
+      "name": "actor.red_saint.resources.burning_crown",
       "system": {
-        "active": true
+        "die_size": "d12",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": []
       },
       "_id": "omqigct2cxifsu0l",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!4gpywssbzrad5sow.omqigct2cxifsu0l"
     },
     {
       "type": "equipment",
-      "name": "actor.red_saint.equipment",
+      "name": "actor.red_saint.equipment.rusted_blackiron_blades",
       "system": {
-        "active": true
+        "die_size": "d8",
+        "description": "",
+        "active": true,
+        "children": {
+          "z96jPdJZtVo0R84m": {
+            "name": "tag.brutal.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.brutal.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "z96jPdJZtVo0R84m",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.98t7d89d8YnsJaMm"
+              }
+            }
+          },
+          "syPO3zaCE6CPh6HD": {
+            "name": "tag.tiring.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.tiring.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "syPO3zaCE6CPh6HD",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.ZrEmXetXIGG0RyuL"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "mi8x76rkq4svh3ej",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!4gpywssbzrad5sow.mi8x76rkq4svh3ej"
+    },
+    {
+      "type": "fallout",
+      "name": "actor.red_saint.fallout.awake.name",
+      "system": {
+        "description": "actor.red_saint.fallout.awake.description",
+        "active": true,
+        "complete": false,
+        "type": "minor",
+        "resistances": [
+          "blood",
+          "fortune"
+        ]
+      },
+      "_id": "g2H9z5ESzTrYNScp",
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!4gpywssbzrad5sow.g2H9z5ESzTrYNScp"
     }
   ],
   "name": "actor.red_saint.name",
@@ -34,10 +101,12 @@
     "motivation": "actor.red_saint.motivation",
     "difficulty": "actor.red_saint.difficulty",
     "resistance": "",
+    "resistanceDesc": "",
     "resistanceMax": "16",
     "protection": 2,
-    "resources": "actor.red_saint.resources.description",
-    "equipment": "actor.red_saint.equipment.description",
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "actor.red_saint.special",
     "notes": "",
     "domains": "actor.red_saint.domains"

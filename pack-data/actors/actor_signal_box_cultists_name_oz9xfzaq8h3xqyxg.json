@@ -5,43 +5,127 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.signal_box_cultists.resources",
+      "name": "actor.signal_box_cultists.resources.rusted_machinery",
       "system": {
-        "active": true
+        "die_size": "d8",
+        "description": "",
+        "children": {
+          "oSKWRgfxSieqDyiX": {
+            "name": "tag.niche.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.niche.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "oSKWRgfxSieqDyiX",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.NdthGHytVSEiNHoA"
+              }
+            }
+          }
+        },
+        "active": true,
+        "complete": false,
+        "domain": []
       },
       "_id": "o4b9uoe3t0hicct5",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!oz9xfzaq8h3xqyxg.o4b9uoe3t0hicct5"
     },
     {
       "type": "equipment",
-      "name": "actor.signal_box_cultists.equipment",
+      "name": "actor.signal_box_cultists.equipment.levers",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {
+          "SDOETXETL7rtZS0p": {
+            "name": "tag.tiring.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.tiring.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "SDOETXETL7rtZS0p",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.ZrEmXetXIGG0RyuL"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "hgp8iy3x80j0g50r",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!oz9xfzaq8h3xqyxg.hgp8iy3x80j0g50r"
     },
     {
-      "type": "fallout",
-      "name": "Awake",
+      "type": "equipment",
+      "name": "actor.signal_box_cultists.equipment.fragment_of_true_nature",
       "system": {
-        "description": "The sounds of battle draw the half-asleep saint to full consciousness. Increase its difficulty to Risky and its resistance by 8.",
+        "die_size": "d8",
+        "description": "",
         "active": true,
-        "complete": false,
-        "type": "minor",
+        "children": {
+          "NX13pX5ei1fp0uE0": {
+            "name": "tag.ranged.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.ranged.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "NX13pX5ei1fp0uE0",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.rZrU1P1jMqp2lYnu"
+              }
+            }
+          },
+          "CMz5LUoAa0M66iJ9": {
+            "name": "tag.one_shot.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.one_shot.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "CMz5LUoAa0M66iJ9",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.IvSI5IufmZsa8NnU"
+              }
+            }
+          }
+        },
         "resistances": [
-          "blood"
-        ]
+          "mind"
+        ],
+        "type": "kill",
+        "group": "core"
       },
-      "_id": "AlnuhgbWi9bIacYx",
-      "img": "systems/heart/assets/fallout-shelter.svg",
+      "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
       "flags": {},
-      "_key": "!actors.items!oz9xfzaq8h3xqyxg.AlnuhgbWi9bIacYx"
+      "_id": "wXqfrQEDK9yI5qgO",
+      "_key": "!actors.items!oz9xfzaq8h3xqyxg.wXqfrQEDK9yI5qgO"
     }
   ],
   "name": "actor.signal_box_cultists.name",
@@ -56,7 +140,7 @@
     "resistanceMax": "4",
     "protection": 0,
     "protectionDesc": "",
-    "resources": "actor.signal_box_cultists.resources.description",
+    "resources": "",
     "equipment": "actor.signal_box_cultists.equipment.description",
     "special": "actor.signal_box_cultists.special",
     "notes": "",

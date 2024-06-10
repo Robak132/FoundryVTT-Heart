@@ -5,39 +5,112 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.mirror_spiders.resources",
+      "name": "actor.mirror_spiders.resources.mirror_spider.name",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "actor.mirror_spiders.resources.mirror_spider.description",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": []
       },
       "_id": "yj5ci6vg2g73aj0j",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!wv98y3umpyo0cu4y.yj5ci6vg2g73aj0j"
     },
     {
       "type": "equipment",
-      "name": "actor.mirror_spiders.equipment",
+      "name": "actor.mirror_spiders.equipment.suicide_spiders.name",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "actor.mirror_spiders.equipment.suicide_spiders.description",
+        "active": true,
+        "children": {
+          "HIriWzaMI1AOQZfG": {
+            "name": "tag.piercing.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.piercing.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "HIriWzaMI1AOQZfG",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.QwD6r9FqyhMmp7SJ"
+              }
+            }
+          }
+        },
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "e4qvzfv8yu58ceps",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!wv98y3umpyo0cu4y.e4qvzfv8yu58ceps"
+    },
+    {
+      "type": "resource",
+      "name": "actor.mirror_spiders.resources",
+      "system": {
+        "die_size": "d8",
+        "description": "",
+        "children": {
+          "faxfZ0ysOvR4euoC": {
+            "name": "tag.niche.name",
+            "type": "tag",
+            "system": {
+              "description": "tag.niche.description",
+              "limited_uses": -1
+            },
+            "effects": [],
+            "img": "icons/svg/item-bag.svg",
+            "_id": "faxfZ0ysOvR4euoC",
+            "flags": {
+              "core": {
+                "sourceId": "Compendium.heart.tags.Item.NdthGHytVSEiNHoA"
+              }
+            }
+          }
+        },
+        "active": true,
+        "complete": false,
+        "domain": []
+      },
+      "img": "systems/heart/assets/ore.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "e0zeIARex8JYOtZG",
+      "_key": "!actors.items!wv98y3umpyo0cu4y.e0zeIARex8JYOtZG"
     }
   ],
   "name": "actor.mirror_spiders.name",
   "system": {
-    "description": "actor.mirror_spiders.description",
     "names": "actor.mirror_spiders.names",
+    "description": "actor.mirror_spiders.description",
     "descriptors": "actor.mirror_spiders.descriptors",
     "motivation": "actor.mirror_spiders.motivation",
     "difficulty": "actor.mirror_spiders.difficulty",
+    "resistance": "",
+    "resistanceDesc": "",
+    "resistanceMax": "5",
+    "protection": "",
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "",
-    "domains": "actor.mirror_spiders.domains",
-    "resources": "actor.mirror_spiders.resources.description",
-    "equipment": "actor.mirror_spiders.equipment.description"
+    "notes": "",
+    "domains": "actor.mirror_spiders.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!wv98y3umpyo0cu4y"
 }

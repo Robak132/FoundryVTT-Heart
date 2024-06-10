@@ -5,41 +5,81 @@
   "items": [
     {
       "type": "resource",
-      "name": "actor.pitchkin.resources",
+      "name": "actor.pitchkin.resources.spireblack_reserves",
       "system": {
-        "active": true
+        "die_size": "d8",
+        "description": "",
+        "children": {},
+        "active": true,
+        "complete": false,
+        "domain": [
+          "technology"
+        ]
       },
       "_id": "jp70lklfyp5jo3q3",
       "img": "systems/heart/assets/ore.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!of1gg2ktbcudswx1.jp70lklfyp5jo3q3"
     },
     {
       "type": "equipment",
-      "name": "actor.pitchkin.equipment",
+      "name": "actor.pitchkin.equipment.filthy_teeth_and_claws",
       "system": {
-        "active": true
+        "die_size": "d6",
+        "description": "",
+        "active": true,
+        "children": {},
+        "resistances": [
+          "blood"
+        ],
+        "type": "kill",
+        "group": "core"
       },
       "_id": "qa3s8ke2wt1q3tmy",
       "img": "systems/heart/assets/battle-gear.svg",
       "effects": [],
+      "flags": {},
       "_key": "!actors.items!of1gg2ktbcudswx1.qa3s8ke2wt1q3tmy"
+    },
+    {
+      "type": "fallout",
+      "name": "actor.pitchkin.fallout.explode.name",
+      "system": {
+        "description": "actor.pitchkin.fallout.explode.description",
+        "active": true,
+        "complete": false,
+        "type": "minor",
+        "resistances": [
+          "fortune"
+        ]
+      },
+      "_id": "dEKPCpR9AkMa3Rud",
+      "img": "systems/heart/assets/fallout-shelter.svg",
+      "effects": [],
+      "flags": {},
+      "_key": "!actors.items!of1gg2ktbcudswx1.dEKPCpR9AkMa3Rud"
     }
   ],
   "name": "actor.pitchkin.name",
   "system": {
-    "description": "actor.pitchkin.description",
     "names": "actor.pitchkin.names",
+    "description": "actor.pitchkin.description",
     "descriptors": "actor.pitchkin.descriptors",
     "motivation": "actor.pitchkin.motivation",
     "difficulty": "actor.pitchkin.difficulty",
-    "resistanceMax": 7,
+    "resistance": "",
+    "resistanceDesc": "",
+    "resistanceMax": "7",
     "protection": 0,
+    "protectionDesc": "",
+    "resources": "",
+    "equipment": "",
     "special": "actor.pitchkin.special",
-    "domains": "actor.pitchkin.domains",
-    "resources": "actor.pitchkin.resources.description",
-    "equipment": "actor.pitchkin.equipment.description"
+    "notes": "",
+    "domains": "actor.pitchkin.domains"
   },
   "effects": [],
+  "flags": {},
   "_key": "!actors!of1gg2ktbcudswx1"
 }

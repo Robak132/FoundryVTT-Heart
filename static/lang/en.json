@@ -2079,11 +2079,14 @@
                 "motivation": "To find and consume other mirror spiders. If you can find someone who can speak to them, they’re often willing to bargain.",
                 "difficulty": "Standard",
                 "resources": {
-                    "each_mirror_spider_is_worth_between_a_d6_and_d12_resource": "Each mirror spider is worth between a D6 and D12 resource, depending on the size and complexity of the mirror on their back. The miniature holy books and devotional art pieces are of interest to collectors (D8, Niche) but worthless otherwise.",
-                    "description": "Each mirror spider is worth between a D6 and D12 resource, depending on the size and complexity of the mirror on their back. The miniature holy books and devotional art pieces are of interest to collectors (D8, Niche) but worthless otherwise."
+                    "mirror_spider.name": "Mirror Spider",
+                    "mirror_spider.description": "Each mirror spider is worth between a D6 and D12 resource, depending on the size and complexity of the mirror on their back.",
+                    "miniature_holy_books.name": "Miniature holy books and devotional art pieces",
+                    "miniature_holy_books.description": "The miniature holy books and devotional art pieces are of interest to collectors but worthless otherwise."
                 },
                 "equipment": {
-                    "suicide_spiders_that_crawl_into_armour_and_down_throats": "Suicide Spiders that crawl into armour and down throats (D6, Piercing; each time it’s used, remove 1 resistance from the swarm)."
+                    "suicide_spiders.name": "Suicide Spiders that crawl into armour and down throats",
+                    "suicide_spiders.description": "Each time it’s used, remove 1 resistance from the swarm."
                 },
                 "names": "Each has a fragment of the true name of their original god; the sort of unwritable syllables that leave a bad taste in your mouth and smoke hanging in the air.",
                 "resistanceDesc": "6 per swarm – you can crush any individual member of it without bother.",
@@ -2102,6 +2105,10 @@
                 "equipment": {
                     "filthy_teeth_and_claws": "Filthy teeth and claws"
                 },
+                "fallout": {
+                    "explode.name": "Explode",
+                    "explode.description": "One of<br>the pitchkin that you set alight explodes in a<br>final wet thump. All nearby characters take D6<br>stress (Endure+Cursed to resist)."
+                },
                 "special": "Pitchkin are extremely flammable. Fire inflicts D8 damage minimum when used against them; however, once a pitchkin is on fire, its unarmed damage increases to D8. There is a martyr caste that sets themselves on fire to protect the stocks, but these are rare.",
                 "names": "Each has a word marked on them which they now use as a name in their heavy, sussurating tongue: Vulpine, Wrath, Serrate, Quill.",
                 "domains": "Technology, Cursed"
@@ -2118,19 +2125,26 @@
                 "equipment": {
                     "rusted_blackiron_blades": "Rusted blackiron blades"
                 },
+                "fallout": {
+                    "awake.name": "Awake",
+                    "awake.description": "The sounds of<br>battle draw the half-asleep saint to full consciousness.<br>Increase its difficulty to Risky and its resistance by 8."
+                },
                 "special": "You can’t kill a Red Saint without access to forbidden Rituals of Extinguishing – something that the Church of the Moon Beneath might possess. The worst you can do without is incapacitate them, but their wounds heal in minutes.",
                 "names": "Saint Hellisent, Hallow Magdelene, Hallow Prothadeus",
                 "domains": "Religion, Desolate"
             },
             "signal_box_cultists": {
                 "name": "Signal-Box Cultists",
-                "description": "<p>The Vermissian still has functioning signal-boxes: tiny rooms with mechanisms and lights that stutter into life, attempting to direct a train network that long ago slipped into a parasite dimension. Most of the information they give out is nonsense, and Vermissian Knights steer clear of them with a wariness that borders on superstition. But tunnel-dwellers – the luckless souls who make their homes in the infrastructure – view them as blind oracles that whisper secret truths to those brave enough to listen. The most devoted of these cults guard the signal- boxes, drape themselves in tattered raiments of the Vermissian (mouldering curtains from first-class carriages, rivets hammered into their bodies, implanted glass lenses over their eyes) and offer gibberish wisdom to vagrants in exchange for service or supplies.</p>\n",
+                "description": "<p>The Vermissian still has functioning signal-boxes: tiny rooms with mechanisms and lights that stutter into life, attempting to direct a train network that long ago slipped into a parasite dimension. Most of the information they give out is nonsense, and Vermissian Knights steer clear of them with a wariness that borders on superstition. But tunnel-dwellers – the luckless souls who make their homes in the infrastructure – view them as blind oracles that whisper secret truths to those brave enough to listen. The most devoted of these cults guard the signal- boxes, drape themselves in tattered raiments of the Vermissian (mouldering curtains from first-class carriages, rivets hammered into their bodies, implanted glass lenses over their eyes) and offer gibberish wisdom to vagrants in exchange for service or supplies. There are a wide variety of similar mystery cults\nin the Heart: The Followers of the Midden Mis‐\ntress, The Wretched Galvanic, The Seers of the One\nMoon. Aside from their domain and descriptors,\nthey function identically in mechanical terms.</p>\n",
                 "descriptors": "<ul><li>Limbs reinforced with rusted pistons with weeping sores at the entry points</li>\n<li>Chanting the names of Vermissian stations, some of which exist</li>\n<li>Blind, carrying a legless cultist on their back who directs them</li></ul>",
                 "motivation": "To induct others into the cult, to trade for supplies, or to slit the throat of a Vermissian Knight and have them bleed out over the signal machinery.",
                 "difficulty": "Standard",
+                "resources": {
+                    "rusted_machinery": "Rusted but still-functional machinery"
+                },
                 "equipment": {
-                    "rusted_machinery": "Rusted but still-functional machinery",
-                    "description": "Rusted but still-functional machinery (D8, Niche)"
+                    "levers": "Levers, wrenches and bent rails",
+                    "fragment_of_true_nature": "A fragment of the true nature of the Vermissian"
                 },
                 "special": "Levers, wrenches and bent rails (D6, Tiring); A fragment of the true nature of the Vermissian (D8, Ranged, One-Shot – inflicts Mind stress).",
                 "names": "Haslam, Levier, Forneau",
